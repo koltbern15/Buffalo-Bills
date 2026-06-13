@@ -44,26 +44,40 @@ Two layers, so the page is always fresh:
 - **Ticket prices** — link-outs to Ticketmaster / StubHub / SeatGeek (no free
   price API exists).
 
-## One-time setup (GitHub Pages)
+## Live site
 
-1. Push to `main` (merge the PR).
-2. **Settings → Pages → Build and deployment → Source: GitHub Actions.**
-3. The `Deploy to GitHub Pages` workflow publishes the site; the
-   `Update Bills data` workflow keeps it fresh.
-4. Your site goes live at `https://<user>.github.io/buffalo-bills/`.
+**https://koltbern15.github.io/Buffalo-Bills/**
 
-> The cron workflow commits to `main`, which needs Actions to have write
-> permission (Settings → Actions → General → Workflow permissions →
-> "Read and write permissions"). It's also wired with `permissions: contents: write`.
+> ⚠️ GitHub Pages project URLs are **case-sensitive on the repo name**. The repo
+> is `Buffalo-Bills`, so the lowercase `…/buffalo-bills/` path will 404 — use the
+> capitalized path above.
+
+## Setup notes
+
+- The deploy workflow uses `configure-pages` with `enablement: true`, so it
+  **turns Pages on by itself** — no manual Settings toggle needed.
+- The `Update Bills data` workflow commits fresh snapshots to `main` every 15
+  minutes (wired with `permissions: contents: write`).
+- Because the data-bot commits with the Actions token (which by design does
+  **not** re-trigger workflows), `Deploy to GitHub Pages` also runs on a
+  schedule so the deployed `data/*.json` stays current.
 
 ## Run / develop locally
 
+You don't need to run anything locally to use the site — that's what the live
+URL above is for. Local serving is only for development.
+
 ```bash
-node scripts/fetch-data.js     # refresh the data/*.json snapshots
-python3 -m http.server 8099    # then open http://localhost:8099
+# from inside the cloned repo:
+node scripts/fetch-data.js          # (optional) refresh the data/*.json snapshots
+
+# then serve the folder with any static server:
+python3 -m http.server 8099         # macOS/Linux
+npx --yes http-server -p 8099 -c-1  # Windows (or anywhere Python isn't installed)
 ```
 
-No build step, no dependencies — vanilla HTML/CSS/JS and Node's native `fetch`.
+Then open http://localhost:8099. No build step, no dependencies — vanilla
+HTML/CSS/JS and Node's native `fetch`.
 
 ## Layout
 
