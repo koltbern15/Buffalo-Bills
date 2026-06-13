@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bills Mafia HQ 🦬 — Live Buffalo Bills Hub</title>
+  <meta name="description" content="Live, self-updating Buffalo Bills hub: scores, news, schedule, matchup outlook, injuries, weather, odds, standings and the playoff picture.">
+  <meta name="theme-color" content="#00338d">
+  <link rel="icon" href="https://a.espncdn.com/i/teamlogos/nfl/500/buf.png">
+  <link rel="preconnect" href="https://a.espncdn.com">
+  <link rel="preconnect" href="https://site.api.espn.com">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="#home">
+        <img class="brand-logo" src="https://a.espncdn.com/i/teamlogos/nfl/500/buf.png" alt="Buffalo Bills">
+        <span class="brand-text">BILLS MAFIA <b>HQ</b></span>
+      </a>
+      <div class="topbar-meta">
+        <span id="record-chip" class="record-chip"></span>
+        <span id="live-chip" class="live-chip"></span>
+      </div>
+      <button id="theme-toggle" class="theme-toggle" title="Toggle theme" aria-label="Toggle light/dark">🌓</button>
+    </div>
+    <nav id="tabs" class="tabs" aria-label="Sections"></nav>
+  </header>
+
+  <div id="weather-alert" class="weather-alert" hidden></div>
+
+  <main id="view" class="view"></main>
+
+  <footer class="footer">
+    <p>🦬 <b>Bills Mafia HQ</b> — an unofficial fan hub. Not affiliated with the Buffalo Bills or NFL.</p>
+    <p class="footer-sub">Data: ESPN public API &amp; Open-Meteo · <span id="updated-stamp"></span> · auto-refreshing</p>
+  </footer>
+
+  <script src="assets/js/config.js"></script>
+  <script src="assets/js/util.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

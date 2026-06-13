@@ -1,0 +1,43 @@
+name: Update Bills data
+
+# Keeps the committed JSON snapshots fresh so the page is current even when
+# nobody has it open. The browser also fetches live data directly.
+on:
+  schedule:
+    - cron: '*/15 * * * *' # every 15 minutes
+  workflow_dispatch: {}     # allow manual runs
+  push:
+    branches: [main]
+    paths: ['scripts/fetch-data.js']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch latest data
+        run: node scripts/fetch-data.js
+
+      - name: Commit if changed
+        run: |
+          git config user.name "bills-data-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "chore(data): refresh Bills data snapshot"
+            git push
+          fi
