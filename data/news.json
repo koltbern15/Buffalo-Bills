@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Knicks' victory takes them off the list of longest title droughts",
+      "description": "Before Saturday night, the last time the Knicks won a title was 1973.",
+      "published": "2026-06-14T16:11:10Z",
+      "url": "https://www.espn.com/nba/story/_/id/49054611/longest-title-droughts-nba-finals-mlb-world-series-nfl-super-bowl-nhl-stanley-cup",
+      "image": "https://a.espncdn.com/photo/2026/0614/r1672795_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL players make World Cup predictions, weigh in on USMNT",
       "description": "We asked 29 NFL players to weigh in on who would win the Golden Boot and World Cup and also how the United States would fare.",
       "published": "2026-06-13T13:05:51Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/48609368/bills-hit-reset-button-keon-coleman-feel-best-yet-come",
       "image": "https://a.espncdn.com/photo/2026/0427/r1649954_1296x729_16-9.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "Biggest 2026 NFL postdraft questions for all 32 teams",
-      "description": "The 2026 NFL draft is over, but can the rookies make an impact? We answer lingering questions for all 32 teams.",
-      "published": "2026-04-27T13:43:37Z",
-      "url": "https://www.espn.com/nfl/story/_/page/nfldraftpostdraftquestions48602828/nfl-draft-2026-biggest-postdraft-questions-32-teams-offseason-signings",
-      "image": "https://a.espncdn.com/photo/2026/0426/nfl-post-draft-16x9.jpg",
-      "type": "Story"
     }
   ]
 }
