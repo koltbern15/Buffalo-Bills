@@ -1078,7 +1078,30 @@
     },
     {
       "position": "injuredReserveOrOut",
-      "items": []
+      "items": [
+        {
+          "id": "5089535",
+          "name": "Desmond Reid",
+          "position": "RB",
+          "height": "5' 8\"",
+          "weight": "175 lbs",
+          "experience": 0,
+          "college": "Syracuse",
+          "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5089535.png"
+        },
+        {
+          "id": "4568703",
+          "name": "Dorian Strong",
+          "jersey": "43",
+          "position": "CB",
+          "age": 24,
+          "height": "6' 1\"",
+          "weight": "185 lbs",
+          "experience": 2,
+          "college": "Virginia Tech",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568703.png"
+        }
+      ]
     },
     {
       "position": "suspended",

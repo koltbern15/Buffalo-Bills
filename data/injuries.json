@@ -1,6 +1,27 @@
 {
   "injuries": [
     {
+      "status": "Out",
+      "type": "out",
+      "detail": "Neck",
+      "date": "2026-06-12T21:21Z",
+      "athlete": {
+        "name": "Dorian Strong",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568703.png"
+      }
+    },
+    {
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "detail": "Undisclosed",
+      "date": "2026-06-12T21:12Z",
+      "athlete": {
+        "name": "Desmond Reid",
+        "position": "RB"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-06-12T00:19Z",
@@ -585,26 +606,6 @@
         "name": "Keleki Latu",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688552.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-01-18T02:45Z",
-      "athlete": {
-        "name": "Khalil Shakir",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-01-13T20:40Z",
-      "athlete": {
-        "name": "Nick Broeker",
-        "position": "G",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426498.png"
       }
     }
   ]
