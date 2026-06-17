@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Four things we learned from Bills minicamp",
+      "description": "The three days of mandatory minicamp offered the clearest insight yet of where this team stands with the season drawing closer.",
+      "published": "2026-06-17T10:00:03Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49084401/buffalo-bills-minicamp-learning-left-guard-james-cook",
+      "image": "https://a.espncdn.com/photo/2026/0616/r1674351_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "2026 NFL minicamp live updates: Latest on Titans' Cam Ward",
       "description": "ESPN's NFL Nation shares insights from every minicamp, including the latest on Titans quarterback Cam Ward.",
       "published": "2026-06-17T01:18:20Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/48609368/bills-hit-reset-button-keon-coleman-feel-best-yet-come",
       "image": "https://a.espncdn.com/photo/2026/0427/r1649954_1296x729_16-9.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "Biggest 2026 NFL postdraft questions for all 32 teams",
-      "description": "The 2026 NFL draft is over, but can the rookies make an impact? We answer lingering questions for all 32 teams.",
-      "published": "2026-04-27T13:43:37Z",
-      "url": "https://www.espn.com/nfl/story/_/page/nfldraftpostdraftquestions48602828/nfl-draft-2026-biggest-postdraft-questions-32-teams-offseason-signings",
-      "image": "https://a.espncdn.com/photo/2026/0426/nfl-post-draft-16x9.jpg",
-      "type": "Story"
     }
   ]
 }
