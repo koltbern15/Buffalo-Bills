@@ -12,16 +12,6 @@
       }
     },
     {
-      "status": "Injured Reserve",
-      "type": "Injured Reserve",
-      "detail": "Undisclosed",
-      "date": "2026-06-12T21:12Z",
-      "athlete": {
-        "name": "Desmond Reid",
-        "position": "RB"
-      }
-    },
-    {
       "status": "Active",
       "type": "active",
       "date": "2026-06-12T00:19Z",
@@ -317,7 +307,7 @@
       "type": "active",
       "date": "2026-04-24T23:25Z",
       "athlete": {
-        "name": "T.J. Parker",
+        "name": "TJ Parker",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4870886.png"
       }
@@ -606,6 +596,16 @@
         "name": "Keleki Latu",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688552.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-01-18T02:45Z",
+      "athlete": {
+        "name": "Khalil Shakir",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
       }
     }
   ]

@@ -14,9 +14,10 @@
         {
           "id": "4431152",
           "name": "Jackson Acker",
+          "jersey": "40",
           "position": "FB",
           "height": "6' 1\"",
-          "weight": "250 lbs",
+          "weight": "247 lbs",
           "experience": 0,
           "college": "Wisconsin",
           "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4431152.png"
@@ -62,8 +63,8 @@
           "name": "Skyler Bell",
           "jersey": "13",
           "position": "WR",
-          "height": "6' 0\"",
-          "weight": "185 lbs",
+          "height": "5' 11\"",
+          "weight": "192 lbs",
           "experience": 0,
           "college": "UConn",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
@@ -74,7 +75,7 @@
           "jersey": "74",
           "position": "OT",
           "height": "6' 5\"",
-          "weight": "311 lbs",
+          "weight": "314 lbs",
           "experience": 0,
           "college": "Boston College",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
@@ -82,6 +83,7 @@
         {
           "id": "4426498",
           "name": "Nick Broeker",
+          "jersey": "65",
           "position": "G",
           "age": 25,
           "height": "6' 4\"",
@@ -152,6 +154,7 @@
         {
           "id": "3056608",
           "name": "Austin Corbett",
+          "jersey": "63",
           "position": "C",
           "age": 30,
           "height": "6' 4\"",
@@ -163,6 +166,7 @@
         {
           "id": "4035448",
           "name": "Lloyd Cushenberry III",
+          "jersey": "53",
           "position": "C",
           "age": 28,
           "height": "6' 4\"",
@@ -174,10 +178,11 @@
         {
           "id": "4431053",
           "name": "Mac Dalena",
+          "jersey": "82",
           "position": "WR",
           "age": 24,
-          "height": "5' 10\"",
-          "weight": "176 lbs",
+          "height": "5' 11\"",
+          "weight": "180 lbs",
           "experience": 1,
           "college": "Fresno State",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431053.png"
@@ -209,6 +214,7 @@
         {
           "id": "4570706",
           "name": "Bruno Fina",
+          "jersey": "75",
           "position": "OT",
           "height": "6' 5\"",
           "weight": "300 lbs",
@@ -339,9 +345,10 @@
         {
           "id": "4430270",
           "name": "Ja'Mori Maclin",
+          "jersey": "84",
           "position": "WR",
           "height": "5' 11\"",
-          "weight": "191 lbs",
+          "weight": "183 lbs",
           "experience": 0,
           "college": "Kentucky",
           "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4430270.png"
@@ -388,7 +395,7 @@
           "jersey": "60",
           "position": "G",
           "height": "6' 5\"",
-          "weight": "325 lbs",
+          "weight": "314 lbs",
           "experience": 0,
           "college": "Texas A&M",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
@@ -420,7 +427,7 @@
         {
           "id": "3122168",
           "name": "Trent Sherfield",
-          "jersey": "16",
+          "jersey": "81",
           "position": "WR",
           "age": 30,
           "height": "6' 1\"",
@@ -477,11 +484,11 @@
         {
           "id": "4372070",
           "name": "Ben VanSumeren",
-          "jersey": "43",
+          "jersey": "45",
           "position": "FB",
           "age": 26,
           "height": "6' 2\"",
-          "weight": "231 lbs",
+          "weight": "250 lbs",
           "experience": 4,
           "college": "Michigan State",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372070.png"
@@ -489,7 +496,7 @@
         {
           "id": "4036448",
           "name": "Jalen Virgil",
-          "jersey": "13",
+          "jersey": "87",
           "position": "WR",
           "age": 27,
           "height": "6' 1\"",
@@ -623,10 +630,11 @@
         {
           "id": "4689804",
           "name": "Jimmy Ciarlo",
+          "jersey": "35",
           "position": "LB",
           "age": 25,
           "height": "6' 2\"",
-          "weight": "225 lbs",
+          "weight": "230 lbs",
           "experience": 2,
           "college": "Army",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4689804.png"
@@ -650,7 +658,7 @@
           "position": "DE",
           "age": 28,
           "height": "6' 2\"",
-          "weight": "257 lbs",
+          "weight": "261 lbs",
           "experience": 6,
           "college": "Michigan",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915487.png"
@@ -658,6 +666,7 @@
         {
           "id": "4567943",
           "name": "Cade Denhoff",
+          "jersey": "57",
           "position": "DE",
           "height": "6' 5\"",
           "weight": "260 lbs",
@@ -668,6 +677,7 @@
         {
           "id": "4576144",
           "name": "Jordan Dunbar",
+          "jersey": "36",
           "position": "CB",
           "height": "6' 0\"",
           "weight": "195 lbs",
@@ -681,7 +691,7 @@
           "jersey": "92",
           "position": "DT",
           "height": "6' 1\"",
-          "weight": "294 lbs",
+          "weight": "290 lbs",
           "experience": 0,
           "college": "Penn State",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685347.png"
@@ -692,7 +702,7 @@
           "jersey": "52",
           "position": "LB",
           "height": "6' 2\"",
-          "weight": "235 lbs",
+          "weight": "234 lbs",
           "experience": 0,
           "college": "TCU",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4594321.png"
@@ -723,6 +733,7 @@
         {
           "id": "5084058",
           "name": "Theron Gaines",
+          "jersey": "54",
           "position": "LB",
           "height": "6' 1\"",
           "weight": "237 lbs",
@@ -793,6 +804,7 @@
         {
           "id": "4879270",
           "name": "Kody Huisman",
+          "jersey": "61",
           "position": "DT",
           "height": "6' 4\"",
           "weight": "297 lbs",
@@ -807,7 +819,7 @@
           "position": "CB",
           "age": 22,
           "height": "6' 2\"",
-          "weight": "195 lbs",
+          "weight": "193 lbs",
           "experience": 0,
           "college": "Ohio State",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4832035.png"
@@ -839,7 +851,7 @@
         {
           "id": "4249214",
           "name": "Andre Jones Jr.",
-          "jersey": "75",
+          "jersey": "59",
           "position": "DE",
           "age": 27,
           "height": "6' 5\"",
@@ -854,7 +866,7 @@
           "jersey": "29",
           "position": "S",
           "height": "6' 1\"",
-          "weight": "211 lbs",
+          "weight": "210 lbs",
           "experience": 0,
           "college": "South Carolina",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
@@ -909,12 +921,12 @@
         },
         {
           "id": "4870886",
-          "name": "T.J. Parker",
+          "name": "TJ Parker",
           "jersey": "99",
           "position": "LB",
           "age": 21,
           "height": "6' 3\"",
-          "weight": "265 lbs",
+          "weight": "263 lbs",
           "experience": 0,
           "college": "Clemson",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4870886.png"
@@ -924,8 +936,8 @@
           "name": "Toriano Pride Jr.",
           "jersey": "32",
           "position": "CB",
-          "height": "5' 11\"",
-          "weight": "188 lbs",
+          "height": "5' 10\"",
+          "weight": "185 lbs",
           "experience": 0,
           "college": "Missouri",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4698598.png"
@@ -993,9 +1005,10 @@
         {
           "id": "4682749",
           "name": "Kani Walker",
+          "jersey": "41",
           "position": "CB",
           "height": "6' 2\"",
-          "weight": "201 lbs",
+          "weight": "204 lbs",
           "experience": 0,
           "college": "Arkansas",
           "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4682749.png"
@@ -1035,7 +1048,7 @@
           "jersey": "39",
           "position": "P",
           "height": "6' 4\"",
-          "weight": "218 lbs",
+          "weight": "214 lbs",
           "experience": 0,
           "college": "Florida",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4682758.png"
@@ -1079,16 +1092,6 @@
     {
       "position": "injuredReserveOrOut",
       "items": [
-        {
-          "id": "5089535",
-          "name": "Desmond Reid",
-          "position": "RB",
-          "height": "5' 8\"",
-          "weight": "175 lbs",
-          "experience": 0,
-          "college": "Syracuse",
-          "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/5089535.png"
-        },
         {
           "id": "4568703",
           "name": "Dorian Strong",
