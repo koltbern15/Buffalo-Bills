@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Final NFL offseason moves for 32 teams: Trades, signings, more",
+      "description": "The Chiefs sign Deebo Samuel?  The Cardinals trade Josh Sweat? The Buccaneers extend Baker Mayfield? We have one more move for each team to make before the season.",
+      "published": "2026-06-18T11:15:15Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49096789/2026-nfl-offseason-final-moves-trades-signings-extensions-32-teams",
+      "image": "https://a.espncdn.com/photo/2026/0617/r1674983_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "2026 NFL minicamp live updates: Latest on Tua Tagovailoa",
       "description": "ESPN's NFL Nation shares insights from every minicamp, including Tua Tagovailoa's impressive display.",
       "published": "2026-06-18T02:31:47Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/48610798/2026-nfl-draft-ty-simpson-matthew-stafford-rams-quarterback-playoffs-first-round-pick",
       "image": "https://a.espncdn.com/photo/2026/0427/r1650167_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Bills hit 'reset button' with Keon Coleman, say best yet to come",
-      "description": "The Bills \"shut down\" a couple of teams that reached out with trade interest in Keon Coleman earlier this offseason, general manager Brandon Beane said Monday on local radio station WGR-550.",
-      "published": "2026-04-27T15:54:32Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48609368/bills-hit-reset-button-keon-coleman-feel-best-yet-come",
-      "image": "https://a.espncdn.com/photo/2026/0427/r1649954_1296x729_16-9.jpg",
-      "type": "HeadlineNews"
     }
   ]
 }
