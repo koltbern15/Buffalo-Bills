@@ -1,6 +1,16 @@
 {
   "injuries": [
     {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-06-18T21:29Z",
+      "athlete": {
+        "name": "Ian Wheeler",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4579554.png"
+      }
+    },
+    {
       "status": "Out",
       "type": "out",
       "detail": "Neck",
@@ -596,16 +606,6 @@
         "name": "Keleki Latu",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688552.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-01-18T02:45Z",
-      "athlete": {
-        "name": "Khalil Shakir",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
       }
     }
   ]
