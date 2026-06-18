@@ -508,6 +508,7 @@
         {
           "id": "4878824",
           "name": "Da'Metrius Weatherspoon",
+          "jersey": "76",
           "position": "OT",
           "height": "6' 7\"",
           "weight": "320 lbs",
@@ -518,6 +519,7 @@
         {
           "id": "4608362",
           "name": "Shane Zylstra",
+          "jersey": "48",
           "position": "TE",
           "age": 29,
           "height": "6' 4\"",
@@ -710,6 +712,7 @@
         {
           "id": "3931424",
           "name": "Demetrius Flannigan-Fowles",
+          "jersey": "50",
           "position": "LB",
           "age": 29,
           "height": "6' 2\"",
@@ -1064,16 +1067,6 @@
           "experience": 10,
           "college": "LSU",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2976549.png"
-        },
-        {
-          "id": "4696109",
-          "name": "Mark Langston",
-          "position": "LS",
-          "height": "6' 0\"",
-          "weight": "225 lbs",
-          "experience": 0,
-          "college": "Indiana",
-          "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4696109.png"
         },
         {
           "id": "4035685",
