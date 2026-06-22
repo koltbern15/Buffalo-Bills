@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL offseason: Biggest surprise players on each team",
+      "description": "From rookies to veterans, here are the players who have made an early impression on every NFL team ahead of training camp.",
+      "published": "2026-06-22T14:06:06Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49108128/nfl-2026-biggest-surprise-players-every-team-offseason",
+      "image": "https://a.espncdn.com/photo/2026/0618/r1675721_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Bills change up practice schedule under Joe Brady",
       "description": "Bills change up practice schedule under Joe Brady",
       "published": "2026-06-19T21:52:14Z",
@@ -310,14 +318,6 @@
       "published": "2026-04-30T12:59:02Z",
       "url": "https://www.espn.com/nfl/story/_/id/48632243/2026-nfl-draft-scouts-coaches-execs-fowler-32-teams-classes",
       "image": "https://a.espncdn.com/photo/2026/0418/r1645334_1296x729_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Revisiting most impactful draft-day trade for 32 NFL teams",
-      "description": "NFL Nation looks back at the draft deals that produced memorable outcomes -- good or bad -- for their teams.",
-      "published": "2026-04-29T19:35:44Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48608897/revisiting-most-impactful-nfl-draft-day-trade-32-teams-2026",
-      "image": "https://a.espncdn.com/photo/2015/0515/sn_g_smith_mb_608x342.jpg",
       "type": "Story"
     }
   ]
