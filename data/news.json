@@ -9,14 +9,6 @@
       "type": "Story"
     },
     {
-      "headline": "Bills change up practice schedule under Joe Brady",
-      "description": "Bills change up practice schedule under Joe Brady",
-      "published": "2026-06-19T21:52:14Z",
-      "url": "https://www.espn.com/video/clip/_/id/49119911/bills-change-practice-schedule-joe-brady",
-      "image": "https://a.espncdn.com/media/motion/2026/0619/dm_260619_Bills_practice_IA/dm_260619_Bills_practice_IA.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "2026 NFL minicamp live updates: Last spring practices wrap up",
       "description": "ESPN's NFL Nation shares insights from every minicamp, including Aaron Glenn reflecting on busy offseason.",
       "published": "2026-06-18T21:40:07Z",
@@ -318,6 +310,14 @@
       "published": "2026-04-30T12:59:02Z",
       "url": "https://www.espn.com/nfl/story/_/id/48632243/2026-nfl-draft-scouts-coaches-execs-fowler-32-teams-classes",
       "image": "https://a.espncdn.com/photo/2026/0418/r1645334_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Revisiting most impactful draft-day trade for 32 NFL teams",
+      "description": "NFL Nation looks back at the draft deals that produced memorable outcomes -- good or bad -- for their teams.",
+      "published": "2026-04-29T19:35:44Z",
+      "url": "https://www.espn.com/nfl/story/_/id/48608897/revisiting-most-impactful-nfl-draft-day-trade-32-teams-2026",
+      "image": "https://a.espncdn.com/photo/2015/0515/sn_g_smith_mb_608x342.jpg",
       "type": "Story"
     }
   ]
