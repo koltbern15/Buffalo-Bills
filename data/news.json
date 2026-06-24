@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL contract extension updates for all 32 teams",
+      "description": "Our reporters have the latest buzz on 32 contract extension candidates -- one from every team -- and their potential new deals.",
+      "published": "2026-06-24T12:53:24Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49153923/2026-nfl-contract-extensions-signings-negotiations-all-32-teams",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678195_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Bills give a look inside new Highmark Stadium",
       "description": "Alaina Getzenberg discusses the ribbon-cutting ceremony the Bills hosted at the new Highmark Stadium on Tuesday.",
       "published": "2026-06-24T00:48:25Z",
@@ -310,14 +318,6 @@
       "published": "2026-05-05T15:13:43Z",
       "url": "https://www.espn.com/nfl/story/_/id/48630373/2026-nfl-power-rankings-offseason-postdraft-poll-most-improved-positions",
       "image": "https://a.espncdn.com/photo/2026/0504/nfl_power_rankings_16x9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL fifth-year option tracker: 2023 first-round draft class",
-      "description": "The deadline for teams to pick up the fifth-year option on rookie contracts is today. Who has had their options picked up?",
-      "published": "2026-05-02T00:09:39Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48358999/fifth-year-option-tracker-nfl-players-2023-first-round-draft-class",
-      "image": "https://a.espncdn.com/photo/2024/1118/r1416431_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
