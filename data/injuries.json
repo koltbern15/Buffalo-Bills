@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-06-24T14:16Z",
+      "athlete": {
+        "name": "Khalil Shakir",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-06-18T21:29Z",
       "athlete": {
         "name": "Ian Wheeler",
@@ -596,16 +606,6 @@
         "name": "Ray Davis",
         "position": "RB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-01-19T13:34Z",
-      "athlete": {
-        "name": "Keleki Latu",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688552.png"
       }
     }
   ]
