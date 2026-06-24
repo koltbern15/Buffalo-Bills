@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "headline": "Bills give a look inside new Highmark Stadium",
+      "description": "Alaina Getzenberg discusses the ribbon-cutting ceremony the Bills hosted at the new Highmark Stadium on Tuesday.",
+      "published": "2026-06-24T00:48:25Z",
+      "url": "https://www.espn.com/video/clip/_/id/49159547/bills-give-look-new-highmark-stadium",
+      "image": "https://a.espncdn.com/media/motion/2026/0623/dm_260623_SC4U_16x9_Bills_IA_6-23/dm_260623_SC4U_16x9_Bills_IA_6-23.jpg",
+      "type": "Media"
+    },
+    {
+      "headline": "Bills great Jim Kelly says he recently had stroke but feels 'good'",
+      "description": "Jim Kelly said he suffered a stroke this spring and subsequently spent a few days in the hospital, but added that he currently feels \"really good.\"",
+      "published": "2026-06-23T22:51:52Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49157990/bills-great-jim-kelly-says-recently-had-stroke-feels-good",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678425_1296x729_16-9.jpg",
+      "type": "HeadlineNews"
+    },
+    {
+      "headline": "Bills give a look inside new Highmark Stadium at ribbon-cutting ceremony",
+      "description": "Buffalo's new home features a natural grass field, the world's largest stadium snow-melt system and wind-reducing technology.",
+      "published": "2026-06-23T21:58:37Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49156845/buffalo-bills-highmark-stadium-ribbon-cutting-ceremony",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678361_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "2026 NFL offseason: Biggest surprise players on each team",
       "description": "From rookies to veterans, here are the players who have made an early impression on every NFL team ahead of training camp.",
       "published": "2026-06-22T15:48:11Z",
@@ -294,30 +318,6 @@
       "published": "2026-05-02T00:09:39Z",
       "url": "https://www.espn.com/nfl/story/_/id/48358999/fifth-year-option-tracker-nfl-players-2023-first-round-draft-class",
       "image": "https://a.espncdn.com/photo/2024/1118/r1416431_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Why the Bills focused on bringing youth and depth to defense",
-      "description": "Brandon Beane went into the draft prepared to move back, prioritizing building out the roster to address weak spots.",
-      "published": "2026-04-30T13:12:05Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48629921/buffalo-bills-focused-youth-depth-defense-2026-nfl-draft",
-      "image": "https://a.espncdn.com/photo/2025/0828/r1538026_1296x729_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "2026 NFL draft: Scouts, coaches, execs on 32 teams' classes",
-      "description": "One week since the start of the 2026 NFL draft, what are league sources saying about all 32 classes?",
-      "published": "2026-04-30T12:59:02Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48632243/2026-nfl-draft-scouts-coaches-execs-fowler-32-teams-classes",
-      "image": "https://a.espncdn.com/photo/2026/0418/r1645334_1296x729_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Revisiting most impactful draft-day trade for 32 NFL teams",
-      "description": "NFL Nation looks back at the draft deals that produced memorable outcomes -- good or bad -- for their teams.",
-      "published": "2026-04-29T19:35:44Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48608897/revisiting-most-impactful-nfl-draft-day-trade-32-teams-2026",
-      "image": "https://a.espncdn.com/photo/2015/0515/sn_g_smith_mb_608x342.jpg",
       "type": "Story"
     }
   ]
