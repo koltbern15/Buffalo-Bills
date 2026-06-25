@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Ranking WR, TE, RB groups for 2026: Best and worst NFL teams",
+      "description": "Which teams have the best skill position talent around their QB and offensive line? We stacked all 32 groups of pass catchers and ball carriers from worst to first.",
+      "published": "2026-06-25T10:30:34Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49154825/ranking-nfl-teams-offensive-groups-wr-rb-te-2026-season-best-playmakers",
+      "image": "https://a.espncdn.com/photo/2026/0624/nfl-barnwell-rank_16x9_1296x729.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "2026 NFL contract extension updates for all 32 teams",
       "description": "Our reporters have the latest buzz on 32 contract extension candidates -- one from every team -- and their potential new deals.",
       "published": "2026-06-24T19:45:07Z",
@@ -310,14 +318,6 @@
       "published": "2026-05-08T01:48:37Z",
       "url": "https://www.espn.com/nfl/story/_/id/48649984/2026-nfl-offseason-biggest-roster-holes-depth-needs-all-32-teams-postdraft",
       "image": "https://a.espncdn.com/photo/2026/0507/r1654749_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Power Rankings 2026: Which teams improved this offseason?",
-      "description": "How do all 32 NFL teams stack up after free agency and the draft? Here are our early rankings for next season, plus one spot each roster got better.",
-      "published": "2026-05-05T15:13:43Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48630373/2026-nfl-power-rankings-offseason-postdraft-poll-most-improved-positions",
-      "image": "https://a.espncdn.com/photo/2026/0504/nfl_power_rankings_16x9.jpg",
       "type": "Story"
     }
   ]
