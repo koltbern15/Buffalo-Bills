@@ -25,14 +25,6 @@
       "type": "Story"
     },
     {
-      "headline": "Bills give a look inside new Highmark Stadium",
-      "description": "Alaina Getzenberg discusses the ribbon-cutting ceremony the Bills hosted at the new Highmark Stadium on Tuesday.",
-      "published": "2026-06-24T00:48:25Z",
-      "url": "https://www.espn.com/video/clip/_/id/49159547/bills-give-look-new-highmark-stadium",
-      "image": "https://a.espncdn.com/media/motion/2026/0623/dm_260623_SC4U_16x9_Bills_IA_6-23/dm_260623_SC4U_16x9_Bills_IA_6-23.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "Bills great Jim Kelly says he recently had stroke but feels 'good'",
       "description": "Jim Kelly said he suffered a stroke this spring and subsequently spent a few days in the hospital, but added that he currently feels \"really good.\"",
       "published": "2026-06-23T22:51:52Z",
@@ -318,6 +310,14 @@
       "published": "2026-05-11T13:03:19Z",
       "url": "https://www.espn.com/nfl/draft2026/story/_/id/48702987/2026-nfl-draft-rookie-year-impact-middle-late-rounders",
       "image": "https://a.espncdn.com/photo/2026/0508/r1655380_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Biggest roster holes for all 32 NFL teams following the draft",
+      "description": "Even after free agency, trades and the draft, NFL teams still have at least one position that needs a boost. Here's one for every roster.",
+      "published": "2026-05-08T01:48:37Z",
+      "url": "https://www.espn.com/nfl/story/_/id/48649984/2026-nfl-offseason-biggest-roster-holes-depth-needs-all-32-teams-postdraft",
+      "image": "https://a.espncdn.com/photo/2026/0507/r1654749_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
