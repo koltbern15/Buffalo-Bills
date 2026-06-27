@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-06-27T22:04Z",
+      "athlete": {
+        "name": "DJ Moore",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-06-24T19:08Z",
       "athlete": {
         "name": "Keon Coleman",
@@ -431,16 +441,6 @@
         "name": "Connor McGovern",
         "position": "C",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4033748.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-03-05T17:01Z",
-      "athlete": {
-        "name": "DJ Moore",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
       }
     },
     {
