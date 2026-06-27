@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "O.J. Simpson won't be honored among Bills' legends at new stadium",
+      "description": "The Buffalo Bills will not honor former running back O.J. Simpson among the franchise's legends at their new stadium, the team announced.",
+      "published": "2026-06-27T21:23:25Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49200181/bills-not-honor-oj-simpson-wall-fame-new-stadium",
+      "image": "https://a.espncdn.com/photo/2024/0411/r1317373_600x400_3-2.jpg",
+      "type": "HeadlineNews"
+    },
+    {
       "headline": "Questions about 10 new NFL coordinators entering 2026 season",
       "description": "Ben Solak identifies 10 new coordinators with a lot at stake this season, including the man tasked with repairing the Cowboys' defense.",
       "published": "2026-06-26T10:00:08Z",
@@ -310,14 +318,6 @@
       "published": "2026-05-11T13:03:19Z",
       "url": "https://www.espn.com/nfl/draft2026/story/_/id/48702987/2026-nfl-draft-rookie-year-impact-middle-late-rounders",
       "image": "https://a.espncdn.com/photo/2026/0508/r1655380_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Biggest roster holes for all 32 NFL teams following the draft",
-      "description": "Even after free agency, trades and the draft, NFL teams still have at least one position that needs a boost. Here's one for every roster.",
-      "published": "2026-05-08T01:48:37Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48649984/2026-nfl-offseason-biggest-roster-holes-depth-needs-all-32-teams-postdraft",
-      "image": "https://a.espncdn.com/photo/2026/0507/r1654749_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
