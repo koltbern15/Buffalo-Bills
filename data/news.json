@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL rookie updates: Tracking all first-round draft picks",
+      "description": "Ahead of training camp, our NFL Nation reporters weigh in on how the 2026 draft class has looked.",
+      "published": "2026-06-29T10:00:15Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49167327/nfl-2026-first-round-draft-picks-impression",
+      "image": "https://a.espncdn.com/photo/2026/0625/r1679494_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "O.J. Simpson won't be honored among Bills legends at new stadium",
       "description": "The Bills will not honor former running back O.J. Simpson among the franchise's legends at their new stadium, the team announced.",
       "published": "2026-06-28T11:38:36Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/48741642/bills-sign-ex-chiefs-pass-rusher-mike-danna-1-year-deal",
       "image": "https://a.espncdn.com/photo/2026/0223/r1619143_1296x729_16-9.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "2026 NFL rookies: Day 2-3 draft picks with instant impact",
-      "description": "We picked out Day 2 and Day 3 NFL draft picks who could contribute right away, including R Mason Thomas and Antonio Williams.",
-      "published": "2026-05-11T13:03:19Z",
-      "url": "https://www.espn.com/nfl/draft2026/story/_/id/48702987/2026-nfl-draft-rookie-year-impact-middle-late-rounders",
-      "image": "https://a.espncdn.com/photo/2026/0508/r1655380_608x342_16-9.jpg",
-      "type": "Story"
     }
   ]
 }
