@@ -28,7 +28,10 @@
       "homeAway": "home",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png"
     },
-    "odds": null,
+    "odds": {
+      "details": "BUF -1.5",
+      "overUnder": 45.5
+    },
     "broadcast": "CBS"
   },
   "next": {
