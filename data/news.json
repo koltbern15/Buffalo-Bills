@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL offseason grades: Draft, trades, more moves by team",
+      "description": "We handed out NFL offseason evaluations to all 32 teams, factoring in things such as signings, extensions, trades, draft picks and hirings.",
+      "published": "2026-06-30T11:41:15Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49147104/nfl-offseason-grades-2026-free-agency-draft-trades-extensions-coaching-changes",
+      "image": "https://a.espncdn.com/photo/2026/0629/2026_nfl_offseason_grades_608x342.png",
+      "type": "Story"
+    },
+    {
       "headline": "2026 NFL rookie updates: Tracking all first-round draft picks",
       "description": "Ahead of training camp, our NFL Nation reporters weigh in on how the 2026 draft class has looked.",
       "published": "2026-06-29T14:23:35Z",
@@ -310,14 +318,6 @@
       "published": "2026-05-12T14:08:15Z",
       "url": "https://www.espn.com/nfl/story/_/id/48744949/bills-play-first-regular-season-game-new-stadium-week-2",
       "image": "https://a.espncdn.com/photo/2024/0417/r1320344_1296x729_16-9.jpg",
-      "type": "HeadlineNews"
-    },
-    {
-      "headline": "Bills sign ex-Chiefs pass rusher Mike Danna to 1-year deal",
-      "description": "The Bills added a familiar former opponent to the roster, signing outside linebacker Mike Danna to a one-year deal Monday.",
-      "published": "2026-05-11T15:33:35Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48741642/bills-sign-ex-chiefs-pass-rusher-mike-danna-1-year-deal",
-      "image": "https://a.espncdn.com/photo/2026/0223/r1619143_1296x729_16-9.jpg",
       "type": "HeadlineNews"
     }
   ]
