@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "headline": "Which U.S. area has best NFL players? Eight teams, Cup winner",
+      "description": "Enjoying the World Cup? Well, what if NFL players were divided by where they are from and had a similar tournament? We made eight rosters and played it out.",
+      "published": "2026-07-02T10:26:03Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49226040/2026-nfl-domestic-cup-american-football-united-states-barnwell-texas-florida-california",
+      "image": "https://a.espncdn.com/photo/2026/0629/nfl_barnwell_regional_cup_16x9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Did the Bills do enough at wide receiver this offseason?",
+      "description": "Alaina Getzenberg discusses the Bills' options for wide receivers in the upcoming 2026 season.",
+      "published": "2026-07-02T01:06:45Z",
+      "url": "https://www.espn.com/video/clip/_/id/49243495/did-bills-do-enough-wide-receiver-offseason",
+      "image": "https://a.espncdn.com/media/motion/2026/0701/dm_260701_Did_the_Bills_do_enough_at_wide_receiver_this_offseason/dm_260701_Did_the_Bills_do_enough_at_wide_receiver_this_offseason.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "2026 NFL offseason grades: Draft, trades, more moves by team",
       "description": "We handed out NFL offseason evaluations to all 32 teams, factoring in things such as signings, extensions, trades, draft picks and hirings.",
       "published": "2026-06-30T15:40:06Z",
@@ -303,22 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/page/nflschedulerelease-48737411/buffalo-bills-nfl-schedule-2026-takeaways-predictions",
       "image": "https://a.espncdn.com/photo/2026/0117/r1601939_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Troy Aikman to Josh Allen: Try to not put so much on your shoulders",
-      "description": "Troy Aikman offers his best advice to Bills QB Josh Allen ahead of the coming season.",
-      "published": "2026-05-12T14:19:28Z",
-      "url": "https://www.espn.com/video/clip/_/id/48750103/try-not-put-much-your-shoulders",
-      "image": "https://a.espncdn.com/media/motion/2026/0512/ss_20260512_095930571_3524680603/ss_20260512_095930571_3524680603.jpg",
-      "type": "Media"
-    },
-    {
-      "headline": "Bills to play first regular-season game in new stadium in Week 2",
-      "description": "The Bills will play their first regular-season game at their new home, the newly constructed Highmark Stadium, in Week 2 against the Lions, it was announced Monday.",
-      "published": "2026-05-12T14:08:15Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48744949/bills-play-first-regular-season-game-new-stadium-week-2",
-      "image": "https://a.espncdn.com/photo/2024/0417/r1320344_1296x729_16-9.jpg",
-      "type": "HeadlineNews"
     }
   ]
 }
