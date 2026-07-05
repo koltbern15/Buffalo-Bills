@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Jeremy Fowler's takeaways from the top-10 NFL RBs",
+      "description": "Jeremy Fowler's takeaways from the top-10 NFL RBs",
+      "published": "2026-07-05T17:30:18Z",
+      "url": "https://www.espn.com/video/clip/_/id/49268113/jeremy-fowler-takeaways-top-10-nfl-rbs",
+      "image": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_NFL_fowler_top10rbs/dm_260704_NFL_fowler_top10rbs.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "Which U.S. area has best NFL players? Eight teams, Cup winner",
       "description": "Enjoying the World Cup? Well, what if NFL players were divided by where they are from and had a similar tournament? We made eight rosters and played it out.",
       "published": "2026-07-02T10:26:03Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/page/nflschedulerelease-48737411/buffalo-bills-nfl-schedule-2026-takeaways-predictions",
       "image": "https://a.espncdn.com/photo/2026/0117/r1601939_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Troy Aikman to Josh Allen: Try to not put so much on your shoulders",
-      "description": "Troy Aikman offers his best advice to Bills QB Josh Allen ahead of the coming season.",
-      "published": "2026-05-12T14:19:28Z",
-      "url": "https://www.espn.com/video/clip/_/id/48750103/try-not-put-much-your-shoulders",
-      "image": "https://a.espncdn.com/media/motion/2026/0512/ss_20260512_095930571_3524680603/ss_20260512_095930571_3524680603.jpg",
-      "type": "Media"
     }
   ]
 }
