@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "headline": "Ranking 2026 NFL rosters: Best projected starting lineups",
+      "description": "Here's how every NFL roster stacks up ahead of the season, plus strengths, weaknesses, X factors and underrated players to know for all 32.",
+      "published": "2026-07-06T12:06:09Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49231555/2026-nfl-roster-ranking-starting-lineups-projection-32-teams",
+      "image": "https://a.espncdn.com/photo/2026/0705/nfl_roster-rank_16x9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Execs, coaches, scouts rank top NFL running backs for 2026",
+      "description": "We asked execs, coaches and scouts from around the league to rank their top 10 running backs for this season. Who was No. 1 on the list?",
+      "published": "2026-07-06T09:54:40Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49145576/ranking-nfl-top-10-running-backs-2026-execs-coaches-scouts",
+      "image": "https://a.espncdn.com/photo/2026/0702/260706_nfl_1fowlers-top-10-rb_16x9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Jeremy Fowler's takeaways from the top-10 NFL RBs",
       "description": "Jeremy Fowler's takeaways from the top-10 NFL RBs",
       "published": "2026-07-05T17:30:18Z",
@@ -302,22 +318,6 @@
       "published": "2026-05-15T02:47:07Z",
       "url": "https://www.espn.com/nfl/story/_/id/48764468/nfl-2026-schedule-release-social-media-posts-reactions",
       "image": "https://a.espncdn.com/photo/2026/0309/r1625886_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Full 2026 NFL schedule unveiled; Patriots-Seahawks in Week 1",
-      "description": "In a rematch of Super Bowl LX, the Seahawks will welcome the Patriots to Lumen Field for the 2026 NFL season opener, one of 272 games officially announced throughout the league Thursday night.",
-      "published": "2026-05-15T01:52:02Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48773123/full-2026-nfl-schedule-unveiled-patriots-seahawks-week-1",
-      "image": "https://a.espncdn.com/photo/2026/0514/r1658367_600x600_1-1.jpg",
-      "type": "HeadlineNews"
-    },
-    {
-      "headline": "Buffalo Bills schedule 2026: Takeaways, predictions",
-      "description": "Here is everything to know about the Bills' 2026 NFL schedule.",
-      "published": "2026-05-14T23:54:09Z",
-      "url": "https://www.espn.com/nfl/story/_/page/nflschedulerelease-48737411/buffalo-bills-nfl-schedule-2026-takeaways-predictions",
-      "image": "https://a.espncdn.com/photo/2026/0117/r1601939_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
