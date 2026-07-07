@@ -417,11 +417,7 @@
       "status": "Active",
       "type": "active",
       "date": "2026-03-09T23:46Z",
-      "athlete": {
-        "name": "Kyle Allen",
-        "position": "QB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3115293.png"
-      }
+      "athlete": null
     },
     {
       "status": "Active",
@@ -576,16 +572,6 @@
         "name": "Stephen Gosnell",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432215.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-01-19T21:45Z",
-      "athlete": {
-        "name": "Mecole Hardman Jr.",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035004.png"
       }
     },
     {
