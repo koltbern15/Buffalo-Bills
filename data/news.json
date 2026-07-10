@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "AFC East: Can Bills, Jets or Dolphins unseat the Patriots?",
+      "description": "Four big questions for our AFC East reporters, including biggest concerns and how the offseason impacted the QBs.",
+      "published": "2026-07-10T10:00:08Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49286915/nfl-afc-east-bills-jets-dolphins-patriots-josh-allen-drake-maye-aj-brown-geno-smith-malik-willis",
+      "image": "https://a.espncdn.com/photo/2026/0706/nfl_qbs_v2_608x342.png",
+      "type": "Story"
+    },
+    {
       "headline": "What to watch for in the AFC East in 2026",
       "description": "Marcel Louis-Jacques breaks down the top storylines in the AFC East ahead of the upcoming NFL season.",
       "published": "2026-07-10T03:56:19Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/48768770/buffalo-bills-takeaways-rookie-minicamp-first-field-action-skyler-bell",
       "image": "https://a.espncdn.com/photo/2026/0514/r1658106_1296x729_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Bills schedule released for 2026 season",
-      "description": "Alaina Getzenberg breaks down the Bills' schedule after it was released on Thursday.",
-      "published": "2026-05-15T03:38:42Z",
-      "url": "https://www.espn.com/video/clip/_/id/48774719/bills-schedule-released-2026-season",
-      "image": "https://a.espncdn.com/media/motion/2026/0514/dm_260514_NFL_InstantAnalysis_Bills_IA/dm_260514_NFL_InstantAnalysis_Bills_IA.jpg",
-      "type": "Media"
     }
   ]
 }
