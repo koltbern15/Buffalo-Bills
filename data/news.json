@@ -1,9 +1,17 @@
 {
   "articles": [
     {
+      "headline": "What to watch for in the AFC East in 2026",
+      "description": "Marcel Louis-Jacques breaks down the top storylines in the AFC East ahead of the upcoming NFL season.",
+      "published": "2026-07-10T03:56:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/49321195/what-watch-afc-east-2026",
+      "image": "https://a.espncdn.com/media/motion/2026/0709/dm_260709_SC4U_16x9_AFC_East_IA_7-9/dm_260709_SC4U_16x9_AFC_East_IA_7-9.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "How are Super Bowl-level NFL rosters built at each position?",
       "description": "Do teams need first-round QBs to reach the Super Bowl? Is it crucial to spend big on No. 1 receivers and top-tier edge rushers? Let's sort through rosters from the past 15 Super Bowls.",
-      "published": "2026-07-09T16:39:36Z",
+      "published": "2026-07-10T00:15:43Z",
       "url": "https://www.espn.com/nfl/story/_/id/49309306/2026-nfl-season-super-bowl-roster-building-positions-draft-signings-trades",
       "image": "https://a.espncdn.com/photo/2026/0708/r1686643_608x342_16-9.jpg",
       "type": "Story"
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/video/clip/_/id/48774719/bills-schedule-released-2026-season",
       "image": "https://a.espncdn.com/media/motion/2026/0514/dm_260514_NFL_InstantAnalysis_Bills_IA/dm_260514_NFL_InstantAnalysis_Bills_IA.jpg",
       "type": "Media"
-    },
-    {
-      "headline": "2026 NFL schedule release: Tracking all 32 teams and predictions",
-      "description": "Seahawks vs. Patriots will open a season that features nine international games. Full schedules, bold predictions and analyses are here.",
-      "published": "2026-05-21T14:13:55Z",
-      "url": "https://www.espn.com/nfl/story/_/page/nflschedulerelease-48704131/2026-nfl-schedule-release-all-32-game-predictions-takeaways",
-      "image": "https://a.espncdn.com/photo/2026/0514/nfl_schedule4_16x9.jpg",
-      "type": "Story"
     }
   ]
 }
