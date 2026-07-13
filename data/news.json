@@ -1,17 +1,25 @@
 {
   "articles": [
     {
+      "headline": "How Josh Allen has surpassed Patrick Mahomes in NFL QB rankings",
+      "description": "How Josh Allen has surpassed Patrick Mahomes in NFL QB rankings",
+      "published": "2026-07-13T13:03:32Z",
+      "url": "https://www.espn.com/video/clip/_/id/49349447/how-josh-allen-surpassed-patrick-mahomes-nfl-qb-rankings",
+      "image": "https://a.espncdn.com/media/motion/2026/0713/ss_20260713_082706668_3592672517/ss_20260713_082706668_3592672517.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "Execs, coaches, scouts rank top NFL quarterbacks for 2026",
       "description": "Who are the elite QBs in the NFL right now? Which passer ranks No. 1? And where do multiple top names from the 2024 draft class land on our top-10 list?",
-      "published": "2026-07-13T10:06:58Z",
+      "published": "2026-07-13T14:34:11Z",
       "url": "https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts",
       "image": "https://a.espncdn.com/photo/2026/0709/260706_nfl_fowlers-top-10-qb_16x9.jpg",
       "type": "Story"
     },
     {
-      "headline": "How Bills WR Keon Coleman is preparing for his 'make or break' season",
+      "headline": "How Bills WR Keon Coleman is preparing for his 'make-or-break' season",
       "description": "Coleman's first two seasons in the NFL have not gone smoothly.",
-      "published": "2026-07-13T10:00:02Z",
+      "published": "2026-07-13T12:00:09Z",
       "url": "https://www.espn.com/nfl/story/_/id/49317308/buffalo-bills-keon-coleman-preparing-make-break-2026-season",
       "image": "https://a.espncdn.com/photo/2026/0709/r1686969_1296x729_16-9.jpg",
       "type": "Story"
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/48761066/nfl-owners-haslam-eagles-lurie-jerry-jones-cowboys-bears-mccaskey",
       "image": "https://a.espncdn.com/photo/2026/0515/nfl_most-least-active-owners_16x9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Bills' Keon Coleman says this year is 'make or break' for him",
-      "description": "Embattled Bills wide receiver Keon Coleman called his third season in the NFL \"make or break.\"",
-      "published": "2026-05-20T00:36:27Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48819175/bills-keon-coleman-says-year-make-break-him",
-      "image": "https://a.espncdn.com/photo/2025/0802/r1526809_600x400_3-2.jpg",
-      "type": "HeadlineNews"
     }
   ]
 }
