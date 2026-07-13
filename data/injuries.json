@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-07-13T16:08Z",
+      "athlete": {
+        "name": "Keon Coleman",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-07-07T19:47Z",
       "athlete": {
         "name": "Ray Davis",
@@ -18,16 +28,6 @@
         "name": "DJ Moore",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-06-24T19:08Z",
-      "athlete": {
-        "name": "Keon Coleman",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
       }
     },
     {
