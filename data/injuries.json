@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-07-14T22:33Z",
+      "athlete": {
+        "name": "James Cook III",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379399.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-07-14T20:50Z",
       "athlete": {
         "name": "Quentin Skinner",
@@ -150,16 +160,6 @@
         "name": "Ty Johnson",
         "position": "RB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-05-21T15:56Z",
-      "athlete": {
-        "name": "James Cook III",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379399.png"
       }
     },
     {
