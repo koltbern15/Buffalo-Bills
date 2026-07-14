@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Who are the current NFL team owners?",
+      "description": "NFL team owners carry a variety of reputations in the public eye. Who is in charge of your favorite franchises? Check out this list for more details.",
+      "published": "2026-07-14T15:01:39Z",
+      "url": "https://www.espn.com/nfl/story/_/id/39387572/who-current-nfl-team-owners",
+      "image": "https://a.espncdn.com/photo/2026/0209/r1612510_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "How Josh Allen has surpassed Patrick Mahomes in NFL QB rankings",
       "description": "How Josh Allen has surpassed Patrick Mahomes in NFL QB rankings",
       "published": "2026-07-13T13:03:32Z",
@@ -310,14 +318,6 @@
       "published": "2026-05-21T16:16:59Z",
       "url": "https://www.espn.com/nfl/story/_/id/48817340/2026-nfl-offseason-afc-teams-best-worst-moves-trades-signings-draft-picks-contracts",
       "image": "https://a.espncdn.com/photo/2026/0520/r1661087_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "When NFL owners get involved with football decisions, results are mixed",
-      "description": "Some owners like Jeffrey Lurie and Clark Hunt helped land franchise quarterbacks, while others -- like Jimmy Haslam -- were less fortunate.",
-      "published": "2026-05-20T14:34:39Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48761066/nfl-owners-haslam-eagles-lurie-jerry-jones-cowboys-bears-mccaskey",
-      "image": "https://a.espncdn.com/photo/2026/0515/nfl_most-least-active-owners_16x9.jpg",
       "type": "Story"
     }
   ]
