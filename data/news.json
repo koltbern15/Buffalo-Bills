@@ -33,14 +33,6 @@
       "type": "Story"
     },
     {
-      "headline": "Can Keon Coleman put it all together?",
-      "description": "Alaina Getzenberg gives the latest on Keon Coleman's progression in the Bills offseason.",
-      "published": "2026-07-12T21:10:27Z",
-      "url": "https://www.espn.com/video/clip/_/id/49343760/can-keon-coleman-put-all-together",
-      "image": "https://a.espncdn.com/media/motion/2026/0712/dm_260712_16x9_Bills_IA/dm_260712_16x9_Bills_IA.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "AFC East: Can Bills, Jets or Dolphins unseat the Patriots?",
       "description": "Four big questions for our AFC East reporters, including biggest concerns and how the offseason impacted the QBs.",
       "published": "2026-07-10T17:00:27Z",
@@ -318,6 +310,14 @@
       "published": "2026-05-21T16:16:59Z",
       "url": "https://www.espn.com/nfl/story/_/id/48817340/2026-nfl-offseason-afc-teams-best-worst-moves-trades-signings-draft-picks-contracts",
       "image": "https://a.espncdn.com/photo/2026/0520/r1661087_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "When NFL owners get involved with football decisions, results are mixed",
+      "description": "Some owners like Jeffrey Lurie and Clark Hunt helped land franchise quarterbacks, while others -- like Jimmy Haslam -- were less fortunate.",
+      "published": "2026-05-20T14:34:39Z",
+      "url": "https://www.espn.com/nfl/story/_/id/48761066/nfl-owners-haslam-eagles-lurie-jerry-jones-cowboys-bears-mccaskey",
+      "image": "https://a.espncdn.com/photo/2026/0515/nfl_most-least-active-owners_16x9.jpg",
       "type": "Story"
     }
   ]
