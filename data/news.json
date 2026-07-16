@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL trade tiers: Players worth Round 1 picks by team",
+      "description": "Which NFL players would be worth one first-rounder in a trade? Two? Seven?! Let's put each team's stars into value tiers, factoring in ability, positions, contracts and age.",
+      "published": "2026-07-16T10:29:16Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49354774/2026-nfl-trade-tiers-players-worth-first-round-picks-all-32-teams-contract-value",
+      "image": "https://a.espncdn.com/photo/2026/0121/nfl_top100-real-mvp_16x9_1296x729.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Who are the current NFL team owners?",
       "description": "NFL team owners carry a variety of reputations in the public eye. Who is in charge of your favorite franchises? Check out this list for more details.",
       "published": "2026-07-14T15:01:39Z",
@@ -19,7 +27,7 @@
     {
       "headline": "Execs, coaches, scouts rank top NFL quarterbacks for 2026",
       "description": "Who are the elite QBs in the NFL right now? Which passer ranks No. 1? And where do multiple top names from the 2024 draft class land on our top-10 list?",
-      "published": "2026-07-15T13:36:11Z",
+      "published": "2026-07-16T10:37:32Z",
       "url": "https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts",
       "image": "https://a.espncdn.com/photo/2026/0709/260706_nfl_fowlers-top-10-qb_16x9.jpg",
       "type": "Story"
@@ -310,14 +318,6 @@
       "published": "2026-05-21T16:16:59Z",
       "url": "https://www.espn.com/nfl/story/_/id/48817340/2026-nfl-offseason-afc-teams-best-worst-moves-trades-signings-draft-picks-contracts",
       "image": "https://a.espncdn.com/photo/2026/0520/r1661087_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "When NFL owners get involved with football decisions, results are mixed",
-      "description": "Some owners like Jeffrey Lurie and Clark Hunt helped land franchise quarterbacks, while others -- like Jimmy Haslam -- were less fortunate.",
-      "published": "2026-05-20T14:34:39Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48761066/nfl-owners-haslam-eagles-lurie-jerry-jones-cowboys-bears-mccaskey",
-      "image": "https://a.espncdn.com/photo/2026/0515/nfl_most-least-active-owners_16x9.jpg",
       "type": "Story"
     }
   ]
