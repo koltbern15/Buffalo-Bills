@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Who fell out of the NFL top-10 positional rankings in 2026?",
+      "description": "New players joined the top 10, which means others dropped out. Here's who's trying to get back.",
+      "published": "2026-07-17T10:03:03Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49344418/top-10-nfl-players-dropped-2026",
+      "image": "https://a.espncdn.com/photo/2025/0124/r1442780_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "2026 NFL trade tiers: Players worth Round 1 picks by team",
       "description": "Which NFL players would be worth one first-rounder in a trade? Two? Seven?! Let's put each team's stars into value tiers, factoring in ability, positions, contracts and age.",
       "published": "2026-07-16T16:02:58Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/video/clip/_/id/48884813/dalton-kincaid-recovering-well-pcl-injury",
       "image": "https://a.espncdn.com/media/motion/2026/0526/dm_260526_NFL_InstantAnalysis_Bills_IA/dm_260526_NFL_InstantAnalysis_Bills_IA.jpg",
       "type": "Media"
-    },
-    {
-      "headline": "2026 NFL offseason: AFC teams' best and worst deals, picks",
-      "description": "The Steelers signing Jamel Dean? Solid move. The Colts guaranteeing big money to Daniel Jones? Not so much. Let's pick out offseason highs and lows in the AFC.",
-      "published": "2026-05-21T16:16:59Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48817340/2026-nfl-offseason-afc-teams-best-worst-moves-trades-signings-draft-picks-contracts",
-      "image": "https://a.espncdn.com/photo/2026/0520/r1661087_608x342_16-9.jpg",
-      "type": "Story"
     }
   ]
 }
