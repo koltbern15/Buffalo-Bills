@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "NFL All-Backup Team: Could a roster of bench players contend?",
+      "description": "Nick Herbig rushing the passer while Martin Emerson Jr. plays in coverage? DeMario Douglas catching passes from Fernando Mendoza? Let's fill out a full roster of nonstarters.",
+      "published": "2026-07-20T10:31:42Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49391788/2026-nfl-season-all-backup-team-rosters-bench-players-barnwell",
+      "image": "https://a.espncdn.com/photo/2026/0718/r1690936_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Who fell out of the NFL top-10 positional rankings in 2026?",
       "description": "New players joined the top 10, which means others dropped out. Here's who's trying to get back.",
       "published": "2026-07-17T16:10:29Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/48816864/2026-nfl-offseason-trade-offers-best-deals-coleman-kmet-richardson-thibodeaux",
       "image": "https://a.espncdn.com/photo/2026/0509/r1655809_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Dalton Kincaid is recovering well from his PCL injury",
-      "description": "Alaina Getzenberg provides an update on Dalton Kincaid status as he recovers from a PCL injury.",
-      "published": "2026-05-26T22:15:59Z",
-      "url": "https://www.espn.com/video/clip/_/id/48884813/dalton-kincaid-recovering-well-pcl-injury",
-      "image": "https://a.espncdn.com/media/motion/2026/0526/dm_260526_NFL_InstantAnalysis_Bills_IA/dm_260526_NFL_InstantAnalysis_Bills_IA.jpg",
-      "type": "Media"
     }
   ]
 }
