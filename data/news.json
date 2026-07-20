@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Has Allen surpassed Mahomes as NFL's best QB? Stephen A. weighs in",
+      "description": "Has Allen surpassed Mahomes as NFL's best QB? Stephen A. weighs in",
+      "published": "2026-07-20T15:35:26Z",
+      "url": "https://www.espn.com/video/clip/_/id/49410332/has-allen-surpassed-mahomes-nfl-best-qb-stephen-weighs-in",
+      "image": "https://a.espncdn.com/media/motion/2026/0720/ss_20260720_112458251_3598316688/ss_20260720_112458251_3598316688.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "Betting on the Buffalo Bills in 2026: Expect victories to add up",
       "description": "Examining the Bills' outlook for 2026, the ways to bet them and our best bet going into the NFL season.",
       "published": "2026-07-20T10:50:35Z",
@@ -11,7 +19,7 @@
     {
       "headline": "NFL All-Backup Team: Could a roster of bench players contend?",
       "description": "Nick Herbig rushing the passer while Martin Emerson Jr. plays in coverage? DeMario Douglas catching passes from Fernando Mendoza? Let's fill out a full roster of nonstarters.",
-      "published": "2026-07-20T14:37:09Z",
+      "published": "2026-07-20T16:02:40Z",
       "url": "https://www.espn.com/nfl/story/_/id/49391788/2026-nfl-season-all-backup-team-rosters-bench-players-barnwell",
       "image": "https://a.espncdn.com/photo/2026/0718/r1690936_608x342_16-9.jpg",
       "type": "Story"
@@ -310,14 +318,6 @@
       "published": "2026-06-04T19:38:43Z",
       "url": "https://www.espn.com/nfl/story/_/id/48894110/2026-nfl-season-100-days-nuggets-mvp-predictions-fantasy-rookies",
       "image": "https://a.espncdn.com/photo/2026/0529/100_days_nfl_season_1296x729.png",
-      "type": "Story"
-    },
-    {
-      "headline": "Early impressions of Bills defense under Jim Leonhard",
-      "description": "Jim Leonhard is in his first NFL defensive coordinator role, but spent five years in that position at Wisconsin.",
-      "published": "2026-05-29T10:00:14Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48900580/early-impressions-buffalo-bills-new-defense-jim-leonhard",
-      "image": "https://a.espncdn.com/photo/2026/0528/r1664856_1296x729_16-9.jpg",
       "type": "Story"
     }
   ]
