@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL training camp previews, projections for all 32 teams",
+      "description": "Here are the biggest storylines as NFL teams open camp, plus 53-man roster predictions.",
+      "published": "2026-07-23T10:29:58Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49107696/2026-nfl-training-camp-preview-storylines-53-man-roster-projections",
+      "image": "https://a.espncdn.com/photo/2026/0722/nfl_training-camp_fc_16x9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "2026 Buffalo Bills training camp preview",
+      "description": "The Bills begin training camp July 29 at St. John Fisher University in Pittsford, New York. Here are key players to watch and a 53-man roster projection.",
+      "published": "2026-07-23T10:00:31Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49096995/2026-buffalo-bills-training-camp-preview",
+      "image": "https://a.espncdn.com/photo/2026/0722/r1692468_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "What is the oldest NFL stadium? Soldier to SoFi in age",
       "description": "Many different characteristics make NFL stadiums unique. Age is a hot topic among fans. Here's how stadiums stack up from oldest to newest.",
       "published": "2026-07-22T20:51:38Z",
@@ -302,22 +318,6 @@
       "published": "2026-06-22T17:09:29Z",
       "url": "https://www.espn.com/nfl/story/_/id/48387060/nfl-offseason-2026-every-32-team-otas-minicamp-key-dates",
       "image": "https://a.espncdn.com/photo/2025/0722/r1522247_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "What Buffalo's fresh-faced team showed at OTAs",
-      "description": "From position changes to injury updates, we got an initial glimpse into how things could play out for the Bills.",
-      "published": "2026-06-05T10:00:16Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48958672/buffalo-bills-oc-carmichael-offense-observations-ota",
-      "image": "https://a.espncdn.com/photo/2026/0603/r1667751_1296x729_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Football Power Index: 2026 projections, Super Bowl odds",
-      "description": "ESPN's Football Power Index ratings are live. These simulations of the 2026 season provide playoff chances, potential draft order and our 1-32 team ranking.",
-      "published": "2026-06-03T14:18:15Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48845972/2026-nfl-season-football-power-index-projections-super-bowl-chances-simulations",
-      "image": "https://a.espncdn.com/photo/2026/0527/nfl_fpi_release_16x9.jpg",
       "type": "Story"
     }
   ]
