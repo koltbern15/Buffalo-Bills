@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Buffalo Bills unveil new 'Nickel City' alternate uniforms",
+      "description": "The design is described by the team as \"a tribute to the strength, grit and authenticity of Western New York's hard-working people throughout history.\"",
+      "published": "2026-07-27T15:55:58Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49462376/buffalo-bills-alternate-uniforms-nickel-city",
+      "image": "https://a.espncdn.com/photo/2026/0727/r1694282_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Big stories of the NFL 2026 offseason, from Garrett to Kelce",
       "description": "With training camps opening across the NFL, here's a cheat sheet on what you might have missed this offseason.",
       "published": "2026-07-27T10:30:11Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/48881830/nfl-best-offenses-personnel-groupings-cowboys-rams-dolphins",
       "image": "https://a.espncdn.com/photo/2026/0609/r1670346_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Josh Allen attends Bills mandatory minicamp",
-      "description": "Alaina Getzenberg reports on Josh Allen's attendance at Bills minicamp.",
-      "published": "2026-06-09T23:48:42Z",
-      "url": "https://www.espn.com/video/clip/_/id/49014240/josh-allen-attends-bills-mandatory-minicamp",
-      "image": "https://a.espncdn.com/media/motion/2026/0609/dm_260609_bills_sc4u_16x9/dm_260609_bills_sc4u_16x9.jpg",
-      "type": "Media"
     }
   ]
 }
