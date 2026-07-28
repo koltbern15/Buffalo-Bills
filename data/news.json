@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL offseason: Top impact signings, trades, draft picks",
+      "description": "Which NFL offseason free agent signings, trade acquisitions and draft picks will have the most impact in Year 1 with their new teams? Let's rank the top 50 for 2026.",
+      "published": "2026-07-28T13:43:37Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49425098/2026-nfl-offseason-newcomers-impact-ranking-draft-trades-signings",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692814_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Buffalo Bills unveil new 'Nickel City' alternate uniforms",
       "description": "The design is described by the team as \"a tribute to the strength, grit and authenticity of Western New York's hard-working people throughout history.\"",
       "published": "2026-07-27T15:55:58Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/49022394/eagles-sign-aj-epenesa-months-browns-balked-deal",
       "image": "https://a.espncdn.com/photo/2026/0122/r1604125_1296x729_16-9.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "Best NFL offenses in 11, 12, 13, 21, 22 personnel groupings",
-      "description": "Which teams stand out in 11, 12, 13, 21 and 22 personnel groupings? We looked back at the 2025 season and then gave an outlook for the top offenses in 2026.",
-      "published": "2026-06-10T16:11:58Z",
-      "url": "https://www.espn.com/nfl/story/_/id/48881830/nfl-best-offenses-personnel-groupings-cowboys-rams-dolphins",
-      "image": "https://a.espncdn.com/photo/2026/0609/r1670346_608x342_16-9.jpg",
-      "type": "Story"
     }
   ]
 }
