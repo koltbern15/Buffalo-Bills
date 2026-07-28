@@ -1,6 +1,17 @@
 {
   "injuries": [
     {
+      "status": "Out",
+      "type": "out",
+      "detail": "Knee - ACL",
+      "date": "2026-07-28T21:17Z",
+      "athlete": {
+        "name": "Tyrell Shavers",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-07-14T22:33Z",
@@ -492,17 +503,6 @@
         "name": "Michael Hoecht",
         "position": "DE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4033234.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Knee - ACL",
-      "date": "2026-02-11T21:04Z",
-      "athlete": {
-        "name": "Tyrell Shavers",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
       }
     },
     {
