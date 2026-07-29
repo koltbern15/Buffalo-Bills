@@ -445,6 +445,7 @@
         {
           "id": "4613050",
           "name": "Quentin Skinner",
+          "jersey": "82",
           "position": "WR",
           "age": 24,
           "height": "6' 5\"",
@@ -456,6 +457,7 @@
         {
           "id": "4878956",
           "name": "Max Tomczak",
+          "jersey": "80",
           "position": "WR",
           "height": "6' 0\"",
           "weight": "195 lbs",
@@ -526,11 +528,12 @@
         {
           "id": "4579554",
           "name": "Ian Wheeler",
+          "jersey": "27",
           "position": "RB",
           "age": 24,
-          "height": "5' 10\"",
-          "weight": "206 lbs",
-          "experience": 3,
+          "height": "5' 11\"",
+          "weight": "205 lbs",
+          "experience": 2,
           "college": "Howard",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4579554.png"
         },
