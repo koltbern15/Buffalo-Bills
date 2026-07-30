@@ -1,6 +1,16 @@
 {
   "injuries": [
     {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-07-30T21:27Z",
+      "athlete": {
+        "name": "Tyler Bass",
+        "position": "PK",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
+      }
+    },
+    {
       "status": "Out",
       "type": "out",
       "detail": "Knee - ACL",
@@ -351,17 +361,6 @@
         "name": "TJ Parker",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4870886.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Pelvis",
-      "date": "2026-04-21T19:02Z",
-      "athlete": {
-        "name": "Tyler Bass",
-        "position": "PK",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
       }
     },
     {
