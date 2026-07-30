@@ -541,16 +541,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-02-11T01:09Z",
-      "athlete": {
-        "name": "Jalen Virgil",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036448.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-02-03T18:35Z",
       "athlete": {
         "name": "Deone Walker",
@@ -606,6 +596,16 @@
         "name": "Keleki Latu",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688552.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-01-13T20:40Z",
+      "athlete": {
+        "name": "Nick Broeker",
+        "position": "G",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426498.png"
       }
     }
   ]
