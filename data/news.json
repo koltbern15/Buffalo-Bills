@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "2026 Buffalo Bills training camp: Latest intel, updates",
+      "description": "Follow our daily updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
+      "published": "2026-07-30T19:19:18Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695652_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "2026 NFL training camp: Latest news, intel for all 32 teams",
       "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
       "published": "2026-07-30T16:42:34Z",
@@ -15,14 +23,6 @@
       "url": "https://www.espn.com/video/clip/_/id/49483630/josh-allen-wants-people-stop-hating-bills-new-jerseys",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0729/ss_20260729_185539649_3606960/ss_20260729_185539649_3606960.jpg",
       "type": "Media"
-    },
-    {
-      "headline": "2026 Buffalo Bills training camp: Latest intel, updates",
-      "description": "Follow our daily updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
-      "published": "2026-07-29T22:40:03Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates",
-      "image": "https://a.espncdn.com/photo/2026/0729/r1695281_1296x729_16-9.jpg",
-      "type": "Story"
     },
     {
       "headline": "Josh Allen on Bills' alternate uniforms: 'Stop hating on the jerseys'",
