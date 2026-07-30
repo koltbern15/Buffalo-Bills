@@ -1,9 +1,25 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL training camp: Latest news, intel for all 32 teams",
+      "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
+      "published": "2026-07-29T23:45:38Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
+      "image": "https://a.espncdn.com/photo/2026/0729/r1695144_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Josh Allen wants people to 'stop hating' on Bills' new jerseys",
+      "description": "Josh Allen wants people to 'stop hating' on Bills' new jerseys",
+      "published": "2026-07-29T23:01:39Z",
+      "url": "https://www.espn.com/video/clip/_/id/49483630/josh-allen-wants-people-stop-hating-bills-new-jerseys",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0729/ss_20260729_185539649_3606960/ss_20260729_185539649_3606960.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "2026 Buffalo Bills training camp: Latest intel, updates",
       "description": "Follow our daily updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
-      "published": "2026-07-29T21:11:24Z",
+      "published": "2026-07-29T22:40:03Z",
       "url": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates",
       "image": "https://a.espncdn.com/photo/2026/0729/r1695281_1296x729_16-9.jpg",
       "type": "Story"
@@ -11,7 +27,7 @@
     {
       "headline": "Josh Allen on Bills' alternate uniforms: 'Stop hating on the jerseys'",
       "description": "Josh Allen defended the Bills' widely panned alternate uniforms, saying the franchise has to \"move forward and do something new.\"",
-      "published": "2026-07-29T19:07:55Z",
+      "published": "2026-07-29T23:02:02Z",
       "url": "https://www.espn.com/nfl/story/_/id/49481725/josh-allen-bills-alternate-uniforms-stop-hating-jerseys",
       "image": "https://a.espncdn.com/photo/2026/0728/r1694804_1296x729_16-9.jpg",
       "type": "HeadlineNews"
@@ -302,22 +318,6 @@
       "published": "2026-06-18T16:21:31Z",
       "url": "https://www.espn.com/nfl/story/_/id/49096789/2026-nfl-offseason-final-moves-trades-signings-extensions-32-teams",
       "image": "https://a.espncdn.com/photo/2026/0617/r1674983_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Four things we learned from Bills minicamp",
-      "description": "Three days of mandatory minicamp offered the clearest insight yet of where the team stands with the season drawing closer.",
-      "published": "2026-06-17T12:51:30Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49084401/buffalo-bills-minicamp-learning-left-guard-james-cook",
-      "image": "https://a.espncdn.com/photo/2026/0616/r1674351_1296x729_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Knicks' victory takes them off the list of longest title droughts",
-      "description": "Before Saturday night, the last time the Knicks won a title was 1973.",
-      "published": "2026-06-14T16:11:10Z",
-      "url": "https://www.espn.com/nba/story/_/id/49054611/longest-title-droughts-nba-finals-mlb-world-series-nfl-super-bowl-nhl-stanley-cup",
-      "image": "https://a.espncdn.com/photo/2026/0614/r1672795_1296x729_16-9.jpg",
       "type": "Story"
     }
   ]
