@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-07-30T22:55Z",
+      "athlete": {
+        "name": "Dante Pettis",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127306.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-07-30T21:27Z",
       "athlete": {
         "name": "Tyler Bass",
@@ -595,16 +605,6 @@
         "name": "Keleki Latu",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688552.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-01-13T20:40Z",
-      "athlete": {
-        "name": "Nick Broeker",
-        "position": "G",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426498.png"
       }
     }
   ]

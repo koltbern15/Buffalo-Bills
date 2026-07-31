@@ -395,6 +395,17 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
         },
         {
+          "id": "3127306",
+          "name": "Dante Pettis",
+          "position": "WR",
+          "age": 30,
+          "height": "6' 1\"",
+          "weight": "195 lbs",
+          "experience": 7,
+          "college": "Washington",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127306.png"
+        },
+        {
           "id": "4606712",
           "name": "Ar'maj Reed-Adams",
           "jersey": "60",
