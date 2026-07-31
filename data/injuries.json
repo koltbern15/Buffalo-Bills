@@ -3,16 +3,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-07-31T15:34Z",
-      "athlete": {
-        "name": "Wande Owens",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573684.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-07-30T22:55Z",
       "athlete": {
         "name": "Dante Pettis",
@@ -604,6 +594,16 @@
         "name": "Keleki Latu",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688552.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-01-13T20:40Z",
+      "athlete": {
+        "name": "Nick Broeker",
+        "position": "G",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426498.png"
       }
     }
   ]

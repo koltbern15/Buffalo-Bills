@@ -926,6 +926,17 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241468.png"
         },
         {
+          "id": "4569032",
+          "name": "D.J. Miller",
+          "position": "CB",
+          "age": 25,
+          "height": "5' 10\"",
+          "weight": "185 lbs",
+          "experience": 2,
+          "college": "Kent State",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4569032.png"
+        },
+        {
           "id": "4039303",
           "name": "Ed Oliver",
           "jersey": "91",
@@ -936,18 +947,6 @@
           "experience": 8,
           "college": "Houston",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
-        },
-        {
-          "id": "4573684",
-          "name": "Wande Owens",
-          "jersey": "30",
-          "position": "S",
-          "age": 25,
-          "height": "5' 11\"",
-          "weight": "205 lbs",
-          "experience": 2,
-          "college": "New Hampshire",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573684.png"
         },
         {
           "id": "4870886",
