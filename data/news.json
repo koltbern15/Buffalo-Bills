@@ -1,9 +1,17 @@
 {
   "articles": [
     {
+      "headline": "Anatomy of an NFL holdout: What it's like for players, agents, teams",
+      "description": "Holdouts can be brutal. Here are some notable stories from each side of the bargaining table.",
+      "published": "2026-07-30T20:54:48Z",
+      "url": "https://www.espn.com/nfl/story/_/id/45789518/nfl-training-camp-holdouts-trey-hendrickson-terry-mclaurin",
+      "image": "https://a.espncdn.com/photo/2025/1019/r1562688_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "2026 Buffalo Bills training camp: Latest intel, updates",
       "description": "Follow our daily updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
-      "published": "2026-07-30T19:19:18Z",
+      "published": "2026-07-30T21:27:01Z",
       "url": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates",
       "image": "https://a.espncdn.com/photo/2026/0730/r1695652_1296x729_16-9.jpg",
       "type": "Story"
@@ -310,14 +318,6 @@
       "published": "2026-06-18T21:40:07Z",
       "url": "https://www.espn.com/nfl/story/_/id/48950554/2026-nfl-minicamp-live-updates-teams-mandatory-camps-news-notes-depth-charts",
       "image": "https://a.espncdn.com/photo/2026/0618/r1675659_1296x729_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Final NFL offseason moves for 32 teams: Trades, signings, more",
-      "description": "The Chiefs sign Deebo Samuel?  The Cardinals trade Josh Sweat? The Buccaneers extend Baker Mayfield? We have one more move for each team to make before the season.",
-      "published": "2026-06-18T16:21:31Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49096789/2026-nfl-offseason-final-moves-trades-signings-extensions-32-teams",
-      "image": "https://a.espncdn.com/photo/2026/0617/r1674983_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
