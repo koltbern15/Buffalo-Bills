@@ -1,6 +1,17 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Lower Leg",
+      "date": "2026-08-01T14:20Z",
+      "athlete": {
+        "name": "C.J. Gardner-Johnson",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-07-30T22:55Z",
@@ -401,16 +412,6 @@
         "name": "Geno Stone",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240575.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-03-12T23:16Z",
-      "athlete": {
-        "name": "C.J. Gardner-Johnson",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
       }
     },
     {
