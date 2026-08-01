@@ -397,11 +397,12 @@
         {
           "id": "3127306",
           "name": "Dante Pettis",
+          "jersey": "87",
           "position": "WR",
           "age": 30,
           "height": "6' 1\"",
           "weight": "195 lbs",
-          "experience": 7,
+          "experience": 8,
           "college": "Washington",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127306.png"
         },
@@ -928,11 +929,12 @@
         {
           "id": "4569032",
           "name": "D.J. Miller",
+          "jersey": "46",
           "position": "CB",
           "age": 25,
           "height": "5' 10\"",
           "weight": "185 lbs",
-          "experience": 2,
+          "experience": 1,
           "college": "Kent State",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4569032.png"
         },
