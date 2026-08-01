@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Bills safety Gardner-Johnson carted off with leg injury",
+      "description": "Bills safety C.J. Gardner-Johnson was carted to the locker room after suffering a lower-body injury during Saturday's training camp practice.",
+      "published": "2026-08-01T16:02:45Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49505167/bills-safety-gardner-johnson-carted-leg-injury",
+      "image": "https://a.espncdn.com/photo/2026/0801/r1696313_600x400_3-2.jpg",
+      "type": "HeadlineNews"
+    },
+    {
       "headline": "2026 NFL training camp: Latest news, intel for all 32 teams",
       "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
       "published": "2026-07-31T22:14:42Z",
@@ -310,14 +318,6 @@
       "published": "2026-06-23T21:58:37Z",
       "url": "https://www.espn.com/nfl/story/_/id/49156845/buffalo-bills-highmark-stadium-ribbon-cutting-ceremony",
       "image": "https://a.espncdn.com/photo/2026/0623/r1678361_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "2026 NFL offseason: Biggest surprise players on each team",
-      "description": "From rookies to veterans, here are the players who have made an early impression on every NFL team ahead of training camp.",
-      "published": "2026-06-22T15:48:11Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49108128/nfl-2026-biggest-surprise-players-every-team-offseason",
-      "image": "https://a.espncdn.com/photo/2026/0618/r1675721_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
