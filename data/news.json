@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Bills dodge injury scare",
+      "description": "C.J. Gardner Johnson avoids a serious injury after tests reveal a lower calf strain.",
+      "published": "2026-08-02T06:58:19Z",
+      "url": "https://www.espn.com/video/clip/_/id/49510846/bills-dodge-injury-scare",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0802/dm_260802_Bills_dodge_injury_scare/dm_260802_Bills_dodge_injury_scare.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "2026 NFL training camp: Latest news, intel for all 32 teams",
       "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
       "published": "2026-08-01T23:39:24Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/49157990/bills-great-jim-kelly-says-recently-had-stroke-feels-good",
       "image": "https://a.espncdn.com/photo/2026/0623/r1678425_1296x729_16-9.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "Bills give a look inside new Highmark Stadium at ribbon-cutting ceremony",
-      "description": "Buffalo's new home features a natural grass field, the world's largest stadium snow-melt system and wind-reducing technology.",
-      "published": "2026-06-23T21:58:37Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49156845/buffalo-bills-highmark-stadium-ribbon-cutting-ceremony",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678361_608x342_16-9.jpg",
-      "type": "Story"
     }
   ]
 }
