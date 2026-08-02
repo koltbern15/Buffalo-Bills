@@ -1,20 +1,28 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL training camp: Latest news, intel for all 32 teams",
+      "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
+      "published": "2026-08-02T16:10:09Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
+      "image": "https://a.espncdn.com/photo/2026/0802/r1696707_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Gardner-Johnson pays off $20,000 of Bills staffer's student loans",
+      "description": "During a Twitch stream Thursday, the Bills' safety gave a huge gift to a graduate student working with the team's training staff.",
+      "published": "2026-08-02T16:05:51Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49509353/cj-gardner-johnson-buffalo-bills-student-loans-20000-twitch-stream",
+      "image": "https://a.espncdn.com/photo/2026/0802/r1696572_1296x729_16-9.png",
+      "type": "Story"
+    },
+    {
       "headline": "Bills dodge injury scare",
       "description": "C.J. Gardner Johnson avoids a serious injury after tests reveal a lower calf strain.",
       "published": "2026-08-02T06:58:19Z",
       "url": "https://www.espn.com/video/clip/_/id/49510846/bills-dodge-injury-scare",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0802/dm_260802_Bills_dodge_injury_scare/dm_260802_Bills_dodge_injury_scare.jpg",
       "type": "Media"
-    },
-    {
-      "headline": "2026 NFL training camp: Latest news, intel for all 32 teams",
-      "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
-      "published": "2026-08-01T23:39:24Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
-      "image": "https://a.espncdn.com/photo/2026/0801/r1696508_608x342_16-9.jpg",
-      "type": "Story"
     },
     {
       "headline": "2026 Buffalo Bills training camp: Latest intel, updates",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/49153923/2026-nfl-contract-extensions-signings-negotiations-all-32-teams",
       "image": "https://a.espncdn.com/photo/2026/0623/r1678195_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Bills great Jim Kelly says he recently had stroke but feels 'good'",
-      "description": "Jim Kelly said he suffered a stroke this spring and subsequently spent a few days in the hospital, but added that he currently feels \"really good.\"",
-      "published": "2026-06-23T22:51:52Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49157990/bills-great-jim-kelly-says-recently-had-stroke-feels-good",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678425_1296x729_16-9.jpg",
-      "type": "HeadlineNews"
     }
   ]
 }
