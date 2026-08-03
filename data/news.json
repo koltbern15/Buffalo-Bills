@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL training camp: Position battles on each depth chart",
+      "description": "We picked the top position battles to keep an eye on as training camp and the preseason roll on.",
+      "published": "2026-08-03T10:00:11Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49513914/2026-nfl-training-camp-position-battles-afc-nfc",
+      "image": "https://a.espncdn.com/photo/2026/0731/nfl_training-camp-battles_16x9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "2026 NFL training camp: Latest news, intel for all 32 teams",
       "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
       "published": "2026-08-03T01:38:42Z",
@@ -310,14 +318,6 @@
       "published": "2026-06-25T15:55:32Z",
       "url": "https://www.espn.com/nfl/story/_/id/49154825/ranking-nfl-teams-offensive-groups-wr-rb-te-2026-season-best-playmakers",
       "image": "https://a.espncdn.com/photo/2026/0624/nfl-barnwell-rank_16x9_1296x729.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "2026 NFL contract extension updates for all 32 teams",
-      "description": "Our reporters have the latest buzz on 32 contract extension candidates -- one from every team -- and their potential new deals.",
-      "published": "2026-06-24T19:45:07Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49153923/2026-nfl-contract-extensions-signings-negotiations-all-32-teams",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678195_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
