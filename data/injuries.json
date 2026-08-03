@@ -1,10 +1,9 @@
 {
   "injuries": [
     {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Calf",
-      "date": "2026-08-03T21:07Z",
+      "status": "Active",
+      "type": "active",
+      "date": "2026-08-03T22:19Z",
       "athlete": {
         "name": "C.J. Gardner-Johnson",
         "position": "S",
