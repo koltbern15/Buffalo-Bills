@@ -1,6 +1,17 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Lower Body",
+      "date": "2026-08-04T22:26Z",
+      "athlete": {
+        "name": "Dorian Williams",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568624.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-08-04T22:18Z",
@@ -170,17 +181,6 @@
         "name": "Joshua Palmer",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Lower Body",
-      "date": "2026-06-09T23:51Z",
-      "athlete": {
-        "name": "Dorian Williams",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568624.png"
       }
     },
     {
