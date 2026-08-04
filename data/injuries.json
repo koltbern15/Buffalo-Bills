@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-08-04T17:58Z",
+      "athlete": {
+        "name": "Landon Jackson",
+        "position": "DE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432715.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-08-04T13:52Z",
       "athlete": {
         "name": "Ray Davis",
@@ -139,17 +149,6 @@
         "name": "Joshua Palmer",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Knee",
-      "date": "2026-06-10T20:43Z",
-      "athlete": {
-        "name": "Cole Bishop",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4676004.png"
       }
     },
     {
@@ -516,17 +515,6 @@
       }
     },
     {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Knee",
-      "date": "2026-02-11T21:04Z",
-      "athlete": {
-        "name": "Landon Jackson",
-        "position": "DE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432715.png"
-      }
-    },
-    {
       "status": "Active",
       "type": "active",
       "date": "2026-02-11T01:19Z",
@@ -604,6 +592,16 @@
         "name": "Nick Broeker",
         "position": "G",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426498.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-01-07T02:58Z",
+      "athlete": {
+        "name": "Christian Benford",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379778.png"
       }
     }
   ]
