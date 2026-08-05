@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Proposing five big trades during 2026 NFL training camps",
+      "description": "NFL rosters are mostly locked in for 2026, but we crafted five potential win-win deals that teams should consider making before Week 1.",
+      "published": "2026-08-05T10:21:00Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49489688/2026-nfl-training-camps-five-trade-offers-proposals-49ers-patriots-commanders-cardinals-colts",
+      "image": "https://a.espncdn.com/photo/2026/0803/r1697137_2_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "2026 Buffalo Bills training camp: Latest intel, updates",
       "description": "Follow our daily updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
       "published": "2026-08-05T02:37:49Z",
@@ -31,14 +39,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/49509353/cj-gardner-johnson-buffalo-bills-student-loans-20000-twitch-stream",
       "image": "https://a.espncdn.com/photo/2026/0802/r1696572_1296x729_16-9.png",
       "type": "Story"
-    },
-    {
-      "headline": "Bills dodge injury scare",
-      "description": "C.J. Gardner Johnson avoids a serious injury after tests reveal a lower calf strain.",
-      "published": "2026-08-02T06:58:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/49510846/bills-dodge-injury-scare",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0802/dm_260802_Bills_dodge_injury_scare/dm_260802_Bills_dodge_injury_scare.jpg",
-      "type": "Media"
     },
     {
       "headline": "Source: Bills S C.J. Gardner-Johnson has lower calf strain",
