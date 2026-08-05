@@ -1,14 +1,6 @@
 {
   "articles": [
     {
-      "headline": "Proposing five big trades during 2026 NFL training camps",
-      "description": "NFL rosters are mostly locked in for 2026, but we crafted five potential win-win deals that teams should consider making before Week 1.",
-      "published": "2026-08-05T10:21:00Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49489688/2026-nfl-training-camps-five-trade-offers-proposals-49ers-patriots-commanders-cardinals-colts",
-      "image": "https://a.espncdn.com/photo/2026/0803/r1697137_2_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
       "headline": "2026 Buffalo Bills training camp: Latest intel, updates",
       "description": "Follow our daily updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
       "published": "2026-08-05T02:37:49Z",
@@ -318,6 +310,14 @@
       "published": "2026-06-25T15:55:32Z",
       "url": "https://www.espn.com/nfl/story/_/id/49154825/ranking-nfl-teams-offensive-groups-wr-rb-te-2026-season-best-playmakers",
       "image": "https://a.espncdn.com/photo/2026/0624/nfl-barnwell-rank_16x9_1296x729.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "2026 NFL contract extension updates for all 32 teams",
+      "description": "Our reporters have the latest buzz on 32 contract extension candidates -- one from every team -- and their potential new deals.",
+      "published": "2026-06-24T19:45:07Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49153923/2026-nfl-contract-extensions-signings-negotiations-all-32-teams",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678195_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
