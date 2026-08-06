@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL training camp: Latest news, intel for all 32 teams",
+      "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
+      "published": "2026-08-06T00:00:58Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1698113_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Proposing five big trades during 2026 NFL training camps",
       "description": "NFL rosters are mostly locked in for 2026, but we crafted five potential win-win deals teams should consider making before Week 1.",
       "published": "2026-08-05T19:27:49Z",
@@ -14,14 +22,6 @@
       "published": "2026-08-05T02:37:49Z",
       "url": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates",
       "image": "https://a.espncdn.com/photo/2026/0805/r1697774_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "2026 NFL training camp: Latest news, intel for all 32 teams",
-      "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
-      "published": "2026-08-04T07:05:31Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
-      "image": "https://a.espncdn.com/photo/2026/0803/r1697181_1296x729_16-9.jpg",
       "type": "Story"
     },
     {
