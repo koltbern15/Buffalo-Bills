@@ -46,6 +46,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-08-04T20:10Z",
+      "athlete": {
+        "name": "Cole Bishop",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4676004.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-08-04T13:52Z",
       "athlete": {
         "name": "Ray Davis",
@@ -152,6 +162,17 @@
         "name": "Ian Wheeler",
         "position": "RB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4579554.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Neck",
+      "date": "2026-06-12T21:21Z",
+      "athlete": {
+        "name": "Dorian Strong",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568703.png"
       }
     },
     {
@@ -581,26 +602,6 @@
         "name": "Nick Broeker",
         "position": "G",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426498.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-01-07T02:58Z",
-      "athlete": {
-        "name": "Christian Benford",
-        "position": "CB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379778.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2025-11-24T04:13Z",
-      "athlete": {
-        "name": "T.J. Sanders",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
       }
     }
   ]
