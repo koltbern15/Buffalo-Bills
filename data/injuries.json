@@ -3,6 +3,17 @@
     {
       "status": "Questionable",
       "type": "questionable",
+      "detail": "Knee",
+      "date": "2026-08-06T03:10Z",
+      "athlete": {
+        "name": "Ben VanSumeren",
+        "position": "FB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372070.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
       "detail": "Lower Body",
       "date": "2026-08-04T22:26Z",
       "athlete": {
@@ -290,17 +301,6 @@
       "athlete": {
         "name": "Ja'Mori Maclin",
         "position": "WR"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Knee",
-      "date": "2026-04-29T23:59Z",
-      "athlete": {
-        "name": "Ben VanSumeren",
-        "position": "FB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372070.png"
       }
     },
     {
