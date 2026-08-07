@@ -1,6 +1,26 @@
 {
   "injuries": [
     {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-08-06T22:13Z",
+      "athlete": {
+        "name": "Demetrius Flannigan-Fowles",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3931424.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-08-06T22:08Z",
+      "athlete": {
+        "name": "C.J. Gardner-Johnson",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
+      }
+    },
+    {
       "status": "Questionable",
       "type": "questionable",
       "detail": "Knee",
@@ -61,16 +81,6 @@
         "name": "Ray Davis",
         "position": "RB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-08-03T22:19Z",
-      "athlete": {
-        "name": "C.J. Gardner-Johnson",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
       }
     },
     {
@@ -212,16 +222,6 @@
         "name": "Mac Dalena",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431053.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-05-27T20:37Z",
-      "athlete": {
-        "name": "Demetrius Flannigan-Fowles",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3931424.png"
       }
     },
     {

@@ -735,18 +735,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4594321.png"
         },
         {
-          "id": "3931424",
-          "name": "Demetrius Flannigan-Fowles",
-          "jersey": "50",
-          "position": "LB",
-          "age": 29,
-          "height": "6' 2\"",
-          "weight": "223 lbs",
-          "experience": 6,
-          "college": "Arizona",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3931424.png"
-        },
-        {
           "id": "4044133",
           "name": "Sam Franklin Jr.",
           "jersey": "28",
@@ -975,6 +963,17 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4698598.png"
         },
         {
+          "id": "4379411",
+          "name": "Otis Reese",
+          "position": "LB",
+          "age": 28,
+          "height": "6' 3\"",
+          "weight": "228 lbs",
+          "experience": 3,
+          "college": "Ole Miss",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379411.png"
+        },
+        {
           "id": "4362506",
           "name": "Greg Rousseau",
           "jersey": "15",
@@ -1116,6 +1115,18 @@
     {
       "position": "injuredReserveOrOut",
       "items": [
+        {
+          "id": "3931424",
+          "name": "Demetrius Flannigan-Fowles",
+          "jersey": "50",
+          "position": "LB",
+          "age": 29,
+          "height": "6' 2\"",
+          "weight": "223 lbs",
+          "experience": 6,
+          "college": "Arizona",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3931424.png"
+        },
         {
           "id": "4568703",
           "name": "Dorian Strong",
