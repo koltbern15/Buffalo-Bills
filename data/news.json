@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Bills agree to 4-year, $78.4M deal with RG O'Cyrus Torrence",
+      "description": "The Bills have reached an agreement with right guard O'Cyrus Torrence on a four-year, $78.4 million extension that includes $46 million guaranteed, his agents told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
+      "published": "2026-08-07T13:23:57Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49552831/bills-agree-4-year-784m-deal-rg-ocyrus-torrence",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698743_600x400_3-2.jpg",
+      "type": "HeadlineNews"
+    },
+    {
       "headline": "2026 NFL training camp: Latest news, intel for all 32 teams",
       "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
       "published": "2026-08-06T23:01:27Z",
@@ -310,14 +318,6 @@
       "published": "2026-06-30T15:40:06Z",
       "url": "https://www.espn.com/nfl/story/_/id/49147104/nfl-offseason-grades-2026-free-agency-draft-trades-extensions-coaching-changes",
       "image": "https://a.espncdn.com/photo/2026/0629/2026_nfl_offseason_grades_608x342.png",
-      "type": "Story"
-    },
-    {
-      "headline": "2026 NFL rookie updates: Tracking all first-round draft picks",
-      "description": "Ahead of training camp, our NFL Nation reporters weigh in on how the 2026 draft class has looked.",
-      "published": "2026-06-29T14:23:35Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49167327/nfl-2026-first-round-draft-picks-impression",
-      "image": "https://a.espncdn.com/photo/2026/0625/r1679494_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
