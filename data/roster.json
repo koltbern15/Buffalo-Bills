@@ -224,7 +224,7 @@
           "weight": "300 lbs",
           "experience": 0,
           "college": "Duke",
-          "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4570706.png"
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4570706.png"
         },
         {
           "id": "4429805",
@@ -964,11 +964,12 @@
         },
         {
           "id": "4379411",
-          "name": "Otis Reese",
+          "name": "Otis Reese IV",
+          "jersey": "30",
           "position": "LB",
           "age": 28,
           "height": "6' 3\"",
-          "weight": "228 lbs",
+          "weight": "214 lbs",
           "experience": 3,
           "college": "Ole Miss",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379411.png"
