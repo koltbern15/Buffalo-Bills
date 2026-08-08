@@ -1,9 +1,17 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL training camp: Latest news, intel for all 32 teams",
+      "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
+      "published": "2026-08-07T23:24:40Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698863_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "2026 Buffalo Bills training camp: Latest intel, updates",
       "description": "Follow our daily updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
-      "published": "2026-08-07T21:24:24Z",
+      "published": "2026-08-07T22:52:13Z",
       "url": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates",
       "image": "https://a.espncdn.com/photo/2026/0807/r1698926_1296x729_16-9.jpg",
       "type": "Story"
@@ -15,14 +23,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/49552831/bills-agree-4-year-784m-deal-rg-ocyrus-torrence",
       "image": "https://a.espncdn.com/photo/2026/0807/r1698743_600x400_3-2.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "2026 NFL training camp: Latest news, intel for all 32 teams",
-      "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
-      "published": "2026-08-06T23:01:27Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698567_1296x729_16-9.jpg",
-      "type": "Story"
     },
     {
       "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
