@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-08-09T18:52Z",
+      "athlete": {
+        "name": "Skyler Bell",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-08-09T01:05Z",
       "athlete": {
         "name": "Connor McGovern",
@@ -371,16 +381,6 @@
         "name": "Kaleb Elarms-Orr",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4594321.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-04-25T17:32Z",
-      "athlete": {
-        "name": "Skyler Bell",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
       }
     },
     {
