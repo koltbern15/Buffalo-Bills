@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-08-09T01:05Z",
+      "athlete": {
+        "name": "Connor McGovern",
+        "position": "C",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4033748.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-08-09T00:14Z",
       "athlete": {
         "name": "Ty Johnson",
@@ -471,16 +481,6 @@
         "name": "Dee Alford",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4401823.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-03-07T22:32Z",
-      "athlete": {
-        "name": "Connor McGovern",
-        "position": "C",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4033748.png"
       }
     },
     {
