@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL training camp: Latest news, intel for all 32 teams",
+      "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
+      "published": "2026-08-09T17:56:41Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
+      "image": "https://a.espncdn.com/photo/2026/0809/r1699584_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Bills get a first glimpse of Highmark Stadium",
       "description": "Alaina Getzenberg breaks down the Buffalo Bills' first practice in their new stadium.",
       "published": "2026-08-09T14:16:09Z",
@@ -14,14 +22,6 @@
       "published": "2026-08-09T04:04:23Z",
       "url": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates",
       "image": "https://a.espncdn.com/photo/2026/0809/r1699402_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "2026 NFL training camp: Latest news, intel for all 32 teams",
-      "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
-      "published": "2026-08-09T01:44:36Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699236_608x342_16-9.jpg",
       "type": "Story"
     },
     {
