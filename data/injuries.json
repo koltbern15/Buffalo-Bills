@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-08-09T00:14Z",
+      "athlete": {
+        "name": "Ty Johnson",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-08-06T22:13Z",
       "athlete": {
         "name": "Demetrius Flannigan-Fowles",
@@ -222,16 +232,6 @@
         "name": "Mac Dalena",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431053.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-05-27T18:01Z",
-      "athlete": {
-        "name": "Ty Johnson",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
       }
     },
     {
