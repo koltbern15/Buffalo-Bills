@@ -9,7 +9,7 @@
   "weather": {
     "latitude": 42.764954,
     "longitude": -78.79994,
-    "generationtime_ms": 2.0962953567504883,
+    "generationtime_ms": 1053.1796216964722,
     "utc_offset_seconds": -14400,
     "timezone": "America/New_York",
     "timezone_abbreviation": "GMT-4",
