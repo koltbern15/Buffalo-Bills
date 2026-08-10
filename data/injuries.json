@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-08-10T18:24Z",
+      "athlete": {
+        "name": "Dorian Williams",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568624.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-08-09T18:52Z",
       "athlete": {
         "name": "Skyler Bell",
@@ -59,17 +69,6 @@
         "name": "Ben VanSumeren",
         "position": "FB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372070.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Lower Body",
-      "date": "2026-08-04T22:26Z",
-      "athlete": {
-        "name": "Dorian Williams",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568624.png"
       }
     },
     {
