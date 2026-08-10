@@ -3,18 +3,10 @@
     {
       "headline": "2026 NFL training camp: Latest news, intel for all 32 teams",
       "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
-      "published": "2026-08-10T19:52:09Z",
+      "published": "2026-08-10T14:55:20Z",
       "url": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1700051_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1699795_1296x729_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Josh Allen to McAfee: Bills' new stadium is 'unbelievable'",
-      "description": "Josh Allen to McAfee: Bills' new stadium is 'unbelievable'",
-      "published": "2026-08-10T18:27:40Z",
-      "url": "https://www.espn.com/video/clip/_/id/49576109/bills-new-stadium-unbelievable",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0810/ss_20260810_141728724_3619575/ss_20260810_141728724_3619575.jpg",
-      "type": "Media"
     },
     {
       "headline": "Bills get a first glimpse of Highmark Stadium",
@@ -319,6 +311,14 @@
       "url": "https://www.espn.com/video/clip/_/id/49268113/jeremy-fowler-takeaways-top-10-nfl-rbs",
       "image": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_NFL_fowler_top10rbs/dm_260704_NFL_fowler_top10rbs.jpg",
       "type": "Media"
+    },
+    {
+      "headline": "Which U.S. area has best NFL players? Eight teams, Cup winner",
+      "description": "Enjoying the World Cup? Well, what if NFL players were divided by where they are from and had a similar tournament? We made eight rosters and played it out.",
+      "published": "2026-07-02T10:26:03Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49226040/2026-nfl-domestic-cup-american-football-united-states-barnwell-texas-florida-california",
+      "image": "https://a.espncdn.com/photo/2026/0629/nfl_barnwell_regional_cup_16x9.jpg",
+      "type": "Story"
     }
   ]
 }
