@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL training camp news, buzz, fantasy football updates",
+      "description": "Here's what we heard on the road at training camp for the 49ers, Bengals, Bills, Browns, Cowboys, Eagles, Jets, Raiders, Ravens, Seahawks and Steelers.",
+      "published": "2026-08-11T10:18:44Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49574464/2026-nfl-training-camp-updates-buzz-notes-news-fantasy-football",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1700011_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "2026 NFL training camp: Latest news, intel for all 32 teams",
       "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
       "published": "2026-08-11T00:25:11Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/49145576/ranking-nfl-top-10-running-backs-2026-execs-coaches-scouts",
       "image": "https://a.espncdn.com/photo/2026/0702/260706_nfl_1fowlers-top-10-rb_16x9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Jeremy Fowler's takeaways from the top-10 NFL QBs",
-      "description": "Jeremy Fowler's takeaways from the top-10 NFL QBs",
-      "published": "2026-07-12T14:50:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49268323/jeremy-fowler-takeaways-top-10-nfl-qbs",
-      "image": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_nfl_fowler_top10qbs/dm_260704_nfl_fowler_top10qbs.jpg",
-      "type": "Media"
     }
   ]
 }
