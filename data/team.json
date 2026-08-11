@@ -887,12 +887,12 @@
           "tickets": [
             {
               "id": "6585211",
-              "summary": "Tickets as low as $60",
+              "summary": "Tickets as low as $59",
               "description": "NFL Preseason - Carolina Panthers at Buffalo Bills",
-              "maxPrice": 2769.48,
-              "startingPrice": 60.13,
-              "numberAvailable": 6968,
-              "totalPostings": 2207,
+              "maxPrice": 2658.3,
+              "startingPrice": 59.9,
+              "numberAvailable": 7000,
+              "totalPostings": 2213,
               "links": [
                 {
                   "rel": [
