@@ -1,20 +1,28 @@
 {
   "articles": [
     {
-      "headline": "Bills to address 'internal and external feedback' on new stadium",
-      "description": "The Bills have responded to a group of fans expressing some frustration with sightlines from certain areas of the team's new Highmark Stadium.",
-      "published": "2026-08-10T22:03:49Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49577679/bills-address-internal-external-feedback-new-stadium",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1700117_600x400_3-2.jpg",
-      "type": "HeadlineNews"
-    },
-    {
       "headline": "2026 NFL training camp: Latest news, intel for all 32 teams",
       "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
-      "published": "2026-08-10T19:52:09Z",
+      "published": "2026-08-11T00:25:11Z",
       "url": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
       "image": "https://a.espncdn.com/photo/2026/0810/r1700051_1296x729_16-9.jpg",
       "type": "Story"
+    },
+    {
+      "headline": "2026 Buffalo Bills training camp: Latest intel, updates",
+      "description": "Follow our daily updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
+      "published": "2026-08-10T22:42:40Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates",
+      "image": "https://a.espncdn.com/photo/2026/0809/r1699402_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Bills to address 'internal and external feedback' on new stadium",
+      "description": "The Bills have responded to a group of fans expressing some frustration with sightlines from certain areas of the team's new Highmark Stadium.",
+      "published": "2026-08-10T22:21:33Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49577679/bills-address-internal-external-feedback-new-stadium",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1700117_600x400_3-2.jpg",
+      "type": "HeadlineNews"
     },
     {
       "headline": "Josh Allen to McAfee: Bills' new stadium is 'unbelievable'",
@@ -31,14 +39,6 @@
       "url": "https://www.espn.com/video/clip/_/id/49567724/bills-get-first-glimpse-highmark-stadium",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0809/dm_260809_bills_new_stadium/dm_260809_bills_new_stadium.jpg",
       "type": "Media"
-    },
-    {
-      "headline": "2026 Buffalo Bills training camp: Latest intel, updates",
-      "description": "Follow our daily updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
-      "published": "2026-08-09T04:04:23Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates",
-      "image": "https://a.espncdn.com/photo/2026/0809/r1699402_608x342_16-9.jpg",
-      "type": "Story"
     },
     {
       "headline": "Bills agree to 4-year, $78.4M deal with RG O'Cyrus Torrence",
