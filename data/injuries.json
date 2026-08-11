@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-08-11T00:15Z",
+      "athlete": {
+        "name": "Josh Allen",
+        "position": "QB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-08-10T23:24Z",
       "athlete": {
         "name": "Ty Johnson",
@@ -281,16 +291,6 @@
         "name": "Maxwell Hairston",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688931.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-05-19T19:23Z",
-      "athlete": {
-        "name": "Josh Allen",
-        "position": "QB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png"
       }
     },
     {
