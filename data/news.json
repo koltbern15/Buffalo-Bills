@@ -9,14 +9,6 @@
       "type": "Story"
     },
     {
-      "headline": "2026 NFL training camp: Latest news, intel for all 32 teams",
-      "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
-      "published": "2026-08-11T00:25:11Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1700051_1296x729_16-9.jpg",
-      "type": "Story"
-    },
-    {
       "headline": "2026 Buffalo Bills training camp: Latest intel, updates",
       "description": "Follow our daily updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
       "published": "2026-08-10T22:42:40Z",
@@ -319,6 +311,14 @@
       "url": "https://www.espn.com/nfl/story/_/id/49145576/ranking-nfl-top-10-running-backs-2026-execs-coaches-scouts",
       "image": "https://a.espncdn.com/photo/2026/0702/260706_nfl_1fowlers-top-10-rb_16x9.jpg",
       "type": "Story"
+    },
+    {
+      "headline": "Jeremy Fowler's takeaways from the top-10 NFL QBs",
+      "description": "Jeremy Fowler's takeaways from the top-10 NFL QBs",
+      "published": "2026-07-12T14:50:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49268323/jeremy-fowler-takeaways-top-10-nfl-qbs",
+      "image": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_nfl_fowler_top10qbs/dm_260704_nfl_fowler_top10qbs.jpg",
+      "type": "Media"
     }
   ]
 }
