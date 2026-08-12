@@ -133,7 +133,7 @@
         ]
       },
       {
-        "description": "Away Record",
+        "description": "Road Record",
         "type": "road",
         "summary": "0-0",
         "stats": [
@@ -423,11 +423,21 @@
                   },
                   {
                     "rel": [
+                      "clubhouse",
+                      "sportscenter",
+                      "app",
+                      "team"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:2",
+                    "text": "Clubhouse"
+                  },
+                  {
+                    "rel": [
                       "roster",
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/nfl/team/roster/_/name/buf/buffalo-bills",
+                    "href": "https://www.espn.com/nfl/team/roster/_/name/buf",
                     "text": "Roster"
                   },
                   {
@@ -446,7 +456,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/nfl/team/stats/_/name/buf/buffalo-bills",
+                    "href": "https://www.espn.com/nfl/team/stats/_/name/buf",
                     "text": "Statistics"
                   },
                   {
@@ -498,11 +508,21 @@
                   },
                   {
                     "rel": [
+                      "scores",
+                      "sportscenter",
+                      "app",
+                      "team"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:2&section=scores",
+                    "text": "Scores"
+                  },
+                  {
+                    "rel": [
                       "draftpicks",
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/nfl/draft/teams/_/name/buf/buffalo-bills",
+                    "href": "https://www.espn.com/nfl/draft/teams/_/name/buf",
                     "text": "Draft Picks"
                   },
                   {
@@ -759,11 +779,21 @@
                   },
                   {
                     "rel": [
+                      "clubhouse",
+                      "sportscenter",
+                      "app",
+                      "team"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:29",
+                    "text": "Clubhouse"
+                  },
+                  {
+                    "rel": [
                       "roster",
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/nfl/team/roster/_/name/car/carolina-panthers",
+                    "href": "https://www.espn.com/nfl/team/roster/_/name/car",
                     "text": "Roster"
                   },
                   {
@@ -782,7 +812,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/nfl/team/stats/_/name/car/carolina-panthers",
+                    "href": "https://www.espn.com/nfl/team/stats/_/name/car",
                     "text": "Statistics"
                   },
                   {
@@ -834,11 +864,21 @@
                   },
                   {
                     "rel": [
+                      "scores",
+                      "sportscenter",
+                      "app",
+                      "team"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:29&section=scores",
+                    "text": "Scores"
+                  },
+                  {
+                    "rel": [
                       "draftpicks",
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/nfl/draft/teams/_/name/car/carolina-panthers",
+                    "href": "https://www.espn.com/nfl/draft/teams/_/name/car",
                     "text": "Draft Picks"
                   },
                   {
@@ -889,10 +929,10 @@
               "id": "6585211",
               "summary": "Tickets as low as $46",
               "description": "NFL Preseason - Carolina Panthers at Buffalo Bills",
-              "maxPrice": 11435.39,
+              "maxPrice": 6293.82,
               "startingPrice": 46.72,
-              "numberAvailable": 4760,
-              "totalPostings": 1483,
+              "numberAvailable": 4781,
+              "totalPostings": 1492,
               "links": [
                 {
                   "rel": [
