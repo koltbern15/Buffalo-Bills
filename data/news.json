@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Bills, fans get first look inside new Highmark Stadium",
+      "description": "ESPN chronicled the Buffalo Bills' \"Return of the Blue & Red night\" on Saturday, the first public event held at the new Highmark Stadium.",
+      "published": "2026-08-12T10:00:11Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49583212/buffalo-bills-fans-first-look-new-highmark-stadium-practice",
+      "image": "https://a.espncdn.com/photo/2026/0811/r1700417_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Highmark Stadium hosted first public event on Saturday",
       "description": "Alaina Getzenberg discusses Highmark Stadium's first public event.",
       "published": "2026-08-11T23:37:46Z",
@@ -310,14 +318,6 @@
       "published": "2026-07-06T18:27:58Z",
       "url": "https://www.espn.com/nfl/story/_/id/49231555/2026-nfl-roster-ranking-starting-lineups-projection-32-teams",
       "image": "https://a.espncdn.com/photo/2026/0705/nfl_roster-rank_16x9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Execs, coaches, scouts rank top NFL running backs for 2026",
-      "description": "We asked execs, coaches and scouts from around the league to rank their top 10 running backs for this season. Who was No. 1 on the list?",
-      "published": "2026-07-16T12:46:46Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49145576/ranking-nfl-top-10-running-backs-2026-execs-coaches-scouts",
-      "image": "https://a.espncdn.com/photo/2026/0702/260706_nfl_1fowlers-top-10-rb_16x9.jpg",
       "type": "Story"
     }
   ]
