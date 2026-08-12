@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Highmark Stadium hosted first public event on Saturday",
+      "description": "Alaina Getzenberg discusses Highmark Stadium's first public event.",
+      "published": "2026-08-11T23:37:46Z",
+      "url": "https://www.espn.com/video/clip/_/id/49585850/highmark-stadium-hosted-first-public-event-saturday",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0811/dm_260811_SC4U_16x9_Bills_IA_8-11/dm_260811_SC4U_16x9_Bills_IA_8-11.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "2026 Buffalo Bills training camp: Latest intel, updates",
       "description": "Follow our daily updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
       "published": "2026-08-11T20:56:45Z",
@@ -165,7 +173,7 @@
       "description": "Brandon Beane tells McAfee why Bills picked grass over turf at new stadium",
       "published": "2026-07-24T17:18:49Z",
       "url": "https://www.espn.com/video/clip/_/id/49440996/brandon-beane-tells-mcafee-why-bills-picked-grass-turf-new-stadium",
-      "image": "https://a.espncdn.com/media/motion/2026/0724/ss_20260724_131405749_3602287/ss_20260724_131405749_3602287.jpg",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0724/ss_20260724_131405749_3602287/ss_20260724_131405749_3602287.jpg",
       "type": "Media"
     },
     {
@@ -205,7 +213,7 @@
       "description": "Has Allen surpassed Mahomes as NFL's best QB? Stephen A. weighs in",
       "published": "2026-07-20T15:35:26Z",
       "url": "https://www.espn.com/video/clip/_/id/49410332/has-allen-surpassed-mahomes-nfl-best-qb-stephen-weighs-in",
-      "image": "https://a.espncdn.com/media/motion/2026/0720/ss_20260720_112458251_3598316688/ss_20260720_112458251_3598316688.jpg",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0720/ss_20260720_112458251_3598316688/ss_20260720_112458251_3598316688.jpg",
       "type": "Media"
     },
     {
@@ -253,7 +261,7 @@
       "description": "How Josh Allen has surpassed Patrick Mahomes in NFL QB rankings",
       "published": "2026-07-13T13:03:32Z",
       "url": "https://www.espn.com/video/clip/_/id/49349447/how-josh-allen-surpassed-patrick-mahomes-nfl-qb-rankings",
-      "image": "https://a.espncdn.com/media/motion/2026/0713/ss_20260713_082706668_3592672517/ss_20260713_082706668_3592672517.jpg",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0713/ss_20260713_082706668_3592672517/ss_20260713_082706668_3592672517.jpg",
       "type": "Media"
     },
     {
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/49145576/ranking-nfl-top-10-running-backs-2026-execs-coaches-scouts",
       "image": "https://a.espncdn.com/photo/2026/0702/260706_nfl_1fowlers-top-10-rb_16x9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Jeremy Fowler's takeaways from the top-10 NFL QBs",
-      "description": "Jeremy Fowler's takeaways from the top-10 NFL QBs",
-      "published": "2026-07-12T14:50:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49268323/jeremy-fowler-takeaways-top-10-nfl-qbs",
-      "image": "https://a.espncdn.com/media/motion/2026/0704/dm_260704_nfl_fowler_top10qbs/dm_260704_nfl_fowler_top10qbs.jpg",
-      "type": "Media"
     }
   ]
 }
