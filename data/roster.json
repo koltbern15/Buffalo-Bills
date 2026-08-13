@@ -869,11 +869,12 @@
         {
           "id": "5143279",
           "name": "Anthony Kendall",
+          "jersey": "30",
           "position": "CB",
           "age": 26,
           "height": "5' 10\"",
           "weight": "188 lbs",
-          "experience": 2,
+          "experience": 3,
           "college": "Baldwin Wallace",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5143279.png"
         },
