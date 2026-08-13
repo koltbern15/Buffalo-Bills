@@ -887,12 +887,12 @@
           "tickets": [
             {
               "id": "6585211",
-              "summary": "Tickets as low as $44",
+              "summary": "Tickets as low as $46",
               "description": "NFL Preseason - Carolina Panthers at Buffalo Bills",
               "maxPrice": 6421.58,
-              "startingPrice": 44.41,
-              "numberAvailable": 4455,
-              "totalPostings": 1439,
+              "startingPrice": 46.83,
+              "numberAvailable": 4423,
+              "totalPostings": 1433,
               "links": [
                 {
                   "rel": [
@@ -968,19 +968,6 @@
           "href": "https://www.espn.com/nfl/game/_/gameId/401873282",
           "text": "Now",
           "shortText": "Now",
-          "isExternal": false,
-          "isPremium": false
-        },
-        {
-          "language": "en-US",
-          "rel": [
-            "fantasy",
-            "desktop",
-            "event"
-          ],
-          "href": "https://fantasy.espn.com/football/welcome?addata=nfl_gamecast_ffl2026",
-          "text": "Play Fantasy Football",
-          "shortText": "Play Fantasy Football",
           "isExternal": false,
           "isPremium": false
         },
