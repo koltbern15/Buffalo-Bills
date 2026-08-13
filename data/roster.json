@@ -819,18 +819,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4033234.png"
         },
         {
-          "id": "4879270",
-          "name": "Kody Huisman",
-          "jersey": "61",
-          "position": "DT",
-          "age": 24,
-          "height": "6' 4\"",
-          "weight": "297 lbs",
-          "experience": 0,
-          "college": "Virginia Tech",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4879270.png"
-        },
-        {
           "id": "4832035",
           "name": "Davison Igbinosun",
           "jersey": "21",
@@ -877,6 +865,17 @@
           "experience": 2,
           "college": "Louisiana",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4249214.png"
+        },
+        {
+          "id": "5143279",
+          "name": "Anthony Kendall",
+          "position": "CB",
+          "age": 26,
+          "height": "5' 10\"",
+          "weight": "188 lbs",
+          "experience": 2,
+          "college": "Baldwin Wallace",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5143279.png"
         },
         {
           "id": "5076951",
