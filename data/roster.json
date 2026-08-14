@@ -939,6 +939,18 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
         },
         {
+          "id": "4573684",
+          "name": "Wande Owens",
+          "jersey": "30",
+          "position": "S",
+          "age": 25,
+          "height": "5' 11\"",
+          "weight": "205 lbs",
+          "experience": 2,
+          "college": "New Hampshire",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573684.png"
+        },
+        {
           "id": "4870886",
           "name": "TJ Parker",
           "jersey": "99",
@@ -961,18 +973,6 @@
           "experience": 0,
           "college": "Missouri",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4698598.png"
-        },
-        {
-          "id": "4379411",
-          "name": "Otis Reese IV",
-          "jersey": "30",
-          "position": "LB",
-          "age": 28,
-          "height": "6' 3\"",
-          "weight": "214 lbs",
-          "experience": 3,
-          "college": "Ole Miss",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379411.png"
         },
         {
           "id": "4362506",
