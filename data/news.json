@@ -1,14 +1,6 @@
 {
   "articles": [
     {
-      "headline": "Why Canty is more worried about the Bills' defense than DJ Moore fitting in",
-      "description": "Why Canty is more worried about the Bills' defense than DJ Moore fitting in",
-      "published": "2026-08-14T15:07:28Z",
-      "url": "https://www.espn.com/video/clip/_/id/49610104/why-canty-more-worried-bills-defense-dj-moore-fitting-in",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0814/ss_20260814_110027224_3623357667/ss_20260814_110027224_3623357667.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "2026 Buffalo Bills training camp: Latest intel, updates",
       "description": "Follow our daily updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
       "published": "2026-08-13T19:42:26Z",
@@ -318,6 +310,14 @@
       "published": "2026-07-10T17:00:27Z",
       "url": "https://www.espn.com/nfl/story/_/id/49286915/nfl-afc-east-bills-jets-dolphins-patriots-josh-allen-drake-maye-aj-brown-geno-smith-malik-willis",
       "image": "https://a.espncdn.com/photo/2026/0706/nfl_qbs_v2_608x342.png",
+      "type": "Story"
+    },
+    {
+      "headline": "How are Super Bowl-level NFL rosters built at each position?",
+      "description": "Do teams need first-round QBs to reach the Super Bowl? Is it crucial to spend big on No. 1 receivers and top-tier edge rushers? Let's sort through rosters from the past 15 Super Bowls.",
+      "published": "2026-07-10T00:15:43Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49309306/2026-nfl-season-super-bowl-roster-building-positions-draft-signings-trades",
+      "image": "https://a.espncdn.com/photo/2026/0708/r1686643_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
