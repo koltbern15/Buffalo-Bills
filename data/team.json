@@ -883,7 +883,40 @@
             }
           ],
           "notes": [],
-          "broadcasts": [],
+          "broadcasts": [
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "WIVB"
+              },
+              "lang": "en",
+              "region": "us",
+              "partnered": false
+            },
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "WSOC-TV Channel 9"
+              },
+              "lang": "en",
+              "region": "us",
+              "partnered": false
+            }
+          ],
           "tickets": [
             {
               "id": "6585211",
@@ -891,8 +924,8 @@
               "description": "NFL Preseason - Carolina Panthers at Buffalo Bills",
               "maxPrice": 11667.53,
               "startingPrice": 39.61,
-              "numberAvailable": 3299,
-              "totalPostings": 1052,
+              "numberAvailable": 3973,
+              "totalPostings": 1351,
               "links": [
                 {
                   "rel": [
