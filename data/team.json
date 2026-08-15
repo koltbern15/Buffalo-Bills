@@ -1274,10 +1274,10 @@
                       "displayValue": "4",
                       "value": 4,
                       "athlete": {
-                        "id": "4596480",
-                        "lastName": "Hancock",
-                        "displayName": "Jordan Hancock",
-                        "shortName": "J. Hancock",
+                        "id": "4594321",
+                        "lastName": "Elarms-Orr",
+                        "displayName": "Kaleb Elarms-Orr",
+                        "shortName": "K. Elarms-Orr",
                         "links": [
                           {
                             "rel": [
@@ -1285,7 +1285,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4596480/jordan-hancock"
+                            "href": "https://www.espn.com/nfl/player/_/id/4594321/kaleb-elarms-orr"
                           },
                           {
                             "rel": [
@@ -1293,7 +1293,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/4596480/jordan-hancock"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4594321/kaleb-elarms-orr"
                           },
                           {
                             "rel": [
@@ -1302,7 +1302,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4596480&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4594321&section=stats"
                           },
                           {
                             "rel": [
@@ -1310,7 +1310,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/4596480/jordan-hancock"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4594321/kaleb-elarms-orr"
                           },
                           {
                             "rel": [
@@ -1318,7 +1318,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4596480/jordan-hancock"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4594321/kaleb-elarms-orr"
                           },
                           {
                             "rel": [
@@ -1327,7 +1327,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4596480&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4594321&section=gamelog"
                           },
                           {
                             "rel": [
@@ -1335,7 +1335,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/4596480/jordan-hancock"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4594321/kaleb-elarms-orr"
                           },
                           {
                             "rel": [
@@ -1344,7 +1344,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4596480&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4594321&section=news"
                           },
                           {
                             "rel": [
@@ -1352,7 +1352,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/4596480/jordan-hancock"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4594321/kaleb-elarms-orr"
                           },
                           {
                             "rel": [
@@ -1361,7 +1361,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4596480&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4594321&section=bio"
                           },
                           {
                             "rel": [
@@ -1369,7 +1369,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4596480/jordan-hancock"
+                            "href": "https://www.espn.com/nfl/player/_/id/4594321/kaleb-elarms-orr"
                           },
                           {
                             "rel": [
@@ -1378,7 +1378,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4596480"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4594321"
                           }
                         ]
                       }
@@ -1751,8 +1751,8 @@
                   "abbreviation": "TP",
                   "leaders": [
                     {
-                      "displayValue": "7",
-                      "value": 7,
+                      "displayValue": "10",
+                      "value": 10,
                       "athlete": {
                         "id": "3917232",
                         "lastName": "Bass",
@@ -3109,17 +3109,17 @@
             }
           ],
           "status": {
-            "clock": 513,
-            "displayClock": "8:33",
-            "period": 3,
+            "clock": 900,
+            "displayClock": "15:00",
+            "period": 4,
             "type": {
               "id": "2",
               "name": "STATUS_IN_PROGRESS",
               "state": "in",
               "completed": false,
               "description": "In Progress",
-              "detail": "8:33 - 3rd Quarter",
-              "shortDetail": "8:33 - 3rd"
+              "detail": "15:00 - 4th Quarter",
+              "shortDetail": "15:00 - 4th"
             },
             "isTBDFlex": false
           }

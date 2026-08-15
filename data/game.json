@@ -10,14 +10,14 @@
       "state": "in",
       "completed": false,
       "description": "In Progress",
-      "detail": "7:18 - 3rd Quarter",
-      "shortDetail": "7:18 - 3rd"
+      "detail": "15:00 - 4th Quarter",
+      "shortDetail": "15:00 - 4th"
     },
-    "clock": "7:18",
-    "period": 3,
+    "clock": "15:00",
+    "period": 4,
     "us": {
       "abbr": "BUF",
-      "score": "13",
+      "score": "16",
       "homeAway": "home",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
@@ -30,8 +30,8 @@
     },
     "odds": null,
     "broadcast": "WIVB",
-    "winProbability": 65,
-    "lastPlay": "(Shotgun) K.Pickett pass short right to J.Reed to BUF 28 for 4 yards (T.Pride)."
+    "winProbability": 78,
+    "lastPlay": "(Shotgun) K.Pickett pass short left to A.Dillon pushed ob at BUF 44 for 20 yards (J.Andreessen)."
   },
   "next": {
     "id": "401873294",
