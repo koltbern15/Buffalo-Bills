@@ -10,10 +10,10 @@
       "state": "in",
       "completed": false,
       "description": "In Progress",
-      "detail": "15:00 - 2nd Quarter",
-      "shortDetail": "15:00 - 2nd"
+      "detail": "8:56 - 2nd Quarter",
+      "shortDetail": "8:56 - 2nd"
     },
-    "clock": "15:00",
+    "clock": "8:56",
     "period": 2,
     "us": {
       "abbr": "BUF",
@@ -30,8 +30,8 @@
     },
     "odds": null,
     "broadcast": "WIVB",
-    "winProbability": 82,
-    "lastPlay": "(Shotgun) K.Allen pass short right to K.Coleman to CAR 32 for 6 yards (C.Smith-Wade)."
+    "winProbability": 81,
+    "lastPlay": "(Shotgun) K.Allen pass short left to T.Sherfield pushed ob at BUF 42 for 9 yards (W.Lee)."
   },
   "next": {
     "id": "401873294",
