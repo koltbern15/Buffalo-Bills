@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-08-15T17:33Z",
+      "athlete": {
+        "name": "DJ Moore",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-08-15T01:48Z",
       "athlete": {
         "name": "Phidarian Mathis",
@@ -212,16 +222,6 @@
         "name": "Quentin Skinner",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4613050.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-06-27T22:04Z",
-      "athlete": {
-        "name": "DJ Moore",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
       }
     },
     {

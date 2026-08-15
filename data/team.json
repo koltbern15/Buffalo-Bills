@@ -551,8 +551,8 @@
                   "abbreviation": "PYDS",
                   "leaders": [
                     {
-                      "displayValue": "2/3, 53 YDS",
-                      "value": 53,
+                      "displayValue": "6/8, 111 YDS, 1 TD",
+                      "value": 111,
                       "athlete": {
                         "id": "3918298",
                         "lastName": "Allen",
@@ -671,13 +671,13 @@
                   "abbreviation": "RYDS",
                   "leaders": [
                     {
-                      "displayValue": "2 CAR, 9 YDS",
-                      "value": 9,
+                      "displayValue": "1 CAR, 27 YDS",
+                      "value": 27,
                       "athlete": {
-                        "id": "4379399",
-                        "lastName": "Cook III",
-                        "displayName": "James Cook III",
-                        "shortName": "J. Cook III",
+                        "id": "4035004",
+                        "lastName": "Hardman Jr.",
+                        "displayName": "Mecole Hardman Jr.",
+                        "shortName": "M. Hardman Jr.",
                         "links": [
                           {
                             "rel": [
@@ -685,7 +685,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4379399/james-cook-iii"
+                            "href": "https://www.espn.com/nfl/player/_/id/4035004/mecole-hardman-jr"
                           },
                           {
                             "rel": [
@@ -693,7 +693,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/4379399/james-cook-iii"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4035004/mecole-hardman-jr"
                           },
                           {
                             "rel": [
@@ -702,7 +702,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=stats"
                           },
                           {
                             "rel": [
@@ -710,7 +710,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/4379399/james-cook-iii"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4035004/mecole-hardman-jr"
                           },
                           {
                             "rel": [
@@ -718,7 +718,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4379399/james-cook-iii"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4035004/mecole-hardman-jr"
                           },
                           {
                             "rel": [
@@ -727,7 +727,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=gamelog"
                           },
                           {
                             "rel": [
@@ -735,7 +735,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/4379399/james-cook-iii"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4035004/mecole-hardman-jr"
                           },
                           {
                             "rel": [
@@ -744,7 +744,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=news"
                           },
                           {
                             "rel": [
@@ -752,7 +752,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/4379399/james-cook-iii"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4035004/mecole-hardman-jr"
                           },
                           {
                             "rel": [
@@ -761,7 +761,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=bio"
                           },
                           {
                             "rel": [
@@ -769,7 +769,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4379399/james-cook-iii"
+                            "href": "https://www.espn.com/nfl/player/_/id/4035004/mecole-hardman-jr"
                           },
                           {
                             "rel": [
@@ -778,7 +778,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004"
                           }
                         ]
                       }
@@ -791,8 +791,8 @@
                   "abbreviation": "RECYDS",
                   "leaders": [
                     {
-                      "displayValue": "1 REC, 32 YDS",
-                      "value": 32,
+                      "displayValue": "3 REC, 61 YDS",
+                      "value": 61,
                       "athlete": {
                         "id": "3915416",
                         "lastName": "Moore",
@@ -911,8 +911,8 @@
                   "abbreviation": "YDS",
                   "leaders": [
                     {
-                      "displayValue": "53",
-                      "value": 53,
+                      "displayValue": "111",
+                      "value": 111,
                       "athlete": {
                         "id": "3918298",
                         "lastName": "Allen",
@@ -1031,13 +1031,13 @@
                   "abbreviation": "YDS",
                   "leaders": [
                     {
-                      "displayValue": "9",
-                      "value": 9,
+                      "displayValue": "27",
+                      "value": 27,
                       "athlete": {
-                        "id": "4379399",
-                        "lastName": "Cook III",
-                        "displayName": "James Cook III",
-                        "shortName": "J. Cook III",
+                        "id": "4035004",
+                        "lastName": "Hardman Jr.",
+                        "displayName": "Mecole Hardman Jr.",
+                        "shortName": "M. Hardman Jr.",
                         "links": [
                           {
                             "rel": [
@@ -1045,7 +1045,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4379399/james-cook-iii"
+                            "href": "https://www.espn.com/nfl/player/_/id/4035004/mecole-hardman-jr"
                           },
                           {
                             "rel": [
@@ -1053,7 +1053,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/4379399/james-cook-iii"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4035004/mecole-hardman-jr"
                           },
                           {
                             "rel": [
@@ -1062,7 +1062,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=stats"
                           },
                           {
                             "rel": [
@@ -1070,7 +1070,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/4379399/james-cook-iii"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4035004/mecole-hardman-jr"
                           },
                           {
                             "rel": [
@@ -1078,7 +1078,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4379399/james-cook-iii"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4035004/mecole-hardman-jr"
                           },
                           {
                             "rel": [
@@ -1087,7 +1087,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=gamelog"
                           },
                           {
                             "rel": [
@@ -1095,7 +1095,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/4379399/james-cook-iii"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4035004/mecole-hardman-jr"
                           },
                           {
                             "rel": [
@@ -1104,7 +1104,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=news"
                           },
                           {
                             "rel": [
@@ -1112,7 +1112,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/4379399/james-cook-iii"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4035004/mecole-hardman-jr"
                           },
                           {
                             "rel": [
@@ -1121,7 +1121,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=bio"
                           },
                           {
                             "rel": [
@@ -1129,7 +1129,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4379399/james-cook-iii"
+                            "href": "https://www.espn.com/nfl/player/_/id/4035004/mecole-hardman-jr"
                           },
                           {
                             "rel": [
@@ -1138,7 +1138,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004"
                           }
                         ]
                       }
@@ -1151,8 +1151,8 @@
                   "abbreviation": "YDS",
                   "leaders": [
                     {
-                      "displayValue": "32",
-                      "value": 32,
+                      "displayValue": "61",
+                      "value": 61,
                       "athlete": {
                         "id": "3915416",
                         "lastName": "Moore",
@@ -1274,10 +1274,10 @@
                       "displayValue": "1",
                       "value": 1,
                       "athlete": {
-                        "id": "4044133",
-                        "lastName": "Franklin Jr.",
-                        "displayName": "Sam Franklin Jr.",
-                        "shortName": "S. Franklin Jr.",
+                        "id": "3116733",
+                        "lastName": "Chubb",
+                        "displayName": "Bradley Chubb",
+                        "shortName": "B. Chubb",
                         "links": [
                           {
                             "rel": [
@@ -1285,7 +1285,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4044133/sam-franklin-jr"
+                            "href": "https://www.espn.com/nfl/player/_/id/3116733/bradley-chubb"
                           },
                           {
                             "rel": [
@@ -1293,7 +1293,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/4044133/sam-franklin-jr"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/3116733/bradley-chubb"
                           },
                           {
                             "rel": [
@@ -1302,7 +1302,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4044133&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3116733&section=stats"
                           },
                           {
                             "rel": [
@@ -1310,7 +1310,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/4044133/sam-franklin-jr"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/3116733/bradley-chubb"
                           },
                           {
                             "rel": [
@@ -1318,7 +1318,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4044133/sam-franklin-jr"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3116733/bradley-chubb"
                           },
                           {
                             "rel": [
@@ -1327,7 +1327,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4044133&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3116733&section=gamelog"
                           },
                           {
                             "rel": [
@@ -1335,7 +1335,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/4044133/sam-franklin-jr"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/3116733/bradley-chubb"
                           },
                           {
                             "rel": [
@@ -1344,7 +1344,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4044133&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3116733&section=news"
                           },
                           {
                             "rel": [
@@ -1352,7 +1352,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/4044133/sam-franklin-jr"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/3116733/bradley-chubb"
                           },
                           {
                             "rel": [
@@ -1361,7 +1361,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4044133&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3116733&section=bio"
                           },
                           {
                             "rel": [
@@ -1369,7 +1369,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4044133/sam-franklin-jr"
+                            "href": "https://www.espn.com/nfl/player/_/id/3116733/bradley-chubb"
                           },
                           {
                             "rel": [
@@ -1378,7 +1378,127 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4044133"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3116733"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "puntReturns",
+                  "displayName": "Punt Returns",
+                  "abbreviation": "PR",
+                  "leaders": [
+                    {
+                      "displayValue": "1",
+                      "value": 1,
+                      "athlete": {
+                        "id": "4035004",
+                        "lastName": "Hardman Jr.",
+                        "displayName": "Mecole Hardman Jr.",
+                        "shortName": "M. Hardman Jr.",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4035004/mecole-hardman-jr"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4035004/mecole-hardman-jr"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4035004/mecole-hardman-jr"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4035004/mecole-hardman-jr"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4035004/mecole-hardman-jr"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4035004/mecole-hardman-jr"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4035004/mecole-hardman-jr"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004"
                           }
                         ]
                       }
@@ -1511,8 +1631,8 @@
                   "abbreviation": "TP",
                   "leaders": [
                     {
-                      "displayValue": "3",
-                      "value": 3,
+                      "displayValue": "4",
+                      "value": 4,
                       "athlete": {
                         "id": "3917232",
                         "lastName": "Bass",
@@ -1631,13 +1751,13 @@
                   "abbreviation": "ESPNRating",
                   "leaders": [
                     {
-                      "displayValue": "1 REC, 32 YDS",
-                      "value": 3.200000047683716,
+                      "displayValue": "6-8, 111 YDS, 1 TD",
+                      "value": 10.4399995803833,
                       "athlete": {
-                        "id": "3915416",
-                        "lastName": "Moore",
-                        "displayName": "DJ Moore",
-                        "shortName": "D. Moore",
+                        "id": "3918298",
+                        "lastName": "Allen",
+                        "displayName": "Josh Allen",
+                        "shortName": "J. Allen",
                         "links": [
                           {
                             "rel": [
@@ -1645,7 +1765,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/3915416/dj-moore"
+                            "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
                           },
                           {
                             "rel": [
@@ -1653,7 +1773,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/3915416/dj-moore"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/3918298/josh-allen"
                           },
                           {
                             "rel": [
@@ -1662,7 +1782,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=stats"
                           },
                           {
                             "rel": [
@@ -1670,7 +1790,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/3915416/dj-moore"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/3918298/josh-allen"
                           },
                           {
                             "rel": [
@@ -1678,7 +1798,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3915416/dj-moore"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3918298/josh-allen"
                           },
                           {
                             "rel": [
@@ -1687,7 +1807,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=gamelog"
                           },
                           {
                             "rel": [
@@ -1695,7 +1815,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/3915416/dj-moore"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/3918298/josh-allen"
                           },
                           {
                             "rel": [
@@ -1704,7 +1824,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=news"
                           },
                           {
                             "rel": [
@@ -1712,7 +1832,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/3915416/dj-moore"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/3918298/josh-allen"
                           },
                           {
                             "rel": [
@@ -1721,7 +1841,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=bio"
                           },
                           {
                             "rel": [
@@ -1729,7 +1849,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/3915416/dj-moore"
+                            "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
                           },
                           {
                             "rel": [
@@ -1738,7 +1858,127 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "passingTouchdowns",
+                  "displayName": "Passing Touchdowns",
+                  "abbreviation": "TD",
+                  "leaders": [
+                    {
+                      "displayValue": "1",
+                      "value": 1,
+                      "athlete": {
+                        "id": "3918298",
+                        "lastName": "Allen",
+                        "displayName": "Josh Allen",
+                        "shortName": "J. Allen",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298"
                           }
                         ]
                       }
@@ -1751,8 +1991,8 @@
                   "abbreviation": "RAT",
                   "leaders": [
                     {
-                      "displayValue": "109.7",
-                      "value": 109.69999694824219,
+                      "displayValue": "156.2",
+                      "value": 156.1999969482422,
                       "athlete": {
                         "id": "3918298",
                         "lastName": "Allen",
@@ -1871,8 +2111,8 @@
                   "abbreviation": "REC",
                   "leaders": [
                     {
-                      "displayValue": "1",
-                      "value": 1,
+                      "displayValue": "3",
+                      "value": 3,
                       "athlete": {
                         "id": "3915416",
                         "lastName": "Moore",
@@ -1979,6 +2219,126 @@
                               "athlete"
                             ],
                             "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "receivingTouchdowns",
+                  "displayName": "Receiving Touchdowns",
+                  "abbreviation": "TD",
+                  "leaders": [
+                    {
+                      "displayValue": "1",
+                      "value": 1,
+                      "athlete": {
+                        "id": "4635008",
+                        "lastName": "Coleman",
+                        "displayName": "Keon Coleman",
+                        "shortName": "K. Coleman",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4635008/keon-coleman"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4635008/keon-coleman"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4635008&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4635008/keon-coleman"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4635008/keon-coleman"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4635008&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4635008/keon-coleman"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4635008&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4635008/keon-coleman"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4635008&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4635008/keon-coleman"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4635008"
                           }
                         ]
                       }
@@ -2389,17 +2749,17 @@
             }
           ],
           "status": {
-            "clock": 676,
-            "displayClock": "11:16",
-            "period": 1,
+            "clock": 900,
+            "displayClock": "15:00",
+            "period": 2,
             "type": {
               "id": "2",
               "name": "STATUS_IN_PROGRESS",
               "state": "in",
               "completed": false,
               "description": "In Progress",
-              "detail": "11:16 - 1st Quarter",
-              "shortDetail": "11:16 - 1st"
+              "detail": "15:00 - 2nd Quarter",
+              "shortDetail": "15:00 - 2nd"
             },
             "isTBDFlex": false
           }

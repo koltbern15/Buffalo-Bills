@@ -10,14 +10,14 @@
       "state": "in",
       "completed": false,
       "description": "In Progress",
-      "detail": "9:49 - 1st Quarter",
-      "shortDetail": "9:49 - 1st"
+      "detail": "15:00 - 2nd Quarter",
+      "shortDetail": "15:00 - 2nd"
     },
-    "clock": "9:49",
-    "period": 1,
+    "clock": "15:00",
+    "period": 2,
     "us": {
       "abbr": "BUF",
-      "score": "3",
+      "score": "10",
       "homeAway": "home",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
@@ -30,8 +30,8 @@
     },
     "odds": null,
     "broadcast": "WIVB",
-    "winProbability": 59,
-    "lastPlay": "Official Timeout at 09:49."
+    "winProbability": 82,
+    "lastPlay": "(Shotgun) K.Allen pass short right to K.Coleman to CAR 32 for 6 yards (C.Smith-Wade)."
   },
   "next": {
     "id": "401873294",
