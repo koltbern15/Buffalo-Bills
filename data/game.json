@@ -10,14 +10,14 @@
       "state": "in",
       "completed": false,
       "description": "In Progress",
-      "detail": "8:56 - 2nd Quarter",
-      "shortDetail": "8:56 - 2nd"
+      "detail": "1:02 - 2nd Quarter",
+      "shortDetail": "1:02 - 2nd"
     },
-    "clock": "8:56",
+    "clock": "1:02",
     "period": 2,
     "us": {
       "abbr": "BUF",
-      "score": "10",
+      "score": "13",
       "homeAway": "home",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
@@ -30,8 +30,8 @@
     },
     "odds": null,
     "broadcast": "WIVB",
-    "winProbability": 81,
-    "lastPlay": "(Shotgun) K.Allen pass short left to T.Sherfield pushed ob at BUF 42 for 9 yards (W.Lee)."
+    "winProbability": 77,
+    "lastPlay": "Timeout #1 by BUF at 01:02."
   },
   "next": {
     "id": "401873294",

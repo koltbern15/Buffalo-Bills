@@ -1751,8 +1751,8 @@
                   "abbreviation": "TP",
                   "leaders": [
                     {
-                      "displayValue": "4",
-                      "value": 4,
+                      "displayValue": "7",
+                      "value": 7,
                       "athlete": {
                         "id": "3917232",
                         "lastName": "Bass",
@@ -2869,8 +2869,8 @@
             }
           ],
           "status": {
-            "clock": 577,
-            "displayClock": "9:37",
+            "clock": 62,
+            "displayClock": "1:02",
             "period": 2,
             "type": {
               "id": "2",
@@ -2878,8 +2878,8 @@
               "state": "in",
               "completed": false,
               "description": "In Progress",
-              "detail": "9:37 - 2nd Quarter",
-              "shortDetail": "9:37 - 2nd"
+              "detail": "1:02 - 2nd Quarter",
+              "shortDetail": "1:02 - 2nd"
             },
             "isTBDFlex": false
           }
