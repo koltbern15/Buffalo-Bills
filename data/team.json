@@ -1271,13 +1271,13 @@
                   "abbreviation": "TOT",
                   "leaders": [
                     {
-                      "displayValue": "3",
-                      "value": 3,
+                      "displayValue": "4",
+                      "value": 4,
                       "athlete": {
-                        "id": "4831989",
-                        "lastName": "Walker",
-                        "displayName": "Deone Walker",
-                        "shortName": "D. Walker",
+                        "id": "4596480",
+                        "lastName": "Hancock",
+                        "displayName": "Jordan Hancock",
+                        "shortName": "J. Hancock",
                         "links": [
                           {
                             "rel": [
@@ -1285,7 +1285,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4831989/deone-walker"
+                            "href": "https://www.espn.com/nfl/player/_/id/4596480/jordan-hancock"
                           },
                           {
                             "rel": [
@@ -1293,7 +1293,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/4831989/deone-walker"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4596480/jordan-hancock"
                           },
                           {
                             "rel": [
@@ -1302,7 +1302,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4831989&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4596480&section=stats"
                           },
                           {
                             "rel": [
@@ -1310,7 +1310,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/4831989/deone-walker"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4596480/jordan-hancock"
                           },
                           {
                             "rel": [
@@ -1318,7 +1318,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4831989/deone-walker"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4596480/jordan-hancock"
                           },
                           {
                             "rel": [
@@ -1327,7 +1327,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4831989&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4596480&section=gamelog"
                           },
                           {
                             "rel": [
@@ -1335,7 +1335,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/4831989/deone-walker"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4596480/jordan-hancock"
                           },
                           {
                             "rel": [
@@ -1344,7 +1344,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4831989&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4596480&section=news"
                           },
                           {
                             "rel": [
@@ -1352,7 +1352,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/4831989/deone-walker"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4596480/jordan-hancock"
                           },
                           {
                             "rel": [
@@ -1361,7 +1361,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4831989&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4596480&section=bio"
                           },
                           {
                             "rel": [
@@ -1369,7 +1369,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4831989/deone-walker"
+                            "href": "https://www.espn.com/nfl/player/_/id/4596480/jordan-hancock"
                           },
                           {
                             "rel": [
@@ -1378,7 +1378,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4831989"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4596480"
                           }
                         ]
                       }
@@ -1631,8 +1631,8 @@
                   "abbreviation": "KR",
                   "leaders": [
                     {
-                      "displayValue": "1",
-                      "value": 1,
+                      "displayValue": "2",
+                      "value": 2,
                       "athlete": {
                         "id": "3127306",
                         "lastName": "Pettis",
@@ -1859,6 +1859,246 @@
                               "athlete"
                             ],
                             "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3917232"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "fumbles",
+                  "displayName": "Fumbles",
+                  "abbreviation": "F",
+                  "leaders": [
+                    {
+                      "displayValue": "1",
+                      "value": 1,
+                      "athlete": {
+                        "id": "3127306",
+                        "lastName": "Pettis",
+                        "displayName": "Dante Pettis",
+                        "shortName": "D. Pettis",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3127306/dante-pettis"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/3127306/dante-pettis"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3127306&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/3127306/dante-pettis"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3127306/dante-pettis"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3127306&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/3127306/dante-pettis"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3127306&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/3127306/dante-pettis"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3127306&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3127306/dante-pettis"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3127306"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "fumblesRecovered",
+                  "displayName": "Fumbles Recovered",
+                  "abbreviation": "CMP",
+                  "leaders": [
+                    {
+                      "displayValue": "1",
+                      "value": 1,
+                      "athlete": {
+                        "id": "3127306",
+                        "lastName": "Pettis",
+                        "displayName": "Dante Pettis",
+                        "shortName": "D. Pettis",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3127306/dante-pettis"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/3127306/dante-pettis"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3127306&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/3127306/dante-pettis"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3127306/dante-pettis"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3127306&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/3127306/dante-pettis"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3127306&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/3127306/dante-pettis"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3127306&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3127306/dante-pettis"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3127306"
                           }
                         ]
                       }
@@ -2111,13 +2351,13 @@
                   "abbreviation": "RAT",
                   "leaders": [
                     {
-                      "displayValue": "156.2",
-                      "value": 156.1999969482422,
+                      "displayValue": "94.8",
+                      "value": 94.80000305175781,
                       "athlete": {
-                        "id": "3918298",
+                        "id": "3115293",
                         "lastName": "Allen",
-                        "displayName": "Josh Allen",
-                        "shortName": "J. Allen",
+                        "displayName": "Kyle Allen",
+                        "shortName": "K. Allen",
                         "links": [
                           {
                             "rel": [
@@ -2125,7 +2365,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
+                            "href": "https://www.espn.com/nfl/player/_/id/3115293/kyle-allen"
                           },
                           {
                             "rel": [
@@ -2133,7 +2373,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/3918298/josh-allen"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/3115293/kyle-allen"
                           },
                           {
                             "rel": [
@@ -2142,7 +2382,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3115293&section=stats"
                           },
                           {
                             "rel": [
@@ -2150,7 +2390,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/3918298/josh-allen"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/3115293/kyle-allen"
                           },
                           {
                             "rel": [
@@ -2158,7 +2398,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3918298/josh-allen"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3115293/kyle-allen"
                           },
                           {
                             "rel": [
@@ -2167,7 +2407,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3115293&section=gamelog"
                           },
                           {
                             "rel": [
@@ -2175,7 +2415,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/3918298/josh-allen"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/3115293/kyle-allen"
                           },
                           {
                             "rel": [
@@ -2184,7 +2424,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3115293&section=news"
                           },
                           {
                             "rel": [
@@ -2192,7 +2432,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/3918298/josh-allen"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/3115293/kyle-allen"
                           },
                           {
                             "rel": [
@@ -2201,7 +2441,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3115293&section=bio"
                           },
                           {
                             "rel": [
@@ -2209,7 +2449,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
+                            "href": "https://www.espn.com/nfl/player/_/id/3115293/kyle-allen"
                           },
                           {
                             "rel": [
@@ -2218,7 +2458,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3115293"
                           }
                         ]
                       }
@@ -2231,13 +2471,13 @@
                   "abbreviation": "REC",
                   "leaders": [
                     {
-                      "displayValue": "3",
-                      "value": 3,
+                      "displayValue": "4",
+                      "value": 4,
                       "athlete": {
-                        "id": "3915416",
-                        "lastName": "Moore",
-                        "displayName": "DJ Moore",
-                        "shortName": "D. Moore",
+                        "id": "4429501",
+                        "lastName": "Davis",
+                        "displayName": "Ray Davis",
+                        "shortName": "R. Davis",
                         "links": [
                           {
                             "rel": [
@@ -2245,7 +2485,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/3915416/dj-moore"
+                            "href": "https://www.espn.com/nfl/player/_/id/4429501/ray-davis"
                           },
                           {
                             "rel": [
@@ -2253,7 +2493,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/3915416/dj-moore"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4429501/ray-davis"
                           },
                           {
                             "rel": [
@@ -2262,7 +2502,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501&section=stats"
                           },
                           {
                             "rel": [
@@ -2270,7 +2510,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/3915416/dj-moore"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4429501/ray-davis"
                           },
                           {
                             "rel": [
@@ -2278,7 +2518,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3915416/dj-moore"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4429501/ray-davis"
                           },
                           {
                             "rel": [
@@ -2287,7 +2527,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501&section=gamelog"
                           },
                           {
                             "rel": [
@@ -2295,7 +2535,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/3915416/dj-moore"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4429501/ray-davis"
                           },
                           {
                             "rel": [
@@ -2304,7 +2544,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501&section=news"
                           },
                           {
                             "rel": [
@@ -2312,7 +2552,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/3915416/dj-moore"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4429501/ray-davis"
                           },
                           {
                             "rel": [
@@ -2321,7 +2561,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501&section=bio"
                           },
                           {
                             "rel": [
@@ -2329,7 +2569,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/3915416/dj-moore"
+                            "href": "https://www.espn.com/nfl/player/_/id/4429501/ray-davis"
                           },
                           {
                             "rel": [
@@ -2338,7 +2578,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501"
                           }
                         ]
                       }
@@ -2842,12 +3082,12 @@
           "tickets": [
             {
               "id": "6585211",
-              "summary": "Tickets as low as $22",
+              "summary": "Tickets as low as $13",
               "description": "NFL Preseason - Carolina Panthers at Buffalo Bills",
-              "maxPrice": 6421.58,
-              "startingPrice": 22.43,
-              "numberAvailable": 302,
-              "totalPostings": 129,
+              "maxPrice": 138.21,
+              "startingPrice": 13.59,
+              "numberAvailable": 52,
+              "totalPostings": 30,
               "links": [
                 {
                   "rel": [
@@ -2869,17 +3109,17 @@
             }
           ],
           "status": {
-            "clock": 62,
-            "displayClock": "1:02",
-            "period": 2,
+            "clock": 513,
+            "displayClock": "8:33",
+            "period": 3,
             "type": {
               "id": "2",
               "name": "STATUS_IN_PROGRESS",
               "state": "in",
               "completed": false,
               "description": "In Progress",
-              "detail": "1:02 - 2nd Quarter",
-              "shortDetail": "1:02 - 2nd"
+              "detail": "8:33 - 3rd Quarter",
+              "shortDetail": "8:33 - 3rd"
             },
             "isTBDFlex": false
           }
