@@ -3,17 +3,17 @@
     "id": "401873282",
     "name": "CAR @ BUF",
     "date": "2026-08-15T17:00Z",
-    "state": "in",
+    "state": "post",
     "status": {
-      "id": "2",
-      "name": "STATUS_IN_PROGRESS",
-      "state": "in",
-      "completed": false,
-      "description": "In Progress",
-      "detail": "2:00 - 4th Quarter",
-      "shortDetail": "2:00 - 4th"
+      "id": "3",
+      "name": "STATUS_FINAL",
+      "state": "post",
+      "completed": true,
+      "description": "Final",
+      "detail": "Final",
+      "shortDetail": "Final"
     },
-    "clock": "2:00",
+    "clock": "0:00",
     "period": 4,
     "us": {
       "abbr": "BUF",
@@ -24,14 +24,13 @@
     "them": {
       "abbr": "CAR",
       "name": "Carolina Panthers",
-      "score": "7",
+      "score": "14",
       "homeAway": "away",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png"
     },
     "odds": null,
     "broadcast": "WIVB",
-    "winProbability": 100,
-    "lastPlay": "Two-Minute Warning"
+    "winProbability": 100
   },
   "next": {
     "id": "401873294",
