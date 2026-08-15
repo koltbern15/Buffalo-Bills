@@ -198,7 +198,7 @@
           "timeValid": true,
           "neutralSite": false,
           "boxscoreAvailable": true,
-          "ticketsAvailable": true,
+          "ticketsAvailable": false,
           "venue": {
             "fullName": "Highmark Stadium",
             "address": {
@@ -671,13 +671,13 @@
                   "abbreviation": "RYDS",
                   "leaders": [
                     {
-                      "displayValue": "1 CAR, 27 YDS",
-                      "value": 27,
+                      "displayValue": "7 CAR, 41 YDS, 1 TD",
+                      "value": 41,
                       "athlete": {
-                        "id": "4035004",
-                        "lastName": "Hardman Jr.",
-                        "displayName": "Mecole Hardman Jr.",
-                        "shortName": "M. Hardman Jr.",
+                        "id": "4579554",
+                        "lastName": "Wheeler",
+                        "displayName": "Ian Wheeler",
+                        "shortName": "I. Wheeler",
                         "links": [
                           {
                             "rel": [
@@ -685,7 +685,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4035004/mecole-hardman-jr"
+                            "href": "https://www.espn.com/nfl/player/_/id/4579554/ian-wheeler"
                           },
                           {
                             "rel": [
@@ -693,7 +693,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/4035004/mecole-hardman-jr"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4579554/ian-wheeler"
                           },
                           {
                             "rel": [
@@ -702,7 +702,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=stats"
                           },
                           {
                             "rel": [
@@ -710,7 +710,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/4035004/mecole-hardman-jr"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4579554/ian-wheeler"
                           },
                           {
                             "rel": [
@@ -718,7 +718,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4035004/mecole-hardman-jr"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4579554/ian-wheeler"
                           },
                           {
                             "rel": [
@@ -727,7 +727,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=gamelog"
                           },
                           {
                             "rel": [
@@ -735,7 +735,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/4035004/mecole-hardman-jr"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4579554/ian-wheeler"
                           },
                           {
                             "rel": [
@@ -744,7 +744,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=news"
                           },
                           {
                             "rel": [
@@ -752,7 +752,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/4035004/mecole-hardman-jr"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4579554/ian-wheeler"
                           },
                           {
                             "rel": [
@@ -761,7 +761,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=bio"
                           },
                           {
                             "rel": [
@@ -769,7 +769,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4035004/mecole-hardman-jr"
+                            "href": "https://www.espn.com/nfl/player/_/id/4579554/ian-wheeler"
                           },
                           {
                             "rel": [
@@ -778,7 +778,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554"
                           }
                         ]
                       }
@@ -1031,13 +1031,13 @@
                   "abbreviation": "YDS",
                   "leaders": [
                     {
-                      "displayValue": "27",
-                      "value": 27,
+                      "displayValue": "41",
+                      "value": 41,
                       "athlete": {
-                        "id": "4035004",
-                        "lastName": "Hardman Jr.",
-                        "displayName": "Mecole Hardman Jr.",
-                        "shortName": "M. Hardman Jr.",
+                        "id": "4579554",
+                        "lastName": "Wheeler",
+                        "displayName": "Ian Wheeler",
+                        "shortName": "I. Wheeler",
                         "links": [
                           {
                             "rel": [
@@ -1045,7 +1045,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4035004/mecole-hardman-jr"
+                            "href": "https://www.espn.com/nfl/player/_/id/4579554/ian-wheeler"
                           },
                           {
                             "rel": [
@@ -1053,7 +1053,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/4035004/mecole-hardman-jr"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4579554/ian-wheeler"
                           },
                           {
                             "rel": [
@@ -1062,7 +1062,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=stats"
                           },
                           {
                             "rel": [
@@ -1070,7 +1070,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/4035004/mecole-hardman-jr"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4579554/ian-wheeler"
                           },
                           {
                             "rel": [
@@ -1078,7 +1078,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4035004/mecole-hardman-jr"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4579554/ian-wheeler"
                           },
                           {
                             "rel": [
@@ -1087,7 +1087,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=gamelog"
                           },
                           {
                             "rel": [
@@ -1095,7 +1095,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/4035004/mecole-hardman-jr"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4579554/ian-wheeler"
                           },
                           {
                             "rel": [
@@ -1104,7 +1104,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=news"
                           },
                           {
                             "rel": [
@@ -1112,7 +1112,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/4035004/mecole-hardman-jr"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4579554/ian-wheeler"
                           },
                           {
                             "rel": [
@@ -1121,7 +1121,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=bio"
                           },
                           {
                             "rel": [
@@ -1129,7 +1129,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4035004/mecole-hardman-jr"
+                            "href": "https://www.espn.com/nfl/player/_/id/4579554/ian-wheeler"
                           },
                           {
                             "rel": [
@@ -1138,7 +1138,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4035004"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554"
                           }
                         ]
                       }
@@ -1271,13 +1271,13 @@
                   "abbreviation": "TOT",
                   "leaders": [
                     {
-                      "displayValue": "4",
-                      "value": 4,
+                      "displayValue": "5",
+                      "value": 5,
                       "athlete": {
-                        "id": "4594321",
-                        "lastName": "Elarms-Orr",
-                        "displayName": "Kaleb Elarms-Orr",
-                        "shortName": "K. Elarms-Orr",
+                        "id": "4698598",
+                        "lastName": "Pride Jr.",
+                        "displayName": "Toriano Pride Jr.",
+                        "shortName": "T. Pride Jr.",
                         "links": [
                           {
                             "rel": [
@@ -1285,7 +1285,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4594321/kaleb-elarms-orr"
+                            "href": "https://www.espn.com/nfl/player/_/id/4698598/toriano-pride-jr"
                           },
                           {
                             "rel": [
@@ -1293,7 +1293,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/4594321/kaleb-elarms-orr"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4698598/toriano-pride-jr"
                           },
                           {
                             "rel": [
@@ -1302,7 +1302,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4594321&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4698598&section=stats"
                           },
                           {
                             "rel": [
@@ -1310,7 +1310,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/4594321/kaleb-elarms-orr"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4698598/toriano-pride-jr"
                           },
                           {
                             "rel": [
@@ -1318,7 +1318,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4594321/kaleb-elarms-orr"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4698598/toriano-pride-jr"
                           },
                           {
                             "rel": [
@@ -1327,7 +1327,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4594321&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4698598&section=gamelog"
                           },
                           {
                             "rel": [
@@ -1335,7 +1335,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/4594321/kaleb-elarms-orr"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4698598/toriano-pride-jr"
                           },
                           {
                             "rel": [
@@ -1344,7 +1344,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4594321&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4698598&section=news"
                           },
                           {
                             "rel": [
@@ -1352,7 +1352,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/4594321/kaleb-elarms-orr"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4698598/toriano-pride-jr"
                           },
                           {
                             "rel": [
@@ -1361,7 +1361,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4594321&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4698598&section=bio"
                           },
                           {
                             "rel": [
@@ -1369,7 +1369,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4594321/kaleb-elarms-orr"
+                            "href": "https://www.espn.com/nfl/player/_/id/4698598/toriano-pride-jr"
                           },
                           {
                             "rel": [
@@ -1378,7 +1378,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4594321"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4698598"
                           }
                         ]
                       }
@@ -1391,13 +1391,13 @@
                   "abbreviation": "SACK",
                   "leaders": [
                     {
-                      "displayValue": "1",
-                      "value": 1,
+                      "displayValue": "2",
+                      "value": 2,
                       "athlete": {
-                        "id": "4831989",
-                        "lastName": "Walker",
-                        "displayName": "Deone Walker",
-                        "shortName": "D. Walker",
+                        "id": "3915487",
+                        "lastName": "Danna",
+                        "displayName": "Mike Danna",
+                        "shortName": "M. Danna",
                         "links": [
                           {
                             "rel": [
@@ -1405,7 +1405,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4831989/deone-walker"
+                            "href": "https://www.espn.com/nfl/player/_/id/3915487/mike-danna"
                           },
                           {
                             "rel": [
@@ -1413,7 +1413,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/4831989/deone-walker"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/3915487/mike-danna"
                           },
                           {
                             "rel": [
@@ -1422,7 +1422,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4831989&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915487&section=stats"
                           },
                           {
                             "rel": [
@@ -1430,7 +1430,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/4831989/deone-walker"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/3915487/mike-danna"
                           },
                           {
                             "rel": [
@@ -1438,7 +1438,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4831989/deone-walker"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3915487/mike-danna"
                           },
                           {
                             "rel": [
@@ -1447,7 +1447,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4831989&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915487&section=gamelog"
                           },
                           {
                             "rel": [
@@ -1455,7 +1455,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/4831989/deone-walker"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/3915487/mike-danna"
                           },
                           {
                             "rel": [
@@ -1464,7 +1464,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4831989&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915487&section=news"
                           },
                           {
                             "rel": [
@@ -1472,7 +1472,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/4831989/deone-walker"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/3915487/mike-danna"
                           },
                           {
                             "rel": [
@@ -1481,7 +1481,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4831989&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915487&section=bio"
                           },
                           {
                             "rel": [
@@ -1489,7 +1489,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4831989/deone-walker"
+                            "href": "https://www.espn.com/nfl/player/_/id/3915487/mike-danna"
                           },
                           {
                             "rel": [
@@ -1498,7 +1498,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4831989"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915487"
                           }
                         ]
                       }
@@ -2466,6 +2466,126 @@
                   ]
                 },
                 {
+                  "name": "rushingTouchdowns",
+                  "displayName": "Rushing Touchdowns",
+                  "abbreviation": "TD",
+                  "leaders": [
+                    {
+                      "displayValue": "1",
+                      "value": 1,
+                      "athlete": {
+                        "id": "4579554",
+                        "lastName": "Wheeler",
+                        "displayName": "Ian Wheeler",
+                        "shortName": "I. Wheeler",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4579554/ian-wheeler"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4579554/ian-wheeler"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4579554/ian-wheeler"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4579554/ian-wheeler"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4579554/ian-wheeler"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4579554/ian-wheeler"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4579554/ian-wheeler"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
                   "name": "receptions",
                   "displayName": "Receptions",
                   "abbreviation": "REC",
@@ -3079,38 +3199,9 @@
               "partnered": false
             }
           ],
-          "tickets": [
-            {
-              "id": "6585211",
-              "summary": "Tickets as low as $13",
-              "description": "NFL Preseason - Carolina Panthers at Buffalo Bills",
-              "maxPrice": 138.21,
-              "startingPrice": 13.59,
-              "numberAvailable": 52,
-              "totalPostings": 30,
-              "links": [
-                {
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "event"
-                  ],
-                  "href": "https://www.vividseats.com/buffalo-bills-tickets-highmark-stadium-8-11-2026--sports-nfl-football/production/6585211?wsUser=717"
-                },
-                {
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "venue"
-                  ],
-                  "href": "https://www.vividseats.com/highmark-stadium-tickets/venue/1385?wsUser=717"
-                }
-              ]
-            }
-          ],
           "status": {
-            "clock": 900,
-            "displayClock": "15:00",
+            "clock": 526,
+            "displayClock": "8:46",
             "period": 4,
             "type": {
               "id": "2",
@@ -3118,8 +3209,8 @@
               "state": "in",
               "completed": false,
               "description": "In Progress",
-              "detail": "15:00 - 4th Quarter",
-              "shortDetail": "15:00 - 4th"
+              "detail": "8:46 - 4th Quarter",
+              "shortDetail": "8:46 - 4th"
             },
             "isTBDFlex": false
           }

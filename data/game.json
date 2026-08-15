@@ -10,14 +10,14 @@
       "state": "in",
       "completed": false,
       "description": "In Progress",
-      "detail": "15:00 - 4th Quarter",
-      "shortDetail": "15:00 - 4th"
+      "detail": "8:39 - 4th Quarter",
+      "shortDetail": "8:39 - 4th"
     },
-    "clock": "15:00",
+    "clock": "8:39",
     "period": 4,
     "us": {
       "abbr": "BUF",
-      "score": "16",
+      "score": "22",
       "homeAway": "home",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
@@ -30,8 +30,8 @@
     },
     "odds": null,
     "broadcast": "WIVB",
-    "winProbability": 78,
-    "lastPlay": "(Shotgun) K.Pickett pass short left to A.Dillon pushed ob at BUF 44 for 20 yards (J.Andreessen)."
+    "winProbability": 98,
+    "lastPlay": "Official Timeout at 08:39."
   },
   "next": {
     "id": "401873294",
