@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "headline": "Carolina Panthers vs. Buffalo Bills: Game Highlights",
+      "description": "Carolina Panthers vs. Buffalo Bills: Game Highlights",
+      "published": "2026-08-15T20:37:47Z",
+      "url": "https://www.espn.com/video/clip/_/id/49621204/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0815/b6d8b7c4-081f-4f38-80c6-151e45af6fe3/b6d8b7c4-081f-4f38-80c6-151e45af6fe3.jpg",
+      "type": "Media"
+    },
+    {
+      "headline": "Josh Allen gets comfortable in Bills' new stadium with TD pass in 29-14 preseason win over Panthers",
+      "description": "— New Buffalo Bills stadium. Same Josh Allen.",
+      "published": "2026-08-15T20:29:34Z",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873282",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873282.png?templateId=espn.applewatch.awayhome.1",
+      "type": "Recap"
+    },
+    {
+      "headline": "2026 NFL preseason Week 1: Game takeaways, analysis",
+      "description": "The NFL preseason is underway! How did rookies and players in new places perform in their debuts?",
+      "published": "2026-08-15T20:37:54Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49600984/2026-nfl-preseason-week-1-takeaways-analysis",
+      "image": "https://a.espncdn.com/photo/2026/0815/r1702146_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Bills' Phidarian Mathis banned 3 games for substance abuse violation",
       "description": "Bills defensive tackle Phidarian Mathis has been suspended for the first three games of the season for violating the NFL's substance abuse policy.",
       "published": "2026-08-15T00:27:33Z",
@@ -295,30 +319,6 @@
       "url": "https://www.espn.com/video/clip/_/id/49349447/how-josh-allen-surpassed-patrick-mahomes-nfl-qb-rankings",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0713/ss_20260713_082706668_3592672517/ss_20260713_082706668_3592672517.jpg",
       "type": "Media"
-    },
-    {
-      "headline": "Execs, coaches, scouts rank top NFL quarterbacks for 2026",
-      "description": "Who are the elite QBs in the NFL right now? Which passer ranks No. 1? And where do multiple top names from the 2024 draft class land on our top-10 list?",
-      "published": "2026-07-16T10:37:32Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts",
-      "image": "https://a.espncdn.com/photo/2026/0709/260706_nfl_fowlers-top-10-qb_16x9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "How Bills WR Keon Coleman is preparing for his 'make-or-break' season",
-      "description": "Coleman's first two seasons in the NFL have not gone smoothly.",
-      "published": "2026-07-13T12:00:09Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49317308/buffalo-bills-keon-coleman-preparing-make-break-2026-season",
-      "image": "https://a.espncdn.com/photo/2026/0709/r1686969_1296x729_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "AFC East: Can Bills, Jets or Dolphins unseat the Patriots?",
-      "description": "Four big questions for our AFC East reporters, including biggest concerns and how the offseason impacted the QBs.",
-      "published": "2026-07-10T17:00:27Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49286915/nfl-afc-east-bills-jets-dolphins-patriots-josh-allen-drake-maye-aj-brown-geno-smith-malik-willis",
-      "image": "https://a.espncdn.com/photo/2026/0706/nfl_qbs_v2_608x342.png",
-      "type": "Story"
     }
   ]
 }
