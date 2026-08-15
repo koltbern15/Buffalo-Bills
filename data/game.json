@@ -10,14 +10,14 @@
       "state": "in",
       "completed": false,
       "description": "In Progress",
-      "detail": "8:39 - 4th Quarter",
-      "shortDetail": "8:39 - 4th"
+      "detail": "2:00 - 4th Quarter",
+      "shortDetail": "2:00 - 4th"
     },
-    "clock": "8:39",
+    "clock": "2:00",
     "period": 4,
     "us": {
       "abbr": "BUF",
-      "score": "22",
+      "score": "29",
       "homeAway": "home",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
@@ -30,8 +30,8 @@
     },
     "odds": null,
     "broadcast": "WIVB",
-    "winProbability": 98,
-    "lastPlay": "Official Timeout at 08:39."
+    "winProbability": 100,
+    "lastPlay": "Two-Minute Warning"
   },
   "next": {
     "id": "401873294",
