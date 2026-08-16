@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-08-16T14:11Z",
+      "athlete": {
+        "name": "Dalton Kincaid",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-08-16T02:49Z",
       "athlete": {
         "name": "Keon Coleman",
@@ -181,16 +191,6 @@
         "name": "Cole Bishop",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4676004.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-08-03T17:25Z",
-      "athlete": {
-        "name": "Dalton Kincaid",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
       }
     },
     {
