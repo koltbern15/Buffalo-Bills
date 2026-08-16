@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "headline": "DJ Moore shines in preseason debut",
+      "description": "Alaina Getzenberg discusses the best performances from the Bills' 29-14 preseason win over the Panthers.",
+      "published": "2026-08-16T00:44:10Z",
+      "url": "https://www.espn.com/video/clip/_/id/49623174/dj-moore-shines-preseason-debut",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0815/dm_260815_SC4U_16x9_Bills_IA_thread/dm_260815_SC4U_16x9_Bills_IA_thread.jpg",
+      "type": "Media"
+    },
+    {
+      "headline": "2026 NFL preseason Week 1: Game takeaways, analysis",
+      "description": "The NFL preseason is underway! How did rookies and players in new places perform in their debuts?",
+      "published": "2026-08-15T23:38:33Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49600984/2026-nfl-preseason-week-1-takeaways-analysis",
+      "image": "https://a.espncdn.com/photo/2026/0815/r1702276_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Carolina Panthers vs. Buffalo Bills: Game Highlights",
       "description": "Carolina Panthers vs. Buffalo Bills: Game Highlights",
       "published": "2026-08-15T20:37:47Z",
@@ -10,19 +26,11 @@
     },
     {
       "headline": "Josh Allen gets comfortable in Bills' new stadium with TD pass in 29-14 preseason win over Panthers",
-      "description": "— New Buffalo Bills stadium. Same Josh Allen.",
-      "published": "2026-08-15T20:29:34Z",
+      "description": "— New head coach. New Buffalo Bills stadium.",
+      "published": "2026-08-15T22:28:28Z",
       "url": "http://www.espn.com/nfl/recap?gameId=401873282",
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873282.png?templateId=espn.applewatch.awayhome.1",
       "type": "Recap"
-    },
-    {
-      "headline": "2026 NFL preseason Week 1: Game takeaways, analysis",
-      "description": "The NFL preseason is underway! How did rookies and players in new places perform in their debuts?",
-      "published": "2026-08-15T20:37:54Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49600984/2026-nfl-preseason-week-1-takeaways-analysis",
-      "image": "https://a.espncdn.com/photo/2026/0815/r1702146_608x342_16-9.jpg",
-      "type": "Story"
     },
     {
       "headline": "Bills' Phidarian Mathis banned 3 games for substance abuse violation",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/39387572/who-current-nfl-team-owners",
       "image": "https://a.espncdn.com/photo/2026/0209/r1612510_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "How Josh Allen has surpassed Patrick Mahomes in NFL QB rankings",
-      "description": "How Josh Allen has surpassed Patrick Mahomes in NFL QB rankings",
-      "published": "2026-07-13T13:03:32Z",
-      "url": "https://www.espn.com/video/clip/_/id/49349447/how-josh-allen-surpassed-patrick-mahomes-nfl-qb-rankings",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0713/ss_20260713_082706668_3592672517/ss_20260713_082706668_3592672517.jpg",
-      "type": "Media"
     }
   ]
 }
