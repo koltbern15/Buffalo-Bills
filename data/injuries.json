@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-08-16T02:49Z",
+      "athlete": {
+        "name": "Keon Coleman",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-08-16T00:09Z",
       "athlete": {
         "name": "Ray Davis",
@@ -89,16 +99,6 @@
         "name": "Ty Johnson",
         "position": "RB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-08-11T21:03Z",
-      "athlete": {
-        "name": "Keon Coleman",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
       }
     },
     {

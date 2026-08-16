@@ -143,6 +143,22 @@
       "division": "AFC North"
     },
     {
+      "abbr": "BAL",
+      "name": "Baltimore Ravens",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+      "wins": "1",
+      "losses": "0",
+      "ties": "0",
+      "pct": "1.000",
+      "pf": "24",
+      "pa": "7",
+      "diff": "+17",
+      "streak": "W1",
+      "home": "1-0",
+      "road": "0-0",
+      "division": "AFC North"
+    },
+    {
       "abbr": "CIN",
       "name": "Cincinnati Bengals",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
@@ -155,22 +171,6 @@
       "diff": "+2",
       "streak": "W1",
       "home": "1-0",
-      "road": "0-0",
-      "division": "AFC North"
-    },
-    {
-      "abbr": "BAL",
-      "name": "Baltimore Ravens",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-      "wins": "0",
-      "losses": "0",
-      "ties": "0",
-      "pct": ".000",
-      "pf": "0",
-      "pa": "0",
-      "diff": "0",
-      "streak": "-",
-      "home": "0-0",
       "road": "0-0",
       "division": "AFC North"
     },
@@ -353,22 +353,6 @@
       "division": "NFC East"
     },
     {
-      "abbr": "PHI",
-      "name": "Philadelphia Eagles",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
-      "wins": "0",
-      "losses": "0",
-      "ties": "0",
-      "pct": ".000",
-      "pf": "0",
-      "pa": "0",
-      "diff": "0",
-      "streak": "-",
-      "home": "0-0",
-      "road": "0-0",
-      "division": "NFC East"
-    },
-    {
       "abbr": "NYG",
       "name": "New York Giants",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
@@ -382,6 +366,22 @@
       "streak": "L1",
       "home": "0-1",
       "road": "0-0",
+      "division": "NFC East"
+    },
+    {
+      "abbr": "PHI",
+      "name": "Philadelphia Eagles",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+      "wins": "0",
+      "losses": "1",
+      "ties": "0",
+      "pct": ".000",
+      "pf": "7",
+      "pa": "24",
+      "diff": "-17",
+      "streak": "L1",
+      "home": "0-0",
+      "road": "0-1",
       "division": "NFC East"
     },
     {
