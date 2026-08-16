@@ -3,6 +3,36 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-08-16T00:09Z",
+      "athlete": {
+        "name": "Ray Davis",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-08-16T00:03Z",
+      "athlete": {
+        "name": "James Cook III",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379399.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-08-15T23:57Z",
+      "athlete": {
+        "name": "Khalil Shakir",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-08-15T23:48Z",
       "athlete": {
         "name": "Josh Allen",
@@ -69,16 +99,6 @@
         "name": "Keon Coleman",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-08-11T14:20Z",
-      "athlete": {
-        "name": "James Cook III",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379399.png"
       }
     },
     {
@@ -166,16 +186,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-08-04T13:52Z",
-      "athlete": {
-        "name": "Ray Davis",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-08-03T17:25Z",
       "athlete": {
         "name": "Dalton Kincaid",
@@ -222,16 +232,6 @@
         "name": "Quentin Skinner",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4613050.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-06-24T14:16Z",
-      "athlete": {
-        "name": "Khalil Shakir",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
       }
     },
     {
