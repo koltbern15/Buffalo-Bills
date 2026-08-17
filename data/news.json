@@ -25,14 +25,6 @@
       "type": "Media"
     },
     {
-      "headline": "Carolina Panthers vs. Buffalo Bills: Game Highlights",
-      "description": "Carolina Panthers vs. Buffalo Bills: Game Highlights",
-      "published": "2026-08-15T20:37:47Z",
-      "url": "https://www.espn.com/video/clip/_/id/49621204/game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0815/b6d8b7c4-081f-4f38-80c6-151e45af6fe3/b6d8b7c4-081f-4f38-80c6-151e45af6fe3.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "Josh Allen gets comfortable in Bills' new stadium with TD pass in 29-14 preseason win over Panthers",
       "description": "— New head coach. New Buffalo Bills stadium.",
       "published": "2026-08-15T22:28:28Z",
@@ -318,6 +310,14 @@
       "published": "2026-07-16T16:02:58Z",
       "url": "https://www.espn.com/nfl/story/_/id/49354774/2026-nfl-trade-tiers-players-worth-first-round-picks-all-32-teams-contract-value",
       "image": "https://a.espncdn.com/photo/2026/0121/nfl_top100-real-mvp_16x9_1296x729.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Who are the current NFL team owners?",
+      "description": "NFL team owners carry a variety of reputations in the public eye. Who is in charge of your favorite franchises? Check out this list for more details.",
+      "published": "2026-07-14T15:01:39Z",
+      "url": "https://www.espn.com/nfl/story/_/id/39387572/who-current-nfl-team-owners",
+      "image": "https://a.espncdn.com/photo/2026/0209/r1612510_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
