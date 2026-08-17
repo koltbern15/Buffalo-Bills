@@ -12,18 +12,6 @@
       "position": "offense",
       "items": [
         {
-          "id": "4431152",
-          "name": "Jackson Acker",
-          "jersey": "40",
-          "position": "FB",
-          "age": 23,
-          "height": "6' 1\"",
-          "weight": "247 lbs",
-          "experience": 0,
-          "college": "Wisconsin",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431152.png"
-        },
-        {
           "id": "3918298",
           "name": "Josh Allen",
           "jersey": "17",
@@ -973,6 +961,18 @@
           "experience": 0,
           "college": "Missouri",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4698598.png"
+        },
+        {
+          "id": "4379411",
+          "name": "Otis Reese IV",
+          "jersey": "30",
+          "position": "LB",
+          "age": 28,
+          "height": "6' 3\"",
+          "weight": "214 lbs",
+          "experience": 3,
+          "college": "Ole Miss",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379411.png"
         },
         {
           "id": "4362506",
