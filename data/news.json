@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "NFL Future Power Rankings: 2027-29 projections for 32 teams",
+      "description": "How might all 32 NFL franchises stack up beyond 2026? Our forward-looking ranking factors in each team's future QB, roster, front office and coaching situations.",
+      "published": "2026-08-17T12:56:02Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49582613/2026-nfl-future-power-rankings-projections-32-teams-roster-coaching-quarterback",
+      "image": "https://a.espncdn.com/photo/2026/0816/nfl_future_power_rankings_1296x729.png",
+      "type": "Story"
+    },
+    {
       "headline": "2026 NFL preseason Week 1: Game takeaways, analysis",
       "description": "The NFL preseason is underway! How did rookies and players in new places perform in their debuts?",
       "published": "2026-08-16T03:48:30Z",
@@ -310,14 +318,6 @@
       "published": "2026-07-16T16:02:58Z",
       "url": "https://www.espn.com/nfl/story/_/id/49354774/2026-nfl-trade-tiers-players-worth-first-round-picks-all-32-teams-contract-value",
       "image": "https://a.espncdn.com/photo/2026/0121/nfl_top100-real-mvp_16x9_1296x729.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Who are the current NFL team owners?",
-      "description": "NFL team owners carry a variety of reputations in the public eye. Who is in charge of your favorite franchises? Check out this list for more details.",
-      "published": "2026-07-14T15:01:39Z",
-      "url": "https://www.espn.com/nfl/story/_/id/39387572/who-current-nfl-team-owners",
-      "image": "https://a.espncdn.com/photo/2026/0209/r1612510_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
