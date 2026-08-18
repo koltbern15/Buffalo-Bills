@@ -3,7 +3,17 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-08-18T17:17Z",
+      "date": "2026-08-18T19:45Z",
+      "athlete": {
+        "name": "Tyler Bass",
+        "position": "PK",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-08-18T13:13Z",
       "athlete": {
         "name": "Keon Coleman",
         "position": "WR",
@@ -211,16 +221,6 @@
         "name": "Dante Pettis",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127306.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-07-30T21:27Z",
-      "athlete": {
-        "name": "Tyler Bass",
-        "position": "PK",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
       }
     },
     {
