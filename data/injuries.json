@@ -3,6 +3,26 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-08-18T13:13Z",
+      "athlete": {
+        "name": "Keon Coleman",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-08-18T13:10Z",
+      "athlete": {
+        "name": "DJ Moore",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-08-18T01:24Z",
       "athlete": {
         "name": "Otis Reese IV",
@@ -18,16 +38,6 @@
         "name": "Dalton Kincaid",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-08-16T02:49Z",
-      "athlete": {
-        "name": "Keon Coleman",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
       }
     },
     {
@@ -78,16 +88,6 @@
         "name": "Skyler Bell",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-08-15T20:51Z",
-      "athlete": {
-        "name": "DJ Moore",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
       }
     },
     {
