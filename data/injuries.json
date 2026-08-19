@@ -100,6 +100,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-08-18T23:29Z",
+      "athlete": {
+        "name": "Greg Gaines",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-08-18T19:45Z",
       "athlete": {
         "name": "Tyler Bass",
@@ -596,16 +606,6 @@
         "name": "Mecole Hardman Jr.",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035004.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-01-19T19:36Z",
-      "athlete": {
-        "name": "Jackson Hawes",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573699.png"
       }
     }
   ]
