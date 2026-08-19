@@ -544,18 +544,6 @@
       "position": "defense",
       "items": [
         {
-          "id": "4683450",
-          "name": "Tommy Akingbesote",
-          "jersey": "71",
-          "position": "DT",
-          "age": 23,
-          "height": "6' 4\"",
-          "weight": "316 lbs",
-          "experience": 1,
-          "college": "Maryland",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683450.png"
-        },
-        {
           "id": "4401823",
           "name": "Dee Alford",
           "jersey": "23",
