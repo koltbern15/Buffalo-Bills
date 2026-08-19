@@ -49,14 +49,6 @@
       "type": "Story"
     },
     {
-      "headline": "DJ Moore shines in preseason debut",
-      "description": "Alaina Getzenberg discusses the best performances from the Bills' 29-14 preseason win over the Panthers.",
-      "published": "2026-08-16T00:44:10Z",
-      "url": "https://www.espn.com/video/clip/_/id/49623174/dj-moore-shines-preseason-debut",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0815/dm_260815_SC4U_16x9_Bills_IA_thread/dm_260815_SC4U_16x9_Bills_IA_thread.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "Josh Allen gets comfortable in Bills' new stadium with TD pass in 29-14 preseason win over Panthers",
       "description": "— New head coach. New Buffalo Bills stadium.",
       "published": "2026-08-15T22:28:28Z",
@@ -318,6 +310,14 @@
       "published": "2026-07-20T16:02:40Z",
       "url": "https://www.espn.com/nfl/story/_/id/49391788/2026-nfl-season-all-backup-team-rosters-bench-players-barnwell",
       "image": "https://a.espncdn.com/photo/2026/0718/r1690936_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Who fell out of the NFL top-10 positional rankings in 2026?",
+      "description": "New players joined the top 10, which means others dropped out. Here's who's trying to get back.",
+      "published": "2026-07-17T16:10:29Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49344418/top-10-nfl-players-dropped-2026",
+      "image": "https://a.espncdn.com/photo/2025/0124/r1442780_1296x729_16-9.jpg",
       "type": "Story"
     }
   ]
