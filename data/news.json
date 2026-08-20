@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Injuries mounting for the Bills",
+      "description": "Alaina Getzenberg breaks down the Bills' recent rash of injuries.",
+      "published": "2026-08-18T23:31:45Z",
+      "url": "https://www.espn.com/video/clip/_/id/49652937/injuries-mounting-bills",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0818/dm_260818_BillsIA/dm_260818_BillsIA.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "2026 Buffalo Bills training camp: Latest intel, updates",
       "description": "Follow our updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
       "published": "2026-08-18T19:37:00Z",
@@ -310,14 +318,6 @@
       "published": "2026-07-17T16:10:29Z",
       "url": "https://www.espn.com/nfl/story/_/id/49344418/top-10-nfl-players-dropped-2026",
       "image": "https://a.espncdn.com/photo/2025/0124/r1442780_1296x729_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "2026 NFL trade tiers: Players worth Round 1 picks by team",
-      "description": "Which NFL players would be worth one first-rounder in a trade? Two? Seven?! Let's put each team's stars into value tiers, factoring in ability, positions, contracts and age.",
-      "published": "2026-07-16T16:02:58Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49354774/2026-nfl-trade-tiers-players-worth-first-round-picks-all-32-teams-contract-value",
-      "image": "https://a.espncdn.com/photo/2026/0121/nfl_top100-real-mvp_16x9_1296x729.jpg",
       "type": "Story"
     }
   ]
