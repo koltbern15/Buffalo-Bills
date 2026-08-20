@@ -910,8 +910,8 @@
               "description": "NFL Preseason - Buffalo Bills at Cleveland Browns",
               "maxPrice": 907.03,
               "startingPrice": 15.68,
-              "numberAvailable": 6004,
-              "totalPostings": 1681,
+              "numberAvailable": 5970,
+              "totalPostings": 1676,
               "links": [
                 {
                   "rel": [
@@ -1781,8 +1781,8 @@
               "description": "NFL Preseason - Pittsburgh Steelers at Buffalo Bills",
               "maxPrice": 16997.53,
               "startingPrice": 61.31,
-              "numberAvailable": 6941,
-              "totalPostings": 2245,
+              "numberAvailable": 6932,
+              "totalPostings": 2241,
               "links": [
                 {
                   "rel": [
