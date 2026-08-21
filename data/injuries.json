@@ -3,6 +3,27 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-08-21T00:41Z",
+      "athlete": {
+        "name": "Jackson Hawes",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573699.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Lower Body",
+      "date": "2026-08-21T00:35Z",
+      "athlete": {
+        "name": "Skyler Bell",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-08-20T18:17Z",
       "athlete": {
         "name": "DJ Moore",
@@ -52,17 +73,6 @@
         "name": "Connor McGovern",
         "position": "C",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4033748.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Lower Body",
-      "date": "2026-08-19T12:07Z",
-      "athlete": {
-        "name": "Skyler Bell",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
       }
     },
     {
@@ -596,16 +606,6 @@
         "name": "Stephen Gosnell",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432215.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-01-19T21:45Z",
-      "athlete": {
-        "name": "Mecole Hardman Jr.",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035004.png"
       }
     }
   ]
