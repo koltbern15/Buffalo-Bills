@@ -10,14 +10,14 @@
       "state": "in",
       "completed": false,
       "description": "In Progress",
-      "detail": "7:15 - 3rd Quarter",
-      "shortDetail": "7:15 - 3rd"
+      "detail": "2:02 - 3rd Quarter",
+      "shortDetail": "2:02 - 3rd"
     },
-    "clock": "7:15",
+    "clock": "2:02",
     "period": 3,
     "us": {
       "abbr": "BUF",
-      "score": "17",
+      "score": "24",
       "homeAway": "away",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
@@ -30,8 +30,8 @@
     },
     "odds": null,
     "broadcast": "NFL Net",
-    "winProbability": 84,
-    "lastPlay": " (Shotgun) D.Watson pass incomplete short middle to A.Marshall."
+    "winProbability": 96,
+    "lastPlay": "T.Bass kicks 62 yards from BUF 35 to CLV 3. K.Wilson to CLV 33 for 30 yards (K.Latu)."
   },
   "next": {
     "id": "401873298",

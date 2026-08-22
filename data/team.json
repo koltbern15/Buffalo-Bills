@@ -53,7 +53,7 @@
           },
           {
             "name": "playoffSeed",
-            "value": 1
+            "value": 2
           },
           {
             "name": "pointDifferential",
@@ -1007,8 +1007,8 @@
                   "abbreviation": "RYDS",
                   "leaders": [
                     {
-                      "displayValue": "5 CAR, 28 YDS",
-                      "value": 28,
+                      "displayValue": "6 CAR, 30 YDS",
+                      "value": 30,
                       "athlete": {
                         "id": "4579554",
                         "lastName": "Wheeler",
@@ -1127,13 +1127,13 @@
                   "abbreviation": "RECYDS",
                   "leaders": [
                     {
-                      "displayValue": "4 REC, 54 YDS",
-                      "value": 54,
+                      "displayValue": "2 REC, 108 YDS, 1 TD",
+                      "value": 108,
                       "athlete": {
-                        "id": "3122168",
-                        "lastName": "Sherfield",
-                        "displayName": "Trent Sherfield",
-                        "shortName": "T. Sherfield",
+                        "id": "4430270",
+                        "lastName": "Maclin",
+                        "displayName": "Ja'Mori Maclin",
+                        "shortName": "J. Maclin",
                         "links": [
                           {
                             "rel": [
@@ -1141,7 +1141,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -1149,7 +1149,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -1158,7 +1158,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3122168&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270&section=stats"
                           },
                           {
                             "rel": [
@@ -1166,7 +1166,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -1174,7 +1174,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -1183,7 +1183,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3122168&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270&section=gamelog"
                           },
                           {
                             "rel": [
@@ -1191,7 +1191,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -1200,7 +1200,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3122168&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270&section=news"
                           },
                           {
                             "rel": [
@@ -1208,7 +1208,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -1217,7 +1217,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3122168&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270&section=bio"
                           },
                           {
                             "rel": [
@@ -1225,7 +1225,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -1234,7 +1234,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3122168"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270"
                           }
                         ]
                       }
@@ -1367,8 +1367,8 @@
                   "abbreviation": "YDS",
                   "leaders": [
                     {
-                      "displayValue": "28",
-                      "value": 28,
+                      "displayValue": "30",
+                      "value": 30,
                       "athlete": {
                         "id": "4579554",
                         "lastName": "Wheeler",
@@ -1487,13 +1487,13 @@
                   "abbreviation": "YDS",
                   "leaders": [
                     {
-                      "displayValue": "54",
-                      "value": 54,
+                      "displayValue": "108",
+                      "value": 108,
                       "athlete": {
-                        "id": "3122168",
-                        "lastName": "Sherfield",
-                        "displayName": "Trent Sherfield",
-                        "shortName": "T. Sherfield",
+                        "id": "4430270",
+                        "lastName": "Maclin",
+                        "displayName": "Ja'Mori Maclin",
+                        "shortName": "J. Maclin",
                         "links": [
                           {
                             "rel": [
@@ -1501,7 +1501,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -1509,7 +1509,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -1518,7 +1518,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3122168&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270&section=stats"
                           },
                           {
                             "rel": [
@@ -1526,7 +1526,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -1534,7 +1534,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -1543,7 +1543,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3122168&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270&section=gamelog"
                           },
                           {
                             "rel": [
@@ -1551,7 +1551,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -1560,7 +1560,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3122168&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270&section=news"
                           },
                           {
                             "rel": [
@@ -1568,7 +1568,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -1577,7 +1577,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3122168&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270&section=bio"
                           },
                           {
                             "rel": [
@@ -1585,7 +1585,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -1594,7 +1594,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3122168"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270"
                           }
                         ]
                       }
@@ -2327,8 +2327,8 @@
                   "abbreviation": "TP",
                   "leaders": [
                     {
-                      "displayValue": "5",
-                      "value": 5,
+                      "displayValue": "6",
+                      "value": 6,
                       "athlete": {
                         "id": "3917232",
                         "lastName": "Bass",
@@ -2687,13 +2687,13 @@
                   "abbreviation": "ESPNRating",
                   "leaders": [
                     {
-                      "displayValue": "10-12, 128 YDS, 1 TD",
-                      "value": 11.119999885559082,
+                      "displayValue": "2 REC, 108 YDS, 1 TD",
+                      "value": 16.799999237060547,
                       "athlete": {
-                        "id": "3115293",
-                        "lastName": "Allen",
-                        "displayName": "Kyle Allen",
-                        "shortName": "K. Allen",
+                        "id": "4430270",
+                        "lastName": "Maclin",
+                        "displayName": "Ja'Mori Maclin",
+                        "shortName": "J. Maclin",
                         "links": [
                           {
                             "rel": [
@@ -2701,7 +2701,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/3115293/kyle-allen"
+                            "href": "https://www.espn.com/nfl/player/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -2709,7 +2709,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/3115293/kyle-allen"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -2718,7 +2718,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3115293&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270&section=stats"
                           },
                           {
                             "rel": [
@@ -2726,7 +2726,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/3115293/kyle-allen"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -2734,7 +2734,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3115293/kyle-allen"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -2743,7 +2743,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3115293&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270&section=gamelog"
                           },
                           {
                             "rel": [
@@ -2751,7 +2751,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/3115293/kyle-allen"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -2760,7 +2760,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3115293&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270&section=news"
                           },
                           {
                             "rel": [
@@ -2768,7 +2768,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/3115293/kyle-allen"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -2777,7 +2777,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3115293&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270&section=bio"
                           },
                           {
                             "rel": [
@@ -2785,7 +2785,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/3115293/kyle-allen"
+                            "href": "https://www.espn.com/nfl/player/_/id/4430270/jamori-maclin"
                           },
                           {
                             "rel": [
@@ -2794,7 +2794,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3115293"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270"
                           }
                         ]
                       }
@@ -3455,8 +3455,8 @@
             }
           ],
           "status": {
-            "clock": 435,
-            "displayClock": "7:15",
+            "clock": 127,
+            "displayClock": "2:07",
             "period": 3,
             "type": {
               "id": "2",
@@ -3464,8 +3464,8 @@
               "state": "in",
               "completed": false,
               "description": "In Progress",
-              "detail": "7:15 - 3rd Quarter",
-              "shortDetail": "7:15 - 3rd"
+              "detail": "2:07 - 3rd Quarter",
+              "shortDetail": "2:07 - 3rd"
             },
             "isTBDFlex": false
           }
