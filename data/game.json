@@ -10,10 +10,10 @@
       "state": "in",
       "completed": false,
       "description": "In Progress",
-      "detail": "9:49 - 2nd Quarter",
-      "shortDetail": "9:49 - 2nd"
+      "detail": "1:20 - 2nd Quarter",
+      "shortDetail": "1:20 - 2nd"
     },
-    "clock": "9:49",
+    "clock": "1:20",
     "period": 2,
     "us": {
       "abbr": "BUF",
@@ -30,8 +30,8 @@
     },
     "odds": null,
     "broadcast": "NFL Net",
-    "winProbability": 44,
-    "lastPlay": " I.Bond left end to BUF 42 for 4 yards (J.Hancock; G.Stone)."
+    "winProbability": 52,
+    "lastPlay": "(Shotgun) S.Sanders pass short right to D.Booth to CLV 19 for 4 yards (J.Andreessen) [T.Parker].PENALTY on BUF-T.Parker, Defensive Offside, 5 yards, enforced at CLV 15 - No Play."
   },
   "next": {
     "id": "401873298",
