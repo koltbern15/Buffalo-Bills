@@ -3,6 +3,28 @@
     {
       "status": "Questionable",
       "type": "questionable",
+      "detail": "Undisclosed",
+      "date": "2026-08-22T16:46Z",
+      "athlete": {
+        "name": "Khalil Shakir",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Lower Body",
+      "date": "2026-08-22T16:46Z",
+      "athlete": {
+        "name": "Skyler Bell",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
       "detail": "Foot",
       "date": "2026-08-22T16:35Z",
       "athlete": {
@@ -32,17 +54,6 @@
       }
     },
     {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Lower Body",
-      "date": "2026-08-21T00:35Z",
-      "athlete": {
-        "name": "Skyler Bell",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
-      }
-    },
-    {
       "status": "Active",
       "type": "active",
       "date": "2026-08-20T18:17Z",
@@ -50,17 +61,6 @@
         "name": "DJ Moore",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Undisclosed",
-      "date": "2026-08-20T17:14Z",
-      "athlete": {
-        "name": "Khalil Shakir",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
       }
     },
     {
