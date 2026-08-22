@@ -1007,13 +1007,13 @@
                   "abbreviation": "RYDS",
                   "leaders": [
                     {
-                      "displayValue": "6 CAR, 30 YDS",
-                      "value": 30,
+                      "displayValue": "8 CAR, 50 YDS",
+                      "value": 50,
                       "athlete": {
-                        "id": "4579554",
-                        "lastName": "Wheeler",
-                        "displayName": "Ian Wheeler",
-                        "shortName": "I. Wheeler",
+                        "id": "4429805",
+                        "lastName": "Gore Jr.",
+                        "displayName": "Frank Gore Jr.",
+                        "shortName": "F. Gore Jr.",
                         "links": [
                           {
                             "rel": [
@@ -1021,7 +1021,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4579554/ian-wheeler"
+                            "href": "https://www.espn.com/nfl/player/_/id/4429805/frank-gore-jr"
                           },
                           {
                             "rel": [
@@ -1029,7 +1029,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/4579554/ian-wheeler"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4429805/frank-gore-jr"
                           },
                           {
                             "rel": [
@@ -1038,7 +1038,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429805&section=stats"
                           },
                           {
                             "rel": [
@@ -1046,7 +1046,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/4579554/ian-wheeler"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4429805/frank-gore-jr"
                           },
                           {
                             "rel": [
@@ -1054,7 +1054,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4579554/ian-wheeler"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4429805/frank-gore-jr"
                           },
                           {
                             "rel": [
@@ -1063,7 +1063,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429805&section=gamelog"
                           },
                           {
                             "rel": [
@@ -1071,7 +1071,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/4579554/ian-wheeler"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4429805/frank-gore-jr"
                           },
                           {
                             "rel": [
@@ -1080,7 +1080,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429805&section=news"
                           },
                           {
                             "rel": [
@@ -1088,7 +1088,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/4579554/ian-wheeler"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4429805/frank-gore-jr"
                           },
                           {
                             "rel": [
@@ -1097,7 +1097,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429805&section=bio"
                           },
                           {
                             "rel": [
@@ -1105,7 +1105,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4579554/ian-wheeler"
+                            "href": "https://www.espn.com/nfl/player/_/id/4429805/frank-gore-jr"
                           },
                           {
                             "rel": [
@@ -1114,7 +1114,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429805"
                           }
                         ]
                       }
@@ -1367,13 +1367,13 @@
                   "abbreviation": "YDS",
                   "leaders": [
                     {
-                      "displayValue": "30",
-                      "value": 30,
+                      "displayValue": "50",
+                      "value": 50,
                       "athlete": {
-                        "id": "4579554",
-                        "lastName": "Wheeler",
-                        "displayName": "Ian Wheeler",
-                        "shortName": "I. Wheeler",
+                        "id": "4429805",
+                        "lastName": "Gore Jr.",
+                        "displayName": "Frank Gore Jr.",
+                        "shortName": "F. Gore Jr.",
                         "links": [
                           {
                             "rel": [
@@ -1381,7 +1381,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4579554/ian-wheeler"
+                            "href": "https://www.espn.com/nfl/player/_/id/4429805/frank-gore-jr"
                           },
                           {
                             "rel": [
@@ -1389,7 +1389,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/4579554/ian-wheeler"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4429805/frank-gore-jr"
                           },
                           {
                             "rel": [
@@ -1398,7 +1398,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429805&section=stats"
                           },
                           {
                             "rel": [
@@ -1406,7 +1406,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/4579554/ian-wheeler"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4429805/frank-gore-jr"
                           },
                           {
                             "rel": [
@@ -1414,7 +1414,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4579554/ian-wheeler"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4429805/frank-gore-jr"
                           },
                           {
                             "rel": [
@@ -1423,7 +1423,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429805&section=gamelog"
                           },
                           {
                             "rel": [
@@ -1431,7 +1431,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/4579554/ian-wheeler"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4429805/frank-gore-jr"
                           },
                           {
                             "rel": [
@@ -1440,7 +1440,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429805&section=news"
                           },
                           {
                             "rel": [
@@ -1448,7 +1448,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/4579554/ian-wheeler"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4429805/frank-gore-jr"
                           },
                           {
                             "rel": [
@@ -1457,7 +1457,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429805&section=bio"
                           },
                           {
                             "rel": [
@@ -1465,7 +1465,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4579554/ian-wheeler"
+                            "href": "https://www.espn.com/nfl/player/_/id/4429805/frank-gore-jr"
                           },
                           {
                             "rel": [
@@ -1474,7 +1474,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4579554"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429805"
                           }
                         ]
                       }
@@ -2327,8 +2327,8 @@
                   "abbreviation": "TP",
                   "leaders": [
                     {
-                      "displayValue": "6",
-                      "value": 6,
+                      "displayValue": "7",
+                      "value": 7,
                       "athlete": {
                         "id": "3917232",
                         "lastName": "Bass",
@@ -2687,13 +2687,13 @@
                   "abbreviation": "ESPNRating",
                   "leaders": [
                     {
-                      "displayValue": "2 REC, 108 YDS, 1 TD",
-                      "value": 16.799999237060547,
+                      "displayValue": "5-10, 111 YDS, 1 TD",
+                      "value": 16.940000534057617,
                       "athlete": {
-                        "id": "4430270",
-                        "lastName": "Maclin",
-                        "displayName": "Ja'Mori Maclin",
-                        "shortName": "J. Maclin",
+                        "id": "4039034",
+                        "lastName": "Buechele",
+                        "displayName": "Shane Buechele",
+                        "shortName": "S. Buechele",
                         "links": [
                           {
                             "rel": [
@@ -2701,7 +2701,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4430270/jamori-maclin"
+                            "href": "https://www.espn.com/nfl/player/_/id/4039034/shane-buechele"
                           },
                           {
                             "rel": [
@@ -2709,7 +2709,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/4430270/jamori-maclin"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4039034/shane-buechele"
                           },
                           {
                             "rel": [
@@ -2718,7 +2718,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4039034&section=stats"
                           },
                           {
                             "rel": [
@@ -2726,7 +2726,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/4430270/jamori-maclin"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4039034/shane-buechele"
                           },
                           {
                             "rel": [
@@ -2734,7 +2734,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4430270/jamori-maclin"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4039034/shane-buechele"
                           },
                           {
                             "rel": [
@@ -2743,7 +2743,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4039034&section=gamelog"
                           },
                           {
                             "rel": [
@@ -2751,7 +2751,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/4430270/jamori-maclin"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4039034/shane-buechele"
                           },
                           {
                             "rel": [
@@ -2760,7 +2760,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4039034&section=news"
                           },
                           {
                             "rel": [
@@ -2768,7 +2768,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/4430270/jamori-maclin"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4039034/shane-buechele"
                           },
                           {
                             "rel": [
@@ -2777,7 +2777,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4039034&section=bio"
                           },
                           {
                             "rel": [
@@ -2785,7 +2785,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4430270/jamori-maclin"
+                            "href": "https://www.espn.com/nfl/player/_/id/4039034/shane-buechele"
                           },
                           {
                             "rel": [
@@ -2794,7 +2794,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4430270"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4039034"
                           }
                         ]
                       }
@@ -3050,10 +3050,10 @@
                       "displayValue": "1",
                       "value": 1,
                       "athlete": {
-                        "id": "4429501",
-                        "lastName": "Davis",
-                        "displayName": "Ray Davis",
-                        "shortName": "R. Davis",
+                        "id": "4039034",
+                        "lastName": "Buechele",
+                        "displayName": "Shane Buechele",
+                        "shortName": "S. Buechele",
                         "links": [
                           {
                             "rel": [
@@ -3061,7 +3061,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4429501/ray-davis"
+                            "href": "https://www.espn.com/nfl/player/_/id/4039034/shane-buechele"
                           },
                           {
                             "rel": [
@@ -3069,7 +3069,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/4429501/ray-davis"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4039034/shane-buechele"
                           },
                           {
                             "rel": [
@@ -3078,7 +3078,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4039034&section=stats"
                           },
                           {
                             "rel": [
@@ -3086,7 +3086,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/4429501/ray-davis"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4039034/shane-buechele"
                           },
                           {
                             "rel": [
@@ -3094,7 +3094,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4429501/ray-davis"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4039034/shane-buechele"
                           },
                           {
                             "rel": [
@@ -3103,7 +3103,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4039034&section=gamelog"
                           },
                           {
                             "rel": [
@@ -3111,7 +3111,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/4429501/ray-davis"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4039034/shane-buechele"
                           },
                           {
                             "rel": [
@@ -3120,7 +3120,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4039034&section=news"
                           },
                           {
                             "rel": [
@@ -3128,7 +3128,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/4429501/ray-davis"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4039034/shane-buechele"
                           },
                           {
                             "rel": [
@@ -3137,7 +3137,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4039034&section=bio"
                           },
                           {
                             "rel": [
@@ -3145,7 +3145,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/4429501/ray-davis"
+                            "href": "https://www.espn.com/nfl/player/_/id/4039034/shane-buechele"
                           },
                           {
                             "rel": [
@@ -3154,7 +3154,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4039034"
                           }
                         ]
                       }
@@ -3455,17 +3455,17 @@
             }
           ],
           "status": {
-            "clock": 127,
-            "displayClock": "2:07",
-            "period": 3,
+            "clock": 363,
+            "displayClock": "6:03",
+            "period": 4,
             "type": {
               "id": "2",
               "name": "STATUS_IN_PROGRESS",
               "state": "in",
               "completed": false,
               "description": "In Progress",
-              "detail": "2:07 - 3rd Quarter",
-              "shortDetail": "2:07 - 3rd"
+              "detail": "6:03 - 4th Quarter",
+              "shortDetail": "6:03 - 4th"
             },
             "isTBDFlex": false
           }
@@ -4407,10 +4407,10 @@
               "id": "6585209",
               "summary": "Tickets as low as $53",
               "description": "NFL Preseason - Pittsburgh Steelers at Buffalo Bills",
-              "maxPrice": 11930.03,
+              "maxPrice": 5466.37,
               "startingPrice": 53.44,
-              "numberAvailable": 4850,
-              "totalPostings": 1770,
+              "numberAvailable": 4861,
+              "totalPostings": 1780,
               "links": [
                 {
                   "rel": [
