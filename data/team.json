@@ -3628,6 +3628,19 @@
         {
           "language": "en-US",
           "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/nfl/recap?gameId=401873294",
+          "text": "Recap",
+          "shortText": "Recap",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
             "pbp",
             "desktop",
             "event"
@@ -4442,8 +4455,8 @@
               "description": "NFL Preseason - Pittsburgh Steelers at Buffalo Bills",
               "maxPrice": 5466.37,
               "startingPrice": 53.44,
-              "numberAvailable": 4861,
-              "totalPostings": 1780,
+              "numberAvailable": 4692,
+              "totalPostings": 1724,
               "links": [
                 {
                   "rel": [
