@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "headline": "Buffalo Bills vs. Cleveland Browns: Game Highlights",
+      "description": "Buffalo Bills vs. Cleveland Browns: Game Highlights",
+      "published": "2026-08-22T21:14:27Z",
+      "url": "https://www.espn.com/video/clip/_/id/49694669/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0822/d639989f-14b2-49ff-8fdc-150298c76144/d639989f-14b2-49ff-8fdc-150298c76144.jpg",
+      "type": "Media"
+    },
+    {
+      "headline": "2026 NFL preseason Week 2: Game takeaways, analysis",
+      "description": "NFL Nation reporters tackle the biggest looming roster questions coming off each NFL Week 2 preseason game.",
+      "published": "2026-08-22T21:38:32Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705413_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Shedeur Sanders throws TD pass in final chance to win starting QB job but Bills batter Browns 31-7",
+      "description": "— Shedeur Sanders threw a touchdown pass and made good decisions in perhaps his last chance to convince coach Todd Monken he should be Cleveland's starting quarterback in the Browns' 31-7 preseason loss to the Buffalo Bills on Saturday.",
+      "published": "2026-08-22T20:58:30Z",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873294",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873294.png?templateId=espn.applewatch.awayhome.1",
+      "type": "Recap"
+    },
+    {
       "headline": "Bills star DT Ed Oliver mourning tragic death of son",
       "description": "The 2-year-old son of Bills defensive tackle Ed Oliver died June 28 after he was found unresponsive in a swimming pool by family members at a residence outside Houston.",
       "published": "2026-08-22T19:30:23Z",
@@ -294,30 +318,6 @@
       "published": "2026-07-22T15:43:47Z",
       "url": "https://www.espn.com/nfl/story/_/id/49417396/2026-ranking-all-32-nfl-teams-25-young-players",
       "image": "https://a.espncdn.com/photo/2026/0721/r1692128_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Has Allen surpassed Mahomes as NFL's best QB? Stephen A. weighs in",
-      "description": "Has Allen surpassed Mahomes as NFL's best QB? Stephen A. weighs in",
-      "published": "2026-07-20T15:35:26Z",
-      "url": "https://www.espn.com/video/clip/_/id/49410332/has-allen-surpassed-mahomes-nfl-best-qb-stephen-weighs-in",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0720/ss_20260720_112458251_3598316688/ss_20260720_112458251_3598316688.jpg",
-      "type": "Media"
-    },
-    {
-      "headline": "Betting on the Buffalo Bills in 2026: Expect victories to add up",
-      "description": "Examining the Bills' outlook for 2026, the ways to bet them and our best bet going into the NFL season.",
-      "published": "2026-07-21T14:53:47Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/49298602/buffalo-bills-betting-outlook-2026",
-      "image": "https://a.espncdn.com/photo/2025/1114/r1575447_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL All-Backup Team: Could a roster of bench players contend?",
-      "description": "Nick Herbig rushing the passer while Martin Emerson Jr. plays in coverage? DeMario Douglas catching passes from Fernando Mendoza? Let's fill out a full roster of nonstarters.",
-      "published": "2026-07-20T16:02:40Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49391788/2026-nfl-season-all-backup-team-rosters-bench-players-barnwell",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1690936_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
