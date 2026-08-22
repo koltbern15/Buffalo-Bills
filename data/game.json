@@ -5,19 +5,19 @@
     "date": "2026-08-22T17:00Z",
     "state": "in",
     "status": {
-      "id": "2",
-      "name": "STATUS_IN_PROGRESS",
+      "id": "23",
+      "name": "STATUS_HALFTIME",
       "state": "in",
       "completed": false,
-      "description": "In Progress",
-      "detail": "1:20 - 2nd Quarter",
-      "shortDetail": "1:20 - 2nd"
+      "description": "Halftime",
+      "detail": "Halftime",
+      "shortDetail": "Halftime"
     },
-    "clock": "1:20",
+    "clock": "0:00",
     "period": 2,
     "us": {
       "abbr": "BUF",
-      "score": "7",
+      "score": "14",
       "homeAway": "away",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
@@ -30,8 +30,8 @@
     },
     "odds": null,
     "broadcast": "NFL Net",
-    "winProbability": 52,
-    "lastPlay": "(Shotgun) S.Sanders pass short right to D.Booth to CLV 19 for 4 yards (J.Andreessen) [T.Parker].PENALTY on BUF-T.Parker, Defensive Offside, 5 yards, enforced at CLV 15 - No Play."
+    "winProbability": 72,
+    "lastPlay": "END QUARTER 2"
   },
   "next": {
     "id": "401873298",

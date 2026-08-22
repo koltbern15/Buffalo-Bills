@@ -53,13 +53,13 @@
       "week": 3,
       "seasonType": 1,
       "status": {
-        "id": "2",
-        "name": "STATUS_IN_PROGRESS",
+        "id": "23",
+        "name": "STATUS_HALFTIME",
         "state": "in",
         "completed": false,
-        "description": "In Progress",
-        "detail": "1:20 - 2nd Quarter",
-        "shortDetail": "1:20 - 2nd"
+        "description": "Halftime",
+        "detail": "Halftime",
+        "shortDetail": "Halftime"
       },
       "venue": {
         "name": "Huntington Bank Field",
@@ -73,8 +73,14 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png"
       },
       "score": {
-        "us": null,
-        "them": null
+        "us": {
+          "value": 14,
+          "displayValue": "14"
+        },
+        "them": {
+          "value": 7,
+          "displayValue": "7"
+        }
       },
       "result": null,
       "homeAbbr": "CLE",
