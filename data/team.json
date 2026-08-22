@@ -543,51 +543,7 @@
                     "text": "Depth Chart"
                   }
                 ]
-              },
-              "score": {
-                "value": 0,
-                "displayValue": "0"
-              },
-              "record": [
-                {
-                  "id": "0",
-                  "abbreviation": "Any",
-                  "type": "total",
-                  "displayValue": "0-1"
-                },
-                {
-                  "id": "13",
-                  "displayName": "Home",
-                  "shortDisplayName": "HOME",
-                  "description": "Home Record",
-                  "type": "home",
-                  "displayValue": "0-0"
-                },
-                {
-                  "id": "14",
-                  "displayName": "Road",
-                  "shortDisplayName": "AWAY",
-                  "description": "Away Record",
-                  "type": "road",
-                  "displayValue": "0-1"
-                },
-                {
-                  "id": "17",
-                  "displayName": "DIV",
-                  "shortDisplayName": "DIV",
-                  "description": "Division Record",
-                  "type": "vsdiv",
-                  "displayValue": "0-0"
-                },
-                {
-                  "id": "906",
-                  "displayName": "CONF",
-                  "shortDisplayName": "CONF",
-                  "description": "Conference Record",
-                  "type": "vsconf",
-                  "displayValue": "0-0"
-                }
-              ]
+              }
             },
             {
               "id": "2",
@@ -924,10 +880,6 @@
                   }
                 ]
               },
-              "score": {
-                "value": 0,
-                "displayValue": "0"
-              },
               "leaders": [
                 {
                   "name": "passingLeader",
@@ -935,8 +887,8 @@
                   "abbreviation": "PYDS",
                   "leaders": [
                     {
-                      "displayValue": "1/1, 18 YDS",
-                      "value": 18,
+                      "displayValue": "2/2, 35 YDS",
+                      "value": 35,
                       "athlete": {
                         "id": "3115293",
                         "lastName": "Allen",
@@ -1055,8 +1007,8 @@
                   "abbreviation": "RYDS",
                   "leaders": [
                     {
-                      "displayValue": "2 CAR, 13 YDS",
-                      "value": 13,
+                      "displayValue": "7 CAR, 21 YDS, 1 TD",
+                      "value": 21,
                       "athlete": {
                         "id": "4429501",
                         "lastName": "Davis",
@@ -1175,8 +1127,8 @@
                   "abbreviation": "RECYDS",
                   "leaders": [
                     {
-                      "displayValue": "1 REC, 18 YDS",
-                      "value": 18,
+                      "displayValue": "2 REC, 35 YDS",
+                      "value": 35,
                       "athlete": {
                         "id": "3122168",
                         "lastName": "Sherfield",
@@ -1295,8 +1247,8 @@
                   "abbreviation": "YDS",
                   "leaders": [
                     {
-                      "displayValue": "18",
-                      "value": 18,
+                      "displayValue": "35",
+                      "value": 35,
                       "athlete": {
                         "id": "3115293",
                         "lastName": "Allen",
@@ -1415,8 +1367,8 @@
                   "abbreviation": "YDS",
                   "leaders": [
                     {
-                      "displayValue": "13",
-                      "value": 13,
+                      "displayValue": "21",
+                      "value": 21,
                       "athlete": {
                         "id": "4429501",
                         "lastName": "Davis",
@@ -1535,8 +1487,8 @@
                   "abbreviation": "YDS",
                   "leaders": [
                     {
-                      "displayValue": "18",
-                      "value": 18,
+                      "displayValue": "35",
+                      "value": 35,
                       "athlete": {
                         "id": "3122168",
                         "lastName": "Sherfield",
@@ -1770,18 +1722,18 @@
                   ]
                 },
                 {
-                  "name": "espnRating",
-                  "displayName": "ESPN Rating Leader",
-                  "abbreviation": "ESPNRating",
+                  "name": "totalKickingPoints",
+                  "displayName": "Kicking Points",
+                  "abbreviation": "TP",
                   "leaders": [
                     {
-                      "displayValue": "1 REC, 18 YDS",
-                      "value": 1.8000000715255737,
+                      "displayValue": "1",
+                      "value": 1,
                       "athlete": {
-                        "id": "3122168",
-                        "lastName": "Sherfield",
-                        "displayName": "Trent Sherfield",
-                        "shortName": "T. Sherfield",
+                        "id": "3917232",
+                        "lastName": "Bass",
+                        "displayName": "Tyler Bass",
+                        "shortName": "T. Bass",
                         "links": [
                           {
                             "rel": [
@@ -1789,7 +1741,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/_/id/3917232/tyler-bass"
                           },
                           {
                             "rel": [
@@ -1797,7 +1749,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/3917232/tyler-bass"
                           },
                           {
                             "rel": [
@@ -1806,7 +1758,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3122168&section=stats"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3917232&section=stats"
                           },
                           {
                             "rel": [
@@ -1814,7 +1766,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/3917232/tyler-bass"
                           },
                           {
                             "rel": [
@@ -1822,7 +1774,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3917232/tyler-bass"
                           },
                           {
                             "rel": [
@@ -1831,7 +1783,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3122168&section=gamelog"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3917232&section=gamelog"
                           },
                           {
                             "rel": [
@@ -1839,7 +1791,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/news/_/id/3917232/tyler-bass"
                           },
                           {
                             "rel": [
@@ -1848,7 +1800,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3122168&section=news"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3917232&section=news"
                           },
                           {
                             "rel": [
@@ -1856,7 +1808,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/3917232/tyler-bass"
                           },
                           {
                             "rel": [
@@ -1865,7 +1817,7 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3122168&section=bio"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3917232&section=bio"
                           },
                           {
                             "rel": [
@@ -1873,7 +1825,7 @@
                               "desktop",
                               "athlete"
                             ],
-                            "href": "https://www.espn.com/nfl/player/_/id/3122168/trent-sherfield"
+                            "href": "https://www.espn.com/nfl/player/_/id/3917232/tyler-bass"
                           },
                           {
                             "rel": [
@@ -1882,7 +1834,127 @@
                               "app",
                               "athlete"
                             ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3122168"
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3917232"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "espnRating",
+                  "displayName": "ESPN Rating Leader",
+                  "abbreviation": "ESPNRating",
+                  "leaders": [
+                    {
+                      "displayValue": "7 CAR, 21 YDS, 1 TD",
+                      "value": 8.100000381469727,
+                      "athlete": {
+                        "id": "4429501",
+                        "lastName": "Davis",
+                        "displayName": "Ray Davis",
+                        "shortName": "R. Davis",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4429501/ray-davis"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4429501/ray-davis"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4429501/ray-davis"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4429501/ray-davis"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4429501/ray-davis"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4429501/ray-davis"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4429501/ray-davis"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501"
                           }
                         ]
                       }
@@ -2010,13 +2082,133 @@
                   ]
                 },
                 {
+                  "name": "rushingTouchdowns",
+                  "displayName": "Rushing Touchdowns",
+                  "abbreviation": "TD",
+                  "leaders": [
+                    {
+                      "displayValue": "1",
+                      "value": 1,
+                      "athlete": {
+                        "id": "4429501",
+                        "lastName": "Davis",
+                        "displayName": "Ray Davis",
+                        "shortName": "R. Davis",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4429501/ray-davis"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4429501/ray-davis"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4429501/ray-davis"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4429501/ray-davis"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4429501/ray-davis"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4429501/ray-davis"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4429501/ray-davis"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4429501"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
                   "name": "receptions",
                   "displayName": "Receptions",
                   "abbreviation": "REC",
                   "leaders": [
                     {
-                      "displayValue": "1",
-                      "value": 1,
+                      "displayValue": "2",
+                      "value": 2,
                       "athlete": {
                         "id": "3122168",
                         "lastName": "Sherfield",
@@ -2129,46 +2321,6 @@
                     }
                   ]
                 }
-              ],
-              "record": [
-                {
-                  "id": "0",
-                  "abbreviation": "Any",
-                  "type": "total",
-                  "displayValue": "1-0"
-                },
-                {
-                  "id": "13",
-                  "displayName": "Home",
-                  "shortDisplayName": "HOME",
-                  "description": "Home Record",
-                  "type": "home",
-                  "displayValue": "1-0"
-                },
-                {
-                  "id": "14",
-                  "displayName": "Road",
-                  "shortDisplayName": "AWAY",
-                  "description": "Away Record",
-                  "type": "road",
-                  "displayValue": "0-0"
-                },
-                {
-                  "id": "17",
-                  "displayName": "DIV",
-                  "shortDisplayName": "DIV",
-                  "description": "Division Record",
-                  "type": "vsdiv",
-                  "displayValue": "0-0"
-                },
-                {
-                  "id": "906",
-                  "displayName": "CONF",
-                  "shortDisplayName": "CONF",
-                  "description": "Conference Record",
-                  "type": "vsconf",
-                  "displayValue": "0-0"
-                }
               ]
             }
           ],
@@ -2184,25 +2336,56 @@
                 "type": "National"
               },
               "media": {
-                "shortName": "NFL Net"
+                "shortName": "NFL Net",
+                "logo": "https://a.espncdn.com/guid/8281947e-bd6c-3a8a-9b1d-6fc957d1709a/logos/default.png",
+                "darkLogo": "https://a.espncdn.com/guid/8281947e-bd6c-3a8a-9b1d-6fc957d1709a/logos/default-dark.png"
               },
               "lang": "en",
               "region": "us",
               "partnered": false
             }
           ],
+          "tickets": [
+            {
+              "id": "6585262",
+              "summary": "Tickets as low as $13",
+              "description": "NFL Preseason - Buffalo Bills at Cleveland Browns",
+              "maxPrice": 378.78,
+              "startingPrice": 13.24,
+              "numberAvailable": 978,
+              "totalPostings": 301,
+              "links": [
+                {
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "event"
+                  ],
+                  "href": "https://www.vividseats.com/cleveland-browns-tickets-huntington-bank-field-8-11-2026--sports-nfl-football/production/6585262?wsUser=717"
+                },
+                {
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "venue"
+                  ],
+                  "href": "https://www.vividseats.com/firstenergy-stadium-cleveland-tickets/venue/349?wsUser=717"
+                }
+              ]
+            }
+          ],
           "status": {
-            "clock": 811,
-            "displayClock": "13:31",
+            "clock": 572,
+            "displayClock": "9:32",
             "period": 1,
             "type": {
-              "id": "7",
-              "name": "STATUS_DELAYED",
+              "id": "2",
+              "name": "STATUS_IN_PROGRESS",
               "state": "in",
               "completed": false,
-              "description": "Delayed",
-              "detail": "Delayed",
-              "shortDetail": "Delayed"
+              "description": "In Progress",
+              "detail": "9:32 - 1st Quarter",
+              "shortDetail": "9:32 - 1st"
             },
             "isTBDFlex": false
           }
@@ -3146,8 +3329,8 @@
               "description": "NFL Preseason - Pittsburgh Steelers at Buffalo Bills",
               "maxPrice": 5466.37,
               "startingPrice": 53.44,
-              "numberAvailable": 5017,
-              "totalPostings": 1826,
+              "numberAvailable": 4860,
+              "totalPostings": 1769,
               "links": [
                 {
                   "rel": [

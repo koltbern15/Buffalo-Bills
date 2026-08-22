@@ -5,19 +5,19 @@
     "date": "2026-08-22T17:00Z",
     "state": "in",
     "status": {
-      "id": "7",
-      "name": "STATUS_DELAYED",
+      "id": "2",
+      "name": "STATUS_IN_PROGRESS",
       "state": "in",
       "completed": false,
-      "description": "Delayed",
-      "detail": "Delayed",
-      "shortDetail": "Delayed"
+      "description": "In Progress",
+      "detail": "9:32 - 1st Quarter",
+      "shortDetail": "9:32 - 1st"
     },
-    "clock": "13:31",
+    "clock": "9:32",
     "period": 1,
     "us": {
       "abbr": "BUF",
-      "score": "0",
+      "score": "7",
       "homeAway": "away",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
@@ -30,8 +30,8 @@
     },
     "odds": null,
     "broadcast": "NFL Net",
-    "winProbability": 57,
-    "lastPlay": "K.Allen pass deep left to T.Sherfield ran ob at CLV 41 for 18 yards."
+    "winProbability": 67,
+    "lastPlay": "R.Davis up the middle for 1 yard, TOUCHDOWN. T.Bass extra point is GOOD, Center-R.Ferguson, Holder-M.Wishnowsky."
   },
   "next": {
     "id": "401873298",
