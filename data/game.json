@@ -3,17 +3,17 @@
     "id": "401873294",
     "name": "BUF @ CLE",
     "date": "2026-08-22T17:00Z",
-    "state": "in",
+    "state": "post",
     "status": {
-      "id": "2",
-      "name": "STATUS_IN_PROGRESS",
-      "state": "in",
-      "completed": false,
-      "description": "In Progress",
-      "detail": "6:03 - 4th Quarter",
-      "shortDetail": "6:03 - 4th"
+      "id": "3",
+      "name": "STATUS_FINAL",
+      "state": "post",
+      "completed": true,
+      "description": "Final",
+      "detail": "Final",
+      "shortDetail": "Final"
     },
-    "clock": "6:03",
+    "clock": "0:00",
     "period": 4,
     "us": {
       "abbr": "BUF",
@@ -30,8 +30,7 @@
     },
     "odds": null,
     "broadcast": "NFL Net",
-    "winProbability": 100,
-    "lastPlay": " (Shotgun) D.Booth right tackle to CLV 25 for no gain (D.Carter)."
+    "winProbability": 50
   },
   "next": {
     "id": "401873298",
