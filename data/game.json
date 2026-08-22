@@ -10,11 +10,11 @@
       "state": "in",
       "completed": false,
       "description": "In Progress",
-      "detail": "9:32 - 1st Quarter",
-      "shortDetail": "9:32 - 1st"
+      "detail": "9:49 - 2nd Quarter",
+      "shortDetail": "9:49 - 2nd"
     },
-    "clock": "9:32",
-    "period": 1,
+    "clock": "9:49",
+    "period": 2,
     "us": {
       "abbr": "BUF",
       "score": "7",
@@ -24,14 +24,14 @@
     "them": {
       "abbr": "CLE",
       "name": "Cleveland Browns",
-      "score": "0",
+      "score": "7",
       "homeAway": "home",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png"
     },
     "odds": null,
     "broadcast": "NFL Net",
-    "winProbability": 67,
-    "lastPlay": "R.Davis up the middle for 1 yard, TOUCHDOWN. T.Bass extra point is GOOD, Center-R.Ferguson, Holder-M.Wishnowsky."
+    "winProbability": 44,
+    "lastPlay": " I.Bond left end to BUF 42 for 4 yards (J.Hancock; G.Stone)."
   },
   "next": {
     "id": "401873298",
