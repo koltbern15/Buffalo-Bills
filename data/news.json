@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Bills star DT Ed Oliver mourning tragic death of son",
+      "description": "The 2-year-old son of Bills defensive tackle Ed Oliver died June 28 after he was found unresponsive in a swimming pool by family members at a residence outside Houston.",
+      "published": "2026-08-22T18:29:01Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49693030/bills-star-dt-ed-oliver-mourning-tragic-death-son",
+      "image": "https://a.espncdn.com/photo/2023/0608/r1184272_600x400_3-2.jpg",
+      "type": "HeadlineNews"
+    },
+    {
       "headline": "2026 NFL season: Ranking the best, worst positional groups",
       "description": "Which team has the best running backs? The shakiest edge rusher room? We ranked all 32 teams in 10 different position groups.",
       "published": "2026-08-22T01:24:22Z",
@@ -310,14 +318,6 @@
       "published": "2026-07-20T16:02:40Z",
       "url": "https://www.espn.com/nfl/story/_/id/49391788/2026-nfl-season-all-backup-team-rosters-bench-players-barnwell",
       "image": "https://a.espncdn.com/photo/2026/0718/r1690936_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Who fell out of the NFL top-10 positional rankings in 2026?",
-      "description": "New players joined the top 10, which means others dropped out. Here's who's trying to get back.",
-      "published": "2026-07-17T16:10:29Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49344418/top-10-nfl-players-dropped-2026",
-      "image": "https://a.espncdn.com/photo/2025/0124/r1442780_1296x729_16-9.jpg",
       "type": "Story"
     }
   ]
