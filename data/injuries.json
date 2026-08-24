@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-08-24T15:23Z",
+      "athlete": {
+        "name": "Dawson Knox",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3930086.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-08-22T22:01Z",
       "athlete": {
         "name": "Ray Davis",
@@ -516,16 +526,6 @@
         "name": "Bradley Chubb",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3116733.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-03-10T15:54Z",
-      "athlete": {
-        "name": "Dawson Knox",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3930086.png"
       }
     },
     {
