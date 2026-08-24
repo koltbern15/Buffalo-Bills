@@ -102,6 +102,10 @@
           {
             "name": "divisionWins",
             "value": 0
+          },
+          {
+            "name": "lockedDivRank",
+            "value": 0
           }
         ]
       },
@@ -4455,8 +4459,8 @@
               "description": "NFL Preseason - Pittsburgh Steelers at Buffalo Bills",
               "maxPrice": 12286.56,
               "startingPrice": 63.47,
-              "numberAvailable": 5784,
-              "totalPostings": 2011,
+              "numberAvailable": 5735,
+              "totalPostings": 1992,
               "links": [
                 {
                   "rel": [
