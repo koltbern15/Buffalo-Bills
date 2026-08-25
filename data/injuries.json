@@ -3,6 +3,17 @@
     {
       "status": "Questionable",
       "type": "questionable",
+      "detail": "Foot",
+      "date": "2026-08-25T01:10Z",
+      "athlete": {
+        "name": "Jude Bowry",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
       "detail": "Lower Leg",
       "date": "2026-08-24T19:32Z",
       "athlete": {
@@ -456,16 +467,6 @@
         "name": "Kaleb Elarms-Orr",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4594321.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-04-25T16:17Z",
-      "athlete": {
-        "name": "Jude Bowry",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
       }
     },
     {
