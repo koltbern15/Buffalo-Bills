@@ -4455,12 +4455,12 @@
           "tickets": [
             {
               "id": "6585209",
-              "summary": "Tickets as low as $60",
+              "summary": "Tickets as low as $56",
               "description": "NFL Preseason - Pittsburgh Steelers at Buffalo Bills",
               "maxPrice": 2061.34,
-              "startingPrice": 60.03,
-              "numberAvailable": 5634,
-              "totalPostings": 1968,
+              "startingPrice": 56.7,
+              "numberAvailable": 5628,
+              "totalPostings": 1965,
               "links": [
                 {
                   "rel": [
