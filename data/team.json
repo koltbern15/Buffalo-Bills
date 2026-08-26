@@ -579,7 +579,10 @@
                   "type": "road",
                   "displayValue": "0-1"
                 }
-              ]
+              ],
+              "curatedRank": {
+                "current": 99
+              }
             },
             {
               "id": "2",
@@ -3469,7 +3472,10 @@
                   "type": "road",
                   "displayValue": "1-0"
                 }
-              ]
+              ],
+              "curatedRank": {
+                "current": 99
+              }
             }
           ],
           "notes": [],
@@ -4076,6 +4082,9 @@
                     "text": "Depth Chart"
                   }
                 ]
+              },
+              "curatedRank": {
+                "current": 99
               }
             },
             {
@@ -4412,6 +4421,9 @@
                     "text": "Depth Chart"
                   }
                 ]
+              },
+              "curatedRank": {
+                "current": 99
               }
             }
           ],
@@ -4455,12 +4467,12 @@
           "tickets": [
             {
               "id": "6585209",
-              "summary": "Tickets as low as $53",
+              "summary": "Tickets as low as $52",
               "description": "NFL Preseason - Pittsburgh Steelers at Buffalo Bills",
-              "maxPrice": 17527.55,
-              "startingPrice": 53.1,
-              "numberAvailable": 4717,
-              "totalPostings": 1651,
+              "maxPrice": 11938.58,
+              "startingPrice": 52.07,
+              "numberAvailable": 4594,
+              "totalPostings": 1631,
               "links": [
                 {
                   "rel": [
