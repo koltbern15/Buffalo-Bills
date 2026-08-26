@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "NFL execs on most likely non-U.S. cities to add a team and why",
+      "description": "Roger Goodell has \"no doubt\" there will be NFL teams outside the US. We asked team executives which cities make the most sense.",
+      "published": "2026-08-26T09:56:11Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49721794/nfl-international-mexico-city-london-toronto-berlin-goodell",
+      "image": "https://a.espncdn.com/photo/2021/1005/r918848_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Police close case into death of Ed Oliver's son; no criminal findings",
       "description": "A police investigation into the death of Bills defensive tackle Ed Oliver's son has resulted in no criminal findings and the case is now considered closed, the Harris County Sheriff's Office in Texas announced Monday.",
       "published": "2026-08-25T00:26:33Z",
@@ -310,14 +318,6 @@
       "published": "2026-07-23T13:52:55Z",
       "url": "https://www.espn.com/nfl/story/_/id/49096995/2026-buffalo-bills-training-camp-preview",
       "image": "https://a.espncdn.com/photo/2026/0722/r1692468_1296x729_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "What is the oldest NFL stadium? Soldier to SoFi in age",
-      "description": "Many different characteristics make NFL stadiums unique. Age is a hot topic among fans. Here's how stadiums stack up from oldest to newest.",
-      "published": "2026-07-22T20:51:38Z",
-      "url": "https://www.espn.com/nfl/story/_/id/39395382/what-oldest-nfl-stadium-soldier-sofi-age",
-      "image": "https://a.espncdn.com/photo/2009/0804/travel_dallas_800.jpg",
       "type": "Story"
     }
   ]
