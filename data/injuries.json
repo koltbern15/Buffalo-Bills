@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-08-26T00:09Z",
+      "athlete": {
+        "name": "Alec Anderson",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4367203.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-08-25T15:07Z",
       "athlete": {
         "name": "Skyler Bell",
@@ -557,16 +567,6 @@
         "name": "Spencer Brown",
         "position": "OT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-02-23T20:39Z",
-      "athlete": {
-        "name": "Alec Anderson",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4367203.png"
       }
     },
     {
