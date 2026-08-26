@@ -363,16 +363,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-06-01T23:22Z",
-      "athlete": {
-        "name": "Mac Dalena",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431053.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-05-20T21:12Z",
       "athlete": {
         "name": "DeWayne Carter",
@@ -607,6 +597,16 @@
         "name": "Stephen Gosnell",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432215.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-01-19T21:45Z",
+      "athlete": {
+        "name": "Mecole Hardman Jr.",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035004.png"
       }
     }
   ]

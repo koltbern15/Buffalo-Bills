@@ -4467,12 +4467,12 @@
           "tickets": [
             {
               "id": "6585209",
-              "summary": "Tickets as low as $52",
+              "summary": "Tickets as low as $53",
               "description": "NFL Preseason - Pittsburgh Steelers at Buffalo Bills",
               "maxPrice": 11938.58,
-              "startingPrice": 52.07,
-              "numberAvailable": 4594,
-              "totalPostings": 1631,
+              "startingPrice": 53.31,
+              "numberAvailable": 4399,
+              "totalPostings": 1576,
               "links": [
                 {
                   "rel": [
