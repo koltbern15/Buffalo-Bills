@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Josh Allen will not play in preseason Week 3",
+      "description": "Alaina Getzenberg discusses what Josh Allen's role will be in the preseason finale against the Steelers.",
+      "published": "2026-08-26T23:30:44Z",
+      "url": "https://www.espn.com/video/clip/_/id/49736235/josh-allen-not-play-preseason-week-3",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0826/dm_260826_SC4U_16x9_Bills_IA_8-26/dm_260826_SC4U_16x9_Bills_IA_8-26.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "2027 NFL mock draft: Reid's preseason first-round predictions",
       "description": "With the college and NFL seasons about to start, Jordan Reid projected the top 32 picks in next year's draft -- including a blockbuster trade.",
       "published": "2026-08-26T15:22:38Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/video/clip/_/id/49440996/brandon-beane-tells-mcafee-why-bills-picked-grass-turf-new-stadium",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0724/ss_20260724_131405749_3602287/ss_20260724_131405749_3602287.jpg",
       "type": "Media"
-    },
-    {
-      "headline": "2026 NFL training camp previews, projections for all 32 teams",
-      "description": "Here are the biggest storylines as NFL teams open camp, plus 53-man roster predictions.",
-      "published": "2026-07-24T14:04:20Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49107696/2026-nfl-training-camp-preview-storylines-53-man-roster-projections",
-      "image": "https://a.espncdn.com/photo/2026/0722/nfl_training-camp_fc_16x9.jpg",
-      "type": "Story"
     }
   ]
 }
