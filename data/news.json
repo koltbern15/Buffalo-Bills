@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL season: Ranking all 32 teams' watchability, excitement",
+      "description": "Which NFL teams are must-watches every Sunday? Ben Solak stacked all 32 by excitement, fun and intrigue, starting with Chicago.",
+      "published": "2026-08-27T14:17:22Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49734084/2026-nfl-season-most-watchable-teams-ranking-excitement-bears-rams-lions-chargers",
+      "image": "https://a.espncdn.com/photo/2026/0826/r1707276_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Josh Allen's got jokes -- some too mischievous to tell",
+      "description": "We asked the people who have been on the other side of an Allen joke or prank. Here are their stories.",
+      "published": "2026-08-27T10:00:01Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49723959/josh-allen-got-jokes-some-too-mischievous-tell",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706376_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Josh Allen will not play in preseason Week 3",
       "description": "Alaina Getzenberg discusses what Josh Allen's role will be in the preseason finale against the Steelers.",
       "published": "2026-08-26T23:30:44Z",
@@ -303,22 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/49462376/buffalo-bills-alternate-uniforms-nickel-city",
       "image": "https://a.espncdn.com/photo/2026/0727/r1694282_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Big stories of the NFL 2026 offseason, from Garrett to Kelce",
-      "description": "With training camps opening across the NFL, here's a cheat sheet on what you might have missed this offseason.",
-      "published": "2026-07-27T10:30:11Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49447669/2026-nfl-offseason-catchup-myles-garrett-aj-brown-travis-kelce-wedding-highlight",
-      "image": "https://a.espncdn.com/photo/2026/0723/260727_nfl_nfl-offseason_16x9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Brandon Beane tells McAfee why Bills picked grass over turf at new stadium",
-      "description": "Brandon Beane tells McAfee why Bills picked grass over turf at new stadium",
-      "published": "2026-07-24T17:18:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/49440996/brandon-beane-tells-mcafee-why-bills-picked-grass-turf-new-stadium",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0724/ss_20260724_131405749_3602287/ss_20260724_131405749_3602287.jpg",
-      "type": "Media"
     }
   ]
 }
