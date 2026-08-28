@@ -1,6 +1,26 @@
 {
   "injuries": [
     {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-08-28T07:02Z",
+      "athlete": {
+        "name": "Ray Davis",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-08-28T03:50Z",
+      "athlete": {
+        "name": "Skyler Bell",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
+      }
+    },
+    {
       "status": "Questionable",
       "type": "questionable",
       "detail": "Undisclosed",
@@ -30,16 +50,6 @@
         "name": "Alec Anderson",
         "position": "OT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4367203.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-08-25T15:07Z",
-      "athlete": {
-        "name": "Skyler Bell",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
       }
     },
     {
@@ -93,16 +103,6 @@
         "name": "Dawson Knox",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3930086.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-08-22T22:01Z",
-      "athlete": {
-        "name": "Ray Davis",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
       }
     },
     {
@@ -406,7 +406,8 @@
       "date": "2026-05-08T20:34Z",
       "athlete": {
         "name": "Ja'Mori Maclin",
-        "position": "WR"
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430270.png"
       }
     },
     {
