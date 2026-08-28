@@ -93,13 +93,13 @@
       "week": 4,
       "seasonType": 1,
       "status": {
-        "id": "1",
-        "name": "STATUS_SCHEDULED",
-        "state": "pre",
+        "id": "2",
+        "name": "STATUS_IN_PROGRESS",
+        "state": "in",
         "completed": false,
-        "description": "Scheduled",
-        "detail": "Thu, August 27th at 7:00 PM EDT",
-        "shortDetail": "8/27 - 7:00 PM EDT"
+        "description": "In Progress",
+        "detail": "15:00 - 4th Quarter",
+        "shortDetail": "15:00 - 4th"
       },
       "venue": {
         "name": "Highmark Stadium",

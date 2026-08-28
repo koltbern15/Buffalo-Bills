@@ -511,7 +511,7 @@
           "weight": "320 lbs",
           "experience": 0,
           "college": "Syracuse",
-          "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4878824.png"
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4878824.png"
         },
         {
           "id": "4579554",
@@ -725,6 +725,7 @@
         {
           "id": "3127294",
           "name": "Greg Gaines",
+          "jersey": "97",
           "position": "DT",
           "age": 30,
           "height": "6' 1\"",
