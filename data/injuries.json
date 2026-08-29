@@ -280,16 +280,6 @@
       }
     },
     {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-07-30T22:55Z",
-      "athlete": {
-        "name": "Dante Pettis",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127306.png"
-      }
-    },
-    {
       "status": "Out",
       "type": "out",
       "detail": "Knee - ACL",
@@ -298,16 +288,6 @@
         "name": "Tyrell Shavers",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-07-14T20:50Z",
-      "athlete": {
-        "name": "Quentin Skinner",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4613050.png"
       }
     },
     {
@@ -378,16 +358,6 @@
         "name": "Maxwell Hairston",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688931.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-05-13T00:25Z",
-      "athlete": {
-        "name": "Shane Zylstra",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4608362.png"
       }
     },
     {
@@ -608,6 +578,36 @@
         "name": "Keleki Latu",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688552.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-01-13T20:40Z",
+      "athlete": {
+        "name": "Nick Broeker",
+        "position": "G",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426498.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-01-07T02:58Z",
+      "athlete": {
+        "name": "Christian Benford",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379778.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2025-11-24T04:13Z",
+      "athlete": {
+        "name": "T.J. Sanders",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
       }
     }
   ]
