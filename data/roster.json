@@ -239,18 +239,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4368828.png"
         },
         {
-          "id": "4035004",
-          "name": "Mecole Hardman Jr.",
-          "jersey": "1",
-          "position": "WR",
-          "age": 28,
-          "height": "5' 10\"",
-          "weight": "187 lbs",
-          "experience": 8,
-          "college": "Georgia",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035004.png"
-        },
-        {
           "id": "4573699",
           "name": "Jackson Hawes",
           "jersey": "85",
@@ -1098,18 +1086,6 @@
           "experience": 10,
           "college": "LSU",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2976549.png"
-        },
-        {
-          "id": "4035685",
-          "name": "Mitch Wishnowsky",
-          "jersey": "19",
-          "position": "P",
-          "age": 34,
-          "height": "6' 2\"",
-          "weight": "220 lbs",
-          "experience": 8,
-          "college": "Utah",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035685.png"
         }
       ]
     },
