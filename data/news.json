@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Source: Bills releasing veterans Hardman, Wishnowsky",
+      "description": "The Bills are releasing veteran returner and wide receiver Mecole Hardman Jr., a source told ESPN's Jeremy Fowler. A source also confirmed to ESPN that the team is releasing veteran punter Mitch Wishnowsky.",
+      "published": "2026-08-29T17:16:33Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49762865/source-bills-releasing-veterans-hardman-wishnowsky",
+      "image": "https://a.espncdn.com/photo/2026/0117/r1601961_600x400_3-2.jpg",
+      "type": "HeadlineNews"
+    },
+    {
       "headline": "How every 2026 NFL draft pick has looked in the preseason",
       "description": "When will Fernando Mendoza start? Should we expect big things for Sonny Styles, Ja'Kobi Lane and Cashius Howell? We checked in on all 32 NFL teams' rookie classes.",
       "published": "2026-08-28T18:04:09Z",
@@ -310,14 +318,6 @@
       "published": "2026-07-31T18:32:43Z",
       "url": "https://www.espn.com/nfl/story/_/id/49464348/nfl-training-camps-preseason-risers-history-davis-cruz-crosby",
       "image": "https://a.espncdn.com/photo/2026/0729/r1695166_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "History of Super Bowl in Los Angeles: The birthplace of the big game",
-      "description": "We look back at the previous eight Super Bowls in the L.A. market ahead of Super Bowl LXI on ESPN (Feb. 14).",
-      "published": "2026-07-31T10:00:16Z",
-      "url": "https://www.espn.com/nfl/story/_/id/33189973/the-history-super-bowl-los-angeles-starting-tradition-one-perfect-season-dynasties-action",
-      "image": "https://a.espncdn.com/photo/2022/0207/220131_superbowl-in-la-16x9.jpg",
       "type": "Story"
     }
   ]
