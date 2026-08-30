@@ -57,14 +57,6 @@
       "type": "Story"
     },
     {
-      "headline": "Josh Allen will not play in preseason Week 3",
-      "description": "Alaina Getzenberg discusses what Josh Allen's role will be in the preseason finale against the Steelers.",
-      "published": "2026-08-26T23:30:44Z",
-      "url": "https://www.espn.com/video/clip/_/id/49736235/josh-allen-not-play-preseason-week-3",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0826/dm_260826_SC4U_16x9_Bills_IA_8-26/dm_260826_SC4U_16x9_Bills_IA_8-26.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "NFL execs on most likely non-U.S. cities to add a team and why",
       "description": "Roger Goodell has \"no doubt\" there will be NFL teams outside the US. We asked team executives which cities make the most sense.",
       "published": "2026-08-26T09:56:11Z",
@@ -318,6 +310,14 @@
       "published": "2026-07-31T18:32:43Z",
       "url": "https://www.espn.com/nfl/story/_/id/49464348/nfl-training-camps-preseason-risers-history-davis-cruz-crosby",
       "image": "https://a.espncdn.com/photo/2026/0729/r1695166_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "History of Super Bowl in Los Angeles: The birthplace of the big game",
+      "description": "We look back at the previous eight Super Bowls in the L.A. market ahead of Super Bowl LXI on ESPN (Feb. 14).",
+      "published": "2026-07-31T10:00:16Z",
+      "url": "https://www.espn.com/nfl/story/_/id/33189973/the-history-super-bowl-los-angeles-starting-tradition-one-perfect-season-dynasties-action",
+      "image": "https://a.espncdn.com/photo/2022/0207/220131_superbowl-in-la-16x9.jpg",
       "type": "Story"
     }
   ]

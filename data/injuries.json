@@ -221,16 +221,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-08-18T01:24Z",
-      "athlete": {
-        "name": "Otis Reese IV",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379411.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-08-10T18:24Z",
       "athlete": {
         "name": "Dorian Williams",
@@ -608,6 +598,16 @@
         "name": "T.J. Sanders",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2025-11-07T19:49Z",
+      "athlete": {
+        "name": "Sam Franklin Jr.",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4044133.png"
       }
     }
   ]

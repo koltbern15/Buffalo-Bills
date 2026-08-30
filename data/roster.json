@@ -191,18 +191,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3051324.png"
         },
         {
-          "id": "4570706",
-          "name": "Bruno Fina",
-          "jersey": "75",
-          "position": "G",
-          "age": 24,
-          "height": "6' 5\"",
-          "weight": "300 lbs",
-          "experience": 0,
-          "college": "Duke",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4570706.png"
-        },
-        {
           "id": "4429805",
           "name": "Frank Gore Jr.",
           "jersey": "20",
@@ -249,17 +237,6 @@
           "experience": 2,
           "college": "Georgia Tech",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573699.png"
-        },
-        {
-          "id": "4427423",
-          "name": "Sincere Haynesworth",
-          "position": "C",
-          "age": 25,
-          "height": "6' 1\"",
-          "weight": "310 lbs",
-          "experience": 1,
-          "college": "Tulane",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427423.png"
         },
         {
           "id": "3915411",
@@ -370,18 +347,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
         },
         {
-          "id": "3127306",
-          "name": "Dante Pettis",
-          "jersey": "87",
-          "position": "WR",
-          "age": 30,
-          "height": "6' 1\"",
-          "weight": "195 lbs",
-          "experience": 8,
-          "college": "Washington",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127306.png"
-        },
-        {
           "id": "4606712",
           "name": "Ar'maj Reed-Adams",
           "jersey": "60",
@@ -428,18 +393,6 @@
           "experience": 9,
           "college": "Vanderbilt",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3122168.png"
-        },
-        {
-          "id": "4613050",
-          "name": "Quentin Skinner",
-          "jersey": "18",
-          "position": "WR",
-          "age": 24,
-          "height": "6' 5\"",
-          "weight": "195 lbs",
-          "experience": 1,
-          "college": "Kansas",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4613050.png"
         },
         {
           "id": "4878956",
@@ -512,18 +465,6 @@
           "experience": 2,
           "college": "Howard",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4579554.png"
-        },
-        {
-          "id": "4608362",
-          "name": "Shane Zylstra",
-          "jersey": "48",
-          "position": "TE",
-          "age": 29,
-          "height": "6' 4\"",
-          "weight": "244 lbs",
-          "experience": 5,
-          "college": "Minnesota State",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4608362.png"
         }
       ]
     },
@@ -651,30 +592,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915487.png"
         },
         {
-          "id": "4567943",
-          "name": "Cade Denhoff",
-          "jersey": "57",
-          "position": "DE",
-          "age": 23,
-          "height": "6' 5\"",
-          "weight": "260 lbs",
-          "experience": 0,
-          "college": "Clemson",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4567943.png"
-        },
-        {
-          "id": "4576144",
-          "name": "Jordan Dunbar",
-          "jersey": "36",
-          "position": "CB",
-          "age": 24,
-          "height": "6' 0\"",
-          "weight": "195 lbs",
-          "experience": 0,
-          "college": "Missouri State",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4576144.png"
-        },
-        {
           "id": "4685347",
           "name": "Zane Durant",
           "jersey": "92",
@@ -721,18 +638,6 @@
           "experience": 7,
           "college": "Washington",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
-        },
-        {
-          "id": "5084058",
-          "name": "Theron Gaines",
-          "jersey": "54",
-          "position": "LB",
-          "age": 22,
-          "height": "6' 1\"",
-          "weight": "237 lbs",
-          "experience": 0,
-          "college": "Tennessee Tech",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5084058.png"
         },
         {
           "id": "4034953",
@@ -867,18 +772,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
         },
         {
-          "id": "4427826",
-          "name": "Zion Logue",
-          "jersey": "93",
-          "position": "DT",
-          "age": 25,
-          "height": "6' 6\"",
-          "weight": "325 lbs",
-          "experience": 1,
-          "college": "Georgia",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427826.png"
-        },
-        {
           "id": "4241468",
           "name": "Phidarian Mathis",
           "jersey": "72",
@@ -891,18 +784,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241468.png"
         },
         {
-          "id": "4569032",
-          "name": "D.J. Miller",
-          "jersey": "46",
-          "position": "CB",
-          "age": 26,
-          "height": "5' 10\"",
-          "weight": "185 lbs",
-          "experience": 1,
-          "college": "Kent State",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4569032.png"
-        },
-        {
           "id": "4039303",
           "name": "Ed Oliver",
           "jersey": "91",
@@ -913,18 +794,6 @@
           "experience": 8,
           "college": "Houston",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
-        },
-        {
-          "id": "4573684",
-          "name": "Wande Owens",
-          "jersey": "38",
-          "position": "S",
-          "age": 25,
-          "height": "5' 11\"",
-          "weight": "205 lbs",
-          "experience": 2,
-          "college": "New Hampshire",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573684.png"
         },
         {
           "id": "4870886",
@@ -949,18 +818,6 @@
           "experience": 0,
           "college": "Missouri",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4698598.png"
-        },
-        {
-          "id": "4379411",
-          "name": "Otis Reese IV",
-          "jersey": "50",
-          "position": "LB",
-          "age": 28,
-          "height": "6' 3\"",
-          "weight": "214 lbs",
-          "experience": 3,
-          "college": "Ole Miss",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379411.png"
         },
         {
           "id": "4362506",
