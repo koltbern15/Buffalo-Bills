@@ -363,16 +363,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-05-08T20:34Z",
-      "athlete": {
-        "name": "Ja'Mori Maclin",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430270.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-04-25T22:34Z",
       "athlete": {
         "name": "Tommy Doman Jr.",
@@ -513,16 +503,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-02-11T01:19Z",
-      "athlete": {
-        "name": "Shane Buechele",
-        "position": "QB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039034.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-02-03T18:35Z",
       "athlete": {
         "name": "Deone Walker",
@@ -538,16 +518,6 @@
         "name": "Greg Rousseau",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362506.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-01-19T22:40Z",
-      "athlete": {
-        "name": "Stephen Gosnell",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432215.png"
       }
     },
     {
@@ -608,6 +578,36 @@
         "name": "Jimmy Ciarlo",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4689804.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2025-10-06T15:10Z",
+      "athlete": {
+        "name": "Jordan Hancock",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596480.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2025-06-06T05:01Z",
+      "athlete": {
+        "name": "Travis Clayton",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5209587.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2025-03-08T18:01Z",
+      "athlete": {
+        "name": "Reid Ferguson",
+        "position": "LS",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2976549.png"
       }
     }
   ]
