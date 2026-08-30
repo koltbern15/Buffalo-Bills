@@ -304,15 +304,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-06-12T00:19Z",
-      "athlete": {
-        "name": "Max Tomczak",
-        "position": "WR"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-06-11T19:16Z",
       "athlete": {
         "name": "Joshua Palmer",
@@ -608,6 +599,16 @@
         "name": "Reid Ferguson",
         "position": "LS",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2976549.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2024-12-30T17:25Z",
+      "athlete": {
+        "name": "Joe Andreessen",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4366349.png"
       }
     }
   ]
