@@ -473,16 +473,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-03-13T21:38Z",
-      "athlete": {
-        "name": "Geno Stone",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240575.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-03-11T20:36Z",
       "athlete": {
         "name": "Bradley Chubb",
@@ -608,6 +598,16 @@
         "name": "Sam Franklin Jr.",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4044133.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2025-10-14T11:36Z",
+      "athlete": {
+        "name": "Jimmy Ciarlo",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4689804.png"
       }
     }
   ]
