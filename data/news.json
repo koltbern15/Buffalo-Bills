@@ -1,9 +1,25 @@
 {
   "articles": [
     {
+      "headline": "How to bet the 2026 NFL season: Three bets to make on each team",
+      "description": "Will your NFL team beat its projected win total? What props should you target? Tyler Fulghum offers his three favorite bets for each team.",
+      "published": "2026-08-31T10:34:25Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49537843/2026-nfl-betting-odds-picks-player-props-team-predictions",
+      "image": "https://a.espncdn.com/photo/2026/0827/nfl_fulghum-best-bets_16x9_608x342.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Preseason NFL Power Rankings 2026: How all 32 teams stack up",
+      "description": "How do all 32 NFL teams stack up with under 10 days to go until the regular season? Plus, we picked out statistical milestones on the horizon for each team.",
+      "published": "2026-08-31T12:58:27Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49754534/2026-nfl-power-rankings-preseason-milestones",
+      "image": "https://a.espncdn.com/photo/2026/0829/nfl_power_rankings_1296x729.png",
+      "type": "Story"
+    },
+    {
       "headline": "2026 NFL roster cuts: Biggest moves, more for all 32 teams",
       "description": "Sunday was the deadline for NFL teams to finalize their 53-man rosters ahead of the 2026 season. We have full lists of cuts and big moves for all 32.",
-      "published": "2026-08-31T05:51:46Z",
+      "published": "2026-08-31T12:31:57Z",
       "url": "https://www.espn.com/nfl/story/_/id/49681232/2026-nfl-cuts-all-32-teams-cutdown-moves-updates-tracker",
       "image": "https://a.espncdn.com/photo/2026/0830/r1709179_1296x729_16-9.jpg",
       "type": "Story"
@@ -11,7 +27,7 @@
     {
       "headline": "How active NFL players continue to redefine all-time sack list",
       "description": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
-      "published": "2026-08-30T21:34:46Z",
+      "published": "2026-08-31T10:00:19Z",
       "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
       "image": "https://a.espncdn.com/photo/2026/0828/nfl_data_viz_garrett_cr_16x9_608x342.jpg",
       "type": "Story"
@@ -302,22 +318,6 @@
       "published": "2026-08-02T16:05:51Z",
       "url": "https://www.espn.com/nfl/story/_/id/49509353/cj-gardner-johnson-buffalo-bills-student-loans-20000-twitch-stream",
       "image": "https://a.espncdn.com/photo/2026/0802/r1696572_1296x729_16-9.png",
-      "type": "Story"
-    },
-    {
-      "headline": "Source: Bills S C.J. Gardner-Johnson has lower calf strain",
-      "description": "Buffalo Bills safety C.J. Gardner-Johnson was carted to the locker room after suffering a lower-body injury during training camp practice Saturday, and a source later told ESPN's Adam Schefter that tests revealed the veteran has a lower calf strain.",
-      "published": "2026-08-01T22:24:11Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49505167/bills-safety-gardner-johnson-carted-leg-injury",
-      "image": "https://a.espncdn.com/photo/2026/0801/r1696313_600x400_3-2.jpg",
-      "type": "HeadlineNews"
-    },
-    {
-      "headline": "Anatomy of an NFL holdout: What it's like for players, agents, teams",
-      "description": "Holdouts can be brutal. Here are some notable stories from each side of the bargaining table.",
-      "published": "2026-07-31T18:01:44Z",
-      "url": "https://www.espn.com/nfl/story/_/id/45789518/nfl-training-camp-holdouts-trey-hendrickson-terry-mclaurin",
-      "image": "https://a.espncdn.com/photo/2025/1019/r1562688_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
