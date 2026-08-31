@@ -181,26 +181,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-08-19T12:07Z",
-      "athlete": {
-        "name": "Ben VanSumeren",
-        "position": "FB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372070.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-08-19T12:07Z",
-      "athlete": {
-        "name": "Chase Lundt",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427843.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-08-18T23:29Z",
       "athlete": {
         "name": "Greg Gaines",
@@ -278,16 +258,6 @@
         "name": "Tyrell Shavers",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-06-18T21:29Z",
-      "athlete": {
-        "name": "Ian Wheeler",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4579554.png"
       }
     },
     {
@@ -374,16 +344,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-04-25T21:42Z",
-      "athlete": {
-        "name": "Toriano Pride Jr.",
-        "position": "CB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4698598.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-04-25T20:05Z",
       "athlete": {
         "name": "Zane Durant",
@@ -439,16 +399,6 @@
         "name": "Damar Hamlin",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036060.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-03-26T20:46Z",
-      "athlete": {
-        "name": "Trent Sherfield",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3122168.png"
       }
     },
     {
@@ -524,16 +474,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-01-13T20:40Z",
-      "athlete": {
-        "name": "Nick Broeker",
-        "position": "G",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426498.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-01-07T02:58Z",
       "athlete": {
         "name": "Christian Benford",
@@ -564,31 +504,11 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2025-10-14T11:36Z",
-      "athlete": {
-        "name": "Jimmy Ciarlo",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4689804.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2025-10-06T15:10Z",
       "athlete": {
         "name": "Jordan Hancock",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596480.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2025-06-06T05:01Z",
-      "athlete": {
-        "name": "Travis Clayton",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5209587.png"
       }
     },
     {
@@ -609,6 +529,26 @@
         "name": "Joe Andreessen",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4366349.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2024-12-02T16:08Z",
+      "athlete": {
+        "name": "Javon Solomon",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428548.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2023-09-06T23:57Z",
+      "athlete": {
+        "name": "O'Cyrus Torrence",
+        "position": "G",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428696.png"
       }
     }
   ]

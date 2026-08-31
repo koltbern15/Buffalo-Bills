@@ -72,18 +72,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
         },
         {
-          "id": "4426498",
-          "name": "Nick Broeker",
-          "jersey": "65",
-          "position": "G",
-          "age": 25,
-          "height": "6' 4\"",
-          "weight": "305 lbs",
-          "experience": 3,
-          "college": "Ole Miss",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426498.png"
-        },
-        {
           "id": "4030899",
           "name": "Spencer Brown",
           "jersey": "79",
@@ -94,29 +82,6 @@
           "experience": 6,
           "college": "Northern Iowa",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
-        },
-        {
-          "id": "4039034",
-          "name": "Shane Buechele",
-          "jersey": "6",
-          "position": "QB",
-          "age": 28,
-          "height": "6' 0\"",
-          "weight": "210 lbs",
-          "experience": 4,
-          "college": "SMU",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039034.png"
-        },
-        {
-          "id": "5209587",
-          "name": "Travis Clayton",
-          "jersey": "67",
-          "position": "OT",
-          "age": 25,
-          "height": "6' 7\"",
-          "weight": "303 lbs",
-          "experience": 2,
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5209587.png"
         },
         {
           "id": "4635008",
@@ -191,30 +156,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3051324.png"
         },
         {
-          "id": "4429805",
-          "name": "Frank Gore Jr.",
-          "jersey": "20",
-          "position": "RB",
-          "age": 24,
-          "height": "5' 8\"",
-          "weight": "201 lbs",
-          "experience": 1,
-          "college": "Southern Miss",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429805.png"
-        },
-        {
-          "id": "4432215",
-          "name": "Stephen Gosnell",
-          "jersey": "89",
-          "position": "WR",
-          "age": 24,
-          "height": "6' 1\"",
-          "weight": "198 lbs",
-          "experience": 1,
-          "college": "Virginia Tech",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432215.png"
-        },
-        {
           "id": "4368828",
           "name": "Tylan Grable",
           "jersey": "68",
@@ -287,30 +228,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688552.png"
         },
         {
-          "id": "4427843",
-          "name": "Chase Lundt",
-          "jersey": "77",
-          "position": "OT",
-          "age": 26,
-          "height": "6' 7\"",
-          "weight": "304 lbs",
-          "experience": 2,
-          "college": "UConn",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427843.png"
-        },
-        {
-          "id": "4430270",
-          "name": "Ja'Mori Maclin",
-          "jersey": "84",
-          "position": "WR",
-          "age": 24,
-          "height": "5' 11\"",
-          "weight": "183 lbs",
-          "experience": 0,
-          "college": "Kentucky",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430270.png"
-        },
-        {
           "id": "4033748",
           "name": "Connor McGovern",
           "jersey": "66",
@@ -371,42 +288,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
         },
         {
-          "id": "4241476",
-          "name": "Tyrell Shavers",
-          "jersey": "14",
-          "position": "WR",
-          "age": 27,
-          "height": "6' 4\"",
-          "weight": "211 lbs",
-          "experience": 2,
-          "college": "San Diego State",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
-        },
-        {
-          "id": "3122168",
-          "name": "Trent Sherfield",
-          "jersey": "81",
-          "position": "WR",
-          "age": 30,
-          "height": "6' 1\"",
-          "weight": "205 lbs",
-          "experience": 9,
-          "college": "Vanderbilt",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3122168.png"
-        },
-        {
-          "id": "4878956",
-          "name": "Max Tomczak",
-          "jersey": "80",
-          "position": "WR",
-          "age": 23,
-          "height": "6' 0\"",
-          "weight": "195 lbs",
-          "experience": 0,
-          "college": "Youngstown State",
-          "headshot": "https://a.espncdn.com/i/headshots/college-football/players/full/4878956.png"
-        },
-        {
           "id": "4428696",
           "name": "O'Cyrus Torrence",
           "jersey": "64",
@@ -417,42 +298,6 @@
           "experience": 4,
           "college": "Florida",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428696.png"
-        },
-        {
-          "id": "4372070",
-          "name": "Ben VanSumeren",
-          "jersey": "45",
-          "position": "FB",
-          "age": 26,
-          "height": "6' 2\"",
-          "weight": "250 lbs",
-          "experience": 4,
-          "college": "Michigan State",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372070.png"
-        },
-        {
-          "id": "4878824",
-          "name": "Da'Metrius Weatherspoon",
-          "jersey": "76",
-          "position": "OT",
-          "age": 23,
-          "height": "6' 7\"",
-          "weight": "320 lbs",
-          "experience": 0,
-          "college": "Syracuse",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4878824.png"
-        },
-        {
-          "id": "4579554",
-          "name": "Ian Wheeler",
-          "jersey": "27",
-          "position": "RB",
-          "age": 24,
-          "height": "5' 11\"",
-          "weight": "205 lbs",
-          "experience": 2,
-          "college": "Howard",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4579554.png"
         }
       ]
     },
@@ -544,30 +389,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3116733.png"
         },
         {
-          "id": "4689804",
-          "name": "Jimmy Ciarlo",
-          "jersey": "35",
-          "position": "LB",
-          "age": 25,
-          "height": "6' 2\"",
-          "weight": "230 lbs",
-          "experience": 2,
-          "college": "Army",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4689804.png"
-        },
-        {
-          "id": "4427348",
-          "name": "Te'Cory Couch",
-          "jersey": "33",
-          "position": "CB",
-          "age": 26,
-          "height": "5' 10\"",
-          "weight": "185 lbs",
-          "experience": 1,
-          "college": "Miami",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427348.png"
-        },
-        {
           "id": "3915487",
           "name": "Mike Danna",
           "jersey": "51",
@@ -578,18 +399,6 @@
           "experience": 6,
           "college": "Michigan",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915487.png"
-        },
-        {
-          "id": "4685347",
-          "name": "Zane Durant",
-          "jersey": "92",
-          "position": "DT",
-          "age": 22,
-          "height": "6' 1\"",
-          "weight": "290 lbs",
-          "experience": 0,
-          "college": "Penn State",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685347.png"
         },
         {
           "id": "4594321",
@@ -712,42 +521,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432715.png"
         },
         {
-          "id": "4577066",
-          "name": "Keonta Jenkins",
-          "jersey": "49",
-          "position": "LB",
-          "age": 24,
-          "height": "6' 2\"",
-          "weight": "211 lbs",
-          "experience": 1,
-          "college": "Virginia Tech",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4577066.png"
-        },
-        {
-          "id": "4249214",
-          "name": "Andre Jones Jr.",
-          "jersey": "59",
-          "position": "DE",
-          "age": 27,
-          "height": "6' 5\"",
-          "weight": "258 lbs",
-          "experience": 2,
-          "college": "Louisiana",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4249214.png"
-        },
-        {
-          "id": "5143279",
-          "name": "Anthony Kendall",
-          "jersey": "30",
-          "position": "CB",
-          "age": 26,
-          "height": "5' 10\"",
-          "weight": "188 lbs",
-          "experience": 3,
-          "college": "Baldwin Wallace",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5143279.png"
-        },
-        {
           "id": "5076951",
           "name": "Jalon Kilgore",
           "jersey": "29",
@@ -796,18 +569,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4870886.png"
         },
         {
-          "id": "4698598",
-          "name": "Toriano Pride Jr.",
-          "jersey": "32",
-          "position": "CB",
-          "age": 22,
-          "height": "5' 10\"",
-          "weight": "185 lbs",
-          "experience": 0,
-          "college": "Missouri",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4698598.png"
-        },
-        {
           "id": "4362506",
           "name": "Greg Rousseau",
           "jersey": "15",
@@ -844,18 +605,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428548.png"
         },
         {
-          "id": "4240575",
-          "name": "Geno Stone",
-          "jersey": "25",
-          "position": "S",
-          "age": 27,
-          "height": "5' 11\"",
-          "weight": "207 lbs",
-          "experience": 7,
-          "college": "Iowa",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240575.png"
-        },
-        {
           "id": "4831989",
           "name": "Deone Walker",
           "jersey": "96",
@@ -866,18 +615,6 @@
           "experience": 2,
           "college": "Kentucky",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4831989.png"
-        },
-        {
-          "id": "4682749",
-          "name": "Kani Walker",
-          "jersey": "41",
-          "position": "CB",
-          "age": 23,
-          "height": "6' 2\"",
-          "weight": "204 lbs",
-          "experience": 0,
-          "college": "Arkansas",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4682749.png"
         },
         {
           "id": "4568624",
@@ -938,6 +675,18 @@
       "position": "injuredReserveOrOut",
       "items": [
         {
+          "id": "4685347",
+          "name": "Zane Durant",
+          "jersey": "92",
+          "position": "DT",
+          "age": 22,
+          "height": "6' 1\"",
+          "weight": "290 lbs",
+          "experience": 0,
+          "college": "Penn State",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685347.png"
+        },
+        {
           "id": "3931424",
           "name": "Demetrius Flannigan-Fowles",
           "jersey": "50",
@@ -948,6 +697,18 @@
           "experience": 6,
           "college": "Arizona",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3931424.png"
+        },
+        {
+          "id": "4241476",
+          "name": "Tyrell Shavers",
+          "jersey": "14",
+          "position": "WR",
+          "age": 27,
+          "height": "6' 4\"",
+          "weight": "211 lbs",
+          "experience": 2,
+          "college": "San Diego State",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
         },
         {
           "id": "4568703",
