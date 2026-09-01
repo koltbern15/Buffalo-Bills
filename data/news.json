@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL Rank: Predicting top 100 players for this season",
+      "description": "We predicted the top 100 NFL players for 2026. Which defender came in at No. 1? How many QBs made the list? Which team had the most players included?",
+      "published": "2026-09-01T10:32:43Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49706895/2026-nfl-season-rankings-top-100-players-predictions-stats",
+      "image": "https://a.espncdn.com/photo/2026/0826/nfl_top100_2026_16x9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Bills make roster changes ahead of season",
       "description": "Alaina Getzenberg details the Bills cornerback choices ahead of Week 1.",
       "published": "2026-09-01T01:54:19Z",
@@ -310,14 +318,6 @@
       "published": "2026-08-06T15:56:33Z",
       "url": "https://www.espn.com/nfl/story/_/id/49505682/2026-nfl-pro-football-hall-fame-future-players-all-32-teams",
       "image": "https://a.espncdn.com/photo/2026/0805/r1697800_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Proposing five big trades during 2026 NFL training camps",
-      "description": "NFL rosters are mostly locked in for 2026, but we crafted five potential win-win deals teams should consider making before Week 1.",
-      "published": "2026-08-05T19:27:49Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49489688/2026-nfl-training-camps-five-trade-offers-proposals-49ers-patriots-commanders-cardinals-colts",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697137_3_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
