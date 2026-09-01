@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Bills make roster changes ahead of season",
+      "description": "Alaina Getzenberg details the Bills cornerback choices ahead of Week 1.",
+      "published": "2026-09-01T01:54:00Z",
+      "url": "https://www.espn.com/video/clip/_/id/49789004/bills-make-roster-changes-ahead-season",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0831/dm_260831_16x9_Bills_IA/dm_260831_16x9_Bills_IA.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "How many different Week 1 starting QBs has each NFL team used?",
       "description": "Since the NFL expanded to 32 teams in 2002, no team has used more Week 1 starting quarterbacks than the Browns.",
       "published": "2026-08-31T16:49:25Z",
@@ -310,14 +318,6 @@
       "published": "2026-08-05T19:27:49Z",
       "url": "https://www.espn.com/nfl/story/_/id/49489688/2026-nfl-training-camps-five-trade-offers-proposals-49ers-patriots-commanders-cardinals-colts",
       "image": "https://a.espncdn.com/photo/2026/0805/r1697137_3_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "2026 NFL training camp: Position battles on each depth chart",
-      "description": "We picked the top position battles to keep an eye on as training camp and the preseason roll on.",
-      "published": "2026-08-03T17:20:09Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49513914/2026-nfl-training-camp-position-battles-afc-nfc",
-      "image": "https://a.espncdn.com/photo/2026/0731/nfl_training-camp-battles_16x9.jpg",
       "type": "Story"
     }
   ]
