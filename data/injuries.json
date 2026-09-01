@@ -1,6 +1,16 @@
 {
   "injuries": [
     {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-01T21:34Z",
+      "athlete": {
+        "name": "Connor McGovern",
+        "position": "C",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4033748.png"
+      }
+    },
+    {
       "status": "Questionable",
       "type": "questionable",
       "detail": "Foot",
@@ -176,17 +186,6 @@
         "name": "Phidarian Mathis",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241468.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Leg",
-      "date": "2026-08-19T12:07Z",
-      "athlete": {
-        "name": "Connor McGovern",
-        "position": "C",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4033748.png"
       }
     },
     {
