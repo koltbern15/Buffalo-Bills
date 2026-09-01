@@ -730,7 +730,163 @@
     },
     {
       "position": "practiceSquad",
-      "items": []
+      "items": [
+        {
+          "id": "4426498",
+          "name": "Nick Broeker",
+          "jersey": "65",
+          "position": "G",
+          "age": 25,
+          "height": "6' 4\"",
+          "weight": "305 lbs",
+          "experience": 3,
+          "college": "Ole Miss",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426498.png"
+        },
+        {
+          "id": "4039034",
+          "name": "Shane Buechele",
+          "jersey": "6",
+          "position": "QB",
+          "age": 28,
+          "height": "6' 0\"",
+          "weight": "210 lbs",
+          "experience": 4,
+          "college": "SMU",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039034.png"
+        },
+        {
+          "id": "5209587",
+          "name": "Travis Clayton",
+          "jersey": "67",
+          "position": "OT",
+          "age": 25,
+          "height": "6' 7\"",
+          "weight": "303 lbs",
+          "experience": 2,
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5209587.png"
+        },
+        {
+          "id": "4427348",
+          "name": "Te'Cory Couch",
+          "jersey": "33",
+          "position": "CB",
+          "age": 26,
+          "height": "5' 10\"",
+          "weight": "185 lbs",
+          "experience": 1,
+          "college": "Miami",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427348.png"
+        },
+        {
+          "id": "4429805",
+          "name": "Frank Gore Jr.",
+          "jersey": "20",
+          "position": "RB",
+          "age": 24,
+          "height": "5' 8\"",
+          "weight": "201 lbs",
+          "experience": 1,
+          "college": "Southern Miss",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429805.png"
+        },
+        {
+          "id": "4432215",
+          "name": "Stephen Gosnell",
+          "jersey": "89",
+          "position": "WR",
+          "age": 24,
+          "height": "6' 1\"",
+          "weight": "198 lbs",
+          "experience": 1,
+          "college": "Virginia Tech",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432215.png"
+        },
+        {
+          "id": "4577066",
+          "name": "Keonta Jenkins",
+          "jersey": "49",
+          "position": "LB",
+          "age": 24,
+          "height": "6' 2\"",
+          "weight": "225 lbs",
+          "experience": 1,
+          "college": "Virginia Tech",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4577066.png"
+        },
+        {
+          "id": "4249214",
+          "name": "Andre Jones Jr.",
+          "jersey": "59",
+          "position": "LB",
+          "age": 27,
+          "height": "6' 5\"",
+          "weight": "258 lbs",
+          "experience": 2,
+          "college": "Louisiana",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4249214.png"
+        },
+        {
+          "id": "4427843",
+          "name": "Chase Lundt",
+          "jersey": "77",
+          "position": "OT",
+          "age": 26,
+          "height": "6' 7\"",
+          "weight": "304 lbs",
+          "experience": 2,
+          "college": "UConn",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427843.png"
+        },
+        {
+          "id": "4430270",
+          "name": "Ja'Mori Maclin",
+          "jersey": "84",
+          "position": "WR",
+          "age": 24,
+          "height": "5' 10\"",
+          "weight": "183 lbs",
+          "experience": 0,
+          "college": "Kentucky",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430270.png"
+        },
+        {
+          "id": "3122168",
+          "name": "Trent Sherfield",
+          "jersey": "81",
+          "position": "WR",
+          "age": 30,
+          "height": "6' 0\"",
+          "weight": "203 lbs",
+          "experience": 9,
+          "college": "Vanderbilt",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3122168.png"
+        },
+        {
+          "id": "4240575",
+          "name": "Geno Stone",
+          "jersey": "25",
+          "position": "S",
+          "age": 27,
+          "height": "5' 11\"",
+          "weight": "210 lbs",
+          "experience": 7,
+          "college": "Iowa",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240575.png"
+        },
+        {
+          "id": "4682749",
+          "name": "Kani Walker",
+          "jersey": "41",
+          "position": "CB",
+          "age": 23,
+          "height": "6' 2\"",
+          "weight": "204 lbs",
+          "experience": 0,
+          "college": "Arkansas",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4682749.png"
+        }
+      ]
     }
   ]
 }
