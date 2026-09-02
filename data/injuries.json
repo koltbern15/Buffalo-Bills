@@ -3,7 +3,7 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-09-01T21:34Z",
+      "date": "2026-09-01T23:57Z",
       "athlete": {
         "name": "Connor McGovern",
         "position": "C",
@@ -414,16 +414,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-03-26T20:46Z",
-      "athlete": {
-        "name": "Trent Sherfield",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3122168.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-03-11T20:36Z",
       "athlete": {
         "name": "Bradley Chubb",
@@ -479,6 +469,16 @@
         "name": "Greg Rousseau",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362506.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-02-03T18:10Z",
+      "athlete": {
+        "name": "Shaq Thompson",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2978313.png"
       }
     },
     {
