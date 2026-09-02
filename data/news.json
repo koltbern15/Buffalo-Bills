@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL bold predictions: Potential surprises for 32 teams",
+      "description": "Jameson Williams leading the Lions' receivers? Xavier Worthy breaking out? Travis Hunter almost entirely at CB? We have 32 outside-the-box things to watch.",
+      "published": "2026-09-02T10:32:30Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49793475/2026-nfl-surprise-predictions-32-teams-stat-leaders-breakouts-fantasy-football",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1710137_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "2026 NFL Rank: Predicting top 100 players for this season",
       "description": "We predicted the top 100 NFL players for 2026. Which defender came in at No. 1? How many QBs made the list? Which team had the most players included?",
       "published": "2026-09-01T16:30:54Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/49546526/bills-cj-gardner-johnson-wait-play-vs-texans",
       "image": "https://a.espncdn.com/photo/2026/0801/r1696313_1296x729_16-9.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "2026 NFL season: Future Hall of Famers from all 32 teams",
-      "description": "We went roster by roster to pick out the NFL players who are on track to make the Hall of Fame one day -- and those who still have some work to do.",
-      "published": "2026-08-06T15:56:33Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49505682/2026-nfl-pro-football-hall-fame-future-players-all-32-teams",
-      "image": "https://a.espncdn.com/photo/2026/0805/r1697800_608x342_16-9.jpg",
-      "type": "Story"
     }
   ]
 }
