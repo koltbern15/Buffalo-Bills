@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-09-04T21:21Z",
+      "athlete": {
+        "name": "Josh Allen",
+        "position": "QB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-09-02T22:01Z",
       "athlete": {
         "name": "Jedrick Wills Jr.",
@@ -147,16 +157,6 @@
       }
     },
     {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-08-25T12:31Z",
-      "athlete": {
-        "name": "Josh Allen",
-        "position": "QB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png"
-      }
-    },
-    {
       "status": "Questionable",
       "type": "questionable",
       "detail": "Foot",
@@ -196,17 +196,6 @@
         "name": "Phidarian Mathis",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241468.png"
-      }
-    },
-    {
-      "status": "Injured Reserve",
-      "type": "Injured Reserve",
-      "detail": "Undisclosed",
-      "date": "2026-08-19T12:07Z",
-      "athlete": {
-        "name": "Demetrius Flannigan-Fowles",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3931424.png"
       }
     },
     {
