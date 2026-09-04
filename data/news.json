@@ -1,9 +1,17 @@
 {
   "articles": [
     {
+      "headline": "McDermott reflects on Bills departure, hopes to coach again in NFL",
+      "description": "McDermott reflects on Bills departure, hopes to coach again in NFL",
+      "published": "2026-09-04T18:56:08Z",
+      "url": "https://www.espn.com/video/clip/_/id/49826552/mcdermott-reflects-bills-departure-hopes-coach-again-nfl",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/ss_20260904_133456028_3646451/ss_20260904_133456028_3646451.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "2026 NFL season X factors: Key players for all 32 teams",
       "description": "What do Marvin Harrison Jr., Jared Verse and Travis Hunter have in common? The success of their teams could depend on them.",
-      "published": "2026-09-04T10:30:28Z",
+      "published": "2026-09-04T16:45:57Z",
       "url": "https://www.espn.com/nfl/story/_/id/49797638/2026-nfl-season-x-factors-all-32-teams-key-players",
       "image": "https://a.espncdn.com/photo/2026/0903/r1711093_608x342_16-9.jpg",
       "type": "Story"
@@ -310,14 +318,6 @@
       "published": "2026-08-07T15:39:39Z",
       "url": "https://www.espn.com/nfl/story/_/id/49552831/bills-agree-4-year-784m-deal-rg-ocyrus-torrence",
       "image": "https://a.espncdn.com/photo/2026/0807/r1698743_600x400_3-2.jpg",
-      "type": "HeadlineNews"
-    },
-    {
-      "headline": "Bills' C.J. Gardner-Johnson 'can't wait' to play vs. Texans",
-      "description": "Bills safety C.J. Gardner-Johnson said he \"can't wait\" to play the Texans -- one of his former teams -- when the Bills visit Houston in Week 1.",
-      "published": "2026-08-06T18:49:28Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49546526/bills-cj-gardner-johnson-wait-play-vs-texans",
-      "image": "https://a.espncdn.com/photo/2026/0801/r1696313_1296x729_16-9.jpg",
       "type": "HeadlineNews"
     }
   ]
