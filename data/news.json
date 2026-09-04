@@ -33,14 +33,6 @@
       "type": "Story"
     },
     {
-      "headline": "Bills make roster changes ahead of season",
-      "description": "Alaina Getzenberg details the Bills cornerback choices ahead of Week 1.",
-      "published": "2026-09-01T01:54:19Z",
-      "url": "https://www.espn.com/video/clip/_/id/49789004/bills-make-roster-changes-ahead-season",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0831/dm_260831_16x9_Bills_IA/dm_260831_16x9_Bills_IA.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "How many different Week 1 starting QBs has each NFL team used?",
       "description": "Since the NFL expanded to 32 teams in 2002, no team has used more Week 1 starting quarterbacks than the Browns.",
       "published": "2026-08-31T16:49:25Z",
@@ -319,6 +311,14 @@
       "url": "https://www.espn.com/nfl/story/_/id/49546526/bills-cj-gardner-johnson-wait-play-vs-texans",
       "image": "https://a.espncdn.com/photo/2026/0801/r1696313_1296x729_16-9.jpg",
       "type": "HeadlineNews"
+    },
+    {
+      "headline": "2026 NFL season: Future Hall of Famers from all 32 teams",
+      "description": "We went roster by roster to pick out the NFL players who are on track to make the Hall of Fame one day -- and those who still have some work to do.",
+      "published": "2026-08-06T15:56:33Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49505682/2026-nfl-pro-football-hall-fame-future-players-all-32-teams",
+      "image": "https://a.espncdn.com/photo/2026/0805/r1697800_608x342_16-9.jpg",
+      "type": "Story"
     }
   ]
 }
