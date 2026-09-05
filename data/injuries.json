@@ -1,6 +1,17 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Back",
+      "date": "2026-09-05T05:22Z",
+      "athlete": {
+        "name": "Jedrick Wills Jr.",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241482.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-09-04T21:21Z",
@@ -8,16 +19,6 @@
         "name": "Josh Allen",
         "position": "QB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-02T22:01Z",
-      "athlete": {
-        "name": "Jedrick Wills Jr.",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241482.png"
       }
     },
     {
