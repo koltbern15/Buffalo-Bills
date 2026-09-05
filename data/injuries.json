@@ -1,6 +1,16 @@
 {
   "injuries": [
     {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-05T17:02Z",
+      "athlete": {
+        "name": "Terrel Bernard",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259166.png"
+      }
+    },
+    {
       "status": "Questionable",
       "type": "questionable",
       "detail": "Back",
@@ -144,17 +154,6 @@
         "name": "Alec Anderson",
         "position": "OT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4367203.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Undisclosed",
-      "date": "2026-08-25T14:01Z",
-      "athlete": {
-        "name": "Terrel Bernard",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259166.png"
       }
     },
     {
