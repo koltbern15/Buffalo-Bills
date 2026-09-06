@@ -1,3 +1,10 @@
 {
-  "game": null
+  "game": {
+    "date": "2026-09-13T17:00Z",
+    "name": "BUF @ HOU",
+    "venue": "NRG Stadium",
+    "host": "HOU"
+  },
+  "dome": true,
+  "weather": null
 }

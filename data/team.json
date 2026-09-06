@@ -9,7 +9,7 @@
     "items": [
       {
         "type": "total",
-        "summary": "3-0",
+        "summary": "0-0",
         "stats": [
           {
             "name": "OTLosses",
@@ -21,15 +21,15 @@
           },
           {
             "name": "avgPointsAgainst",
-            "value": 16
+            "value": 0
           },
           {
             "name": "avgPointsFor",
-            "value": 29.333334
+            "value": 0
           },
           {
             "name": "differential",
-            "value": 40
+            "value": 0
           },
           {
             "name": "divisionWinPercent",
@@ -41,11 +41,11 @@
           },
           {
             "name": "gamesPlayed",
-            "value": 3
+            "value": 0
           },
           {
             "name": "leagueWinPercent",
-            "value": 1
+            "value": 0
           },
           {
             "name": "losses",
@@ -53,27 +53,27 @@
           },
           {
             "name": "playoffSeed",
-            "value": 1
+            "value": 0
           },
           {
             "name": "pointDifferential",
-            "value": 40
+            "value": 0
           },
           {
             "name": "points",
-            "value": 1.5
+            "value": 0
           },
           {
             "name": "pointsAgainst",
-            "value": 48
+            "value": 0
           },
           {
             "name": "pointsFor",
-            "value": 88
+            "value": 0
           },
           {
             "name": "streak",
-            "value": 3
+            "value": 0
           },
           {
             "name": "ties",
@@ -81,11 +81,11 @@
           },
           {
             "name": "winPercent",
-            "value": 1
+            "value": 0
           },
           {
             "name": "wins",
-            "value": 3
+            "value": 0
           },
           {
             "name": "divisionLosses",
@@ -112,11 +112,11 @@
       {
         "description": "Home Record",
         "type": "home",
-        "summary": "2-0",
+        "summary": "0-0",
         "stats": [
           {
             "name": "wins",
-            "value": 2
+            "value": 0
           },
           {
             "name": "losses",
@@ -128,7 +128,7 @@
           },
           {
             "name": "winPercent",
-            "value": 1
+            "value": 0
           },
           {
             "name": "OTLosses",
@@ -139,11 +139,11 @@
       {
         "description": "Away Record",
         "type": "road",
-        "summary": "1-0",
+        "summary": "0-0",
         "stats": [
           {
             "name": "wins",
-            "value": 1
+            "value": 0
           },
           {
             "name": "losses",
@@ -155,7 +155,7 @@
           },
           {
             "name": "winPercent",
-            "value": 1
+            "value": 0
           },
           {
             "name": "OTLosses",
@@ -165,7 +165,7 @@
       }
     ]
   },
-  "standingSummary": null,
+  "standingSummary": "1st in AFC East",
   "nextEvent": [
     {
       "id": "401872660",
@@ -914,12 +914,12 @@
           "tickets": [
             {
               "id": "6490070",
-              "summary": "Tickets as low as $158",
+              "summary": "Tickets as low as $157",
               "description": "Buffalo Bills at Houston Texans",
               "maxPrice": 11584,
-              "startingPrice": 158,
-              "numberAvailable": 5596,
-              "totalPostings": 1932,
+              "startingPrice": 157,
+              "numberAvailable": 5639,
+              "totalPostings": 1953,
               "links": [
                 {
                   "rel": [
