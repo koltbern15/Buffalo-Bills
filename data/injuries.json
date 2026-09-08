@@ -3,6 +3,50 @@
     {
       "status": "Questionable",
       "type": "questionable",
+      "detail": "Back",
+      "date": "2026-09-08T20:42Z",
+      "athlete": {
+        "name": "Jedrick Wills Jr.",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241482.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Knee - ACL",
+      "date": "2026-09-08T20:42Z",
+      "athlete": {
+        "name": "Tyrell Shavers",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Neck",
+      "date": "2026-09-08T20:42Z",
+      "athlete": {
+        "name": "Dorian Strong",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568703.png"
+      }
+    },
+    {
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "detail": "Undisclosed",
+      "date": "2026-09-08T20:42Z",
+      "athlete": {
+        "name": "Zane Durant",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685347.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
       "detail": "Foot",
       "date": "2026-09-08T19:47Z",
       "athlete": {
@@ -29,17 +73,6 @@
         "name": "Terrel Bernard",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259166.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Back",
-      "date": "2026-09-05T05:22Z",
-      "athlete": {
-        "name": "Jedrick Wills Jr.",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241482.png"
       }
     },
     {
@@ -82,28 +115,6 @@
         "name": "Ty Johnson",
         "position": "RB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
-      }
-    },
-    {
-      "status": "Injured Reserve",
-      "type": "Injured Reserve",
-      "detail": "Undisclosed",
-      "date": "2026-08-31T04:09Z",
-      "athlete": {
-        "name": "Zane Durant",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685347.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Knee - ACL",
-      "date": "2026-08-31T04:04Z",
-      "athlete": {
-        "name": "Tyrell Shavers",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
       }
     },
     {
@@ -287,17 +298,6 @@
         "name": "Cole Bishop",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4676004.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Neck",
-      "date": "2026-06-12T21:21Z",
-      "athlete": {
-        "name": "Dorian Strong",
-        "position": "CB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568703.png"
       }
     },
     {
