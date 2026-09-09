@@ -3,6 +3,28 @@
     {
       "status": "Questionable",
       "type": "questionable",
+      "detail": "Lower Leg",
+      "date": "2026-09-09T18:50Z",
+      "athlete": {
+        "name": "Ty Johnson",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Undisclosed",
+      "date": "2026-09-09T18:35Z",
+      "athlete": {
+        "name": "Khalil Shakir",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
       "detail": "Back",
       "date": "2026-09-08T20:42Z",
       "athlete": {
@@ -86,17 +108,6 @@
       }
     },
     {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Undisclosed",
-      "date": "2026-09-02T20:34Z",
-      "athlete": {
-        "name": "Khalil Shakir",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
-      }
-    },
-    {
       "status": "Active",
       "type": "active",
       "date": "2026-09-01T23:57Z",
@@ -104,17 +115,6 @@
         "name": "Connor McGovern",
         "position": "C",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4033748.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Lower Leg",
-      "date": "2026-09-01T19:10Z",
-      "athlete": {
-        "name": "Ty Johnson",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
       }
     },
     {

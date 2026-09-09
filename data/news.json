@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+      "description": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
+      "published": "2026-09-09T16:23:37Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
+      "image": "https://a.espncdn.com/photo/2026/0202/r1609489_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Super Bowl favorite Rams also drawing the most betting action",
+      "description": "The Rams, who enter this season as the odds on favorites to win Super Bowl LXI, are also garnering the most overall action among the betting public.",
+      "published": "2026-09-09T16:31:18Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49880897/super-bowl-favorite-rams-drawing-most-betting-action",
+      "image": "https://a.espncdn.com/photo/2026/0123/r1604752_600x400_3-2.jpg",
+      "type": "HeadlineNews"
+    },
+    {
       "headline": "NFL Week 1 uniforms: Vikings rocking throwbacks, Bengals go orange",
       "description": "The NFL is back, and so are the uniform combinations. Here's a look at what each team is wearing in Week 1.",
       "published": "2026-09-09T13:08:27Z",
@@ -11,7 +27,7 @@
     {
       "headline": "Predicting the 2026 NFL playoff field, plus Super Bowl pick",
       "description": "Which teams from last season's playoffs will return -- and which ones will miss out? Who will be the surprises in the bracket? And who will win the Super Bowl?",
-      "published": "2026-09-09T14:27:34Z",
+      "published": "2026-09-09T14:36:36Z",
       "url": "https://www.espn.com/nfl/story/_/id/49865081/2026-nfl-season-14-playoff-teams-field-super-bowl-pick-barnwell",
       "image": "https://a.espncdn.com/photo/2026/0908/nfl_barnwell-playoff-sb-predictions_16x9.jpg",
       "type": "Story"
@@ -70,14 +86,6 @@
       "published": "2026-09-04T16:45:57Z",
       "url": "https://www.espn.com/nfl/story/_/id/49797638/2026-nfl-season-x-factors-all-32-teams-key-players",
       "image": "https://a.espncdn.com/photo/2026/0903/r1711093_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "description": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
-      "published": "2026-09-03T15:27:10Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-      "image": "https://a.espncdn.com/photo/2026/0202/r1609489_608x342_16-9.jpg",
       "type": "Story"
     },
     {
@@ -310,14 +318,6 @@
       "published": "2026-08-15T00:27:33Z",
       "url": "https://www.espn.com/nfl/story/_/id/49611988/bills-phidarian-mathis-banned-3-games-substance-abuse-violation",
       "image": "https://a.espncdn.com/photo/2026/0814/r1701880_600x400_3-2.jpg",
-      "type": "HeadlineNews"
-    },
-    {
-      "headline": "Allen, Bills starters to play Saturday in 1st game at new stadium",
-      "description": "A new coaching staff and another chance to get accustomed to Buffalo's new stadium led to Bills coach Joe Brady's decision to have Josh Allen and the rest of his healthy starters play in the team's preseason opener.",
-      "published": "2026-08-13T18:28:16Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49601678/allen-bills-starters-play-saturday-1st-game-new-stadium",
-      "image": "https://a.espncdn.com/photo/2026/0813/r1701329_1296x729_16-9.jpg",
       "type": "HeadlineNews"
     }
   ]
