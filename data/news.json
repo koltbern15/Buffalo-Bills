@@ -1,9 +1,17 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 1 uniforms: Vikings rocking throwbacks, Bengals go orange",
+      "description": "The NFL is back, and so are the uniform combinations. Here's a look at what each team is wearing in Week 1.",
+      "published": "2026-09-09T13:08:27Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49852219/nfl-week-1-uniforms",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713425_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Predicting the 2026 NFL playoff field, plus Super Bowl pick",
       "description": "Which teams from last season's playoffs will return -- and which ones will miss out? Who will be the surprises in the bracket? And who will win the Super Bowl?",
-      "published": "2026-09-09T10:29:16Z",
+      "published": "2026-09-09T14:27:34Z",
       "url": "https://www.espn.com/nfl/story/_/id/49865081/2026-nfl-season-14-playoff-teams-field-super-bowl-pick-barnwell",
       "image": "https://a.espncdn.com/photo/2026/0908/nfl_barnwell-playoff-sb-predictions_16x9.jpg",
       "type": "Story"
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/49601678/allen-bills-starters-play-saturday-1st-game-new-stadium",
       "image": "https://a.espncdn.com/photo/2026/0813/r1701329_1296x729_16-9.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "Ranking NFL quarterbacks by trait: Best arm, accuracy, more",
-      "description": "Does Josh Allen have the league's strongest arm? Is Lamar Jackson still the most unstoppable QB rusher? And where does Caleb Williams stand among the best improvisers?",
-      "published": "2026-08-13T15:19:01Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49521144/2026-ranking-best-nfl-quarterbacks-top-10-trait-skill-arm-accuracy-rushing",
-      "image": "https://a.espncdn.com/photo/2026/0809/nfl_orlovsky's_qb_trait_rankings_16x9.jpg",
-      "type": "Story"
     }
   ]
 }
