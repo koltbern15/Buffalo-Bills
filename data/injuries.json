@@ -1,6 +1,26 @@
 {
   "injuries": [
     {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-09T21:38Z",
+      "athlete": {
+        "name": "Keon Coleman",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-09T21:35Z",
+      "athlete": {
+        "name": "Khalil Shakir",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
+      }
+    },
+    {
       "status": "Questionable",
       "type": "questionable",
       "detail": "Lower Leg",
@@ -9,17 +29,6 @@
         "name": "Ty Johnson",
         "position": "RB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Undisclosed",
-      "date": "2026-09-09T18:35Z",
-      "athlete": {
-        "name": "Khalil Shakir",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
       }
     },
     {
@@ -64,17 +73,6 @@
         "name": "Zane Durant",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685347.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Foot",
-      "date": "2026-09-08T19:47Z",
-      "athlete": {
-        "name": "Keon Coleman",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
       }
     },
     {
