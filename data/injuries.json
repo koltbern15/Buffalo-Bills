@@ -1,9 +1,19 @@
 {
   "injuries": [
     {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-10T21:15Z",
+      "athlete": {
+        "name": "Jude Bowry",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
+      }
+    },
+    {
       "status": "Questionable",
       "type": "questionable",
-      "detail": "Lower Leg",
+      "detail": "Hamstring",
       "date": "2026-09-10T18:51Z",
       "athlete": {
         "name": "Ty Johnson",
@@ -205,17 +215,6 @@
         "name": "Alec Anderson",
         "position": "OT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4367203.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Foot",
-      "date": "2026-08-25T02:33Z",
-      "athlete": {
-        "name": "Jude Bowry",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
       }
     },
     {

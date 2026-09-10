@@ -914,11 +914,11 @@
           "tickets": [
             {
               "id": "6490070",
-              "summary": "Tickets as low as $143",
+              "summary": "Tickets as low as $142",
               "description": "Buffalo Bills at Houston Texans",
               "maxPrice": 2540,
-              "startingPrice": 143,
-              "numberAvailable": 5209,
+              "startingPrice": 142,
+              "numberAvailable": 5192,
               "totalPostings": 1912,
               "links": [
                 {
@@ -995,6 +995,19 @@
           "href": "https://www.espn.com/nfl/game/_/gameId/401872660",
           "text": "Now",
           "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "preview",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/nfl/preview/_/gameId/401872660",
+          "text": "Preview",
+          "shortText": "Preview",
           "isExternal": false,
           "isPremium": false
         },
