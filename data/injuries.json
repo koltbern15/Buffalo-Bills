@@ -1,6 +1,17 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Knee",
+      "date": "2026-09-10T23:28Z",
+      "athlete": {
+        "name": "T.J. Sanders",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-09-10T21:15Z",
@@ -29,17 +40,6 @@
         "name": "Michael Hoecht",
         "position": "DE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4033234.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Knee",
-      "date": "2026-09-09T23:52Z",
-      "athlete": {
-        "name": "T.J. Sanders",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
       }
     },
     {
