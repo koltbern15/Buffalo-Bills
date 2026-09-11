@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Which NFL teams have never won a Super Bowl?",
+      "description": "Some NFL teams have scored multiple Lombardi trophies, but which franchises have never won the Super Bowl? Check out more information now.",
+      "published": "2026-09-11T18:39:11Z",
+      "url": "https://www.espn.com/nfl/story/_/id/39387513/which-nfl-teams-never-won-super-bowl",
+      "image": "https://a.espncdn.com/photo/2011/0526/nfl_a_snorwood_sy_576.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Super Bowl LXI odds: Rams' odds lengthen slightly, 49ers enter top 5",
       "description": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
       "published": "2026-09-11T15:42:19Z",
@@ -19,7 +27,7 @@
     {
       "headline": "NFL Week 1 picks, predictions, schedule, odds, fantasy tips",
       "description": "Josh Allen vs. C.J. Stroud? Jayden Daniels vs. Jalen Hurts? There are 14 games left in Week 1, and we have picks, predictions, key stats, watchability ratings and more.",
-      "published": "2026-09-11T15:53:56Z",
+      "published": "2026-09-11T17:55:24Z",
       "url": "https://www.espn.com/nfl/story/_/id/49805531/week-1-picks-predictions-schedule-fantasy-odds-2026",
       "image": "https://a.espncdn.com/photo/2026/0911/r1714679_608x342_16-9.jpg",
       "type": "Story"
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/49693030/bills-star-dt-ed-oliver-mourning-tragic-death-son",
       "image": "https://a.espncdn.com/photo/2023/0608/r1184272_600x400_3-2.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "2026 NFL season: Ranking the best, worst positional groups",
-      "description": "Which team has the best running backs? The shakiest edge rusher room? We ranked all 32 teams in 10 different position groups.",
-      "published": "2026-08-22T01:24:22Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49638556/2026-nfl-season-positional-group-best-worst-quarterbacks-cornerbacks-receivers",
-      "image": "https://a.espncdn.com/photo/2026/0821/r1702980_608x342_16-9.jpg",
-      "type": "Story"
     }
   ]
 }
