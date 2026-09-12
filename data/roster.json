@@ -156,6 +156,29 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3051324.png"
         },
         {
+          "id": "4037235",
+          "name": "Greg Dortch",
+          "position": "WR",
+          "age": 28,
+          "height": "5' 7\"",
+          "weight": "183 lbs",
+          "experience": 6,
+          "college": "Wake Forest",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4037235.png"
+        },
+        {
+          "id": "4429805",
+          "name": "Frank Gore Jr.",
+          "jersey": "20",
+          "position": "RB",
+          "age": 24,
+          "height": "5' 8\"",
+          "weight": "201 lbs",
+          "experience": 1,
+          "college": "Southern Miss",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429805.png"
+        },
+        {
           "id": "4368828",
           "name": "Tylan Grable",
           "jersey": "68",
@@ -765,29 +788,6 @@
           "experience": 1,
           "college": "Miami",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427348.png"
-        },
-        {
-          "id": "4037235",
-          "name": "Greg Dortch",
-          "position": "WR",
-          "age": 28,
-          "height": "5' 7\"",
-          "weight": "183 lbs",
-          "experience": 6,
-          "college": "Wake Forest",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4037235.png"
-        },
-        {
-          "id": "4429805",
-          "name": "Frank Gore Jr.",
-          "jersey": "20",
-          "position": "RB",
-          "age": 24,
-          "height": "5' 8\"",
-          "weight": "201 lbs",
-          "experience": 1,
-          "college": "Southern Miss",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429805.png"
         },
         {
           "id": "4432215",

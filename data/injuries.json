@@ -1,6 +1,26 @@
 {
   "injuries": [
     {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-12T20:18Z",
+      "athlete": {
+        "name": "Frank Gore Jr.",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429805.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-12T20:15Z",
+      "athlete": {
+        "name": "Greg Dortch",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4037235.png"
+      }
+    },
+    {
       "status": "Questionable",
       "type": "questionable",
       "detail": "Hamstring",
