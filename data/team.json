@@ -914,12 +914,12 @@
           "tickets": [
             {
               "id": "6490070",
-              "summary": "Tickets as low as $127",
+              "summary": "Tickets as low as $133",
               "description": "Buffalo Bills at Houston Texans",
               "maxPrice": 2540,
-              "startingPrice": 127,
-              "numberAvailable": 4472,
-              "totalPostings": 1727,
+              "startingPrice": 133,
+              "numberAvailable": 4397,
+              "totalPostings": 1702,
               "links": [
                 {
                   "rel": [
