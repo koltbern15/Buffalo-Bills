@@ -3,42 +3,41 @@
     "id": "401872660",
     "name": "BUF @ HOU",
     "date": "2026-09-13T17:00Z",
-    "state": "pre",
+    "state": "in",
     "status": {
-      "id": "1",
-      "name": "STATUS_SCHEDULED",
-      "state": "pre",
+      "id": "2",
+      "name": "STATUS_IN_PROGRESS",
+      "state": "in",
       "completed": false,
-      "description": "Scheduled",
-      "detail": "Sun, September 13th at 1:00 PM EDT",
-      "shortDetail": "9/13 - 1:00 PM EDT"
+      "description": "In Progress",
+      "detail": "3:13 - 2nd Quarter",
+      "shortDetail": "3:13 - 2nd"
     },
-    "clock": "0:00",
-    "period": 0,
+    "clock": "3:13",
+    "period": 2,
     "us": {
       "abbr": "BUF",
-      "score": "0",
+      "score": "17",
       "homeAway": "away",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
     "them": {
       "abbr": "HOU",
       "name": "Houston Texans",
-      "score": "0",
+      "score": "14",
       "homeAway": "home",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png"
     },
-    "odds": {
-      "details": "BUF -1.5",
-      "overUnder": 44.5
-    },
-    "broadcast": "CBS"
+    "odds": null,
+    "broadcast": "CBS",
+    "winProbability": 59,
+    "lastPlay": "Official Timeout at 03:13."
   },
   "next": {
-    "id": "401872660",
-    "date": "2026-09-13T17:00Z",
-    "name": "BUF @ HOU",
-    "week": 1,
+    "id": "401872932",
+    "date": "2026-09-18T00:15Z",
+    "name": "DET @ BUF",
+    "week": 2,
     "seasonType": 2,
     "status": {
       "id": "1",
@@ -46,26 +45,26 @@
       "state": "pre",
       "completed": false,
       "description": "Scheduled",
-      "detail": "Sun, September 13th at 1:00 PM EDT",
-      "shortDetail": "9/13 - 1:00 PM EDT"
+      "detail": "Thu, September 17th at 8:15 PM EDT",
+      "shortDetail": "9/17 - 8:15 PM EDT"
     },
     "venue": {
-      "name": "Reliant Stadium",
-      "city": "Houston",
-      "state": "TX"
+      "name": "Highmark Stadium",
+      "city": "Orchard Park",
+      "state": "NY"
     },
-    "isHome": false,
+    "isHome": true,
     "opponent": {
-      "abbr": "HOU",
-      "name": "Houston Texans",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png"
+      "abbr": "DET",
+      "name": "Detroit Lions",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png"
     },
     "score": {
       "us": null,
       "them": null
     },
     "result": null,
-    "homeAbbr": "HOU",
-    "awayAbbr": "BUF"
+    "homeAbbr": "BUF",
+    "awayAbbr": "DET"
   }
 }

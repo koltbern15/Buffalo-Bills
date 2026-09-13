@@ -14,13 +14,13 @@
       "week": 1,
       "seasonType": 2,
       "status": {
-        "id": "1",
-        "name": "STATUS_SCHEDULED",
-        "state": "pre",
+        "id": "2",
+        "name": "STATUS_IN_PROGRESS",
+        "state": "in",
         "completed": false,
-        "description": "Scheduled",
-        "detail": "Sun, September 13th at 1:00 PM EDT",
-        "shortDetail": "9/13 - 1:00 PM EDT"
+        "description": "In Progress",
+        "detail": "3:13 - 2nd Quarter",
+        "shortDetail": "3:13 - 2nd"
       },
       "venue": {
         "name": "Reliant Stadium",
