@@ -3,35 +3,34 @@
     "id": "401872660",
     "name": "BUF @ HOU",
     "date": "2026-09-13T17:00Z",
-    "state": "in",
+    "state": "post",
     "status": {
-      "id": "2",
-      "name": "STATUS_IN_PROGRESS",
-      "state": "in",
-      "completed": false,
-      "description": "In Progress",
-      "detail": "3:13 - 2nd Quarter",
-      "shortDetail": "3:13 - 2nd"
+      "id": "3",
+      "name": "STATUS_FINAL",
+      "state": "post",
+      "completed": true,
+      "description": "Final",
+      "detail": "Final",
+      "shortDetail": "Final"
     },
-    "clock": "3:13",
-    "period": 2,
+    "clock": "0:00",
+    "period": 4,
     "us": {
       "abbr": "BUF",
-      "score": "17",
+      "score": "36",
       "homeAway": "away",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
     "them": {
       "abbr": "HOU",
       "name": "Houston Texans",
-      "score": "14",
+      "score": "31",
       "homeAway": "home",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png"
     },
     "odds": null,
     "broadcast": "CBS",
-    "winProbability": 59,
-    "lastPlay": "Official Timeout at 03:13."
+    "winProbability": 100
   },
   "next": {
     "id": "401872932",

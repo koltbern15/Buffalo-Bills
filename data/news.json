@@ -3,10 +3,26 @@
     {
       "headline": "Week 1 NFL highlights: Best plays, moments, touchdowns, more",
       "description": "Check out the best of the best from Week 1 around the NFL, including highlight-reel touchdowns and must-see plays.",
-      "published": "2026-09-13T14:55:03Z",
+      "published": "2026-09-13T19:29:36Z",
       "url": "https://www.espn.com/nfl/story/_/id/49881465/week-1-highlights-best-plays-touchdowns-2026",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715501_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1716074_1296x729_16-9.jpg",
       "type": "Story"
+    },
+    {
+      "headline": "NFL Week 1's best arrivals, led by Jalen Hurts and Kyler Murray",
+      "description": "From Spiderman to a Navy nod, players around the NFL brought the heat ahead of their Week 1 matchups.",
+      "published": "2026-09-13T18:53:39Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49895823/nfl-week-1-fashionable-arrivals",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1716029_687x387_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Josh Allen joins Chris Berman to talk parenthood, continuing to get better",
+      "description": "Josh Allen joins Chris Berman to talk parenthood, continuing to get better",
+      "published": "2026-09-13T16:07:30Z",
+      "url": "https://www.espn.com/video/clip/_/id/49927053/josh-allen-joins-chris-berman-talk-parenthood-continuing-get-better",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_josh_allen_convo_feature/dm_260913_josh_allen_convo_feature.jpg",
+      "type": "Media"
     },
     {
       "headline": "NFL Week 1 uniforms: Vikings rocking throwbacks, Bengals go orange",
@@ -303,22 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/49679821/2026-nfl-season-buffalo-bills-final-roster-projection-depth-chart",
       "image": "https://a.espncdn.com/photo/2026/0821/r1704791_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "2026 NFL preseason Week 2: Game takeaways, analysis",
-      "description": "NFL Nation reporters tackle the biggest looming roster questions coming off each NFL Week 2 preseason game.",
-      "published": "2026-08-24T12:18:02Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
-      "image": "https://a.espncdn.com/photo/2026/0824/r1706099_1296x729_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Shedeur Sanders throws TD pass in final chance to win starting QB job but Bills batter Browns 31-7",
-      "description": "— As thunder rumbled around Huntington Bank Field following Saturday's game, the Browns' confusing quarterback competition grew stormier.",
-      "published": "2026-08-22T23:14:29Z",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873294",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873294.png?templateId=espn.applewatch.awayhome.1",
-      "type": "Recap"
     }
   ]
 }

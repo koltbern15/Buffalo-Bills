@@ -14,13 +14,13 @@
       "week": 1,
       "seasonType": 2,
       "status": {
-        "id": "2",
-        "name": "STATUS_IN_PROGRESS",
-        "state": "in",
-        "completed": false,
-        "description": "In Progress",
-        "detail": "3:13 - 2nd Quarter",
-        "shortDetail": "3:13 - 2nd"
+        "id": "3",
+        "name": "STATUS_FINAL",
+        "state": "post",
+        "completed": true,
+        "description": "Final",
+        "detail": "Final",
+        "shortDetail": "Final"
       },
       "venue": {
         "name": "Reliant Stadium",
@@ -34,10 +34,16 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png"
       },
       "score": {
-        "us": null,
-        "them": null
+        "us": {
+          "value": 36,
+          "displayValue": "36"
+        },
+        "them": {
+          "value": 31,
+          "displayValue": "31"
+        }
       },
-      "result": null,
+      "result": "W",
       "homeAbbr": "HOU",
       "awayAbbr": "BUF"
     },
