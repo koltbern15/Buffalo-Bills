@@ -3,6 +3,46 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-09-14T15:08Z",
+      "athlete": {
+        "name": "Mike Danna",
+        "position": "DE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915487.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-14T15:08Z",
+      "athlete": {
+        "name": "Jude Bowry",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-14T15:08Z",
+      "athlete": {
+        "name": "Jalon Kilgore",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-14T15:08Z",
+      "athlete": {
+        "name": "Ar'maj Reed-Adams",
+        "position": "G",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-09-14T02:35Z",
       "athlete": {
         "name": "Ray Davis",
@@ -81,9 +121,8 @@
       }
     },
     {
-      "status": "Out",
-      "type": "out",
-      "detail": "Coach's Decision",
+      "status": "Active",
+      "type": "active",
       "date": "2026-09-13T15:59Z",
       "athlete": {
         "name": "Skyler Bell",
@@ -102,8 +141,8 @@
       }
     },
     {
-      "status": "Out",
-      "type": "out",
+      "status": "Questionable",
+      "type": "questionable",
       "detail": "Knee",
       "date": "2026-09-13T15:36Z",
       "athlete": {
@@ -113,52 +152,8 @@
       }
     },
     {
-      "status": "Out",
-      "type": "out",
-      "detail": "Coach's Decision",
-      "date": "2026-09-13T15:33Z",
-      "athlete": {
-        "name": "Ar'maj Reed-Adams",
-        "position": "G",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Coach's Decision",
-      "date": "2026-09-13T15:33Z",
-      "athlete": {
-        "name": "Jalon Kilgore",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Coach's Decision",
-      "date": "2026-09-13T15:33Z",
-      "athlete": {
-        "name": "Jude Bowry",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Coach's Decision",
-      "date": "2026-09-13T15:33Z",
-      "athlete": {
-        "name": "Mike Danna",
-        "position": "DE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915487.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
+      "status": "Questionable",
+      "type": "questionable",
       "detail": "Hamstring",
       "date": "2026-09-13T15:33Z",
       "athlete": {
