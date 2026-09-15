@@ -3,6 +3,36 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-09-15T00:31Z",
+      "athlete": {
+        "name": "Jackson Hawes",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573699.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-15T00:30Z",
+      "athlete": {
+        "name": "Joshua Palmer",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-15T00:30Z",
+      "athlete": {
+        "name": "Tyler Bass",
+        "position": "PK",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-09-14T21:29Z",
       "athlete": {
         "name": "Keon Coleman",
@@ -259,16 +289,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-09-08T18:48Z",
-      "athlete": {
-        "name": "Joshua Palmer",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-09-01T23:57Z",
       "athlete": {
         "name": "Connor McGovern",
@@ -284,16 +304,6 @@
         "name": "Alec Anderson",
         "position": "OT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4367203.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-08-21T00:41Z",
-      "athlete": {
-        "name": "Jackson Hawes",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573699.png"
       }
     },
     {
@@ -325,16 +335,6 @@
         "name": "Greg Gaines",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-08-18T19:45Z",
-      "athlete": {
-        "name": "Tyler Bass",
-        "position": "PK",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
       }
     },
     {
