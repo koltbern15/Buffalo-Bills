@@ -743,18 +743,6 @@
       "position": "practiceSquad",
       "items": [
         {
-          "id": "4426498",
-          "name": "Nick Broeker",
-          "jersey": "65",
-          "position": "G",
-          "age": 25,
-          "height": "6' 4\"",
-          "weight": "305 lbs",
-          "experience": 3,
-          "college": "Ole Miss",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426498.png"
-        },
-        {
           "id": "4039034",
           "name": "Shane Buechele",
           "jersey": "6",
@@ -836,6 +824,17 @@
           "experience": 3,
           "college": "Baldwin Wallace",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5143279.png"
+        },
+        {
+          "id": "4875767",
+          "name": "Brock Lampe",
+          "position": "FB",
+          "age": 23,
+          "height": "6' 1\"",
+          "weight": "249 lbs",
+          "experience": 1,
+          "college": "Northern Illinois",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4875767.png"
         },
         {
           "id": "4427843",

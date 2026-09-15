@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-09-15T02:57Z",
+      "athlete": {
+        "name": "Terrel Bernard",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259166.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-09-15T00:31Z",
       "athlete": {
         "name": "Jackson Hawes",
@@ -69,17 +79,6 @@
         "name": "Ty Johnson",
         "position": "RB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Calf",
-      "date": "2026-09-14T20:13Z",
-      "athlete": {
-        "name": "Terrel Bernard",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259166.png"
       }
     },
     {
@@ -206,16 +205,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-09-13T16:02Z",
-      "athlete": {
-        "name": "Greg Dortch",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4037235.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-09-13T15:59Z",
       "athlete": {
         "name": "Skyler Bell",
@@ -231,16 +220,6 @@
         "name": "Jordan Hancock",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596480.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-12T20:18Z",
-      "athlete": {
-        "name": "Frank Gore Jr.",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429805.png"
       }
     },
     {
@@ -525,16 +504,6 @@
         "name": "Keleki Latu",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688552.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-01-13T20:40Z",
-      "athlete": {
-        "name": "Nick Broeker",
-        "position": "G",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426498.png"
       }
     },
     {
