@@ -1,6 +1,17 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Knee",
+      "date": "2026-09-15T15:39Z",
+      "athlete": {
+        "name": "T.J. Sanders",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-09-15T02:57Z",
@@ -71,25 +82,14 @@
       }
     },
     {
-      "status": "Out",
-      "type": "out",
+      "status": "Questionable",
+      "type": "questionable",
       "detail": "Hamstring",
       "date": "2026-09-14T20:16Z",
       "athlete": {
         "name": "Ty Johnson",
         "position": "RB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Knee",
-      "date": "2026-09-14T19:28Z",
-      "athlete": {
-        "name": "T.J. Sanders",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
       }
     },
     {
