@@ -11,9 +11,8 @@
       }
     },
     {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Calf",
+      "status": "Active",
+      "type": "active",
       "date": "2026-09-16T01:09Z",
       "athlete": {
         "name": "Terrel Bernard",
