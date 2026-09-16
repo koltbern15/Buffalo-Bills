@@ -1,6 +1,27 @@
 {
   "injuries": [
     {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-16T01:12Z",
+      "athlete": {
+        "name": "Greg Rousseau",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362506.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Calf",
+      "date": "2026-09-16T01:09Z",
+      "athlete": {
+        "name": "Terrel Bernard",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259166.png"
+      }
+    },
+    {
       "status": "Questionable",
       "type": "questionable",
       "detail": "Knee",
@@ -31,17 +52,6 @@
         "name": "Ty Johnson",
         "position": "RB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Calf",
-      "date": "2026-09-15T21:03Z",
-      "athlete": {
-        "name": "Terrel Bernard",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259166.png"
       }
     },
     {
@@ -476,16 +486,6 @@
         "name": "Deone Walker",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4831989.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-02-03T18:18Z",
-      "athlete": {
-        "name": "Greg Rousseau",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362506.png"
       }
     },
     {
