@@ -1,6 +1,27 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Groin",
+      "date": "2026-09-16T23:10Z",
+      "athlete": {
+        "name": "Cole Bishop",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4676004.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-16T23:04Z",
+      "athlete": {
+        "name": "Terrel Bernard",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259166.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-09-16T01:12Z",
@@ -8,16 +29,6 @@
         "name": "Greg Rousseau",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362506.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-16T01:09Z",
-      "athlete": {
-        "name": "Terrel Bernard",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259166.png"
       }
     },
     {
@@ -29,17 +40,6 @@
         "name": "T.J. Sanders",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Groin",
-      "date": "2026-09-15T23:38Z",
-      "athlete": {
-        "name": "Cole Bishop",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4676004.png"
       }
     },
     {
