@@ -914,12 +914,12 @@
           "tickets": [
             {
               "id": "6488348",
-              "summary": "Tickets as low as $554",
+              "summary": "Tickets as low as $556",
               "description": "Detroit Lions at Buffalo Bills (Thursday Night Football)",
               "maxPrice": 20921,
-              "startingPrice": 554,
-              "numberAvailable": 1036,
-              "totalPostings": 396,
+              "startingPrice": 556,
+              "numberAvailable": 781,
+              "totalPostings": 276,
               "links": [
                 {
                   "rel": [

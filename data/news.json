@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "'They're in trouble': Compton expects Josh Allen to carve up Lions' defense",
+      "description": "'They're in trouble': Compton expects Josh Allen to carve up Lions' defense",
+      "published": "2026-09-17T16:10:59Z",
+      "url": "https://www.espn.com/video/clip/_/id/49965517/compton-expects-josh-allen-carve-lions-defense",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/ss_20260917_120530852_3663496/ss_20260917_120530852_3663496.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "Bills open Highmark Stadium, looking to be latest with notable arena debut",
       "description": "As Buffalo opens its new stadium, here's a look back at notable opening games at NFL teams' active stadiums.",
       "published": "2026-09-17T13:02:32Z",
@@ -27,7 +35,7 @@
     {
       "headline": "How to bet Lions-Bills on 'TNF': Analysis, tips and favorite plays",
       "description": "Odds, bets and analysis to help you bet Lions-Bills on \"Thursday Night Football.\"",
-      "published": "2026-09-17T13:57:10Z",
+      "published": "2026-09-17T17:16:14Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/49949817/nfl-week-2-odds-betting-tips-picks-detroit-lions-buffalo-bills",
       "image": "https://a.espncdn.com/photo/2026/0916/r1717604_608x342_16-9.jpg",
       "type": "Story"
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/video/clip/_/id/49826552/mcdermott-reflects-bills-departure-hopes-coach-again-nfl",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/ss_20260904_133456028_3646451/ss_20260904_133456028_3646451.jpg",
       "type": "Media"
-    },
-    {
-      "headline": "2026 NFL season X factors: Key players for all 32 teams",
-      "description": "What do Marvin Harrison Jr., Jared Verse and Travis Hunter have in common? The success of their teams could depend on them.",
-      "published": "2026-09-04T16:45:57Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49797638/2026-nfl-season-x-factors-all-32-teams-key-players",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1711093_608x342_16-9.jpg",
-      "type": "Story"
     }
   ]
 }
