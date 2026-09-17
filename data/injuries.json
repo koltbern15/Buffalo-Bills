@@ -3,6 +3,28 @@
     {
       "status": "Questionable",
       "type": "questionable",
+      "detail": "Knee",
+      "date": "2026-09-17T00:30Z",
+      "athlete": {
+        "name": "T.J. Sanders",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Hamstring",
+      "date": "2026-09-17T00:20Z",
+      "athlete": {
+        "name": "Ty Johnson",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
       "detail": "Groin",
       "date": "2026-09-16T23:10Z",
       "athlete": {
@@ -29,28 +51,6 @@
         "name": "Greg Rousseau",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362506.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Knee",
-      "date": "2026-09-15T23:40Z",
-      "athlete": {
-        "name": "T.J. Sanders",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Hamstring",
-      "date": "2026-09-15T23:04Z",
-      "athlete": {
-        "name": "Ty Johnson",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
       }
     },
     {
