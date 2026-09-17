@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "headline": "Bills open Highmark Stadium, looking to be latest with notable arena debut",
+      "description": "As Buffalo opens its new stadium, here's a look back at notable opening games at NFL teams' active stadiums.",
+      "published": "2026-09-17T13:02:32Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49953191/nfl-new-stadiums-debut-notable-games",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717312_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
+      "description": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
+      "published": "2026-09-17T13:04:48Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms",
+      "image": "https://a.espncdn.com/photo/2026/0916/16x9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "The reckless joy of Bills QB Josh Allen",
+      "description": "After a history of heartbreak, will this be the year \"the king of western New York\" brings home a title?",
+      "published": "2026-09-17T15:48:49Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49941549/josh-allen-buffalo-bills-super-bowl-hopes",
+      "image": "https://a.espncdn.com/photo/2026/0915/nfl_all_on_josh_allen_cr_16x9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "How to bet Lions-Bills on 'TNF': Analysis, tips and favorite plays",
+      "description": "Odds, bets and analysis to help you bet Lions-Bills on \"Thursday Night Football.\"",
+      "published": "2026-09-17T13:57:10Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49949817/nfl-week-2-odds-betting-tips-picks-detroit-lions-buffalo-bills",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717604_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Bills set to open new stadium hosting the Lions in a primetime matchup",
       "description": "— The new car smell of the Buffalo Bills’ Highmark Stadium has already worn off on Josh Allen a little more than a month since the gleaming $2.1...",
       "published": "2026-09-16T18:19:29Z",
@@ -286,38 +318,6 @@
       "published": "2026-09-04T16:45:57Z",
       "url": "https://www.espn.com/nfl/story/_/id/49797638/2026-nfl-season-x-factors-all-32-teams-key-players",
       "image": "https://a.espncdn.com/photo/2026/0903/r1711093_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Who calls plays for every NFL team in 2026? What to know",
-      "description": "From veterans to newbies, here's everything you need to know about the NFL's playcallers in 2026.",
-      "published": "2026-09-03T16:16:44Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49711157/nfl-playcallers-32-teams-mike-mcdaniel-sean-mcvay-mike-mccarthy",
-      "image": "https://a.espncdn.com/photo/2026/0831/nfl_playcallers_16x9_608x342.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "2026 NFL bold predictions: Potential surprises for 32 teams",
-      "description": "Jameson Williams leading the Lions' receivers? Xavier Worthy breaking out? Travis Hunter almost entirely at CB? We have 32 outside-the-box things to watch.",
-      "published": "2026-09-02T14:26:21Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49793475/2026-nfl-surprise-predictions-32-teams-stat-leaders-breakouts-fantasy-football",
-      "image": "https://a.espncdn.com/photo/2026/0901/r1710137_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "2026 NFL Rank: Predicting top 100 players for this season",
-      "description": "We predicted the top 100 NFL players for 2026. Which defender came in at No. 1? How many QBs made the list? Which team had the most players included?",
-      "published": "2026-09-01T16:30:54Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49706895/2026-nfl-season-rankings-top-100-players-predictions-stats",
-      "image": "https://a.espncdn.com/photo/2026/0826/nfl_top100_2026_16x9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "How many different Week 1 starting QBs has each NFL team used?",
-      "description": "Since the NFL expanded to 32 teams in 2002, no team has used more Week 1 starting quarterbacks than the Browns.",
-      "published": "2026-09-08T16:06:05Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49752772/week-1-starting-quarterbacks-modern-era",
-      "image": "https://a.espncdn.com/photo/2026/0824/r1706315_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
