@@ -1,6 +1,81 @@
 {
   "injuries": [
     {
+      "status": "Out",
+      "type": "out",
+      "detail": "Hip",
+      "date": "2026-09-17T22:53Z",
+      "athlete": {
+        "name": "Ed Oliver",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-09-17T22:53Z",
+      "athlete": {
+        "name": "Ar'maj Reed-Adams",
+        "position": "G",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-09-17T22:53Z",
+      "athlete": {
+        "name": "Jalon Kilgore",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-09-17T22:53Z",
+      "athlete": {
+        "name": "Skyler Bell",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-09-17T22:53Z",
+      "athlete": {
+        "name": "Jude Bowry",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-17T21:23Z",
+      "athlete": {
+        "name": "Greg Dortch",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4037235.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-17T21:12Z",
+      "athlete": {
+        "name": "Frank Gore Jr.",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429805.png"
+      }
+    },
+    {
       "status": "Questionable",
       "type": "questionable",
       "detail": "Knee",
@@ -126,36 +201,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-09-14T15:08Z",
-      "athlete": {
-        "name": "Jude Bowry",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-14T15:08Z",
-      "athlete": {
-        "name": "Jalon Kilgore",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-14T15:08Z",
-      "athlete": {
-        "name": "Ar'maj Reed-Adams",
-        "position": "G",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-09-14T02:35Z",
       "athlete": {
         "name": "Ray Davis",
@@ -211,16 +256,6 @@
         "name": "Josh Allen",
         "position": "QB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-13T15:59Z",
-      "athlete": {
-        "name": "Skyler Bell",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
       }
     },
     {
@@ -355,16 +390,6 @@
         "name": "Landon Jackson",
         "position": "DE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432715.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-06-03T00:23Z",
-      "athlete": {
-        "name": "Ed Oliver",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
       }
     },
     {

@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
+      "description": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
+      "published": "2026-09-17T20:35:19Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms",
+      "image": "https://a.espncdn.com/photo/2026/0916/16x9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "'They're in trouble': Compton expects Josh Allen to carve up Lions' defense",
       "description": "'They're in trouble': Compton expects Josh Allen to carve up Lions' defense",
       "published": "2026-09-17T16:10:59Z",
@@ -17,14 +25,6 @@
       "type": "Story"
     },
     {
-      "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
-      "description": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
-      "published": "2026-09-17T13:04:48Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms",
-      "image": "https://a.espncdn.com/photo/2026/0916/16x9.jpg",
-      "type": "Story"
-    },
-    {
       "headline": "The reckless joy of Bills QB Josh Allen",
       "description": "After a history of heartbreak, will this be the year \"the king of western New York\" brings home a title?",
       "published": "2026-09-17T15:48:49Z",
@@ -35,7 +35,7 @@
     {
       "headline": "How to bet Lions-Bills on 'TNF': Analysis, tips and favorite plays",
       "description": "Odds, bets and analysis to help you bet Lions-Bills on \"Thursday Night Football.\"",
-      "published": "2026-09-17T17:16:14Z",
+      "published": "2026-09-17T18:09:23Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/49949817/nfl-week-2-odds-betting-tips-picks-detroit-lions-buffalo-bills",
       "image": "https://a.espncdn.com/photo/2026/0916/r1717604_608x342_16-9.jpg",
       "type": "Story"
