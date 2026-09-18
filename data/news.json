@@ -1,9 +1,17 @@
 {
   "articles": [
     {
-      "headline": "Stephon Gilmore, '19 NFL DPOY, retiring as member of the Patriots",
-      "description": "Stephon Gilmore, a two-time All-Pro cornerback and the NFL's 2019 Defensive Player of the Year, is signing a one-day contract in New England to retire as a member of the Patriots,",
-      "published": "2026-09-18T17:33:08Z",
+      "headline": "Bills to take time with Ed Oliver, D.J. Moore injuries",
+      "description": "A long week will give more time for Bills defensive lineman Ed Oliver (hip) and wide receiver DJ Moore (shoulder) to get healthy following Thursday's injuries.",
+      "published": "2026-09-18T21:08:42Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49975029/bills-take-ed-oliver-dj-moore-injuries",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718373_1296x729_16-9.jpg",
+      "type": "HeadlineNews"
+    },
+    {
+      "headline": "Stephon Gilmore, '19 NFL DPOY, retires as member of the Patriots",
+      "description": "Stephon Gilmore, a two-time All-Pro cornerback and the NFL's 2019 Defensive Player of the Year, signed a one-day contract in New England on Friday to retire as a member of the Patriots,",
+      "published": "2026-09-18T21:05:46Z",
       "url": "https://www.espn.com/nfl/story/_/id/49973986/stephon-gilmore-19-nfl-dpoy-retiring-member-patriots",
       "image": "https://a.espncdn.com/photo/2021/0717/r881345_600x400_3-2.jpg",
       "type": "HeadlineNews"
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/49873166/remembering-25th-anniversary-9-11-new-york-jets-giants-washington-buffalo-bills",
       "image": "https://a.espncdn.com/photo/2026/0910/nfl_25th_anniversary_9-11_16x9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Bills QB Josh Allen seeks to end 0-4 skid in Houston as Joe Brady debuts as Buffalo head coach",
-      "description": "— Josh Allen and the Buffalo Bills travel to Houston to Sunday to open their season against the Texans with the quarterback looking to finally break through in a place that has never been good to him.",
-      "published": "2026-09-10T19:58:30Z",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872660",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872660.png?templateId=espn.applewatch.awayhome.1",
-      "type": "Preview"
     }
   ]
 }
