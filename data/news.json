@@ -1,17 +1,57 @@
 {
   "articles": [
     {
-      "headline": "Live results, best moments and analysis from Bills-Lions",
-      "description": "The Buffalo Bills host the Detroit Lions in their first game at their new home, Highmark Stadium. Here are all the highlights from Bills vs. Lions in Buffalo.",
-      "published": "2026-09-18T00:51:20Z",
+      "headline": "Bills celebrate new Highmark Stadium in style with big win",
+      "description": "The Bills threw a heck of a housewarming party for their new Highmark Stadium on Thursday, launching fireworks to open the night and then piling up points in a 41-31 victory over the Detroit Lions that felt more dominant than the final score indicated.",
+      "published": "2026-09-18T05:19:15Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49970295/bills-celebrate-new-highmark-stadium-style-big-win",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718437_600x600_1-1.jpg",
+      "type": "HeadlineNews"
+    },
+    {
+      "headline": "Top moments, highlights as Bills dominate Lions in Highmark Stadium opener",
+      "description": "The Buffalo Bills hosted the Detroit Lions in their first game at their new home, Highmark Stadium. Here are all the highlights from Bills vs. Lions in Buffalo.",
+      "published": "2026-09-18T05:09:38Z",
       "url": "https://www.espn.com/nfl/story/_/id/49951448/buffalo-bills-detroit-lions-live-results-analysis-best-moments-highmark-stadium",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1717194_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718361_608x342_16-9.jpg",
       "type": "Story"
+    },
+    {
+      "headline": "Josh Allen opens the Bills' new stadium with a 5-TD outing in a 41-31 win over the Lions",
+      "description": "— Forget the official name of the Buffalo Bills' new stadium. It’s Josh Allen’s house.",
+      "published": "2026-09-18T05:13:28Z",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872932",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872932.png?templateId=espn.applewatch.awayhome.1",
+      "type": "Recap"
+    },
+    {
+      "headline": "Bills open new stadium with impressive performance over Lions",
+      "description": "Josh Allen accounted for five touchdowns as Buffalo moved to 2-0 in the debut of the new Highmark Stadium.",
+      "published": "2026-09-18T04:22:17Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49969222/buffalo-bills-open-highmark-stadium-dominate-detroit-lions",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718368_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Josh Allen, Bills top Lions in Highmark Stadium opener",
+      "description": "Josh Allen, Bills top Lions in Highmark Stadium opener",
+      "published": "2026-09-18T05:00:34Z",
+      "url": "https://www.espn.com/video/clip/_/id/49969786/josh-allen-bills-top-lions-highmark-stadium-opener",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0918/d1d56ad9-6b0e-4d79-a151-f55e81f67f4f/d1d56ad9-6b0e-4d79-a151-f55e81f67f4f.jpg",
+      "type": "Media"
+    },
+    {
+      "headline": "Bills rule out D.J. Moore after WR suffers shoulder injury",
+      "description": "DJ Moore was ruled out of Thursday night's game against the Lions because of a shoulder injury.",
+      "published": "2026-09-18T04:17:58Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49969419/bills-rule-dj-moore-wr-suffers-shoulder-injury",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718373_600x600_1-1.jpg",
+      "type": "HeadlineNews"
     },
     {
       "headline": "Bills' top DT Ed Oliver inactive after injuring hip in warmups",
       "description": "The Buffalo Bills' standout defensive tackle Ed Oliver was a surprise inactive for Thursday night's game against the Detroit Lions.",
-      "published": "2026-09-17T23:56:59Z",
+      "published": "2026-09-18T04:34:47Z",
       "url": "https://www.espn.com/nfl/story/_/id/49968285/bills-top-dt-ed-oliver-inactive-injuring-hip-warmups",
       "image": "https://a.espncdn.com/photo/2026/0917/r1718315_1296x729_16-9.jpg",
       "type": "HeadlineNews"
@@ -19,7 +59,7 @@
     {
       "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
       "description": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
-      "published": "2026-09-17T20:35:19Z",
+      "published": "2026-09-18T02:53:02Z",
       "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms",
       "image": "https://a.espncdn.com/photo/2026/0916/16x9.jpg",
       "type": "Story"
@@ -279,46 +319,6 @@
       "url": "https://www.espn.com/espn/betting/story/_/id/49880897/super-bowl-favorite-rams-drawing-most-betting-action",
       "image": "https://a.espncdn.com/photo/2026/0123/r1604752_600x400_3-2.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "Predicting the 2026 NFL playoff field, plus Super Bowl pick",
-      "description": "Which teams from last season's playoffs will return -- and which ones will miss out? Who will be the surprises in the bracket? And who will win the Super Bowl?",
-      "published": "2026-09-09T14:36:36Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49865081/2026-nfl-season-14-playoff-teams-field-super-bowl-pick-barnwell",
-      "image": "https://a.espncdn.com/photo/2026/0908/nfl_barnwell-playoff-sb-predictions_16x9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Source: Steelers' Iheanachor had home burglarized last month",
-      "description": "Steelers rookie OT Max Iheanachor had his home burglarized late last month, a team source confirmed to ESPN's Brooke Pryor.",
-      "published": "2026-09-08T23:00:24Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49873187/source-steelers-iheanachor-had-home-burglarized-last-month",
-      "image": "https://a.espncdn.com/photo/2026/0806/r1698526_600x400_3-2.jpg",
-      "type": "HeadlineNews"
-    },
-    {
-      "headline": "Allen, Jackson, Burrow lead MVP faves; non-QBs lead OROY odds",
-      "description": "Quarterbacks Josh Allen, Lamar Jackson and Joe Burrow lead an early list of NFL MVP favorites, while RB Jeremiyah Love and WR Carnell Tate top Offensive Rookie of the Year odds.",
-      "published": "2026-09-09T11:02:14Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/49871989/allen-jackson-burrow-lead-mvp-faves-non-qbs-lead-oroy-odds",
-      "image": "https://a.espncdn.com/photo/2024/0926/r1392224_600x400_3-2.jpg",
-      "type": "HeadlineNews"
-    },
-    {
-      "headline": "2026 NFL season sim: Predictions, surprises, playoff teams",
-      "description": "We played out one of the Football Power Index's 10,000 season simulations (No. 9,187), from Week 1 through Super Bowl LXI.",
-      "published": "2026-09-07T10:35:00Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49795320/2026-nfl-season-simulation-fpi-predictions-playoffs-super-bowl-champion",
-      "image": "https://a.espncdn.com/photo/2026/0904/nfl_2026-simulation_16x9_608x342.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL team previews 2026: Predictions, rankings, depth charts",
-      "description": "Here's everything you need to know for the 2026 regular season, including how all 32 NFL teams rank and key stats ahead of Week 1.",
-      "published": "2026-09-08T14:25:38Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49825684/nfl-team-previews-2026-predictions-fantasy-nuggets-rankings-depth-charts",
-      "image": "https://a.espncdn.com/photo/2026/0903/nfl_mega-preview_16x9.jpg",
-      "type": "Story"
     }
   ]
 }

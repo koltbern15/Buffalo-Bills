@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-09-18T08:12Z",
+      "athlete": {
+        "name": "Joshua Palmer",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-09-18T05:09Z",
       "athlete": {
         "name": "Khalil Shakir",
@@ -206,16 +216,6 @@
         "name": "Jackson Hawes",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573699.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-15T00:30Z",
-      "athlete": {
-        "name": "Joshua Palmer",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
       }
     },
     {
