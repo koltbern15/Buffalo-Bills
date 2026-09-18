@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Live results, best moments and analysis from Bills-Lions",
+      "description": "The Buffalo Bills host the Detroit Lions in their first game at their new home, Highmark Stadium. Here are all the highlights from Bills vs. Lions in Buffalo.",
+      "published": "2026-09-17T22:39:16Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49951448/buffalo-bills-detroit-lions-live-results-analysis-best-moments-highmark-stadium",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1717194_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
       "description": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
       "published": "2026-09-17T20:35:19Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/49815713/super-bowl-2027-lxi-61-all-teams-49ers-rams-ravens-bills-broncos",
       "image": "https://a.espncdn.com/photo/2026/0903/r1710956_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "McDermott reflects on Bills departure, hopes to coach again in NFL",
-      "description": "McDermott reflects on Bills departure, hopes to coach again in NFL",
-      "published": "2026-09-04T18:56:08Z",
-      "url": "https://www.espn.com/video/clip/_/id/49826552/mcdermott-reflects-bills-departure-hopes-coach-again-nfl",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/ss_20260904_133456028_3646451/ss_20260904_133456028_3646451.jpg",
-      "type": "Media"
     }
   ]
 }

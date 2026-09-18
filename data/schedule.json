@@ -54,13 +54,13 @@
       "week": 2,
       "seasonType": 2,
       "status": {
-        "id": "1",
-        "name": "STATUS_SCHEDULED",
-        "state": "pre",
+        "id": "2",
+        "name": "STATUS_IN_PROGRESS",
+        "state": "in",
         "completed": false,
-        "description": "Scheduled",
-        "detail": "Thu, September 17th at 8:15 PM EDT",
-        "shortDetail": "9/17 - 8:15 PM EDT"
+        "description": "In Progress",
+        "detail": "13:01 - 2nd Quarter",
+        "shortDetail": "13:01 - 2nd"
       },
       "venue": {
         "name": "Highmark Stadium",
