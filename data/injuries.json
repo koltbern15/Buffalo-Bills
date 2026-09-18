@@ -1,6 +1,77 @@
 {
   "injuries": [
     {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-18T05:09Z",
+      "athlete": {
+        "name": "Khalil Shakir",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-18T05:02Z",
+      "athlete": {
+        "name": "Keon Coleman",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-18T04:18Z",
+      "athlete": {
+        "name": "Dalton Kincaid",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-18T04:11Z",
+      "athlete": {
+        "name": "Tyler Bass",
+        "position": "PK",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-18T03:58Z",
+      "athlete": {
+        "name": "James Cook III",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379399.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-18T03:47Z",
+      "athlete": {
+        "name": "Josh Allen",
+        "position": "QB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Shoulder",
+      "date": "2026-09-18T02:12Z",
+      "athlete": {
+        "name": "DJ Moore",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
+      }
+    },
+    {
       "status": "Out",
       "type": "out",
       "detail": "Coach's Decision",
@@ -150,26 +221,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-09-15T00:30Z",
-      "athlete": {
-        "name": "Tyler Bass",
-        "position": "PK",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-14T21:29Z",
-      "athlete": {
-        "name": "Keon Coleman",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-09-14T21:24Z",
       "athlete": {
         "name": "Dawson Knox",
@@ -205,56 +256,6 @@
         "name": "Ray Davis",
         "position": "RB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-14T00:58Z",
-      "athlete": {
-        "name": "Khalil Shakir",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-13T21:31Z",
-      "athlete": {
-        "name": "Dalton Kincaid",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-13T21:30Z",
-      "athlete": {
-        "name": "DJ Moore",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-13T21:14Z",
-      "athlete": {
-        "name": "James Cook III",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379399.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-13T20:34Z",
-      "athlete": {
-        "name": "Josh Allen",
-        "position": "QB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png"
       }
     },
     {

@@ -54,13 +54,13 @@
       "week": 2,
       "seasonType": 2,
       "status": {
-        "id": "2",
-        "name": "STATUS_IN_PROGRESS",
-        "state": "in",
-        "completed": false,
-        "description": "In Progress",
-        "detail": "13:01 - 2nd Quarter",
-        "shortDetail": "13:01 - 2nd"
+        "id": "3",
+        "name": "STATUS_FINAL",
+        "state": "post",
+        "completed": true,
+        "description": "Final",
+        "detail": "Final",
+        "shortDetail": "Final"
       },
       "venue": {
         "name": "Highmark Stadium",
@@ -74,10 +74,16 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png"
       },
       "score": {
-        "us": null,
-        "them": null
+        "us": {
+          "value": 41,
+          "displayValue": "41"
+        },
+        "them": {
+          "value": 31,
+          "displayValue": "31"
+        }
       },
-      "result": null,
+      "result": "W",
       "homeAbbr": "BUF",
       "awayAbbr": "DET"
     },

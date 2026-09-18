@@ -3,35 +3,34 @@
     "id": "401872932",
     "name": "DET @ BUF",
     "date": "2026-09-18T00:15Z",
-    "state": "in",
+    "state": "post",
     "status": {
-      "id": "2",
-      "name": "STATUS_IN_PROGRESS",
-      "state": "in",
-      "completed": false,
-      "description": "In Progress",
-      "detail": "13:01 - 2nd Quarter",
-      "shortDetail": "13:01 - 2nd"
+      "id": "3",
+      "name": "STATUS_FINAL",
+      "state": "post",
+      "completed": true,
+      "description": "Final",
+      "detail": "Final",
+      "shortDetail": "Final"
     },
-    "clock": "13:01",
-    "period": 2,
+    "clock": "0:00",
+    "period": 4,
     "us": {
       "abbr": "BUF",
-      "score": "14",
+      "score": "41",
       "homeAway": "home",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
     "them": {
       "abbr": "DET",
       "name": "Detroit Lions",
-      "score": "0",
+      "score": "31",
       "homeAway": "away",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png"
     },
     "odds": null,
     "broadcast": "Prime Video",
-    "winProbability": 94,
-    "lastPlay": " (Shotgun) J.Allen pass incomplete short left to J.Cook."
+    "winProbability": 100
   },
   "next": {
     "id": "401872953",

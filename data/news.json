@@ -3,10 +3,18 @@
     {
       "headline": "Live results, best moments and analysis from Bills-Lions",
       "description": "The Buffalo Bills host the Detroit Lions in their first game at their new home, Highmark Stadium. Here are all the highlights from Bills vs. Lions in Buffalo.",
-      "published": "2026-09-17T22:39:16Z",
+      "published": "2026-09-18T00:51:20Z",
       "url": "https://www.espn.com/nfl/story/_/id/49951448/buffalo-bills-detroit-lions-live-results-analysis-best-moments-highmark-stadium",
       "image": "https://a.espncdn.com/photo/2026/0915/r1717194_1296x729_16-9.jpg",
       "type": "Story"
+    },
+    {
+      "headline": "Bills' top DT Ed Oliver inactive after injuring hip in warmups",
+      "description": "The Buffalo Bills' standout defensive tackle Ed Oliver was a surprise inactive for Thursday night's game against the Detroit Lions.",
+      "published": "2026-09-17T23:56:59Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49968285/bills-top-dt-ed-oliver-inactive-injuring-hip-warmups",
+      "image": "https://a.espncdn.com/photo/2026/0917/r1718315_1296x729_16-9.jpg",
+      "type": "HeadlineNews"
     },
     {
       "headline": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
@@ -310,14 +318,6 @@
       "published": "2026-09-08T14:25:38Z",
       "url": "https://www.espn.com/nfl/story/_/id/49825684/nfl-team-previews-2026-predictions-fantasy-nuggets-rankings-depth-charts",
       "image": "https://a.espncdn.com/photo/2026/0903/nfl_mega-preview_16x9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Super Bowl countdown: Ranking teams all-in on winning in 2026",
-      "description": "We stacked the top five NFL teams that need to win this season because of aging rosters, contracts or future draft capital.",
-      "published": "2026-09-06T10:00:05Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49815713/super-bowl-2027-lxi-61-all-teams-49ers-rams-ravens-bills-broncos",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1710956_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
