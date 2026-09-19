@@ -113,14 +113,6 @@
       "type": "HeadlineNews"
     },
     {
-      "headline": "'They're in trouble': Compton expects Josh Allen to carve up Lions' defense",
-      "description": "'They're in trouble': Compton expects Josh Allen to carve up Lions' defense",
-      "published": "2026-09-17T16:10:59Z",
-      "url": "https://www.espn.com/video/clip/_/id/49965517/compton-expects-josh-allen-carve-lions-defense",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/ss_20260917_120530852_3663496/ss_20260917_120530852_3663496.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "Bills open Highmark Stadium, looking to be latest with notable arena debut",
       "description": "As Buffalo opens its new stadium, here's a look back at notable opening games at NFL teams' active stadiums.",
       "published": "2026-09-17T13:02:32Z",
@@ -319,6 +311,14 @@
       "url": "https://www.espn.com/nfl/story/_/id/49873166/remembering-25th-anniversary-9-11-new-york-jets-giants-washington-buffalo-bills",
       "image": "https://a.espncdn.com/photo/2026/0910/nfl_25th_anniversary_9-11_16x9.jpg",
       "type": "Story"
+    },
+    {
+      "headline": "Bills QB Josh Allen seeks to end 0-4 skid in Houston as Joe Brady debuts as Buffalo head coach",
+      "description": "— Josh Allen and the Buffalo Bills travel to Houston to Sunday to open their season against the Texans with the quarterback looking to finally break through in a place that has never been good to him.",
+      "published": "2026-09-10T19:58:30Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872660",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872660.png?templateId=espn.applewatch.awayhome.1",
+      "type": "Preview"
     }
   ]
 }
