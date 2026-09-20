@@ -89,14 +89,6 @@
       "type": "Story"
     },
     {
-      "headline": "Josh Allen, Bills top Lions in Highmark Stadium opener",
-      "description": "Josh Allen, Bills top Lions in Highmark Stadium opener",
-      "published": "2026-09-18T05:00:34Z",
-      "url": "https://www.espn.com/video/clip/_/id/49969786/josh-allen-bills-top-lions-highmark-stadium-opener",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0918/d1d56ad9-6b0e-4d79-a151-f55e81f67f4f/d1d56ad9-6b0e-4d79-a151-f55e81f67f4f.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "Source: Bills WR DJ Moore day-to-day with shoulder injury",
       "description": "DJ Moore was ruled out of Thursday night's game against the Lions because of a shoulder injury.",
       "published": "2026-09-18T11:49:25Z",
@@ -319,6 +311,14 @@
       "url": "http://www.espn.com/nfl/preview?gameId=401872660",
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872660.png?templateId=espn.applewatch.awayhome.1",
       "type": "Preview"
+    },
+    {
+      "headline": "What is the oldest NFL stadium?",
+      "description": "Many different characteristics make NFL stadiums unique. Age is a hot topic among fans. Here's how stadiums stack up from oldest to newest.",
+      "published": "2026-09-10T19:03:33Z",
+      "url": "https://www.espn.com/nfl/story/_/id/39395382/what-oldest-nfl-stadium-soldier-sofi-age",
+      "image": "https://a.espncdn.com/photo/2009/0804/travel_dallas_800.jpg",
+      "type": "Story"
     }
   ]
 }
