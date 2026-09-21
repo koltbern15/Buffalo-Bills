@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
+      "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-09-21T10:00:40Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 2's best arrivals, led by Travis Kelce and Patrick Mahomes",
       "description": "Rounding up the top pregame and tunnel arrivals from around the league.",
       "published": "2026-09-21T01:17:18Z",
@@ -166,14 +174,6 @@
       "published": "2026-09-16T16:21:36Z",
       "url": "https://www.espn.com/nfl/story/_/id/49941231/week-2-buzz-fantasy-predictions-graziano-fowler-2026",
       "image": "https://a.espncdn.com/photo/2026/0915/r1717192_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
-      "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-09-15T10:39:09Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
       "type": "Story"
     },
     {
