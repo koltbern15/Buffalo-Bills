@@ -207,22 +207,6 @@
       "division": "AFC South"
     },
     {
-      "abbr": "IND",
-      "name": "Indianapolis Colts",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-      "wins": "0",
-      "losses": "1",
-      "ties": "0",
-      "pct": ".000",
-      "pf": "23",
-      "pa": "41",
-      "diff": "-18",
-      "streak": "L1",
-      "home": "0-1",
-      "road": "0-0",
-      "division": "AFC South"
-    },
-    {
       "abbr": "HOU",
       "name": "Houston Texans",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
@@ -236,6 +220,22 @@
       "streak": "L2",
       "home": "0-2",
       "road": "0-0",
+      "division": "AFC South"
+    },
+    {
+      "abbr": "IND",
+      "name": "Indianapolis Colts",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+      "wins": "0",
+      "losses": "2",
+      "ties": "0",
+      "pct": ".000",
+      "pf": "53",
+      "pa": "74",
+      "diff": "-21",
+      "streak": "L2",
+      "home": "0-1",
+      "road": "0-1",
       "division": "AFC South"
     },
     {
@@ -255,6 +255,22 @@
       "division": "AFC South"
     },
     {
+      "abbr": "KC",
+      "name": "Kansas City Chiefs",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+      "wins": "2",
+      "losses": "0",
+      "ties": "0",
+      "pct": "1.000",
+      "pf": "64",
+      "pa": "40",
+      "diff": "+24",
+      "streak": "W2",
+      "home": "2-0",
+      "road": "0-0",
+      "division": "AFC West"
+    },
+    {
       "abbr": "LV",
       "name": "Las Vegas Raiders",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
@@ -268,22 +284,6 @@
       "streak": "W2",
       "home": "1-0",
       "road": "1-0",
-      "division": "AFC West"
-    },
-    {
-      "abbr": "KC",
-      "name": "Kansas City Chiefs",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
-      "wins": "1",
-      "losses": "0",
-      "ties": "0",
-      "pct": "1.000",
-      "pf": "31",
-      "pa": "10",
-      "diff": "+21",
-      "streak": "W1",
-      "home": "1-0",
-      "road": "0-0",
       "division": "AFC West"
     },
     {
