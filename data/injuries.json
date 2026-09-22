@@ -297,8 +297,8 @@
       }
     },
     {
-      "status": "Injured Reserve",
-      "type": "Injured Reserve",
+      "status": "IR",
+      "type": "injury reserve",
       "detail": "Undisclosed",
       "date": "2026-09-08T20:42Z",
       "athlete": {
