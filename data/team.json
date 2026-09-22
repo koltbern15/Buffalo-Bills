@@ -2138,8 +2138,33 @@
                           },
                           {
                             "rel": [
+                              "playercard",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://m.espn.com/nfl/playercard?playerId=4030899"
+                          },
+                          {
+                            "rel": [
+                              "playercard",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4030899"
+                          },
+                          {
+                            "rel": [
                               "stats",
                               "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4030899/spencer-brown"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/stats/_/id/4030899/spencer-brown"
@@ -2163,8 +2188,24 @@
                           },
                           {
                             "rel": [
+                              "splits",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4030899/spencer-brown"
+                          },
+                          {
+                            "rel": [
                               "gamelog",
                               "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4030899/spencer-brown"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/gamelog/_/id/4030899/spencer-brown"
@@ -2189,6 +2230,14 @@
                           {
                             "rel": [
                               "news",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4030899/spencer-brown"
+                          },
+                          {
+                            "rel": [
+                              "news",
                               "sportscenter",
                               "app",
                               "athlete"
@@ -2206,6 +2255,14 @@
                           {
                             "rel": [
                               "bio",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4030899/spencer-brown"
+                          },
+                          {
+                            "rel": [
+                              "bio",
                               "sportscenter",
                               "app",
                               "athlete"
@@ -2216,6 +2273,14 @@
                             "rel": [
                               "overview",
                               "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4030899/spencer-brown"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/_/id/4030899/spencer-brown"
