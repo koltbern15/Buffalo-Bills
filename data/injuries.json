@@ -1,10 +1,10 @@
 {
   "injuries": [
     {
-      "status": "Out",
-      "type": "out",
+      "status": "Questionable",
+      "type": "questionable",
       "detail": "Knee",
-      "date": "2026-09-21T18:07Z",
+      "date": "2026-09-22T20:56Z",
       "athlete": {
         "name": "T.J. Sanders",
         "position": "DT",
@@ -12,25 +12,25 @@
       }
     },
     {
-      "status": "Out",
-      "type": "out",
-      "detail": "Hip",
-      "date": "2026-09-21T18:07Z",
-      "athlete": {
-        "name": "Ed Oliver",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
+      "status": "Questionable",
+      "type": "questionable",
       "detail": "Hamstring",
-      "date": "2026-09-21T18:07Z",
+      "date": "2026-09-22T20:56Z",
       "athlete": {
         "name": "Ty Johnson",
         "position": "RB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Hip",
+      "date": "2026-09-22T20:56Z",
+      "athlete": {
+        "name": "Ed Oliver",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
       }
     },
     {
