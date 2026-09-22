@@ -137,7 +137,7 @@
         ]
       },
       {
-        "description": "Away Record",
+        "description": "Road Record",
         "type": "road",
         "summary": "1-0",
         "stats": [
@@ -1418,8 +1418,33 @@
                           },
                           {
                             "rel": [
+                              "playercard",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://m.espn.com/nfl/playercard?playerId=4362506"
+                          },
+                          {
+                            "rel": [
+                              "playercard",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4362506"
+                          },
+                          {
+                            "rel": [
                               "stats",
                               "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4362506/greg-rousseau"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/stats/_/id/4362506/greg-rousseau"
@@ -1443,8 +1468,24 @@
                           },
                           {
                             "rel": [
+                              "splits",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4362506/greg-rousseau"
+                          },
+                          {
+                            "rel": [
                               "gamelog",
                               "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4362506/greg-rousseau"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/gamelog/_/id/4362506/greg-rousseau"
@@ -1469,6 +1510,14 @@
                           {
                             "rel": [
                               "news",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4362506/greg-rousseau"
+                          },
+                          {
+                            "rel": [
+                              "news",
                               "sportscenter",
                               "app",
                               "athlete"
@@ -1486,6 +1535,14 @@
                           {
                             "rel": [
                               "bio",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4362506/greg-rousseau"
+                          },
+                          {
+                            "rel": [
+                              "bio",
                               "sportscenter",
                               "app",
                               "athlete"
@@ -1496,6 +1553,14 @@
                             "rel": [
                               "overview",
                               "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4362506/greg-rousseau"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/_/id/4362506/greg-rousseau"
@@ -1538,8 +1603,33 @@
                           },
                           {
                             "rel": [
+                              "playercard",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://m.espn.com/nfl/playercard?playerId=4037235"
+                          },
+                          {
+                            "rel": [
+                              "playercard",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4037235"
+                          },
+                          {
+                            "rel": [
                               "stats",
                               "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/stats/_/id/4037235/greg-dortch"
@@ -1563,8 +1653,24 @@
                           },
                           {
                             "rel": [
+                              "splits",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
                               "gamelog",
                               "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/gamelog/_/id/4037235/greg-dortch"
@@ -1589,6 +1695,14 @@
                           {
                             "rel": [
                               "news",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "news",
                               "sportscenter",
                               "app",
                               "athlete"
@@ -1606,6 +1720,14 @@
                           {
                             "rel": [
                               "bio",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "bio",
                               "sportscenter",
                               "app",
                               "athlete"
@@ -1616,6 +1738,14 @@
                             "rel": [
                               "overview",
                               "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/_/id/4037235/greg-dortch"
@@ -1658,8 +1788,33 @@
                           },
                           {
                             "rel": [
+                              "playercard",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://m.espn.com/nfl/playercard?playerId=4037235"
+                          },
+                          {
+                            "rel": [
+                              "playercard",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4037235"
+                          },
+                          {
+                            "rel": [
                               "stats",
                               "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/stats/_/id/4037235/greg-dortch"
@@ -1683,8 +1838,24 @@
                           },
                           {
                             "rel": [
+                              "splits",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
                               "gamelog",
                               "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/gamelog/_/id/4037235/greg-dortch"
@@ -1709,6 +1880,14 @@
                           {
                             "rel": [
                               "news",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "news",
                               "sportscenter",
                               "app",
                               "athlete"
@@ -1726,6 +1905,14 @@
                           {
                             "rel": [
                               "bio",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "bio",
                               "sportscenter",
                               "app",
                               "athlete"
@@ -1736,6 +1923,14 @@
                             "rel": [
                               "overview",
                               "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/_/id/4037235/greg-dortch"
@@ -1898,33 +2093,8 @@
                           },
                           {
                             "rel": [
-                              "playercard",
-                              "mobile",
-                              "athlete"
-                            ],
-                            "href": "https://m.espn.com/nfl/playercard?playerId=3917232"
-                          },
-                          {
-                            "rel": [
-                              "playercard",
-                              "sportscenter",
-                              "app",
-                              "athlete"
-                            ],
-                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3917232"
-                          },
-                          {
-                            "rel": [
                               "stats",
                               "desktop",
-                              "athlete"
-                            ],
-                            "href": "https://www.espn.com/nfl/player/stats/_/id/3917232/tyler-bass"
-                          },
-                          {
-                            "rel": [
-                              "stats",
-                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/stats/_/id/3917232/tyler-bass"
@@ -1948,24 +2118,8 @@
                           },
                           {
                             "rel": [
-                              "splits",
-                              "mobile",
-                              "athlete"
-                            ],
-                            "href": "https://www.espn.com/nfl/player/splits/_/id/3917232/tyler-bass"
-                          },
-                          {
-                            "rel": [
                               "gamelog",
                               "desktop",
-                              "athlete"
-                            ],
-                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3917232/tyler-bass"
-                          },
-                          {
-                            "rel": [
-                              "gamelog",
-                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/gamelog/_/id/3917232/tyler-bass"
@@ -1990,14 +2144,6 @@
                           {
                             "rel": [
                               "news",
-                              "mobile",
-                              "athlete"
-                            ],
-                            "href": "https://www.espn.com/nfl/player/news/_/id/3917232/tyler-bass"
-                          },
-                          {
-                            "rel": [
-                              "news",
                               "sportscenter",
                               "app",
                               "athlete"
@@ -2015,14 +2161,6 @@
                           {
                             "rel": [
                               "bio",
-                              "mobile",
-                              "athlete"
-                            ],
-                            "href": "https://www.espn.com/nfl/player/bio/_/id/3917232/tyler-bass"
-                          },
-                          {
-                            "rel": [
-                              "bio",
                               "sportscenter",
                               "app",
                               "athlete"
@@ -2033,14 +2171,6 @@
                             "rel": [
                               "overview",
                               "desktop",
-                              "athlete"
-                            ],
-                            "href": "https://www.espn.com/nfl/player/_/id/3917232/tyler-bass"
-                          },
-                          {
-                            "rel": [
-                              "overview",
-                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/_/id/3917232/tyler-bass"
@@ -3026,7 +3156,7 @@
                   "abbreviation": "Game",
                   "displayName": "Record Year To Date",
                   "shortDisplayName": "YTD",
-                  "description": "Team Record year to date.",
+                  "description": "Overall Record",
                   "type": "total",
                   "displayValue": "2-0"
                 },
@@ -3041,8 +3171,8 @@
                 {
                   "id": "14",
                   "displayName": "Road",
-                  "shortDisplayName": "ROAD",
-                  "description": "Road Record",
+                  "shortDisplayName": "AWAY",
+                  "description": "Away Record",
                   "type": "road",
                   "displayValue": "1-0"
                 }
@@ -3266,11 +3396,21 @@
                   },
                   {
                     "rel": [
+                      "clubhouse",
+                      "sportscenter",
+                      "app",
+                      "team"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:8",
+                    "text": "Clubhouse"
+                  },
+                  {
+                    "rel": [
                       "roster",
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/nfl/team/roster/_/name/det/detroit-lions",
+                    "href": "https://www.espn.com/nfl/team/roster/_/name/det",
                     "text": "Roster"
                   },
                   {
@@ -3289,7 +3429,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/nfl/team/stats/_/name/det/detroit-lions",
+                    "href": "https://www.espn.com/nfl/team/stats/_/name/det",
                     "text": "Statistics"
                   },
                   {
@@ -3341,11 +3481,21 @@
                   },
                   {
                     "rel": [
+                      "scores",
+                      "sportscenter",
+                      "app",
+                      "team"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:8&section=scores",
+                    "text": "Scores"
+                  },
+                  {
+                    "rel": [
                       "draftpicks",
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/nfl/draft/teams/_/name/det/detroit-lions",
+                    "href": "https://www.espn.com/nfl/draft/teams/_/name/det",
                     "text": "Draft Picks"
                   },
                   {

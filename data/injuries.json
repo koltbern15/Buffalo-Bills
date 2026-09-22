@@ -210,7 +210,7 @@
       "date": "2026-09-18T04:11Z",
       "athlete": {
         "name": "Tyler Bass",
-        "position": "PK",
+        "position": "K",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
       }
     },
@@ -297,8 +297,8 @@
       }
     },
     {
-      "status": "IR",
-      "type": "injury reserve",
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
       "detail": "Undisclosed",
       "date": "2026-09-08T20:42Z",
       "athlete": {
