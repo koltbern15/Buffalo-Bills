@@ -428,11 +428,21 @@
                   },
                   {
                     "rel": [
+                      "clubhouse",
+                      "sportscenter",
+                      "app",
+                      "team"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:2",
+                    "text": "Clubhouse"
+                  },
+                  {
+                    "rel": [
                       "roster",
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/nfl/team/roster/_/name/buf/buffalo-bills",
+                    "href": "https://www.espn.com/nfl/team/roster/_/name/buf",
                     "text": "Roster"
                   },
                   {
@@ -451,7 +461,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/nfl/team/stats/_/name/buf/buffalo-bills",
+                    "href": "https://www.espn.com/nfl/team/stats/_/name/buf",
                     "text": "Statistics"
                   },
                   {
@@ -503,11 +513,21 @@
                   },
                   {
                     "rel": [
+                      "scores",
+                      "sportscenter",
+                      "app",
+                      "team"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:2&section=scores",
+                    "text": "Scores"
+                  },
+                  {
+                    "rel": [
                       "draftpicks",
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/nfl/draft/teams/_/name/buf/buffalo-bills",
+                    "href": "https://www.espn.com/nfl/draft/teams/_/name/buf",
                     "text": "Draft Picks"
                   },
                   {
@@ -917,7 +937,7 @@
                 {
                   "name": "passingYards",
                   "displayName": "Passing Yards",
-                  "abbreviation": "YDS",
+                  "abbreviation": "PYDS",
                   "leaders": [
                     {
                       "displayValue": "248",
@@ -1037,7 +1057,7 @@
                 {
                   "name": "rushingYards",
                   "displayName": "Rushing Yards",
-                  "abbreviation": "YDS",
+                  "abbreviation": "RYDS",
                   "leaders": [
                     {
                       "displayValue": "135",
@@ -1157,7 +1177,7 @@
                 {
                   "name": "receivingYards",
                   "displayName": "Receiving Yards",
-                  "abbreviation": "YDS",
+                  "abbreviation": "RECYDS",
                   "leaders": [
                     {
                       "displayValue": "95",
@@ -1277,7 +1297,7 @@
                 {
                   "name": "totalTackles",
                   "displayName": "Tackles",
-                  "abbreviation": "TOT",
+                  "abbreviation": "TACK",
                   "leaders": [
                     {
                       "displayValue": "8",
@@ -1973,8 +1993,33 @@
                           },
                           {
                             "rel": [
+                              "playercard",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://m.espn.com/nfl/playercard?playerId=4682758"
+                          },
+                          {
+                            "rel": [
+                              "playercard",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4682758"
+                          },
+                          {
+                            "rel": [
                               "stats",
                               "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4682758/tommy-doman-jr"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/stats/_/id/4682758/tommy-doman-jr"
@@ -1998,8 +2043,24 @@
                           },
                           {
                             "rel": [
+                              "splits",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4682758/tommy-doman-jr"
+                          },
+                          {
+                            "rel": [
                               "gamelog",
                               "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4682758/tommy-doman-jr"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/gamelog/_/id/4682758/tommy-doman-jr"
@@ -2024,6 +2085,14 @@
                           {
                             "rel": [
                               "news",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4682758/tommy-doman-jr"
+                          },
+                          {
+                            "rel": [
+                              "news",
                               "sportscenter",
                               "app",
                               "athlete"
@@ -2041,6 +2110,14 @@
                           {
                             "rel": [
                               "bio",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4682758/tommy-doman-jr"
+                          },
+                          {
+                            "rel": [
+                              "bio",
                               "sportscenter",
                               "app",
                               "athlete"
@@ -2051,6 +2128,14 @@
                             "rel": [
                               "overview",
                               "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4682758/tommy-doman-jr"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/_/id/4682758/tommy-doman-jr"
@@ -2093,8 +2178,33 @@
                           },
                           {
                             "rel": [
+                              "playercard",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://m.espn.com/nfl/playercard?playerId=3917232"
+                          },
+                          {
+                            "rel": [
+                              "playercard",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3917232"
+                          },
+                          {
+                            "rel": [
                               "stats",
                               "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/3917232/tyler-bass"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/stats/_/id/3917232/tyler-bass"
@@ -2118,8 +2228,24 @@
                           },
                           {
                             "rel": [
+                              "splits",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/3917232/tyler-bass"
+                          },
+                          {
+                            "rel": [
                               "gamelog",
                               "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3917232/tyler-bass"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/gamelog/_/id/3917232/tyler-bass"
@@ -2144,6 +2270,14 @@
                           {
                             "rel": [
                               "news",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/3917232/tyler-bass"
+                          },
+                          {
+                            "rel": [
+                              "news",
                               "sportscenter",
                               "app",
                               "athlete"
@@ -2161,6 +2295,14 @@
                           {
                             "rel": [
                               "bio",
+                              "mobile",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/3917232/tyler-bass"
+                          },
+                          {
+                            "rel": [
+                              "bio",
                               "sportscenter",
                               "app",
                               "athlete"
@@ -2171,6 +2313,14 @@
                             "rel": [
                               "overview",
                               "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3917232/tyler-bass"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "mobile",
                               "athlete"
                             ],
                             "href": "https://www.espn.com/nfl/player/_/id/3917232/tyler-bass"
@@ -3156,7 +3306,7 @@
                   "abbreviation": "Game",
                   "displayName": "Record Year To Date",
                   "shortDisplayName": "YTD",
-                  "description": "Overall Record",
+                  "description": "Team Record year to date.",
                   "type": "total",
                   "displayValue": "2-0"
                 },
@@ -3171,8 +3321,8 @@
                 {
                   "id": "14",
                   "displayName": "Road",
-                  "shortDisplayName": "AWAY",
-                  "description": "Away Record",
+                  "shortDisplayName": "ROAD",
+                  "description": "Road Record",
                   "type": "road",
                   "displayValue": "1-0"
                 }
@@ -3547,7 +3697,7 @@
                   "abbreviation": "Game",
                   "displayName": "Record Year To Date",
                   "shortDisplayName": "YTD",
-                  "description": "Overall Record",
+                  "description": "Team Record year to date.",
                   "type": "total",
                   "displayValue": "1-1"
                 },
@@ -3562,8 +3712,8 @@
                 {
                   "id": "14",
                   "displayName": "Road",
-                  "shortDisplayName": "AWAY",
-                  "description": "Away Record",
+                  "shortDisplayName": "ROAD",
+                  "description": "Road Record",
                   "type": "road",
                   "displayValue": "0-1"
                 }
@@ -3618,7 +3768,7 @@
             "event"
           ],
           "href": "https://www.espn.com/nfl/game/_/gameId/401872932/lions-bills",
-          "text": "Gamecast",
+          "text": "Summary",
           "shortText": "Summary",
           "isExternal": false,
           "isPremium": false
@@ -3632,7 +3782,7 @@
             "event"
           ],
           "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401872932",
-          "text": "Gamecast",
+          "text": "Summary",
           "shortText": "Summary",
           "isExternal": false,
           "isPremium": false
@@ -3670,7 +3820,7 @@
             "desktop",
             "event"
           ],
-          "href": "https://www.espn.com/nfl/boxscore/_/gameId/401872932",
+          "href": "https://www.espn.com/nfl/boxscore?gameId=401872932",
           "text": "Box Score",
           "shortText": "Box Score",
           "isExternal": false,
@@ -3697,7 +3847,7 @@
             "desktop",
             "event"
           ],
-          "href": "https://www.espn.com/nfl/game/_/gameId/401872932",
+          "href": "https://www.espn.com/nfl/gamecast?gameId=401872932",
           "text": "Gamecast",
           "shortText": "Gamecast",
           "isExternal": false,
@@ -3750,9 +3900,35 @@
             "desktop",
             "event"
           ],
-          "href": "https://www.espn.com/nfl/playbyplay/_/gameId/401872932",
+          "href": "https://www.espn.com/nfl/playbyplay?gameId=401872932",
           "text": "Play-by-Play",
           "shortText": "Play-by-Play",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "pickcenter",
+            "desktop",
+            "event"
+          ],
+          "href": "http://insider.espn.com/insider/pickcenter/nfl/game?gameid=401872932",
+          "text": "PickCenter",
+          "shortText": "PickCenter",
+          "isExternal": false,
+          "isPremium": true
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "conversation",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/nfl/conversation?gameId=401872932",
+          "text": "Conversation",
+          "shortText": "Conversation",
           "isExternal": false,
           "isPremium": false
         },
@@ -3766,6 +3942,19 @@
           "href": "https://www.espn.com/nfl/video?gameId=401872932",
           "text": "Videos",
           "shortText": "Videos",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "fantasy",
+            "desktop",
+            "event"
+          ],
+          "href": "https://fantasy.espn.com/football/welcome?addata=nfl_gamecast_ffl2026",
+          "text": "Play Fantasy Football",
+          "shortText": "Play Fantasy Football",
           "isExternal": false,
           "isPremium": false
         },
