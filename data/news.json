@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Evaluating surprise early-season trends for 32 NFL teams",
+      "description": "T.J. Watt is dominant again? The Packers can't run the ball? Drew Lock is fourth in QBR? Let's figure out which early stats and trends have staying power and which are a mirage.",
+      "published": "2026-09-23T12:30:35Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49998629/evaluating-32-nfl-team-surprise-trends-2026-first-two-weeks-real-mirage",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720604_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
       "description": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
       "published": "2026-09-22T18:33:41Z",
@@ -310,14 +318,6 @@
       "published": "2026-09-13T20:30:39Z",
       "url": "https://www.espn.com/nfl/story/_/id/49852219/nfl-week-1-uniforms",
       "image": "https://a.espncdn.com/photo/2026/0908/r1713425_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Which NFL teams have never won a Super Bowl?",
-      "description": "Some NFL teams have scored multiple Lombardi trophies, but which franchises have never won the Super Bowl? Check out more information now.",
-      "published": "2026-09-11T18:39:11Z",
-      "url": "https://www.espn.com/nfl/story/_/id/39387513/which-nfl-teams-never-won-super-bowl",
-      "image": "https://a.espncdn.com/photo/2011/0526/nfl_a_snorwood_sy_576.jpg",
       "type": "Story"
     }
   ]
