@@ -914,12 +914,12 @@
           "tickets": [
             {
               "id": "6488324",
-              "summary": "Tickets as low as $289",
+              "summary": "Tickets as low as $279",
               "description": "Los Angeles Chargers at Buffalo Bills",
-              "maxPrice": 5802,
-              "startingPrice": 289,
-              "numberAvailable": 2993,
-              "totalPostings": 1017,
+              "maxPrice": 4837,
+              "startingPrice": 279,
+              "numberAvailable": 2920,
+              "totalPostings": 1010,
               "links": [
                 {
                   "rel": [
