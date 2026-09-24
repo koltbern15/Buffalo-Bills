@@ -914,12 +914,12 @@
           "tickets": [
             {
               "id": "6488324",
-              "summary": "Tickets as low as $249",
+              "summary": "Tickets as low as $271",
               "description": "Los Angeles Chargers at Buffalo Bills",
-              "maxPrice": 11582,
-              "startingPrice": 249,
-              "numberAvailable": 1931,
-              "totalPostings": 764,
+              "maxPrice": 4837,
+              "startingPrice": 271,
+              "numberAvailable": 1917,
+              "totalPostings": 766,
               "links": [
                 {
                   "rel": [
@@ -995,6 +995,19 @@
           "href": "https://www.espn.com/nfl/game/_/gameId/401872953",
           "text": "Now",
           "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "preview",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/nfl/preview/_/gameId/401872953",
+          "text": "Preview",
+          "shortText": "Preview",
           "isExternal": false,
           "isPremium": false
         },
