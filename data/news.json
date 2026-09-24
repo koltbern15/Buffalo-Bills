@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 3 uniforms: Colts to wear 'Anvil Strike,' Bills debut 'Nickel City'",
+      "description": "Here's a look at what each NFL team is wearing in Week 3, led by the new NFL Rivalries look from the Indianapolis Colts.",
+      "published": "2026-09-24T13:03:22Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50008808/nfl-week-3-uniforms",
+      "image": "https://a.espncdn.com/photo/2026/0922/nfl_uniforms-week-03_16x9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Bills' T.J. Sanders out indefinitely after having appendectomy",
       "description": "Bills defensive lineman T.J. Sanders is out indefinitely after having an appendectomy, coach Joe Brady said on Wednesday.",
       "published": "2026-09-23T19:03:43Z",
@@ -311,14 +319,6 @@
       "url": "http://www.espn.com/nfl/recap?gameId=401872660",
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872660.png?templateId=espn.applewatch.awayhome.1",
       "type": "Recap"
-    },
-    {
-      "headline": "Josh Allen joins Chris Berman to talk parenthood, continuing to get better",
-      "description": "Josh Allen joins Chris Berman to talk parenthood, continuing to get better",
-      "published": "2026-09-13T16:07:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49927053/josh-allen-joins-chris-berman-talk-parenthood-continuing-get-better",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_josh_allen_convo_feature/dm_260913_josh_allen_convo_feature.jpg",
-      "type": "Media"
     }
   ]
 }
