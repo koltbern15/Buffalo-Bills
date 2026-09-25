@@ -1,9 +1,25 @@
 {
   "articles": [
     {
+      "headline": "Who is Josh Allen's biggest hater?",
+      "description": "Nick Suss explains why Bills head coach Joe Brady is Josh Allen's harshest critic right now.",
+      "published": "2026-09-25T01:01:20Z",
+      "url": "https://www.espn.com/video/clip/_/id/50024284/who-josh-allen-biggest-hater",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0924/dm_260924_SC4U_16x9_Bills_IA_9-24/dm_260924_SC4U_16x9_Bills_IA_9-24.jpg",
+      "type": "Media"
+    },
+    {
+      "headline": "Bills coach Brady unsatisfied with 2-0 start as Buffalo prepares to host winless Chargers",
+      "description": "— To hear Joe Brady express his concerns, it would be easy to think the Buffalo Bills opened the season winless instead of 2-0.",
+      "published": "2026-09-24T22:59:30Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872953",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872953.png?templateId=espn.applewatch.awayhome.1",
+      "type": "Preview"
+    },
+    {
       "headline": "NFL Week 3 uniforms: Colts to wear 'Anvil Strike,' Bills debut 'Nickel City'",
       "description": "Here's a look at what each NFL team is wearing in Week 3, led by the new NFL Rivalries look from the Indianapolis Colts.",
-      "published": "2026-09-24T18:55:27Z",
+      "published": "2026-09-24T22:38:08Z",
       "url": "https://www.espn.com/nfl/story/_/id/50008808/nfl-week-3-uniforms",
       "image": "https://a.espncdn.com/photo/2026/0922/nfl_uniforms-week-03_16x9.jpg",
       "type": "Story"
@@ -303,22 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/49895823/nfl-week-1-fashionable-arrivals",
       "image": "https://a.espncdn.com/photo/2026/0914/r1716746_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Key NFL Week 1 stats on Bears, Bills, Texans, Bucs, Cardinals",
-      "description": "We found six of the coolest advanced stats to come out of Sunday's games, from the Bears' electric day on offense to Baker Mayfield's struggles pushing the ball downfield.",
-      "published": "2026-09-14T01:19:19Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49881588/week-1-five-key-stats-numbers-solak",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716162_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Josh Allen, Bills use big plays to score big win vs. Texans",
-      "description": "In a house of Bills horrors -- they hadn't won in Houston since '06 -- vs. a team that battered him last season, Josh Allen uncorked a whopper of an offensive performance as Buffalo outlasted Houston 36-31, giving Joe Brady his first victory as coach.",
-      "published": "2026-09-13T23:42:03Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49933980/josh-allen-bills-use-big-plays-score-big-win-vs-texans",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716184_600x600_1-1.jpg",
-      "type": "HeadlineNews"
     }
   ]
 }

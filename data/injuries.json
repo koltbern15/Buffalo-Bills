@@ -3,6 +3,17 @@
     {
       "status": "Questionable",
       "type": "questionable",
+      "detail": "Hip",
+      "date": "2026-09-25T01:14Z",
+      "athlete": {
+        "name": "Ed Oliver",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
       "detail": "Shoulder - AC Joint",
       "date": "2026-09-24T21:18Z",
       "athlete": {
@@ -20,17 +31,6 @@
         "name": "Keon Coleman",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Hip",
-      "date": "2026-09-24T01:33Z",
-      "athlete": {
-        "name": "Ed Oliver",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
       }
     },
     {
