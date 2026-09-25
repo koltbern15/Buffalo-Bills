@@ -156,6 +156,18 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3051324.png"
         },
         {
+          "id": "4037235",
+          "name": "Greg Dortch",
+          "jersey": "19",
+          "position": "WR",
+          "age": 28,
+          "height": "5' 7\"",
+          "weight": "183 lbs",
+          "experience": 6,
+          "college": "Wake Forest",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4037235.png"
+        },
+        {
           "id": "4368828",
           "name": "Tylan Grable",
           "jersey": "68",
@@ -473,18 +485,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036060.png"
         },
         {
-          "id": "4596480",
-          "name": "Jordan Hancock",
-          "jersey": "37",
-          "position": "CB",
-          "age": 23,
-          "height": "6' 0\"",
-          "weight": "195 lbs",
-          "experience": 2,
-          "college": "Ohio State",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596480.png"
-        },
-        {
           "id": "4033234",
           "name": "Michael Hoecht",
           "jersey": "55",
@@ -687,6 +687,18 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685347.png"
         },
         {
+          "id": "4596480",
+          "name": "Jordan Hancock",
+          "jersey": "37",
+          "position": "CB",
+          "age": 23,
+          "height": "6' 0\"",
+          "weight": "195 lbs",
+          "experience": 2,
+          "college": "Ohio State",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596480.png"
+        },
+        {
           "id": "4241476",
           "name": "Tyrell Shavers",
           "jersey": "14",
@@ -753,18 +765,6 @@
           "experience": 1,
           "college": "Miami",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427348.png"
-        },
-        {
-          "id": "4037235",
-          "name": "Greg Dortch",
-          "jersey": "19",
-          "position": "WR",
-          "age": 28,
-          "height": "5' 7\"",
-          "weight": "183 lbs",
-          "experience": 6,
-          "college": "Wake Forest",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4037235.png"
         },
         {
           "id": "4429805",

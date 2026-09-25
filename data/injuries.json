@@ -1,20 +1,21 @@
 {
   "injuries": [
     {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-25T19:23Z",
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "detail": "Hamstring",
+      "date": "2026-09-25T23:15Z",
       "athlete": {
-        "name": "Ty Johnson",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
+        "name": "Jordan Hancock",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596480.png"
       }
     },
     {
       "status": "Out",
       "type": "out",
       "detail": "Surgery",
-      "date": "2026-09-25T18:36Z",
+      "date": "2026-09-25T21:49Z",
       "athlete": {
         "name": "T.J. Sanders",
         "position": "DT",
@@ -22,14 +23,24 @@
       }
     },
     {
-      "status": "Out",
-      "type": "out",
-      "detail": "Hamstring",
-      "date": "2026-09-25T18:35Z",
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Hip",
+      "date": "2026-09-25T21:41Z",
       "athlete": {
-        "name": "Jordan Hancock",
-        "position": "CB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596480.png"
+        "name": "Ed Oliver",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-25T19:23Z",
+      "athlete": {
+        "name": "Ty Johnson",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
       }
     },
     {
@@ -52,17 +63,6 @@
         "name": "DJ Moore",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Hip",
-      "date": "2026-09-25T01:14Z",
-      "athlete": {
-        "name": "Ed Oliver",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
       }
     },
     {
