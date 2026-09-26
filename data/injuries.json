@@ -4,11 +4,21 @@
       "status": "Injured Reserve",
       "type": "Injured Reserve",
       "detail": "Hamstring",
-      "date": "2026-09-25T23:15Z",
+      "date": "2026-09-26T01:05Z",
       "athlete": {
         "name": "Jordan Hancock",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596480.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-26T00:33Z",
+      "athlete": {
+        "name": "Greg Dortch",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4037235.png"
       }
     },
     {
