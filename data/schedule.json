@@ -94,13 +94,13 @@
       "week": 3,
       "seasonType": 2,
       "status": {
-        "id": "2",
-        "name": "STATUS_IN_PROGRESS",
-        "state": "in",
-        "completed": false,
-        "description": "In Progress",
-        "detail": "2:25 - 3rd Quarter",
-        "shortDetail": "2:25 - 3rd"
+        "id": "3",
+        "name": "STATUS_FINAL",
+        "state": "post",
+        "completed": true,
+        "description": "Final",
+        "detail": "Final",
+        "shortDetail": "Final"
       },
       "venue": {
         "name": "Highmark Stadium",
@@ -114,10 +114,16 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png"
       },
       "score": {
-        "us": null,
-        "them": null
+        "us": {
+          "value": 24,
+          "displayValue": "24"
+        },
+        "them": {
+          "value": 16,
+          "displayValue": "16"
+        }
       },
-      "result": null,
+      "result": "W",
       "homeAbbr": "BUF",
       "awayAbbr": "LAC"
     },

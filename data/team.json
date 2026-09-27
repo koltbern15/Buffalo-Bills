@@ -9,7 +9,7 @@
     "items": [
       {
         "type": "total",
-        "summary": "2-0",
+        "summary": "3-0",
         "stats": [
           {
             "name": "OTLosses",
@@ -21,15 +21,15 @@
           },
           {
             "name": "avgPointsAgainst",
-            "value": 31
+            "value": 26
           },
           {
             "name": "avgPointsFor",
-            "value": 38.5
+            "value": 33.666668
           },
           {
             "name": "differential",
-            "value": 15
+            "value": 23
           },
           {
             "name": "divisionWinPercent",
@@ -41,7 +41,7 @@
           },
           {
             "name": "gamesPlayed",
-            "value": 2
+            "value": 3
           },
           {
             "name": "leagueWinPercent",
@@ -57,23 +57,23 @@
           },
           {
             "name": "pointDifferential",
-            "value": 15
+            "value": 23
           },
           {
             "name": "points",
-            "value": 1
+            "value": 1.5
           },
           {
             "name": "pointsAgainst",
-            "value": 62
+            "value": 78
           },
           {
             "name": "pointsFor",
-            "value": 77
+            "value": 101
           },
           {
             "name": "streak",
-            "value": 2
+            "value": 3
           },
           {
             "name": "ties",
@@ -85,7 +85,7 @@
           },
           {
             "name": "wins",
-            "value": 2
+            "value": 3
           },
           {
             "name": "divisionLosses",
@@ -112,11 +112,11 @@
       {
         "description": "Home Record",
         "type": "home",
-        "summary": "1-0",
+        "summary": "2-0",
         "stats": [
           {
             "name": "wins",
-            "value": 1
+            "value": 2
           },
           {
             "name": "losses",
@@ -191,7 +191,7 @@
         {
           "id": "401872953",
           "date": "2026-09-27T17:00Z",
-          "attendance": 0,
+          "attendance": 60361,
           "type": {
             "id": "1",
             "text": "Standard",
@@ -202,7 +202,7 @@
           "timeValid": true,
           "neutralSite": false,
           "boxscoreAvailable": true,
-          "ticketsAvailable": true,
+          "ticketsAvailable": false,
           "venue": {
             "fullName": "Highmark Stadium",
             "address": {
@@ -218,6 +218,7 @@
               "type": "team",
               "order": 0,
               "homeAway": "home",
+              "winner": true,
               "team": {
                 "id": "2",
                 "location": "Buffalo",
@@ -548,6 +549,10 @@
                   }
                 ]
               },
+              "score": {
+                "value": 24,
+                "displayValue": "24"
+              },
               "leaders": [
                 {
                   "name": "passingLeader",
@@ -555,8 +560,8 @@
                   "abbreviation": "PYDS",
                   "leaders": [
                     {
-                      "displayValue": "12/19, 141 YDS, 2 INT",
-                      "value": 141,
+                      "displayValue": "16/26, 204 YDS, 2 INT",
+                      "value": 204,
                       "athlete": {
                         "id": "3918298",
                         "lastName": "Allen",
@@ -675,8 +680,8 @@
                   "abbreviation": "RYDS",
                   "leaders": [
                     {
-                      "displayValue": "12 CAR, 76 YDS",
-                      "value": 76,
+                      "displayValue": "24 CAR, 154 YDS, 1 TD",
+                      "value": 154,
                       "athlete": {
                         "id": "4379399",
                         "lastName": "Cook III",
@@ -795,8 +800,8 @@
                   "abbreviation": "RECYDS",
                   "leaders": [
                     {
-                      "displayValue": "4 REC, 39 YDS",
-                      "value": 39,
+                      "displayValue": "6 REC, 67 YDS",
+                      "value": 67,
                       "athlete": {
                         "id": "3915416",
                         "lastName": "Moore",
@@ -915,8 +920,8 @@
                   "abbreviation": "YDS",
                   "leaders": [
                     {
-                      "displayValue": "141",
-                      "value": 141,
+                      "displayValue": "204",
+                      "value": 204,
                       "athlete": {
                         "id": "3918298",
                         "lastName": "Allen",
@@ -1035,8 +1040,8 @@
                   "abbreviation": "YDS",
                   "leaders": [
                     {
-                      "displayValue": "76",
-                      "value": 76,
+                      "displayValue": "154",
+                      "value": 154,
                       "athlete": {
                         "id": "4379399",
                         "lastName": "Cook III",
@@ -1155,8 +1160,8 @@
                   "abbreviation": "YDS",
                   "leaders": [
                     {
-                      "displayValue": "39",
-                      "value": 39,
+                      "displayValue": "67",
+                      "value": 67,
                       "athlete": {
                         "id": "3915416",
                         "lastName": "Moore",
@@ -1395,8 +1400,8 @@
                   "abbreviation": "SACK",
                   "leaders": [
                     {
-                      "displayValue": "1",
-                      "value": 1,
+                      "displayValue": "2",
+                      "value": 2,
                       "athlete": {
                         "id": "4362506",
                         "lastName": "Rousseau",
@@ -1503,6 +1508,126 @@
                               "athlete"
                             ],
                             "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4362506"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "interceptions",
+                  "displayName": "Interceptions",
+                  "abbreviation": "INT",
+                  "leaders": [
+                    {
+                      "displayValue": "1",
+                      "value": 1,
+                      "athlete": {
+                        "id": "4034953",
+                        "lastName": "Gardner-Johnson",
+                        "displayName": "C.J. Gardner-Johnson",
+                        "shortName": "C.J. Gardner-Johnson",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4034953/cj-gardner-johnson"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4034953/cj-gardner-johnson"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4034953&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4034953/cj-gardner-johnson"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4034953/cj-gardner-johnson"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4034953&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4034953/cj-gardner-johnson"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4034953&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4034953/cj-gardner-johnson"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4034953&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4034953/cj-gardner-johnson"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4034953"
                           }
                         ]
                       }
@@ -1875,8 +2000,8 @@
                   "abbreviation": "TP",
                   "leaders": [
                     {
-                      "displayValue": "4",
-                      "value": 4,
+                      "displayValue": "6",
+                      "value": 6,
                       "athlete": {
                         "id": "3917232",
                         "lastName": "Bass",
@@ -2235,8 +2360,8 @@
                   "abbreviation": "ESPNRating",
                   "leaders": [
                     {
-                      "displayValue": "12-19, 141 YDS, 2 INT",
-                      "value": 12.039999961853027,
+                      "displayValue": "16-26, 204 YDS, 2 INT",
+                      "value": 22.459999084472656,
                       "athlete": {
                         "id": "3918298",
                         "lastName": "Allen",
@@ -2355,8 +2480,8 @@
                   "abbreviation": "RAT",
                   "leaders": [
                     {
-                      "displayValue": "46.1",
-                      "value": 46.099998474121094,
+                      "displayValue": "54.0",
+                      "value": 54,
                       "athlete": {
                         "id": "3918298",
                         "lastName": "Allen",
@@ -2475,8 +2600,8 @@
                   "abbreviation": "TD",
                   "leaders": [
                     {
-                      "displayValue": "1",
-                      "value": 1,
+                      "displayValue": "2",
+                      "value": 2,
                       "athlete": {
                         "id": "3918298",
                         "lastName": "Allen",
@@ -2595,8 +2720,8 @@
                   "abbreviation": "REC",
                   "leaders": [
                     {
-                      "displayValue": "4",
-                      "value": 4,
+                      "displayValue": "6",
+                      "value": 6,
                       "athlete": {
                         "id": "3915416",
                         "lastName": "Moore",
@@ -2710,6 +2835,33 @@
                   ]
                 }
               ],
+              "record": [
+                {
+                  "id": "369",
+                  "abbreviation": "Game",
+                  "displayName": "Record Year To Date",
+                  "shortDisplayName": "YTD",
+                  "description": "Overall Record",
+                  "type": "total",
+                  "displayValue": "3-0"
+                },
+                {
+                  "id": "13",
+                  "displayName": "Home",
+                  "shortDisplayName": "HOME",
+                  "description": "Home Record",
+                  "type": "home",
+                  "displayValue": "2-0"
+                },
+                {
+                  "id": "14",
+                  "displayName": "Road",
+                  "shortDisplayName": "AWAY",
+                  "description": "Away Record",
+                  "type": "road",
+                  "displayValue": "1-0"
+                }
+              ],
               "curatedRank": {
                 "current": 99
               }
@@ -2719,6 +2871,7 @@
               "type": "team",
               "order": 1,
               "homeAway": "away",
+              "winner": false,
               "team": {
                 "id": "24",
                 "location": "Los Angeles",
@@ -3049,6 +3202,37 @@
                   }
                 ]
               },
+              "score": {
+                "value": 16,
+                "displayValue": "16"
+              },
+              "record": [
+                {
+                  "id": "369",
+                  "abbreviation": "Game",
+                  "displayName": "Record Year To Date",
+                  "shortDisplayName": "YTD",
+                  "description": "Overall Record",
+                  "type": "total",
+                  "displayValue": "0-3"
+                },
+                {
+                  "id": "13",
+                  "displayName": "Home",
+                  "shortDisplayName": "HOME",
+                  "description": "Home Record",
+                  "type": "home",
+                  "displayValue": "0-2"
+                },
+                {
+                  "id": "14",
+                  "displayName": "Road",
+                  "shortDisplayName": "AWAY",
+                  "description": "Away Record",
+                  "type": "road",
+                  "displayValue": "0-1"
+                }
+              ],
               "curatedRank": {
                 "current": 99
               }
@@ -3073,47 +3257,18 @@
               "partnered": false
             }
           ],
-          "tickets": [
-            {
-              "id": "6488324",
-              "summary": "Tickets as low as $110",
-              "description": "Los Angeles Chargers at Buffalo Bills",
-              "maxPrice": 761,
-              "startingPrice": 110,
-              "numberAvailable": 20,
-              "totalPostings": 9,
-              "links": [
-                {
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "event"
-                  ],
-                  "href": "https://www.vividseats.com/buffalo-bills-tickets-orchard-park-highmark-stadium-3-3-2026/production/6488324?wsUser=717"
-                },
-                {
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "venue"
-                  ],
-                  "href": "https://www.vividseats.com/highmark-stadium-tickets/venue/1385?wsUser=717"
-                }
-              ]
-            }
-          ],
           "status": {
-            "clock": 145,
-            "displayClock": "2:25",
-            "period": 3,
+            "clock": 0,
+            "displayClock": "0:00",
+            "period": 4,
             "type": {
-              "id": "2",
-              "name": "STATUS_IN_PROGRESS",
-              "state": "in",
-              "completed": false,
-              "description": "In Progress",
-              "detail": "2:25 - 3rd Quarter",
-              "shortDetail": "2:25 - 3rd"
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final"
             },
             "isTBDFlex": false
           }
@@ -3123,27 +3278,27 @@
         {
           "language": "en-US",
           "rel": [
-            "live",
+            "summary",
             "desktop",
             "event"
           ],
-          "href": "https://www.espn.com/nfl/game?gameId=401872953",
+          "href": "https://www.espn.com/nfl/game/_/gameId/401872953/chargers-bills",
           "text": "Gamecast",
-          "shortText": "Gamecast",
+          "shortText": "Summary",
           "isExternal": false,
           "isPremium": false
         },
         {
           "language": "en-US",
           "rel": [
-            "live",
+            "summary",
             "sportscenter",
             "app",
             "event"
           ],
           "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401872953",
           "text": "Gamecast",
-          "shortText": "Gamecast",
+          "shortText": "Summary",
           "isExternal": false,
           "isPremium": false
         },
@@ -3237,6 +3392,19 @@
           "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401872953",
           "text": "Gamecast",
           "shortText": "Gamecast",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/nfl/recap?gameId=401872953",
+          "text": "Recap",
+          "shortText": "Recap",
           "isExternal": false,
           "isPremium": false
         },
