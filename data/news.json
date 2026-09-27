@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Week 3 NFL highlights: Best plays, moments, touchdowns, more",
+      "description": "Week 3's Sunday slate will feature 14 games, including an international game in Rio de Janeiro between the Ravens and Cowboys.",
+      "published": "2026-09-27T16:19:31Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50034932/best-plays-moments-touchdowns-more",
+      "image": "https://a.espncdn.com/photo/2026/0926/r1722152_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Bills mark Keon Coleman, DJ Moore, Ed Oliver as questionable",
       "description": "Bills wide receivers Keon Coleman and DJ Moore and defensive lineman Ed Oliver are questionable to play against the Chargers.",
       "published": "2026-09-25T19:14:30Z",
@@ -158,14 +166,6 @@
       "published": "2026-09-18T14:56:20Z",
       "url": "https://www.espn.com/video/clip/_/id/49973250/stephen-not-ready-crown-bills-team-beat-afc",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0918/ss_20260918_103001914_3664459/ss_20260918_103001914_3664459.jpg",
-      "type": "Media"
-    },
-    {
-      "headline": "Is Josh Allen already the MVP front-runner?",
-      "description": "Is Josh Allen already the MVP front-runner?",
-      "published": "2026-09-18T12:49:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/49972361/is-josh-allen-already-mvp-front-runner",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0918/ss_20260918_082552050_3664378/ss_20260918_082552050_3664378.jpg",
       "type": "Media"
     },
     {

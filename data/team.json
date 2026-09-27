@@ -201,7 +201,7 @@
           },
           "timeValid": true,
           "neutralSite": false,
-          "boxscoreAvailable": false,
+          "boxscoreAvailable": true,
           "ticketsAvailable": true,
           "venue": {
             "fullName": "Highmark Stadium",
@@ -548,6 +548,2168 @@
                   }
                 ]
               },
+              "leaders": [
+                {
+                  "name": "passingLeader",
+                  "displayName": "Passing Leader",
+                  "abbreviation": "PYDS",
+                  "leaders": [
+                    {
+                      "displayValue": "12/19, 141 YDS, 2 INT",
+                      "value": 141,
+                      "athlete": {
+                        "id": "3918298",
+                        "lastName": "Allen",
+                        "displayName": "Josh Allen",
+                        "shortName": "J. Allen",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "rushingLeader",
+                  "displayName": "Rushing Leader",
+                  "abbreviation": "RYDS",
+                  "leaders": [
+                    {
+                      "displayValue": "12 CAR, 76 YDS",
+                      "value": 76,
+                      "athlete": {
+                        "id": "4379399",
+                        "lastName": "Cook III",
+                        "displayName": "James Cook III",
+                        "shortName": "J. Cook III",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "receivingLeader",
+                  "displayName": "Receiving Leader",
+                  "abbreviation": "RECYDS",
+                  "leaders": [
+                    {
+                      "displayValue": "4 REC, 39 YDS",
+                      "value": 39,
+                      "athlete": {
+                        "id": "3915416",
+                        "lastName": "Moore",
+                        "displayName": "DJ Moore",
+                        "shortName": "D. Moore",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "passingYards",
+                  "displayName": "Passing Yards",
+                  "abbreviation": "YDS",
+                  "leaders": [
+                    {
+                      "displayValue": "141",
+                      "value": 141,
+                      "athlete": {
+                        "id": "3918298",
+                        "lastName": "Allen",
+                        "displayName": "Josh Allen",
+                        "shortName": "J. Allen",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "rushingYards",
+                  "displayName": "Rushing Yards",
+                  "abbreviation": "YDS",
+                  "leaders": [
+                    {
+                      "displayValue": "76",
+                      "value": 76,
+                      "athlete": {
+                        "id": "4379399",
+                        "lastName": "Cook III",
+                        "displayName": "James Cook III",
+                        "shortName": "J. Cook III",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "receivingYards",
+                  "displayName": "Receiving Yards",
+                  "abbreviation": "YDS",
+                  "leaders": [
+                    {
+                      "displayValue": "39",
+                      "value": 39,
+                      "athlete": {
+                        "id": "3915416",
+                        "lastName": "Moore",
+                        "displayName": "DJ Moore",
+                        "shortName": "D. Moore",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "totalTackles",
+                  "displayName": "Tackles",
+                  "abbreviation": "TOT",
+                  "leaders": [
+                    {
+                      "displayValue": "9",
+                      "value": 9,
+                      "athlete": {
+                        "id": "4568624",
+                        "lastName": "Williams",
+                        "displayName": "Dorian Williams",
+                        "shortName": "D. Williams",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4568624/dorian-williams"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4568624/dorian-williams"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4568624&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4568624/dorian-williams"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4568624/dorian-williams"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4568624&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4568624/dorian-williams"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4568624&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4568624/dorian-williams"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4568624&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4568624/dorian-williams"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4568624"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "sacks",
+                  "displayName": "Sacks",
+                  "abbreviation": "SACK",
+                  "leaders": [
+                    {
+                      "displayValue": "1",
+                      "value": 1,
+                      "athlete": {
+                        "id": "4362506",
+                        "lastName": "Rousseau",
+                        "displayName": "Greg Rousseau",
+                        "shortName": "G. Rousseau",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4362506/greg-rousseau"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4362506/greg-rousseau"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4362506&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4362506/greg-rousseau"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4362506/greg-rousseau"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4362506&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4362506/greg-rousseau"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4362506&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4362506/greg-rousseau"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4362506&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4362506/greg-rousseau"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4362506"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "puntReturns",
+                  "displayName": "Punt Returns",
+                  "abbreviation": "PR",
+                  "leaders": [
+                    {
+                      "displayValue": "1",
+                      "value": 1,
+                      "athlete": {
+                        "id": "4037235",
+                        "lastName": "Dortch",
+                        "displayName": "Greg Dortch",
+                        "shortName": "G. Dortch",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4037235&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4037235&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4037235&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4037235&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4037235"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "kickReturns",
+                  "displayName": "Kick Returns",
+                  "abbreviation": "KR",
+                  "leaders": [
+                    {
+                      "displayValue": "3",
+                      "value": 3,
+                      "athlete": {
+                        "id": "4037235",
+                        "lastName": "Dortch",
+                        "displayName": "Greg Dortch",
+                        "shortName": "G. Dortch",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4037235&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4037235&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4037235&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4037235&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4037235/greg-dortch"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4037235"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "punts",
+                  "displayName": "Punts",
+                  "abbreviation": "P",
+                  "leaders": [
+                    {
+                      "displayValue": "1",
+                      "value": 1,
+                      "athlete": {
+                        "id": "4682758",
+                        "lastName": "Doman Jr.",
+                        "displayName": "Tommy Doman Jr.",
+                        "shortName": "T. Doman Jr.",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4682758/tommy-doman-jr"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4682758/tommy-doman-jr"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4682758&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4682758/tommy-doman-jr"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4682758/tommy-doman-jr"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4682758&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4682758/tommy-doman-jr"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4682758&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4682758/tommy-doman-jr"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4682758&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4682758/tommy-doman-jr"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4682758"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "totalKickingPoints",
+                  "displayName": "Kicking Points",
+                  "abbreviation": "TP",
+                  "leaders": [
+                    {
+                      "displayValue": "4",
+                      "value": 4,
+                      "athlete": {
+                        "id": "3917232",
+                        "lastName": "Bass",
+                        "displayName": "Tyler Bass",
+                        "shortName": "T. Bass",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3917232/tyler-bass"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/3917232/tyler-bass"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3917232&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/3917232/tyler-bass"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3917232/tyler-bass"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3917232&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/3917232/tyler-bass"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3917232&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/3917232/tyler-bass"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3917232&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3917232/tyler-bass"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3917232"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "fumbles",
+                  "displayName": "Fumbles",
+                  "abbreviation": "F",
+                  "leaders": [
+                    {
+                      "displayValue": "1",
+                      "value": 1,
+                      "athlete": {
+                        "id": "4379399",
+                        "lastName": "Cook III",
+                        "displayName": "James Cook III",
+                        "shortName": "J. Cook III",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "fumblesLost",
+                  "displayName": "Fumbles Lost",
+                  "abbreviation": "FL",
+                  "leaders": [
+                    {
+                      "displayValue": "1",
+                      "value": 1,
+                      "athlete": {
+                        "id": "4379399",
+                        "lastName": "Cook III",
+                        "displayName": "James Cook III",
+                        "shortName": "J. Cook III",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4379399/james-cook-iii"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:4379399"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "espnRating",
+                  "displayName": "ESPN Rating Leader",
+                  "abbreviation": "ESPNRating",
+                  "leaders": [
+                    {
+                      "displayValue": "12-19, 141 YDS, 2 INT",
+                      "value": 12.039999961853027,
+                      "athlete": {
+                        "id": "3918298",
+                        "lastName": "Allen",
+                        "displayName": "Josh Allen",
+                        "shortName": "J. Allen",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "quarterbackRating",
+                  "displayName": "Quarterback Rating",
+                  "abbreviation": "RAT",
+                  "leaders": [
+                    {
+                      "displayValue": "46.1",
+                      "value": 46.099998474121094,
+                      "athlete": {
+                        "id": "3918298",
+                        "lastName": "Allen",
+                        "displayName": "Josh Allen",
+                        "shortName": "J. Allen",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "rushingTouchdowns",
+                  "displayName": "Rushing Touchdowns",
+                  "abbreviation": "TD",
+                  "leaders": [
+                    {
+                      "displayValue": "1",
+                      "value": 1,
+                      "athlete": {
+                        "id": "3918298",
+                        "lastName": "Allen",
+                        "displayName": "Josh Allen",
+                        "shortName": "J. Allen",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3918298"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "receptions",
+                  "displayName": "Receptions",
+                  "abbreviation": "REC",
+                  "leaders": [
+                    {
+                      "displayValue": "4",
+                      "value": 4,
+                      "athlete": {
+                        "id": "3915416",
+                        "lastName": "Moore",
+                        "displayName": "DJ Moore",
+                        "shortName": "D. Moore",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/stats/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "stats",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=stats"
+                          },
+                          {
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/splits/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/gamelog/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "gamelog",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=gamelog"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/news/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "news",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=news"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/bio/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "bio",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416&section=bio"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3915416/dj-moore"
+                          },
+                          {
+                            "rel": [
+                              "overview",
+                              "sportscenter",
+                              "app",
+                              "athlete"
+                            ],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~a:3915416"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              ],
               "curatedRank": {
                 "current": 99
               }
@@ -914,12 +3076,12 @@
           "tickets": [
             {
               "id": "6488324",
-              "summary": "Tickets as low as $229",
+              "summary": "Tickets as low as $110",
               "description": "Los Angeles Chargers at Buffalo Bills",
-              "maxPrice": 2429,
-              "startingPrice": 229,
-              "numberAvailable": 783,
-              "totalPostings": 286,
+              "maxPrice": 761,
+              "startingPrice": 110,
+              "numberAvailable": 20,
+              "totalPostings": 9,
               "links": [
                 {
                   "rel": [
@@ -941,17 +3103,17 @@
             }
           ],
           "status": {
-            "clock": 0,
-            "displayClock": "0:00",
-            "period": 0,
+            "clock": 145,
+            "displayClock": "2:25",
+            "period": 3,
             "type": {
-              "id": "1",
-              "name": "STATUS_SCHEDULED",
-              "state": "pre",
+              "id": "2",
+              "name": "STATUS_IN_PROGRESS",
+              "state": "in",
               "completed": false,
-              "description": "Scheduled",
-              "detail": "Sun, September 27th at 1:00 PM EDT",
-              "shortDetail": "9/27 - 1:00 PM EDT"
+              "description": "In Progress",
+              "detail": "2:25 - 3rd Quarter",
+              "shortDetail": "2:25 - 3rd"
             },
             "isTBDFlex": false
           }
@@ -961,27 +3123,27 @@
         {
           "language": "en-US",
           "rel": [
-            "summary",
+            "live",
             "desktop",
             "event"
           ],
-          "href": "https://www.espn.com/nfl/game/_/gameId/401872953/chargers-bills",
+          "href": "https://www.espn.com/nfl/game?gameId=401872953",
           "text": "Gamecast",
-          "shortText": "Summary",
+          "shortText": "Gamecast",
           "isExternal": false,
           "isPremium": false
         },
         {
           "language": "en-US",
           "rel": [
-            "summary",
+            "live",
             "sportscenter",
             "app",
             "event"
           ],
           "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401872953",
           "text": "Gamecast",
-          "shortText": "Summary",
+          "shortText": "Gamecast",
           "isExternal": false,
           "isPremium": false
         },
@@ -1001,13 +3163,106 @@
         {
           "language": "en-US",
           "rel": [
-            "preview",
+            "teamstats",
             "desktop",
             "event"
           ],
-          "href": "https://www.espn.com/nfl/preview/_/gameId/401872953",
-          "text": "Preview",
-          "shortText": "Preview",
+          "href": "https://www.espn.com/nfl/matchup?gameId=401872953",
+          "text": "Team Stats",
+          "shortText": "Team Stats",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/nfl/boxscore/_/gameId/401872953",
+          "text": "Box Score",
+          "shortText": "Box Score",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401872953",
+          "text": "Box Score",
+          "shortText": "Box Score",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/nfl/game/_/gameId/401872953",
+          "text": "Gamecast",
+          "shortText": "Gamecast",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "href": "http://m.espn.com/nfl/gamecast?gameId=401872953&action=summary",
+          "text": "Gamecast",
+          "shortText": "Gamecast",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401872953",
+          "text": "Gamecast",
+          "shortText": "Gamecast",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/nfl/playbyplay/_/gameId/401872953",
+          "text": "Play-by-Play",
+          "shortText": "Play-by-Play",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/nfl/video?gameId=401872953",
+          "text": "Videos",
+          "shortText": "Videos",
           "isExternal": false,
           "isPremium": false
         },

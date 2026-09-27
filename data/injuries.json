@@ -1,25 +1,109 @@
 {
   "injuries": [
     {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Shoulder - AC Joint",
-      "date": "2026-09-27T14:57Z",
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-27T17:28Z",
       "athlete": {
-        "name": "DJ Moore",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
+        "name": "Dorian Williams",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568624.png"
       }
     },
     {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Ankle",
-      "date": "2026-09-27T12:35Z",
+      "status": "Out",
+      "type": "out",
+      "detail": "Elbow",
+      "date": "2026-09-27T16:40Z",
+      "athlete": {
+        "name": "Ar'maj Reed-Adams",
+        "position": "G",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-09-27T15:58Z",
+      "athlete": {
+        "name": "Skyler Bell",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-27T15:53Z",
       "athlete": {
         "name": "Keon Coleman",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-27T15:50Z",
+      "athlete": {
+        "name": "Ed Oliver",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Surgery",
+      "date": "2026-09-27T15:46Z",
+      "athlete": {
+        "name": "T.J. Sanders",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-09-27T15:46Z",
+      "athlete": {
+        "name": "Jalon Kilgore",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-09-27T15:46Z",
+      "athlete": {
+        "name": "Jude Bowry",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-09-27T15:46Z",
+      "athlete": {
+        "name": "Mike Danna",
+        "position": "DE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915487.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-27T15:44Z",
+      "athlete": {
+        "name": "DJ Moore",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
       }
     },
     {
@@ -44,28 +128,6 @@
       }
     },
     {
-      "status": "Out",
-      "type": "out",
-      "detail": "Surgery",
-      "date": "2026-09-25T21:49Z",
-      "athlete": {
-        "name": "T.J. Sanders",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Hip",
-      "date": "2026-09-25T21:41Z",
-      "athlete": {
-        "name": "Ed Oliver",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
-      }
-    },
-    {
       "status": "Active",
       "type": "active",
       "date": "2026-09-25T19:23Z",
@@ -73,47 +135,6 @@
         "name": "Ty Johnson",
         "position": "RB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Elbow",
-      "date": "2026-09-23T22:36Z",
-      "athlete": {
-        "name": "Ar'maj Reed-Adams",
-        "position": "G",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-21T18:07Z",
-      "athlete": {
-        "name": "Jude Bowry",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-21T18:07Z",
-      "athlete": {
-        "name": "Jalon Kilgore",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-21T18:07Z",
-      "athlete": {
-        "name": "Skyler Bell",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
       }
     },
     {
@@ -269,16 +290,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-09-14T15:08Z",
-      "athlete": {
-        "name": "Mike Danna",
-        "position": "DE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915487.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-09-10T00:09Z",
       "athlete": {
         "name": "Michael Hoecht",
@@ -368,16 +379,6 @@
         "name": "Greg Gaines",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-08-10T18:24Z",
-      "athlete": {
-        "name": "Dorian Williams",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568624.png"
       }
     },
     {
