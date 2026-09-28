@@ -1,6 +1,37 @@
 {
   "injuries": [
     {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-28T23:22Z",
+      "athlete": {
+        "name": "Tyler Bass",
+        "position": "PK",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-28T21:32Z",
+      "athlete": {
+        "name": "Phidarian Mathis",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241468.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Knee",
+      "date": "2026-09-28T21:03Z",
+      "athlete": {
+        "name": "Josh Allen",
+        "position": "QB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png"
+      }
+    },
+    {
       "status": "Out",
       "type": "out",
       "detail": "Elbow",
@@ -80,16 +111,6 @@
         "name": "DJ Moore",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-27T21:09Z",
-      "athlete": {
-        "name": "Josh Allen",
-        "position": "QB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png"
       }
     },
     {
@@ -267,16 +288,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-09-18T04:11Z",
-      "athlete": {
-        "name": "Tyler Bass",
-        "position": "PK",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-09-14T21:18Z",
       "athlete": {
         "name": "Jedrick Wills Jr.",
@@ -345,17 +356,6 @@
         "name": "Alec Anderson",
         "position": "OT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4367203.png"
-      }
-    },
-    {
-      "status": "Suspension",
-      "type": "Suspension",
-      "detail": "Suspension",
-      "date": "2026-08-19T12:07Z",
-      "athlete": {
-        "name": "Phidarian Mathis",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241468.png"
       }
     },
     {
