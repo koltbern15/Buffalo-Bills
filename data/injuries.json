@@ -3,6 +3,26 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-09-28T00:15Z",
+      "athlete": {
+        "name": "Dalton Kincaid",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-27T23:02Z",
+      "athlete": {
+        "name": "DJ Moore",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-09-27T21:09Z",
       "athlete": {
         "name": "Josh Allen",
@@ -128,16 +148,6 @@
       }
     },
     {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-27T15:44Z",
-      "athlete": {
-        "name": "DJ Moore",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
-      }
-    },
-    {
       "status": "Injured Reserve",
       "type": "Injured Reserve",
       "detail": "Hamstring",
@@ -256,16 +266,6 @@
         "name": "Khalil Shakir",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-18T04:18Z",
-      "athlete": {
-        "name": "Dalton Kincaid",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
       }
     },
     {
