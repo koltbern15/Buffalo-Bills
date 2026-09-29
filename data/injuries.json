@@ -1,6 +1,28 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Elbow",
+      "date": "2026-09-29T16:45Z",
+      "athlete": {
+        "name": "Ar'maj Reed-Adams",
+        "position": "G",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
+      }
+    },
+    {
+      "status": "Doubtful",
+      "type": "doubtful",
+      "detail": "Surgery",
+      "date": "2026-09-29T16:45Z",
+      "athlete": {
+        "name": "T.J. Sanders",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-09-29T04:33Z",
@@ -49,28 +71,6 @@
         "name": "Josh Allen",
         "position": "QB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Elbow",
-      "date": "2026-09-28T18:16Z",
-      "athlete": {
-        "name": "Ar'maj Reed-Adams",
-        "position": "G",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Surgery",
-      "date": "2026-09-28T18:16Z",
-      "athlete": {
-        "name": "T.J. Sanders",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
       }
     },
     {
