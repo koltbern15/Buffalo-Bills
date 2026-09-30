@@ -1,6 +1,26 @@
 {
   "injuries": [
     {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-30T00:13Z",
+      "athlete": {
+        "name": "Dawson Knox",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3930086.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-09-30T00:05Z",
+      "athlete": {
+        "name": "Keon Coleman",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
+      }
+    },
+    {
       "status": "Questionable",
       "type": "questionable",
       "detail": "Elbow",
@@ -167,16 +187,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-09-27T15:53Z",
-      "athlete": {
-        "name": "Keon Coleman",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-09-27T15:50Z",
       "athlete": {
         "name": "Ed Oliver",
@@ -263,16 +273,6 @@
         "name": "Jackson Hawes",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573699.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-18T23:11Z",
-      "athlete": {
-        "name": "Dawson Knox",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3930086.png"
       }
     },
     {
