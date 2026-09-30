@@ -65,14 +65,6 @@
       "type": "Story"
     },
     {
-      "headline": "Top NFL plays from Week 3",
-      "description": "Top NFL plays from Week 3",
-      "published": "2026-09-28T13:41:29Z",
-      "url": "https://www.espn.com/video/clip/_/id/50049811/top-nfl-plays-week-3",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0928/ss_20260928_000709031_3678287/ss_20260928_000709031_3678287.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "What are the longest field goals in NFL history?",
       "description": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
       "published": "2026-09-28T03:57:33Z",
@@ -319,6 +311,14 @@
       "url": "https://www.espn.com/espn/betting/story/_/id/49949817/nfl-week-2-odds-betting-tips-picks-detroit-lions-buffalo-bills",
       "image": "https://a.espncdn.com/photo/2026/0916/r1717604_608x342_16-9.jpg",
       "type": "Story"
+    },
+    {
+      "headline": "Bills set to open new stadium hosting the Lions in a primetime matchup",
+      "description": "— The new car smell of the Buffalo Bills’ Highmark Stadium has already worn off on Josh Allen a little more than a month since the gleaming $2.1...",
+      "published": "2026-09-16T18:19:29Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872932",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872932.png?templateId=espn.applewatch.awayhome.1",
+      "type": "Preview"
     }
   ]
 }
