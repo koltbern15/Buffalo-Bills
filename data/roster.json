@@ -545,18 +545,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
         },
         {
-          "id": "4241468",
-          "name": "Phidarian Mathis",
-          "jersey": "72",
-          "position": "DT",
-          "age": 28,
-          "height": "6' 4\"",
-          "weight": "312 lbs",
-          "experience": 5,
-          "college": "Alabama",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241468.png"
-        },
-        {
           "id": "4039303",
           "name": "Ed Oliver",
           "jersey": "91",
@@ -860,6 +848,18 @@
           "experience": 0,
           "college": "Kentucky",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430270.png"
+        },
+        {
+          "id": "4241468",
+          "name": "Phidarian Mathis",
+          "jersey": "72",
+          "position": "DT",
+          "age": 28,
+          "height": "6' 4\"",
+          "weight": "312 lbs",
+          "experience": 5,
+          "college": "Alabama",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241468.png"
         },
         {
           "id": "3122168",
