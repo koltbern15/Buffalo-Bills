@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
+      "description": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
+      "published": "2026-10-01T13:39:33Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms",
+      "image": "https://a.espncdn.com/photo/2026/0930/nfl-uniforms-week-4-16x9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL survivor power rankings: Why you should use Vikings, Seahawks",
       "description": "ESPN NFL survivor pool strategy, predictions and picks for Week 4 including the Vikings and Seahawks.",
       "published": "2026-09-30T19:13:01Z",
@@ -310,14 +318,6 @@
       "published": "2026-09-17T15:48:49Z",
       "url": "https://www.espn.com/nfl/story/_/id/49941549/josh-allen-buffalo-bills-super-bowl-hopes",
       "image": "https://a.espncdn.com/photo/2026/0915/nfl_all_on_josh_allen_cr_16x9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "How to bet Lions-Bills on 'TNF': Analysis, tips and favorite plays",
-      "description": "Odds, bets and analysis to help you bet Lions-Bills on \"Thursday Night Football.\"",
-      "published": "2026-09-17T18:09:23Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/49949817/nfl-week-2-odds-betting-tips-picks-detroit-lions-buffalo-bills",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717604_608x342_16-9.jpg",
       "type": "Story"
     }
   ]

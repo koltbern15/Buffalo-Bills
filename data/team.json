@@ -914,12 +914,12 @@
           "tickets": [
             {
               "id": "6488357",
-              "summary": "Tickets as low as $252",
+              "summary": "Tickets as low as $226",
               "description": "New England Patriots at Buffalo Bills",
-              "maxPrice": 7543,
-              "startingPrice": 252,
-              "numberAvailable": 3179,
-              "totalPostings": 1144,
+              "maxPrice": 7400,
+              "startingPrice": 226,
+              "numberAvailable": 2901,
+              "totalPostings": 1051,
               "links": [
                 {
                   "rel": [
@@ -995,6 +995,19 @@
           "href": "https://www.espn.com/nfl/game/_/gameId/401872971",
           "text": "Now",
           "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "preview",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/nfl/preview/_/gameId/401872971",
+          "text": "Preview",
+          "shortText": "Preview",
           "isExternal": false,
           "isPremium": false
         },
