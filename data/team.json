@@ -914,12 +914,12 @@
           "tickets": [
             {
               "id": "6488357",
-              "summary": "Tickets as low as $226",
+              "summary": "Tickets as low as $247",
               "description": "New England Patriots at Buffalo Bills",
               "maxPrice": 7400,
-              "startingPrice": 226,
-              "numberAvailable": 2901,
-              "totalPostings": 1051,
+              "startingPrice": 247,
+              "numberAvailable": 2748,
+              "totalPostings": 991,
               "links": [
                 {
                   "rel": [
