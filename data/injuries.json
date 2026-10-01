@@ -1,6 +1,36 @@
 {
   "injuries": [
     {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-01T01:45Z",
+      "athlete": {
+        "name": "C.J. Gardner-Johnson",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-01T01:38Z",
+      "athlete": {
+        "name": "Greg Rousseau",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362506.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-01T01:10Z",
+      "athlete": {
+        "name": "Ar'maj Reed-Adams",
+        "position": "G",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
+      }
+    },
+    {
       "status": "Questionable",
       "type": "questionable",
       "detail": "Ankle",
@@ -20,16 +50,6 @@
         "name": "Deone Walker",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4831989.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-30T21:21Z",
-      "athlete": {
-        "name": "Ar'maj Reed-Adams",
-        "position": "G",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
       }
     },
     {
@@ -281,16 +301,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-09-19T03:09Z",
-      "athlete": {
-        "name": "Greg Rousseau",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362506.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-09-19T01:05Z",
       "athlete": {
         "name": "Jackson Hawes",
@@ -399,16 +409,6 @@
         "name": "Greg Gaines",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-08-06T22:08Z",
-      "athlete": {
-        "name": "C.J. Gardner-Johnson",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
       }
     },
     {
