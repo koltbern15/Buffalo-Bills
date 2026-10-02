@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-10-02T20:49Z",
+      "athlete": {
+        "name": "Keon Coleman",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-10-02T19:23Z",
       "athlete": {
         "name": "DJ Moore",
@@ -61,16 +71,6 @@
         "name": "T.J. Sanders",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-01T20:49Z",
-      "athlete": {
-        "name": "Keon Coleman",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
       }
     },
     {
