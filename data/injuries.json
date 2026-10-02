@@ -1,6 +1,47 @@
 {
   "injuries": [
     {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-02T19:23Z",
+      "athlete": {
+        "name": "DJ Moore",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-02T19:20Z",
+      "athlete": {
+        "name": "Joe Andreessen",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4366349.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-02T19:17Z",
+      "athlete": {
+        "name": "Damar Hamlin",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036060.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Hamstring",
+      "date": "2026-10-02T18:37Z",
+      "athlete": {
+        "name": "Ray Davis",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
+      }
+    },
+    {
       "status": "Questionable",
       "type": "questionable",
       "detail": "Toe",
@@ -12,8 +53,8 @@
       }
     },
     {
-      "status": "Questionable",
-      "type": "questionable",
+      "status": "Doubtful",
+      "type": "doubtful",
       "detail": "Surgery",
       "date": "2026-10-01T23:07Z",
       "athlete": {
@@ -23,9 +64,8 @@
       }
     },
     {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Ankle",
+      "status": "Active",
+      "type": "active",
       "date": "2026-10-01T20:49Z",
       "athlete": {
         "name": "Keon Coleman",
@@ -52,17 +92,6 @@
         "name": "Deone Walker",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4831989.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Shoulder",
-      "date": "2026-10-01T20:47Z",
-      "athlete": {
-        "name": "DJ Moore",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
       }
     },
     {
@@ -96,28 +125,6 @@
       }
     },
     {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Ribs",
-      "date": "2026-09-30T21:20Z",
-      "athlete": {
-        "name": "Damar Hamlin",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036060.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Knee",
-      "date": "2026-09-30T21:19Z",
-      "athlete": {
-        "name": "Joe Andreessen",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4366349.png"
-      }
-    },
-    {
       "status": "Active",
       "type": "active",
       "date": "2026-09-30T18:44Z",
@@ -145,16 +152,6 @@
         "name": "Khalil Shakir",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-29T01:01Z",
-      "athlete": {
-        "name": "Ray Davis",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
       }
     },
     {
