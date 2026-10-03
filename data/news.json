@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "All-time rosters for 23 teams with multiple Super Bowls",
+      "description": "This was no small task, but 13 players ended up making more than one all-time SB roster.",
+      "published": "2026-10-03T10:00:17Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50051837/nfl-super-bowl-all-teams-hall-fame",
+      "image": "https://a.espncdn.com/photo/2026/0929/nfl_sb-roster_16x9_608x342.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Christian Benford not ruled out for Sunday's game",
       "description": "Nick Suss reports on the Bills' injury mystery after not ruling out Christian Benford for their Week 4 matchup vs. the Patriots.",
       "published": "2026-10-02T21:13:07Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/49973986/stephon-gilmore-19-nfl-dpoy-retiring-member-patriots",
       "image": "https://a.espncdn.com/photo/2021/0717/r881345_600x400_3-2.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "NFL Week 2 picks, predictions, schedule, odds, fantasy tips",
-      "description": "Minnesota vs. Chicago? Trevor Lawrence vs. Bo Nix? There are more games left in Week 2, and we have picks, predictions, key stats, watchability ratings and more.",
-      "published": "2026-09-18T17:06:02Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49957149/week-2-picks-predictions-schedule-fantasy-odds-2026",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717714_608x342_16-9.jpg",
-      "type": "Story"
     }
   ]
 }
