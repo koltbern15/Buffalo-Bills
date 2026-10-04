@@ -617,6 +617,18 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4831989.png"
         },
         {
+          "id": "4682749",
+          "name": "Kani Walker",
+          "jersey": "41",
+          "position": "CB",
+          "age": 23,
+          "height": "6' 2\"",
+          "weight": "204 lbs",
+          "experience": 0,
+          "college": "Arkansas",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4682749.png"
+        },
+        {
           "id": "4568624",
           "name": "Dorian Williams",
           "jersey": "42",
@@ -896,18 +908,6 @@
           "experience": 11,
           "college": "Washington",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2978313.png"
-        },
-        {
-          "id": "4682749",
-          "name": "Kani Walker",
-          "jersey": "41",
-          "position": "CB",
-          "age": 23,
-          "height": "6' 2\"",
-          "weight": "204 lbs",
-          "experience": 0,
-          "college": "Arkansas",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4682749.png"
         },
         {
           "id": "4241482",
