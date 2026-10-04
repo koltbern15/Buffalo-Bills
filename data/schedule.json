@@ -134,13 +134,13 @@
       "week": 4,
       "seasonType": 2,
       "status": {
-        "id": "1",
-        "name": "STATUS_SCHEDULED",
-        "state": "pre",
+        "id": "2",
+        "name": "STATUS_IN_PROGRESS",
+        "state": "in",
         "completed": false,
-        "description": "Scheduled",
-        "detail": "Sun, October 4th at 1:00 PM EDT",
-        "shortDetail": "10/4 - 1:00 PM EDT"
+        "description": "In Progress",
+        "detail": "10:56 - 2nd Quarter",
+        "shortDetail": "10:56 - 2nd"
       },
       "venue": {
         "name": "Highmark Stadium",

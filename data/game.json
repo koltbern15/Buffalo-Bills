@@ -3,42 +3,41 @@
     "id": "401872971",
     "name": "NE @ BUF",
     "date": "2026-10-04T17:00Z",
-    "state": "pre",
+    "state": "in",
     "status": {
-      "id": "1",
-      "name": "STATUS_SCHEDULED",
-      "state": "pre",
+      "id": "2",
+      "name": "STATUS_IN_PROGRESS",
+      "state": "in",
       "completed": false,
-      "description": "Scheduled",
-      "detail": "Sun, October 4th at 1:00 PM EDT",
-      "shortDetail": "10/4 - 1:00 PM EDT"
+      "description": "In Progress",
+      "detail": "10:56 - 2nd Quarter",
+      "shortDetail": "10:56 - 2nd"
     },
-    "clock": "0:00",
-    "period": 0,
+    "clock": "10:56",
+    "period": 2,
     "us": {
       "abbr": "BUF",
-      "score": "0",
+      "score": "7",
       "homeAway": "home",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
     "them": {
       "abbr": "NE",
       "name": "New England Patriots",
-      "score": "0",
+      "score": "7",
       "homeAway": "away",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png"
     },
-    "odds": {
-      "details": "BUF -7",
-      "overUnder": 49.5
-    },
-    "broadcast": "CBS"
+    "odds": null,
+    "broadcast": "CBS",
+    "winProbability": 59,
+    "lastPlay": "(Shotgun) D.Maye scrambles up the middle to BUF 23 for 1 yard (D.Carter)."
   },
   "next": {
-    "id": "401872971",
-    "date": "2026-10-04T17:00Z",
-    "name": "NE @ BUF",
-    "week": 4,
+    "id": "401872994",
+    "date": "2026-10-13T00:15Z",
+    "name": "BUF @ LAR",
+    "week": 5,
     "seasonType": 2,
     "status": {
       "id": "1",
@@ -46,26 +45,26 @@
       "state": "pre",
       "completed": false,
       "description": "Scheduled",
-      "detail": "Sun, October 4th at 1:00 PM EDT",
-      "shortDetail": "10/4 - 1:00 PM EDT"
+      "detail": "Mon, October 12th at 8:15 PM EDT",
+      "shortDetail": "10/12 - 8:15 PM EDT"
     },
     "venue": {
-      "name": "Highmark Stadium",
-      "city": "Orchard Park",
-      "state": "NY"
+      "name": "SoFi Stadium",
+      "city": "Inglewood",
+      "state": "CA"
     },
-    "isHome": true,
+    "isHome": false,
     "opponent": {
-      "abbr": "NE",
-      "name": "New England Patriots",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png"
+      "abbr": "LAR",
+      "name": "Los Angeles Rams",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png"
     },
     "score": {
       "us": null,
       "them": null
     },
     "result": null,
-    "homeAbbr": "BUF",
-    "awayAbbr": "NE"
+    "homeAbbr": "LAR",
+    "awayAbbr": "BUF"
   }
 }
