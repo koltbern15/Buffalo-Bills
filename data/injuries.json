@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-10-04T07:56Z",
+      "athlete": {
+        "name": "Sam Franklin Jr.",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4044133.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-10-03T17:41Z",
       "athlete": {
         "name": "Joe Andreessen",
@@ -71,17 +81,6 @@
         "name": "T.J. Sanders",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Personal",
-      "date": "2026-10-01T20:48Z",
-      "athlete": {
-        "name": "Sam Franklin Jr.",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4044133.png"
       }
     },
     {
