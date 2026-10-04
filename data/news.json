@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Bills WR D.J. Moore doubtful to return after injuring shoulder",
+      "description": "Bills wide receiver D.J. Moore is doubtful to return for the second half against the Patriots due to a shoulder injury.",
+      "published": "2026-10-04T18:54:53Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50101817/bills-wr-dj-moore-doubtful-return-injuring-shoulder",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1716305_1296x729_16-9.jpg",
+      "type": "HeadlineNews"
+    },
+    {
       "headline": "What are the top 10 upsets in Super Bowl history?",
       "description": "What are the biggest upsets in Super Bowl history? The Patriots, Jets, Giants, Eagles, Seahawks and others make their cases.",
       "published": "2026-10-04T10:00:15Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms",
       "image": "https://a.espncdn.com/photo/2026/0916/16x9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Bills to take time with Ed Oliver, DJ Moore injuries",
-      "description": "A long week will give more time for Bills defensive lineman Ed Oliver (hip) and wide receiver DJ Moore (shoulder) to get healthy following Thursday's injuries.",
-      "published": "2026-09-18T21:46:34Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49975029/bills-take-ed-oliver-dj-moore-injuries",
-      "image": "https://a.espncdn.com/photo/2026/0918/r1718373_1296x729_16-9.jpg",
-      "type": "HeadlineNews"
     }
   ]
 }

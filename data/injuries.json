@@ -1,6 +1,50 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Ankle",
+      "date": "2026-10-04T19:46Z",
+      "athlete": {
+        "name": "Dee Alford",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4401823.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Knee",
+      "date": "2026-10-04T19:45Z",
+      "athlete": {
+        "name": "Ed Oliver",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Hamstring",
+      "date": "2026-10-04T18:51Z",
+      "athlete": {
+        "name": "Te'Cory Couch",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427348.png"
+      }
+    },
+    {
+      "status": "Doubtful",
+      "type": "doubtful",
+      "detail": "Shoulder",
+      "date": "2026-10-04T18:45Z",
+      "athlete": {
+        "name": "DJ Moore",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-10-04T16:30Z",
@@ -140,16 +184,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-10-02T17:03Z",
-      "athlete": {
-        "name": "DJ Moore",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-10-01T20:47Z",
       "athlete": {
         "name": "Deone Walker",
@@ -245,16 +279,6 @@
         "name": "Dorian Williams",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568624.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-27T15:50Z",
-      "athlete": {
-        "name": "Ed Oliver",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
       }
     },
     {
@@ -499,16 +523,6 @@
         "name": "Kyle Allen",
         "position": "QB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3115293.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-03-09T21:21Z",
-      "athlete": {
-        "name": "Dee Alford",
-        "position": "CB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4401823.png"
       }
     },
     {

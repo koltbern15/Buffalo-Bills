@@ -134,13 +134,13 @@
       "week": 4,
       "seasonType": 2,
       "status": {
-        "id": "2",
-        "name": "STATUS_IN_PROGRESS",
-        "state": "in",
-        "completed": false,
-        "description": "In Progress",
-        "detail": "10:56 - 2nd Quarter",
-        "shortDetail": "10:56 - 2nd"
+        "id": "3",
+        "name": "STATUS_FINAL",
+        "state": "post",
+        "completed": true,
+        "description": "Final",
+        "detail": "Final",
+        "shortDetail": "Final"
       },
       "venue": {
         "name": "Highmark Stadium",
@@ -154,10 +154,16 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png"
       },
       "score": {
-        "us": null,
-        "them": null
+        "us": {
+          "value": 26,
+          "displayValue": "26"
+        },
+        "them": {
+          "value": 29,
+          "displayValue": "29"
+        }
       },
-      "result": null,
+      "result": "L",
       "homeAbbr": "BUF",
       "awayAbbr": "NE"
     },
