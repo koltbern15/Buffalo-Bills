@@ -1,19 +1,35 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 4: Big takeaways, questions and fantasy spin from Sunday's games",
+      "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 4.",
+      "published": "2026-10-05T05:31:59Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50077236/week-4-sunday-games-takeaways-questions-2026",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726176_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Pats slow down Josh Allen in Bills' Week 4 loss",
+      "description": "Nick Suss discusses Josh Allen and the Bills following their first loss of the season.",
+      "published": "2026-10-05T03:54:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/50107295/pats-slow-josh-allen-bills-week-4-loss",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_SC4U_16x9_Bills_IA_10-4/dm_261004_SC4U_16x9_Bills_IA_10-4.jpg",
+      "type": "Media"
+    },
+    {
+      "headline": "Big-time catches headline the top plays of Week 4",
+      "description": "Big-time catches headline the top plays of Week 4",
+      "published": "2026-10-05T05:14:34Z",
+      "url": "https://www.espn.com/video/clip/_/id/50107156/big-catches-headline-top-plays-week-4",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/d65d851c2bc6458bb8038240326e207172/d65d851c2bc6458bb8038240326e207172.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "What are the longest field goals in NFL history?",
       "description": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
       "published": "2026-10-05T00:51:42Z",
       "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
       "image": "https://a.espncdn.com/photo/2025/0810/r1529808_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Week 4: Big takeaways, questions and fantasy spin from Sunday's games",
-      "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 4.",
-      "published": "2026-10-05T00:45:31Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50077236/week-4-sunday-games-takeaways-questions-2026",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1726096_608x342_16-9.jpg",
       "type": "Story"
     },
     {
@@ -303,22 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50014666/bills-tj-sanders-indefinitely-having-appendectomy",
       "image": "https://a.espncdn.com/photo/2026/0923/r1720960_1296x729_16-9.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "Evaluating surprise early-season trends for 32 NFL teams",
-      "description": "T.J. Watt is dominant again? The Packers can't run the ball? Drew Lock is fourth in QBR? Let's figure out which early stats and trends have staying power and which are a mirage.",
-      "published": "2026-09-23T15:08:14Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49998629/evaluating-32-nfl-team-surprise-trends-2026-first-two-weeks-real-mirage",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720604_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 3",
-      "description": "How do all 32 NFL teams stack up ahead of Week 3? Plus, what we know for sure about the starting QBs around the league.",
-      "published": "2026-09-22T16:21:13Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49998616/nfl-power-rankings-week-3-teams-quarterbacks-stats",
-      "image": "https://a.espncdn.com/photo/2026/0920/nfl_power_rankings_608x342.png",
-      "type": "Story"
     }
   ]
 }
