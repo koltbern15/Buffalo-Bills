@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+      "description": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+      "published": "2026-10-05T15:25:41Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
+      "image": "https://a.espncdn.com/photo/2026/0202/r1609489_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Stephen A. disappointed by C.J. Gardner-Johnson's 'classless' response to Bills' loss",
+      "description": "Stephen A. disappointed by C.J. Gardner-Johnson's 'classless' response to Bills' loss ",
+      "published": "2026-10-05T14:56:37Z",
+      "url": "https://www.espn.com/video/clip/_/id/50109563/stephen-disappointed-cj-gardner-johnson-classless-response-bills-loss",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/ss_20261005_105303956_3686053/ss_20261005_105303956_3686053.jpg",
+      "type": "Media"
+    },
+    {
+      "headline": "How active NFL players continue to redefine all-time sack list",
+      "description": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "published": "2026-10-05T14:35:00Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
+      "image": "https://a.espncdn.com/photo/2026/0828/nfl_data_viz_garrett_cr_16x9_608x342.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "C.J. Gardner-Johnson: Efton Chism III is a 'practice squad player' who 'made a hell of a catch'",
+      "description": "C.J. Gardner-Johnson dismissed Efton Chism III as a \"practice squad player\" and said the Patriots WR's one-handed TD catch \"probably\" will never happen again.",
+      "published": "2026-10-05T13:50:45Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50109126/cj-gardner-johnson-efton-chism-iii-practice-squad-player-made-helluva-catch",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726290_1296x729_16-9.jpg",
+      "type": "HeadlineNews"
+    },
+    {
+      "headline": "NFL Week 5 betting: Odds, lines and totals for every game",
+      "description": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 5.",
+      "published": "2026-10-05T14:51:54Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50085464/2026-nfl-week-5-schedule-odds-betting-point-spreads-totals",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1725004_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-10-05T10:00:29Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 4: Big takeaways, questions and fantasy spin from Sunday's games",
       "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 4.",
       "published": "2026-10-05T05:31:59Z",
@@ -113,27 +161,11 @@
       "type": "Story"
     },
     {
-      "headline": "How active NFL players continue to redefine all-time sack list",
-      "description": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
-      "published": "2026-10-02T13:54:32Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
-      "image": "https://a.espncdn.com/photo/2026/0828/nfl_data_viz_garrett_cr_16x9_608x342.jpg",
-      "type": "Story"
-    },
-    {
       "headline": "Make pass interference reviewable? 17 NFL coaches are split",
       "description": "It's been tried once before and some coaches want to bring it back, but others want to keep status quo.",
       "published": "2026-10-02T13:47:07Z",
       "url": "https://www.espn.com/nfl/story/_/id/50078705/pass-interference-review-rams-broncos",
       "image": "https://a.espncdn.com/photo/2026/1001/r1724619_1296x729_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, top pick, more",
-      "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-10-02T10:51:10Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
       "type": "Story"
     },
     {
@@ -198,14 +230,6 @@
       "published": "2026-09-30T14:35:46Z",
       "url": "https://www.espn.com/nfl/story/_/id/50058901/week-4-buzz-fantasy-predictions-graziano-fowler-2026",
       "image": "https://a.espncdn.com/photo/2026/0929/r1723596_3_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "description": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "published": "2026-10-02T19:59:37Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-      "image": "https://a.espncdn.com/photo/2026/0202/r1609489_608x342_16-9.jpg",
       "type": "Story"
     },
     {
@@ -295,30 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50014420/week-3-picks-predictions-schedule-fantasy-odds-2026",
       "image": "https://a.espncdn.com/photo/2026/0923/r1721034_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Bills coach Brady unsatisfied with 2-0 start as Buffalo prepares to host winless Chargers",
-      "description": "— To hear Joe Brady express his concerns, it would be easy to think the Buffalo Bills opened the season winless instead of 2-0.",
-      "published": "2026-09-24T22:59:30Z",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872953",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872953.png?templateId=espn.applewatch.awayhome.1",
-      "type": "Preview"
-    },
-    {
-      "headline": "NFL Week 3 uniforms: Colts to wear 'Anvil Strike,' Bills debut 'Nickel City'",
-      "description": "Here's a look at what each NFL team is wearing in Week 3, led by the new NFL Rivalries look from the Indianapolis Colts.",
-      "published": "2026-09-27T22:09:33Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50008808/nfl-week-3-uniforms",
-      "image": "https://a.espncdn.com/photo/2026/0922/nfl_uniforms-week-03_16x9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Bills' T.J. Sanders out indefinitely after having appendectomy",
-      "description": "Bills defensive lineman T.J. Sanders is out indefinitely after having an appendectomy, coach Joe Brady said on Wednesday.",
-      "published": "2026-09-23T19:03:43Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50014666/bills-tj-sanders-indefinitely-having-appendectomy",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720960_1296x729_16-9.jpg",
-      "type": "HeadlineNews"
     }
   ]
 }
