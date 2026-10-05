@@ -1,6 +1,37 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Shoulder",
+      "date": "2026-10-05T00:42Z",
+      "athlete": {
+        "name": "DJ Moore",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-04T23:59Z",
+      "athlete": {
+        "name": "Dalton Kincaid",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-04T23:53Z",
+      "athlete": {
+        "name": "Keon Coleman",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-10-04T21:34Z",
@@ -51,17 +82,6 @@
         "name": "Te'Cory Couch",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427348.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Shoulder",
-      "date": "2026-10-04T18:45Z",
-      "athlete": {
-        "name": "DJ Moore",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
       }
     },
     {
@@ -184,16 +204,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-10-02T20:49Z",
-      "athlete": {
-        "name": "Keon Coleman",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-10-02T19:17Z",
       "athlete": {
         "name": "Damar Hamlin",
@@ -259,16 +269,6 @@
         "name": "Tyler Bass",
         "position": "PK",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-28T00:15Z",
-      "athlete": {
-        "name": "Dalton Kincaid",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
       }
     },
     {
