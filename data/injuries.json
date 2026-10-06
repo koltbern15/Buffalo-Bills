@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-10-06T04:07Z",
+      "athlete": {
+        "name": "Ty Johnson",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-10-06T02:41Z",
       "athlete": {
         "name": "Dawson Knox",
@@ -295,16 +305,6 @@
         "name": "Greg Dortch",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4037235.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-25T19:23Z",
-      "athlete": {
-        "name": "Ty Johnson",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
       }
     },
     {
