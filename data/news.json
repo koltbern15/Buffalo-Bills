@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Fantasy football D/ST outlook for Weeks 5-8: Jaguars a solid option in October",
+      "description": "Looking for the right D/ST units to stream over the next four weeks? Here's what you need to know.",
+      "published": "2026-10-06T17:04:36Z",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/50117199/fantasy-football-defense-special-teams-streaming-week-5",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726847_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Steve Smith Sr.: Bills need to get away from Josh Allen playing hero ball",
       "description": "Steve Smith Sr.: Bills need to get away from Josh Allen playing hero ball",
       "published": "2026-10-06T13:34:44Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50046373/nfl-week-3-trolls-2026",
       "image": "https://a.espncdn.com/photo/2026/0928/r1722760_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Allen, Bills outlast Chargers 24-16 despite committing 5 turnovers",
-      "description": "— Buffalo Bills safety C.J. Gardner-Johnson didn’t miss a beat when asked if he’d ever been part of a win when his team commits five turnovers.",
-      "published": "2026-09-28T00:19:30Z",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872953",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872953.png?templateId=espn.applewatch.awayhome.1",
-      "type": "Recap"
     }
   ]
 }
