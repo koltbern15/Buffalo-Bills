@@ -137,14 +137,6 @@
       "type": "Recap"
     },
     {
-      "headline": "New England Patriots vs. Buffalo Bills Game Highlights",
-      "description": "New England Patriots vs. Buffalo Bills Game Highlights",
-      "published": "2026-10-04T20:56:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/50103486/new-england-patriots-vs-buffalo-bills-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1004/36c04beb-6466-4b73-affa-10467c598ede/36c04beb-6466-4b73-affa-10467c598ede.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
       "description": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
       "published": "2026-10-04T19:29:26Z",
@@ -319,6 +311,14 @@
       "url": "https://www.espn.com/nfl/story/_/id/50046373/nfl-week-3-trolls-2026",
       "image": "https://a.espncdn.com/photo/2026/0928/r1722760_608x342_16-9.jpg",
       "type": "Story"
+    },
+    {
+      "headline": "Allen, Bills outlast Chargers 24-16 despite committing 5 turnovers",
+      "description": "— Buffalo Bills safety C.J. Gardner-Johnson didn’t miss a beat when asked if he’d ever been part of a win when his team commits five turnovers.",
+      "published": "2026-09-28T00:19:30Z",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872953",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872953.png?templateId=espn.applewatch.awayhome.1",
+      "type": "Recap"
     }
   ]
 }
