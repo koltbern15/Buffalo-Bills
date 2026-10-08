@@ -1,6 +1,17 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Shoulder - AC Joint",
+      "date": "2026-10-08T18:39Z",
+      "athlete": {
+        "name": "DJ Moore",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-10-08T01:09Z",
@@ -130,17 +141,6 @@
         "name": "Tyler Bass",
         "position": "PK",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Shoulder",
-      "date": "2026-10-05T00:42Z",
-      "athlete": {
-        "name": "DJ Moore",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
       }
     },
     {
