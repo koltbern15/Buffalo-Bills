@@ -113,14 +113,6 @@
       "type": "Story"
     },
     {
-      "headline": "Pats slow down Josh Allen in Bills' Week 4 loss",
-      "description": "Nick Suss discusses Josh Allen and the Bills following their first loss of the season.",
-      "published": "2026-10-05T03:54:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/50107295/pats-slow-josh-allen-bills-week-4-loss",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1004/dm_261004_SC4U_16x9_Bills_IA_10-4/dm_261004_SC4U_16x9_Bills_IA_10-4.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "What are the longest field goals in NFL history?",
       "description": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
       "published": "2026-10-05T00:51:42Z",
@@ -319,6 +311,14 @@
       "url": "https://www.espn.com/nfl/story/_/id/50046373/nfl-week-3-trolls-2026",
       "image": "https://a.espncdn.com/photo/2026/0928/r1722760_608x342_16-9.jpg",
       "type": "Story"
+    },
+    {
+      "headline": "Allen, Bills outlast Chargers 24-16 despite committing 5 turnovers",
+      "description": "— Buffalo Bills safety C.J. Gardner-Johnson didn’t miss a beat when asked if he’d ever been part of a win when his team commits five turnovers.",
+      "published": "2026-09-28T00:19:30Z",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872953",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872953.png?templateId=espn.applewatch.awayhome.1",
+      "type": "Recap"
     }
   ]
 }
