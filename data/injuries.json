@@ -35,17 +35,6 @@
     {
       "status": "Questionable",
       "type": "questionable",
-      "detail": "Shoulder - AC Joint",
-      "date": "2026-10-09T00:04Z",
-      "athlete": {
-        "name": "DJ Moore",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
       "detail": "Ankle",
       "date": "2026-10-08T23:12Z",
       "athlete": {
@@ -63,6 +52,17 @@
         "name": "Ed Oliver",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Shoulder - AC Joint",
+      "date": "2026-10-08T18:39Z",
+      "athlete": {
+        "name": "DJ Moore",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
       }
     },
     {
