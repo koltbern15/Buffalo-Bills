@@ -938,8 +938,8 @@
               "description": "Buffalo Bills at Los Angeles Rams (Monday Night Football)",
               "maxPrice": 18465,
               "startingPrice": 130,
-              "numberAvailable": 4726,
-              "totalPostings": 1603,
+              "numberAvailable": 4660,
+              "totalPostings": 1595,
               "links": [
                 {
                   "rel": [
@@ -1015,6 +1015,19 @@
           "href": "https://www.espn.com/nfl/game/_/gameId/401872994",
           "text": "Now",
           "shortText": "Now",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "preview",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/nfl/preview/_/gameId/401872994",
+          "text": "Preview",
+          "shortText": "Preview",
           "isExternal": false,
           "isPremium": false
         },
