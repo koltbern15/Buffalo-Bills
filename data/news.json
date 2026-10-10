@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Keon Coleman looks to stay hot in Week 5",
+      "description": "Nick Suss discusses Keon Coleman's latest breakout.",
+      "published": "2026-10-09T22:30:17Z",
+      "url": "https://www.espn.com/video/clip/_/id/50143108/keon-coleman-looks-stay-hot-week-5",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_SC4U_16x9_Bills_IA_10-9/dm_261009_SC4U_16x9_Bills_IA_10-9.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "Inside the NFL's wild endings and why coaches need to adapt",
       "description": "Scoring too early and kicking the ball into the end zone can be costly, as the Cowboys learned.",
       "published": "2026-10-09T17:31:51Z",
@@ -11,7 +19,7 @@
     {
       "headline": "NFL Week 5 preview: Picks, predictions, schedule, betting odds, fantasy tips",
       "description": "Bears vs. Packers? 49ers vs. Seahawks? There are 14 more games in Week 5, and we have picks, predictions and more for all of them.",
-      "published": "2026-10-09T14:48:25Z",
+      "published": "2026-10-09T23:48:02Z",
       "url": "https://www.espn.com/nfl/story/_/id/50129471/week-5-picks-predictions-schedule-fantasy-odds-2026",
       "image": "https://a.espncdn.com/photo/2026/1008/r1727677_608x342_16-9.jpg",
       "type": "Story"
@@ -310,14 +318,6 @@
       "published": "2026-09-30T14:35:46Z",
       "url": "https://www.espn.com/nfl/story/_/id/50058901/week-4-buzz-fantasy-predictions-graziano-fowler-2026",
       "image": "https://a.espncdn.com/photo/2026/0929/r1723596_3_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Seven things Solak thinks entering NFL Week 4",
-      "description": "Bowers will go off under Klint Kubiak? The Rams need another pass catcher? Steelers-Browns will be fun? And Lamar Jackson for MVP? Get ready for Week 4 with some takes.",
-      "published": "2026-09-29T13:33:07Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50054740/week-4-seven-things-solak-thinks-lamar-mvp-bills-rams-trade",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723237_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
