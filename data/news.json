@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Bills rule out Ed Oliver, Joshua Palmer, wait on WR DJ Moore",
+      "description": "Bills wide receiver DJ Moore returned to practice in a noncontact jersey and will be designated as questionable for \"Monday Night Football\" against the Rams. Buffalo has ruled out wide receiver Joshua Palmer and defensive tackle Ed Oliver.",
+      "published": "2026-10-10T19:28:09Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50149505/bills-rule-ed-oliver-joshua-palmer-wait-wr-dj-moore",
+      "image": "https://a.espncdn.com/photo/2026/0930/r1724190_1296x729_16-9.jpg",
+      "type": "HeadlineNews"
+    },
+    {
       "headline": "Keon Coleman looks to stay hot in Week 5",
       "description": "Nick Suss discusses Keon Coleman's latest breakout.",
       "published": "2026-10-09T22:30:17Z",
@@ -310,14 +318,6 @@
       "published": "2026-09-30T18:49:10Z",
       "url": "https://www.espn.com/nfl/story/_/id/49940451/how-nfl-players-cope-cte-risks",
       "image": "https://a.espncdn.com/photo/2026/0904/260904_nfl_risk-of-cte_16x9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Week 4 latest intel, buzz questions, news, fantasy tips",
-      "description": "Alarm bells for Justin Herbert and Drake Maye? More QB trades on the way? Growing injury concerns for the 49ers and Panthers? Here's the latest for Week 4.",
-      "published": "2026-09-30T14:35:46Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50058901/week-4-buzz-fantasy-predictions-graziano-fowler-2026",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723596_3_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
