@@ -3,6 +3,27 @@
     {
       "status": "Questionable",
       "type": "questionable",
+      "detail": "Shoulder",
+      "date": "2026-10-10T12:40Z",
+      "athlete": {
+        "name": "Joshua Palmer",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-10T12:39Z",
+      "athlete": {
+        "name": "Landon Jackson",
+        "position": "DE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432715.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
       "detail": "Shoulder - AC Joint",
       "date": "2026-10-09T23:08Z",
       "athlete": {
@@ -30,17 +51,6 @@
         "name": "Christian Benford",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379778.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Knee",
-      "date": "2026-10-09T00:08Z",
-      "athlete": {
-        "name": "Landon Jackson",
-        "position": "DE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432715.png"
       }
     },
     {
@@ -355,16 +365,6 @@
         "name": "Jackson Hawes",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573699.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-18T08:12Z",
-      "athlete": {
-        "name": "Joshua Palmer",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
       }
     },
     {
