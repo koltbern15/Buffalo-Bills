@@ -934,12 +934,12 @@
           "tickets": [
             {
               "id": "6491666",
-              "summary": "Tickets as low as $128",
+              "summary": "Tickets as low as $116",
               "description": "Buffalo Bills at Los Angeles Rams (Monday Night Football)",
               "maxPrice": 18092,
-              "startingPrice": 128,
-              "numberAvailable": 4439,
-              "totalPostings": 1599,
+              "startingPrice": 116,
+              "numberAvailable": 4430,
+              "totalPostings": 1584,
               "links": [
                 {
                   "rel": [
