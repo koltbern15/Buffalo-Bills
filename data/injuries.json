@@ -3,6 +3,27 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-10-11T03:11Z",
+      "athlete": {
+        "name": "Davison Igbinosun",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4832035.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Knee",
+      "date": "2026-10-11T02:38Z",
+      "athlete": {
+        "name": "Landon Jackson",
+        "position": "DE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432715.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-10-10T19:17Z",
       "athlete": {
         "name": "Christian Benford",
@@ -40,17 +61,6 @@
         "name": "Skyler Bell",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Knee",
-      "date": "2026-10-10T18:07Z",
-      "athlete": {
-        "name": "Landon Jackson",
-        "position": "DE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432715.png"
       }
     },
     {
@@ -234,16 +244,6 @@
         "name": "Te'Cory Couch",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427348.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-04T16:30Z",
-      "athlete": {
-        "name": "Davison Igbinosun",
-        "position": "CB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4832035.png"
       }
     },
     {
