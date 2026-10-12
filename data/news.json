@@ -1,11 +1,11 @@
 {
   "articles": [
     {
-      "headline": "NFL Week 5 arrivals: Maxx Crosby, Craig Woodson honor New England legends",
+      "headline": "NFL Week 5 arrivals: Ravens trio channels early 2000s style ahead of 'SNF'",
       "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-10-11T16:25:16Z",
+      "published": "2026-10-11T23:12:50Z",
       "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729230_608x342_16-9.png",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729458_2_608x342_16-9.png",
       "type": "Story"
     },
     {
@@ -23,14 +23,6 @@
       "url": "https://www.espn.com/video/clip/_/id/50143108/keon-coleman-looks-stay-hot-week-5",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_SC4U_16x9_Bills_IA_10-9/dm_261009_SC4U_16x9_Bills_IA_10-9.jpg",
       "type": "Media"
-    },
-    {
-      "headline": "Inside the NFL's wild endings and why coaches need to adapt",
-      "description": "Scoring too early and kicking the ball into the end zone can be costly, as the Cowboys learned.",
-      "published": "2026-10-09T17:31:51Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50135925/wild-endings-cowboys-ravens-touchback",
-      "image": "https://a.espncdn.com/photo/2026/1009/r1728178_1296x729_16-9.jpg",
-      "type": "Story"
     },
     {
       "headline": "NFL Week 5 preview: Picks, predictions, schedule, betting odds, fantasy tips",
@@ -318,6 +310,14 @@
       "published": "2026-09-30T18:49:10Z",
       "url": "https://www.espn.com/nfl/story/_/id/49940451/how-nfl-players-cope-cte-risks",
       "image": "https://a.espncdn.com/photo/2026/0904/260904_nfl_risk-of-cte_16x9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "NFL Week 4 latest intel, buzz questions, news, fantasy tips",
+      "description": "Alarm bells for Justin Herbert and Drake Maye? More QB trades on the way? Growing injury concerns for the 49ers and Panthers? Here's the latest for Week 4.",
+      "published": "2026-09-30T14:35:46Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50058901/week-4-buzz-fantasy-predictions-graziano-fowler-2026",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723596_3_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
