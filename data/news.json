@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 6 betting: Odds, lines and totals for every game",
+      "description": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
+      "published": "2026-10-12T14:26:06Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals",
+      "image": "https://a.espncdn.com/photo/2026/1010/r1728670_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "How to bet Bills-Rams on MNF: Analysis, tips and top prop plays",
+      "description": "Odds and analysis to help you bet Bills-Rams on \"Monday Night Football.\"",
+      "published": "2026-10-12T13:58:47Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50107754/nfl-week-5-odds-betting-tips-bills-rams",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729012_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
       "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
       "published": "2026-10-12T10:00:12Z",
@@ -303,22 +319,6 @@
       "url": "http://www.espn.com/nfl/preview?gameId=401872971",
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872971.png?templateId=espn.applewatch.awayhome.1",
       "type": "Preview"
-    },
-    {
-      "headline": "NFL survivor power rankings: Why you should use Vikings, Seahawks",
-      "description": "ESPN NFL survivor pool strategy, predictions and picks for Week 4 including the Vikings and Seahawks.",
-      "published": "2026-09-30T19:13:01Z",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/50069425/espn-nfl-survivor-week-4-survivor-pool-strategy-advice-picks-predictions",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1724016_1296x729_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Would NFL players take a test to diagnose CTE in the living?",
-      "description": "Would players want to know if they have the disease? Some would and some wouldn't. Here's what they said.",
-      "published": "2026-09-30T18:47:42Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49941739/would-nfl-players-take-test-diagnose-cte-living",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716714_1296x729_16-9.jpg",
-      "type": "Story"
     }
   ]
 }
