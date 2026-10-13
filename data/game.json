@@ -3,35 +3,35 @@
     "id": "401872994",
     "name": "BUF @ LAR",
     "date": "2026-10-13T00:15Z",
-    "state": "in",
+    "state": "post",
     "status": {
-      "id": "2",
-      "name": "STATUS_IN_PROGRESS",
-      "state": "in",
-      "completed": false,
-      "description": "In Progress",
-      "detail": "14:20 - 3rd Quarter",
-      "shortDetail": "14:20 - 3rd"
+      "id": "3",
+      "name": "STATUS_FINAL",
+      "state": "post",
+      "completed": true,
+      "description": "Final",
+      "detail": "Final/OT",
+      "shortDetail": "Final/OT",
+      "altDetail": "OT"
     },
-    "clock": "14:20",
-    "period": 3,
+    "clock": "0:00",
+    "period": 5,
     "us": {
       "abbr": "BUF",
-      "score": "13",
+      "score": "37",
       "homeAway": "away",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
     "them": {
       "abbr": "LAR",
       "name": "Los Angeles Rams",
-      "score": "7",
+      "score": "34",
       "homeAway": "home",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
     },
     "odds": null,
     "broadcast": "ESPN",
-    "winProbability": 57,
-    "lastPlay": " M.Stafford pass short left to P.Nacua to BUF 44 for 14 yards (C.Benford; T.Bernard)."
+    "winProbability": 100
   },
   "next": {
     "id": "401873005",
