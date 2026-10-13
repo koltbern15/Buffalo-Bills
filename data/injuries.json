@@ -1,6 +1,104 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Back",
+      "date": "2026-10-13T01:21Z",
+      "athlete": {
+        "name": "Spencer Brown",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Knee",
+      "date": "2026-10-12T22:56Z",
+      "athlete": {
+        "name": "Landon Jackson",
+        "position": "DE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432715.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Ankle",
+      "date": "2026-10-12T22:55Z",
+      "athlete": {
+        "name": "Dee Alford",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4401823.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Shoulder",
+      "date": "2026-10-12T22:51Z",
+      "athlete": {
+        "name": "Joshua Palmer",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-10-12T22:51Z",
+      "athlete": {
+        "name": "Ar'maj Reed-Adams",
+        "position": "G",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Knee",
+      "date": "2026-10-12T22:51Z",
+      "athlete": {
+        "name": "Ed Oliver",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-10-12T22:51Z",
+      "athlete": {
+        "name": "Jude Bowry",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Shoulder - AC Joint",
+      "date": "2026-10-12T22:49Z",
+      "athlete": {
+        "name": "DJ Moore",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-12T20:59Z",
+      "athlete": {
+        "name": "Trent Sherfield",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3122168.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-10-11T03:11Z",
@@ -8,17 +106,6 @@
         "name": "Davison Igbinosun",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4832035.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Knee",
-      "date": "2026-10-11T02:38Z",
-      "athlete": {
-        "name": "Landon Jackson",
-        "position": "DE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432715.png"
       }
     },
     {
@@ -32,28 +119,6 @@
       }
     },
     {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Ankle",
-      "date": "2026-10-10T19:14Z",
-      "athlete": {
-        "name": "Dee Alford",
-        "position": "CB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4401823.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Knee",
-      "date": "2026-10-10T18:55Z",
-      "athlete": {
-        "name": "Ed Oliver",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
-      }
-    },
-    {
       "status": "Active",
       "type": "active",
       "date": "2026-10-10T18:14Z",
@@ -61,28 +126,6 @@
         "name": "Skyler Bell",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Shoulder - AC Joint",
-      "date": "2026-10-10T18:05Z",
-      "athlete": {
-        "name": "DJ Moore",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Shoulder",
-      "date": "2026-10-10T18:00Z",
-      "athlete": {
-        "name": "Joshua Palmer",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
       }
     },
     {
@@ -150,39 +193,9 @@
       "type": "active",
       "date": "2026-10-05T18:30Z",
       "athlete": {
-        "name": "Mike Danna",
-        "position": "DE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915487.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-05T18:30Z",
-      "athlete": {
-        "name": "Jude Bowry",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-05T18:30Z",
-      "athlete": {
         "name": "Jalon Kilgore",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-05T18:30Z",
-      "athlete": {
-        "name": "Ar'maj Reed-Adams",
-        "position": "G",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
       }
     },
     {
@@ -508,16 +521,6 @@
         "name": "Kyle Allen",
         "position": "QB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3115293.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-02-25T05:03Z",
-      "athlete": {
-        "name": "Spencer Brown",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
       }
     },
     {
