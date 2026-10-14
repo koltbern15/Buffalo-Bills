@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Revisiting 2026 preseason bold predictions for 32 NFL teams: Which are on track?",
+      "description": "In the preseason, we made bold predictions for every NFL team, from Jordan Love's MVP case to Isaiah Likely's catch total. Which ones are on track? Which seem unlikely?",
+      "published": "2026-10-14T10:25:47Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50163007/2026-season-evaluating-preseason-predictions-updates",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730176_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Bills' Joe Brady warns RB James Cook of 'consequences' for costly fumbles",
       "description": "Bills coach Joe Brady said RB James Cook has done a lot of \"good things\" this season but warned his star runner about the \"consequences\" of his fumbling issues.",
       "published": "2026-10-13T23:32:42Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50109126/cj-gardner-johnson-efton-chism-iii-practice-squad-player-made-helluva-catch",
       "image": "https://a.espncdn.com/photo/2026/1005/r1726290_1296x729_16-9.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "NFL Week 4: Big takeaways, questions and fantasy spin from Sunday's games",
-      "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 4.",
-      "published": "2026-10-05T05:31:59Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50077236/week-4-sunday-games-takeaways-questions-2026",
-      "image": "https://a.espncdn.com/photo/2026/1005/r1726176_608x342_16-9.jpg",
-      "type": "Story"
     }
   ]
 }
