@@ -300,18 +300,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
         },
         {
-          "id": "3122168",
-          "name": "Trent Sherfield",
-          "jersey": "81",
-          "position": "WR",
-          "age": 30,
-          "height": "6' 0\"",
-          "weight": "203 lbs",
-          "experience": 9,
-          "college": "Vanderbilt",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3122168.png"
-        },
-        {
           "id": "4428696",
           "name": "O'Cyrus Torrence",
           "jersey": "64",
@@ -425,6 +413,18 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427348.png"
         },
         {
+          "id": "3915487",
+          "name": "Mike Danna",
+          "jersey": "51",
+          "position": "DE",
+          "age": 28,
+          "height": "6' 2\"",
+          "weight": "261 lbs",
+          "experience": 6,
+          "college": "Michigan",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915487.png"
+        },
+        {
           "id": "4594321",
           "name": "Kaleb Elarms-Orr",
           "jersey": "52",
@@ -533,18 +533,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432715.png"
         },
         {
-          "id": "5143279",
-          "name": "Anthony Kendall",
-          "jersey": "30",
-          "position": "CB",
-          "age": 26,
-          "height": "5' 10\"",
-          "weight": "188 lbs",
-          "experience": 3,
-          "college": "Baldwin Wallace",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5143279.png"
-        },
-        {
           "id": "5076951",
           "name": "Jalon Kilgore",
           "jersey": "29",
@@ -555,18 +543,6 @@
           "experience": 0,
           "college": "South Carolina",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
-        },
-        {
-          "id": "4241468",
-          "name": "Phidarian Mathis",
-          "jersey": "72",
-          "position": "DT",
-          "age": 28,
-          "height": "6' 4\"",
-          "weight": "312 lbs",
-          "experience": 5,
-          "college": "Alabama",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241468.png"
         },
         {
           "id": "4039303",
@@ -872,6 +848,30 @@
           "experience": 0,
           "college": "Kentucky",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430270.png"
+        },
+        {
+          "id": "4241468",
+          "name": "Phidarian Mathis",
+          "jersey": "72",
+          "position": "DT",
+          "age": 28,
+          "height": "6' 4\"",
+          "weight": "312 lbs",
+          "experience": 5,
+          "college": "Alabama",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241468.png"
+        },
+        {
+          "id": "3122168",
+          "name": "Trent Sherfield",
+          "jersey": "81",
+          "position": "WR",
+          "age": 30,
+          "height": "6' 0\"",
+          "weight": "203 lbs",
+          "experience": 9,
+          "college": "Vanderbilt",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3122168.png"
         },
         {
           "id": "4240575",
