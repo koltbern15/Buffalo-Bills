@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "headline": "Bills' Joe Brady warns RB James Cook of 'consequences' for costly fumbles",
+      "description": "Bills coach Joe Brady said RB James Cook has done a lot of \"good things\" this season but warned his star runner about the \"consequences\" of his fumbling issues.",
+      "published": "2026-10-13T23:32:42Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50177135/bills-brady-warns-rb-cook-consequences-costly-fumbles",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1729967_600x400_3-2.jpg",
+      "type": "HeadlineNews"
+    },
+    {
+      "headline": "NFL suspends Rams' Alaric Jackson for two games after punch",
+      "description": "The NFL on Tuesday suspended Rams left tackle Alaric Jackson for two games without pay after he punched Bills outside linebacker Bradley Chubb following Monday night's game in Los Angeles.",
+      "published": "2026-10-14T01:02:22Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50173615/nfl-suspends-rams-lt-jackson-punching-bills-chubb",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730114_1296x729_16-9.jpg",
+      "type": "HeadlineNews"
+    },
+    {
       "headline": "How Bills QB Josh Allen has become a star on and off the field",
       "description": "The Buffalo QB is racking up the endorsements and leaning on his Hollywood wife for advice.",
       "published": "2026-10-13T17:00:51Z",
@@ -303,22 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50077236/week-4-sunday-games-takeaways-questions-2026",
       "image": "https://a.espncdn.com/photo/2026/1005/r1726176_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "What are the longest field goals in NFL history?",
-      "description": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
-      "published": "2026-10-05T00:51:42Z",
-      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
-      "image": "https://a.espncdn.com/photo/2025/0810/r1529808_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Dee Alford says Bills' defense must adapt to stadium's loudness",
-      "description": "Bills cornerback Dee Alford says the crowd noise at new Highmark Stadium has proven to be a lot to overcome and that the defense must learn to adapt.",
-      "published": "2026-10-04T23:38:43Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50104751/dee-alford-says-bills-defense-adapt-stadium-loudness",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1726060_1296x729_16-9.jpg",
-      "type": "HeadlineNews"
     }
   ]
 }

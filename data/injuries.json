@@ -3,6 +3,36 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-10-14T02:57Z",
+      "athlete": {
+        "name": "Ray Davis",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-14T02:21Z",
+      "athlete": {
+        "name": "Mike Danna",
+        "position": "DE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915487.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-14T00:28Z",
+      "athlete": {
+        "name": "Ty Johnson",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-10-13T23:25Z",
       "athlete": {
         "name": "Keon Coleman",
@@ -139,16 +169,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-10-12T20:59Z",
-      "athlete": {
-        "name": "Trent Sherfield",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3122168.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-10-11T03:11Z",
       "athlete": {
         "name": "Davison Igbinosun",
@@ -199,31 +219,11 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-10-06T04:07Z",
-      "athlete": {
-        "name": "Ty Johnson",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-10-06T02:41Z",
       "athlete": {
         "name": "Dawson Knox",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3930086.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-06T00:06Z",
-      "athlete": {
-        "name": "Ray Davis",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
       }
     },
     {
