@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+      "description": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+      "published": "2026-10-14T18:51:31Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
+      "image": "https://a.espncdn.com/photo/2026/0202/r1609489_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Revisiting 2026 preseason bold predictions for 32 NFL teams: Which are on track?",
       "description": "In the preseason, we made bold predictions for every NFL team, from Jordan Love's MVP case to Isaiah Likely's catch total. Which ones are on track? Which seem unlikely?",
       "published": "2026-10-14T13:20:56Z",
@@ -47,14 +55,6 @@
       "url": "https://www.espn.com/video/clip/_/id/50173928/kind-hard-not-trust-josh-allen",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/ss_20261013_104518041_3695237648/ss_20261013_104518041_3695237648.jpg",
       "type": "Media"
-    },
-    {
-      "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "description": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "published": "2026-10-13T14:33:03Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-      "image": "https://a.espncdn.com/photo/2026/0202/r1609489_608x342_16-9.jpg",
-      "type": "Story"
     },
     {
       "headline": "NFL Week 6 betting: Odds, lines and totals for every game",
