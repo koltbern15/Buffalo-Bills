@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Which NFL teams have never won a Super Bowl?",
+      "description": "Some NFL teams have scored multiple Lombardi trophies, but which franchises have never won the Super Bowl? Check out more information now.",
+      "published": "2026-10-15T13:59:34Z",
+      "url": "https://www.espn.com/nfl/story/_/id/39387513/which-nfl-teams-never-won-super-bowl",
+      "image": "https://a.espncdn.com/photo/2011/0526/nfl_a_snorwood_sy_576.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
       "description": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
       "published": "2026-10-15T12:58:28Z",
@@ -11,9 +19,9 @@
     {
       "headline": "15 NFL players, coaches on the hot seat entering Week 6: Quinn, McDaniel, others",
       "description": "What now for Mike McDaniel? Should the Commanders or Eagles consider coaching changes? Could Jacoby Brissett or Brian Thomas Jr. get traded?",
-      "published": "2026-10-15T10:20:50Z",
+      "published": "2026-10-15T13:58:42Z",
       "url": "https://www.espn.com/nfl/story/_/id/50176029/hot-seats-players-coaches-week-6-barnwell",
-      "image": "https://a.espncdn.com/photo/2026/1014/r1730677_2_608x342_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1730677_2_608x342_16-9.jpg",
       "type": "Story"
     },
     {
@@ -310,14 +318,6 @@
       "published": "2026-10-06T15:49:59Z",
       "url": "https://www.espn.com/nfl/story/_/id/50109845/nfl-power-rankings-week-5-teams-first-month-recap",
       "image": "https://a.espncdn.com/photo/2026/1005/nfl_power_rankings_608x342.png",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-      "description": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-      "published": "2026-10-05T23:50:50Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel",
-      "image": "https://a.espncdn.com/photo/2026/1004/r1726003_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
