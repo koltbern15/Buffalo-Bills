@@ -1,9 +1,17 @@
 {
   "articles": [
     {
+      "headline": "Bills face Maxx Crosby challenge with uncertain O-line",
+      "description": "Nick Suss breaks down how Buffalo plans to handle Maxx Crosby as OT Spencer Brown works through a back injury.",
+      "published": "2026-10-15T03:49:48Z",
+      "url": "https://www.espn.com/video/clip/_/id/50186856/bills-face-maxx-crosby-challenge-uncertain-o-line",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1014/dm_261014_Watchfolder_Bills_IA/dm_261014_Watchfolder_Bills_IA.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "Rams' Alaric Jackson has suspension cut to 1 game following appeal",
       "description": "Alaric Jackson's suspension for punching Bradley Chubb after Monday night's game between the Bills and Rams was reduced from two games to one.",
-      "published": "2026-10-15T00:14:41Z",
+      "published": "2026-10-15T01:14:33Z",
       "url": "https://www.espn.com/nfl/story/_/id/50185418/rams-alaric-jackson-suspension-cut-1-game",
       "image": "https://a.espncdn.com/photo/2026/0609/r1670240_600x600_1-1.jpg",
       "type": "HeadlineNews"
@@ -143,30 +151,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50170290/buffalo-bills-los-angeles-rams-mnf-week-5-ot-josh-allen",
       "image": "https://a.espncdn.com/photo/2026/1013/r1729991_2_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Peyton Manning has his head in his hands after James Cook III's OT fumble",
-      "description": "Peyton Manning has his head in his hands after James Cook III's OT fumble",
-      "published": "2026-10-13T14:03:08Z",
-      "url": "https://www.espn.com/video/clip/_/id/50171166/peyton-manning-head-hands-james-cook-iii-ot-fumble",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/ss_20261013_000947476_3695117600/ss_20261013_000947476_3695117600.jpg",
-      "type": "Media"
-    },
-    {
-      "headline": "Josh Allen: 'Feels good' to be on winning side of OT",
-      "description": "Josh Allen: 'Feels good' to be on winning side of OT",
-      "published": "2026-10-13T12:24:39Z",
-      "url": "https://www.espn.com/video/clip/_/id/50171162/feels-good-winning-side-ot",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/ss_20261013_000831381_3695113/ss_20261013_000831381_3695113.jpg",
-      "type": "Media"
-    },
-    {
-      "headline": "Bills win OT thriller over the Rams to move to 4-1",
-      "description": "Bills win OT thriller over the Rams to move to 4-1",
-      "published": "2026-10-13T12:24:13Z",
-      "url": "https://www.espn.com/video/clip/_/id/50171089/bills-win-ot-thriller-rams-move-4-1",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1013/32e77eaf-f4a0-4edf-a089-08fd6114e3e5/32e77eaf-f4a0-4edf-a089-08fd6114e3e5.jpg",
-      "type": "Media"
     },
     {
       "headline": "Josh Allen racks up 331 yards and Bills outlast Rams with help from blocked FG for 37-34 win in OT",
@@ -319,6 +303,22 @@
       "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel",
       "image": "https://a.espncdn.com/photo/2026/1004/r1726003_608x342_16-9.jpg",
       "type": "Story"
+    },
+    {
+      "headline": "Bills CB Maxwell Hairston sorry for skipping media, addresses struggles",
+      "description": "A day after skipping out on the media, Bills cornerback Maxwell Hairston held an impromptu news conference to apologize and provide context for his early-season struggles.",
+      "published": "2026-10-05T21:34:58Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50111808/bills-cb-maxwell-hairston-sorry-skipping-media-addresses-struggles",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726533_2_1296x729_16-9.jpg",
+      "type": "HeadlineNews"
+    },
+    {
+      "headline": "Stephen A. disappointed by C.J. Gardner-Johnson's 'classless' response to Bills' loss",
+      "description": "Stephen A. disappointed by C.J. Gardner-Johnson's 'classless' response to Bills' loss ",
+      "published": "2026-10-05T14:56:37Z",
+      "url": "https://www.espn.com/video/clip/_/id/50109563/stephen-disappointed-cj-gardner-johnson-classless-response-bills-loss",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/ss_20261005_105303956_3686053/ss_20261005_105303956_3686053.jpg",
+      "type": "Media"
     }
   ]
 }
