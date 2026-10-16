@@ -3,8 +3,40 @@
     {
       "status": "Questionable",
       "type": "questionable",
+      "detail": "Hamstring",
+      "date": "2026-10-16T01:06Z",
+      "athlete": {
+        "name": "Ty Johnson",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Shoulder",
+      "date": "2026-10-16T00:57Z",
+      "athlete": {
+        "name": "Joshua Palmer",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-16T00:30Z",
+      "athlete": {
+        "name": "Spencer Brown",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
       "detail": "Shoulder - AC Joint",
-      "date": "2026-10-15T21:50Z",
+      "date": "2026-10-16T00:07Z",
       "athlete": {
         "name": "DJ Moore",
         "position": "WR",
@@ -30,28 +62,6 @@
         "name": "Ed Oliver",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Hamstring",
-      "date": "2026-10-14T23:40Z",
-      "athlete": {
-        "name": "Ty Johnson",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Shoulder",
-      "date": "2026-10-14T23:34Z",
-      "athlete": {
-        "name": "Joshua Palmer",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
       }
     },
     {
@@ -164,17 +174,6 @@
         "name": "James Cook III",
         "position": "RB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379399.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Back",
-      "date": "2026-10-13T02:54Z",
-      "athlete": {
-        "name": "Spencer Brown",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
       }
     },
     {
