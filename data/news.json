@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Bills defense needs to step up in Week 6",
+      "description": "Nick Suss discusses the Bills defense ahead of their Week 6 matchup against the Raiders.",
+      "published": "2026-10-16T02:29:15Z",
+      "url": "https://www.espn.com/video/clip/_/id/50193488/bills-defense-needs-step-week-6",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/dm_261015_SC4U_16x9_Bills_IA_10-15/dm_261015_SC4U_16x9_Bills_IA_10-15.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
       "description": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
       "published": "2026-10-16T00:00:42Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/video/clip/_/id/50116450/bills-need-get-away-josh-allen-playing-hero-ball",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/ss_20261006_092743906_3686775/ss_20261006_092743906_3686775.jpg",
       "type": "Media"
-    },
-    {
-      "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 5",
-      "description": "How does every NFL team stack up heading into Week 5? We made our 1-32 list and sized up each franchise's performance so far.",
-      "published": "2026-10-06T15:49:59Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50109845/nfl-power-rankings-week-5-teams-first-month-recap",
-      "image": "https://a.espncdn.com/photo/2026/1005/nfl_power_rankings_608x342.png",
-      "type": "Story"
     }
   ]
 }
