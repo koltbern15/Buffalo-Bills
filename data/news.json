@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "headline": "Ranking all eight NFL divisions this season by strength: NFC North at No. 1?",
+      "description": "Why do we have the NFC North at No. 1 in our annual division power ranking -- even ahead of the mighty NFC West? And is the NFC South at the bottom of our list ... again?",
+      "published": "2026-10-16T10:38:23Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50181965/2026-nfl-season-ranking-eight-nfl-divisions-best-worst",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731344_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "NFL Week 6 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+      "description": "Patrick Mahomes vs. Justin Herbert? C.J. Stroud vs. Trevor Lawrence? There are 13 more games in Week 6, and we have picks, predictions and more for all of them.",
+      "published": "2026-10-16T11:45:12Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50188997/week-6-picks-predictions-schedule-fantasy-odds-2026",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731221_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Bills defense needs to step up in Week 6",
       "description": "Nick Suss discusses the Bills defense ahead of their Week 6 matchup against the Raiders.",
       "published": "2026-10-16T02:29:15Z",
@@ -303,22 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50116787/week-5-buzz-fantasy-predictions-graziano-fowler-2026",
       "image": "https://a.espncdn.com/photo/2026/1006/r1726885_2_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Fantasy football D/ST outlook for Weeks 5-8: Jaguars a solid option in October",
-      "description": "Looking for the right D/ST units to stream over the next four weeks? Here's what you need to know.",
-      "published": "2026-10-08T17:46:01Z",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/50117199/fantasy-football-defense-special-teams-streaming-week-5",
-      "image": "https://a.espncdn.com/photo/2026/1006/r1726847_1296x729_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Steve Smith Sr.: Bills need to get away from Josh Allen playing hero ball",
-      "description": "Steve Smith Sr.: Bills need to get away from Josh Allen playing hero ball",
-      "published": "2026-10-06T13:34:44Z",
-      "url": "https://www.espn.com/video/clip/_/id/50116450/bills-need-get-away-josh-allen-playing-hero-ball",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/ss_20261006_092743906_3686775/ss_20261006_092743906_3686775.jpg",
-      "type": "Media"
     }
   ]
 }
