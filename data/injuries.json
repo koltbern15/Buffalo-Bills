@@ -1,10 +1,9 @@
 {
   "injuries": [
     {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Hamstring",
-      "date": "2026-10-16T01:06Z",
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-16T22:03Z",
       "athlete": {
         "name": "Ty Johnson",
         "position": "RB",
@@ -15,11 +14,22 @@
       "status": "Questionable",
       "type": "questionable",
       "detail": "Shoulder",
-      "date": "2026-10-16T00:57Z",
+      "date": "2026-10-16T22:01Z",
       "athlete": {
         "name": "Joshua Palmer",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Shoulder - AC Joint",
+      "date": "2026-10-16T21:19Z",
+      "athlete": {
+        "name": "DJ Moore",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
       }
     },
     {
@@ -30,17 +40,6 @@
         "name": "Spencer Brown",
         "position": "OT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Shoulder - AC Joint",
-      "date": "2026-10-16T00:07Z",
-      "athlete": {
-        "name": "DJ Moore",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
       }
     },
     {
