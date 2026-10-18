@@ -215,13 +215,13 @@
       "week": 6,
       "seasonType": 2,
       "status": {
-        "id": "1",
-        "name": "STATUS_SCHEDULED",
-        "state": "pre",
+        "id": "2",
+        "name": "STATUS_IN_PROGRESS",
+        "state": "in",
         "completed": false,
-        "description": "Scheduled",
-        "detail": "Sun, October 18th at 4:25 PM EDT",
-        "shortDetail": "10/18 - 4:25 PM EDT"
+        "description": "In Progress",
+        "detail": "9:43 - 2nd Quarter",
+        "shortDetail": "9:43 - 2nd"
       },
       "venue": {
         "name": "Allegiant Stadium",
