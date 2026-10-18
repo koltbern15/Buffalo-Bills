@@ -1,6 +1,27 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Ribs",
+      "date": "2026-10-18T22:39Z",
+      "athlete": {
+        "name": "Dalton Kincaid",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-18T21:23Z",
+      "athlete": {
+        "name": "Bradley Chubb",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3116733.png"
+      }
+    },
+    {
       "status": "Out",
       "type": "out",
       "detail": "Knee",
@@ -133,16 +154,6 @@
         "name": "Keon Coleman",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-13T05:27Z",
-      "athlete": {
-        "name": "Dalton Kincaid",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
       }
     },
     {
@@ -335,16 +346,6 @@
         "name": "Greg Dortch",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4037235.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-19T03:48Z",
-      "athlete": {
-        "name": "Bradley Chubb",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3116733.png"
       }
     },
     {

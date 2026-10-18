@@ -1,9 +1,17 @@
 {
   "articles": [
     {
+      "headline": "What are the longest field goals in NFL history?",
+      "description": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
+      "published": "2026-10-18T20:33:41Z",
+      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
+      "image": "https://a.espncdn.com/photo/2025/0810/r1529808_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
       "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
-      "published": "2026-10-18T17:17:31Z",
+      "published": "2026-10-18T19:24:30Z",
       "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
       "image": "https://a.espncdn.com/photo/2026/1018/r1732497_608x342_16-9.jpg",
       "type": "Story"
@@ -11,7 +19,7 @@
     {
       "headline": "Eagles WR DeVonta Smith leads NFL Week 6's best arrivals",
       "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-10-18T16:08:01Z",
+      "published": "2026-10-18T19:32:13Z",
       "url": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals",
       "image": "https://a.espncdn.com/photo/2026/1018/r1732459_608x342_16-9.png",
       "type": "Story"
@@ -41,14 +49,6 @@
       "type": "Story"
     },
     {
-      "headline": "Why the Bills could be in a 'troubling spot' vs. the Raiders",
-      "description": "Why the Bills could be in a 'troubling spot' vs. the Raiders",
-      "published": "2026-10-16T14:16:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/50196191/why-bills-a-troubling-spot-vs-raiders",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/ss_20261016_100723939_3698180/ss_20261016_100723939_3698180.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "Ranking all eight NFL divisions this season by strength: NFC North at No. 1?",
       "description": "Why do we have the NFC North at No. 1 in our annual division power ranking -- even ahead of the mighty NFC West? And is the NFC South at the bottom of our list ... again?",
       "published": "2026-10-16T10:38:23Z",
@@ -75,7 +75,7 @@
     {
       "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
       "description": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
-      "published": "2026-10-17T17:07:04Z",
+      "published": "2026-10-18T19:52:52Z",
       "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms",
       "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
       "type": "Story"
