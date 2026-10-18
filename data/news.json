@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "description": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+      "published": "2026-10-18T11:16:20Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726988_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 6 betting: Odds, lines and totals for every game",
       "description": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
       "published": "2026-10-16T17:30:10Z",
@@ -294,14 +302,6 @@
       "published": "2026-10-08T16:04:16Z",
       "url": "https://www.espn.com/nfl/story/_/id/50118698/2026-early-awards-ranking-mvp-rookies-coaches-barnwell",
       "image": "https://a.espncdn.com/photo/2026/1006/nfl_barnwell-qtr-season-awards_16x9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-      "description": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
-      "published": "2026-10-07T19:17:02Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
-      "image": "https://a.espncdn.com/photo/2026/1006/r1726988_608x342_16-9.jpg",
       "type": "Story"
     },
     {
