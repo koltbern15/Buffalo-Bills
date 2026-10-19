@@ -3,35 +3,34 @@
     "id": "401873005",
     "name": "BUF @ LV",
     "date": "2026-10-18T20:25Z",
-    "state": "in",
+    "state": "post",
     "status": {
-      "id": "2",
-      "name": "STATUS_IN_PROGRESS",
-      "state": "in",
-      "completed": false,
-      "description": "In Progress",
-      "detail": "6:15 - 4th Quarter",
-      "shortDetail": "6:15 - 4th"
+      "id": "3",
+      "name": "STATUS_FINAL",
+      "state": "post",
+      "completed": true,
+      "description": "Final",
+      "detail": "Final",
+      "shortDetail": "Final"
     },
-    "clock": "6:15",
+    "clock": "0:00",
     "period": 4,
     "us": {
       "abbr": "BUF",
-      "score": "23",
+      "score": "33",
       "homeAway": "away",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
     "them": {
       "abbr": "LV",
       "name": "Las Vegas Raiders",
-      "score": "23",
+      "score": "30",
       "homeAway": "home",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png"
     },
     "odds": null,
     "broadcast": "CBS",
-    "winProbability": 69,
-    "lastPlay": "J.Cook right guard to LV 35 for 1 yard (N.Dean; M.Crosby)."
+    "winProbability": 100
   },
   "next": {
     "id": "401873026",
