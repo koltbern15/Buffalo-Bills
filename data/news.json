@@ -1,17 +1,9 @@
 {
   "articles": [
     {
-      "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
-      "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
-      "published": "2026-10-19T00:56:05Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
-      "image": "https://a.espncdn.com/photo/2026/1019/r1732737_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
       "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
       "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
-      "published": "2026-10-19T00:55:00Z",
+      "published": "2026-10-19T00:03:56Z",
       "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026",
       "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
       "type": "Story"
@@ -41,12 +33,20 @@
       "type": "Recap"
     },
     {
-      "headline": "DB Gardner-Johnson expects fine after spitting incident in Bills' win",
-      "description": "With his team leading 13-10 at the time, Buffalo Bills safety C.J. Gardner-Johnson was ejected from Sunday's 33-30 victory over Las Vegas following an altercation during the final minute of the second quarter, when he spit toward the Raiders' direction.",
-      "published": "2026-10-19T00:59:41Z",
+      "headline": "Bills CB Gardner-Johnson ejected from win after apparent spitting incident",
+      "description": "With his team leading 13-10 at the time, Buffalo Bills safety C.J. Gardner-Johnson was ejected from Sunday's 33-30 victory over Las Vegas following an altercation in the final minute of the first half, when he appeared to spit in the Raiders' direction.",
+      "published": "2026-10-19T00:03:07Z",
       "url": "https://www.espn.com/nfl/story/_/id/50213664/bills-cb-gardner-johnson-tossed-apparent-spit-incident",
       "image": "https://a.espncdn.com/photo/2026/1018/r1732718_600x600_1-1.jpg",
       "type": "HeadlineNews"
+    },
+    {
+      "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+      "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+      "published": "2026-10-18T21:11:44Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
+      "image": "https://a.espncdn.com/photo/2026/1018/r1732620_1296x729_16-9.jpg",
+      "type": "Story"
     },
     {
       "headline": "What are the longest field goals in NFL history?",
