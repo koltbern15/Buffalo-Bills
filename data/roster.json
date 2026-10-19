@@ -910,6 +910,18 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2978313.png"
         },
         {
+          "id": "3042717",
+          "name": "Tre'Davious White",
+          "jersey": "27",
+          "position": "CB",
+          "age": 31,
+          "height": "5' 11\"",
+          "weight": "192 lbs",
+          "experience": 9,
+          "college": "LSU",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3042717.png"
+        },
+        {
           "id": "4428932",
           "name": "A.J. Woods",
           "position": "CB",
