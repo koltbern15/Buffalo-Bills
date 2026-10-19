@@ -1,12 +1,36 @@
 {
   "articles": [
     {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-10-19T10:00:01Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
       "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
-      "published": "2026-10-19T00:03:56Z",
+      "published": "2026-10-19T04:46:54Z",
       "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026",
       "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
       "type": "Story"
+    },
+    {
+      "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+      "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+      "published": "2026-10-19T04:17:26Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
+      "image": "https://a.espncdn.com/photo/2026/1019/r1732737_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Sunday's top plays from around the NFL",
+      "description": "Sunday's top plays from around the NFL",
+      "published": "2026-10-19T03:18:48Z",
+      "url": "https://www.espn.com/video/clip/_/id/50216041/sunday-top-plays-nfl",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1019/c63f65d6-0795-4a74-86c2-72763530db43/c63f65d6-0795-4a74-86c2-72763530db43.jpg",
+      "type": "Media"
     },
     {
       "headline": "Packers LB Zaire Franklin leads NFL Week 6's best arrivals",
@@ -26,27 +50,19 @@
     },
     {
       "headline": "Josh Allen ties Jim Kelly's Bills TD pass record as Buffalo holds off Raiders 33-30",
-      "description": "— Josh Allen passed for 255 yards and two touchdowns, using his improvisational brilliance to tie the Bills' career TD passing record, and Buffalo held off the Las Vegas Raiders 33-30 on Sunday.",
-      "published": "2026-10-18T23:52:28Z",
+      "description": "— Jim Kelly set the standard for every Bills quarterback, but even the Hall of Famer likely wouldn't have made the type of play Josh Allen pulled off Sunday.",
+      "published": "2026-10-19T03:34:28Z",
       "url": "http://www.espn.com/nfl/recap?gameId=401873005",
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873005.png?templateId=espn.applewatch.awayhome.1",
       "type": "Recap"
     },
     {
-      "headline": "Bills CB Gardner-Johnson ejected from win after apparent spitting incident",
-      "description": "With his team leading 13-10 at the time, Buffalo Bills safety C.J. Gardner-Johnson was ejected from Sunday's 33-30 victory over Las Vegas following an altercation in the final minute of the first half, when he appeared to spit in the Raiders' direction.",
-      "published": "2026-10-19T00:03:07Z",
+      "headline": "DB Gardner-Johnson expects fine after spitting incident in Bills' win",
+      "description": "With his team leading 13-10 at the time, Buffalo Bills safety C.J. Gardner-Johnson was ejected from Sunday's 33-30 victory over Las Vegas following an altercation during the final minute of the second quarter when he spit in the direction of the Raiders.",
+      "published": "2026-10-19T05:23:30Z",
       "url": "https://www.espn.com/nfl/story/_/id/50213664/bills-cb-gardner-johnson-tossed-apparent-spit-incident",
       "image": "https://a.espncdn.com/photo/2026/1018/r1732718_600x600_1-1.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
-      "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
-      "published": "2026-10-18T21:11:44Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
-      "image": "https://a.espncdn.com/photo/2026/1018/r1732620_1296x729_16-9.jpg",
-      "type": "Story"
     },
     {
       "headline": "What are the longest field goals in NFL history?",
@@ -95,14 +111,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50188997/week-6-picks-predictions-schedule-fantasy-odds-2026",
       "image": "https://a.espncdn.com/photo/2026/1015/r1731221_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Bills defense needs to step up in Week 6",
-      "description": "Nick Suss discusses the Bills defense ahead of their Week 6 matchup against the Raiders.",
-      "published": "2026-10-16T02:29:15Z",
-      "url": "https://www.espn.com/video/clip/_/id/50193488/bills-defense-needs-step-week-6",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/dm_261015_SC4U_16x9_Bills_IA_10-15/dm_261015_SC4U_16x9_Bills_IA_10-15.jpg",
-      "type": "Media"
     },
     {
       "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
@@ -206,14 +214,6 @@
       "published": "2026-10-13T19:01:02Z",
       "url": "https://www.espn.com/nfl/story/_/id/50166454/nfl-power-rankings-week-6-teams-biggest-issue-defense",
       "image": "https://a.espncdn.com/photo/2026/1012/nfl_power_rankings_v2_608x342.png",
-      "type": "Story"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-10-13T14:19:51Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
       "type": "Story"
     },
     {
