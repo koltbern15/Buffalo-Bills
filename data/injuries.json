@@ -4,11 +4,21 @@
       "status": "Suspension",
       "type": "Suspension",
       "detail": "Suspension",
-      "date": "2026-10-20T01:13Z",
+      "date": "2026-10-20T06:01Z",
       "athlete": {
         "name": "C.J. Gardner-Johnson",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-20T02:07Z",
+      "athlete": {
+        "name": "Tyler Bass",
+        "position": "PK",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
       }
     },
     {
@@ -251,16 +261,6 @@
         "name": "Jalon Kilgore",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-05T02:01Z",
-      "athlete": {
-        "name": "Tyler Bass",
-        "position": "PK",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
       }
     },
     {
