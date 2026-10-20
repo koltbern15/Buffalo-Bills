@@ -4,11 +4,33 @@
       "status": "Suspension",
       "type": "Suspension",
       "detail": "Suspension",
-      "date": "2026-10-20T15:23Z",
+      "date": "2026-10-20T19:06Z",
       "athlete": {
         "name": "C.J. Gardner-Johnson",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Shoulder - AC Joint",
+      "date": "2026-10-20T16:10Z",
+      "athlete": {
+        "name": "DJ Moore",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Knee",
+      "date": "2026-10-20T16:10Z",
+      "athlete": {
+        "name": "Ed Oliver",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
       }
     },
     {
@@ -142,17 +164,6 @@
       }
     },
     {
-      "status": "Out",
-      "type": "out",
-      "detail": "Knee",
-      "date": "2026-10-18T19:10Z",
-      "athlete": {
-        "name": "Ed Oliver",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
-      }
-    },
-    {
       "status": "Active",
       "type": "active",
       "date": "2026-10-18T19:07Z",
@@ -170,17 +181,6 @@
         "name": "T.J. Sanders",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Shoulder - AC Joint",
-      "date": "2026-10-18T18:57Z",
-      "athlete": {
-        "name": "DJ Moore",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
       }
     },
     {
