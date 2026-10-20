@@ -4,11 +4,41 @@
       "status": "Suspension",
       "type": "Suspension",
       "detail": "Suspension",
-      "date": "2026-10-19T22:56Z",
+      "date": "2026-10-20T01:13Z",
       "athlete": {
         "name": "C.J. Gardner-Johnson",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-20T00:47Z",
+      "athlete": {
+        "name": "Ty Johnson",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-20T00:42Z",
+      "athlete": {
+        "name": "Joshua Palmer",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-20T00:35Z",
+      "athlete": {
+        "name": "Ray Davis",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
       }
     },
     {
@@ -125,16 +155,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-10-18T19:05Z",
-      "athlete": {
-        "name": "Joshua Palmer",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-10-18T19:00Z",
       "athlete": {
         "name": "T.J. Sanders",
@@ -156,16 +176,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-10-16T22:03Z",
-      "athlete": {
-        "name": "Ty Johnson",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-10-16T00:30Z",
       "athlete": {
         "name": "Spencer Brown",
@@ -181,16 +191,6 @@
         "name": "Landon Jackson",
         "position": "DE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432715.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-14T02:57Z",
-      "athlete": {
-        "name": "Ray Davis",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
       }
     },
     {
@@ -536,16 +536,6 @@
         "name": "Keleki Latu",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688552.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-01-07T03:23Z",
-      "athlete": {
-        "name": "Tre'Davious White",
-        "position": "CB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3042717.png"
       }
     },
     {
