@@ -170,8 +170,8 @@
     {
       "competitions": [
         {
-          "attendance": 62618,
-          "boxscoreAvailable": true,
+          "attendance": 0,
+          "boxscoreAvailable": false,
           "broadcasts": [
             {
               "lang": "en",
@@ -196,393 +196,8 @@
                 "current": 99
               },
               "homeAway": "home",
-              "id": "13",
-              "order": 0,
-              "record": [
-                {
-                  "abbreviation": "Game",
-                  "description": "Overall Record",
-                  "displayName": "Record Year To Date",
-                  "displayValue": "3-3",
-                  "id": "369",
-                  "shortDisplayName": "YTD",
-                  "type": "total"
-                },
-                {
-                  "description": "Home Record",
-                  "displayName": "Home",
-                  "displayValue": "1-2",
-                  "id": "13",
-                  "shortDisplayName": "HOME",
-                  "type": "home"
-                },
-                {
-                  "description": "Away Record",
-                  "displayName": "Road",
-                  "displayValue": "2-1",
-                  "id": "14",
-                  "shortDisplayName": "AWAY",
-                  "type": "road"
-                }
-              ],
-              "score": {
-                "displayValue": "30",
-                "value": 30
-              },
-              "team": {
-                "abbreviation": "LV",
-                "displayName": "Las Vegas Raiders",
-                "id": "13",
-                "links": [
-                  {
-                    "href": "https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders",
-                    "rel": [
-                      "clubhouse",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "Clubhouse"
-                  },
-                  {
-                    "href": "https://www.espn.com/nfl/team/roster/_/name/lv/las-vegas-raiders",
-                    "rel": [
-                      "roster",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "Roster"
-                  },
-                  {
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:13&section=roster",
-                    "rel": [
-                      "roster",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "text": "Roster"
-                  },
-                  {
-                    "href": "https://www.espn.com/nfl/team/stats/_/name/lv/las-vegas-raiders",
-                    "rel": [
-                      "stats",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "Statistics"
-                  },
-                  {
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:13&section=stats",
-                    "rel": [
-                      "stats",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "text": "Statistics"
-                  },
-                  {
-                    "href": "https://www.espn.com/nfl/team/schedule/_/name/lv",
-                    "rel": [
-                      "schedule",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "Schedule"
-                  },
-                  {
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:13&section=scores",
-                    "rel": [
-                      "schedule",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "text": "Schedule"
-                  },
-                  {
-                    "href": "https://www.espn.com/nfl/team/photos/_/name/lv",
-                    "rel": [
-                      "photos",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "photos"
-                  },
-                  {
-                    "href": "https://www.vividseats.com/las-vegas-raiders-tickets--sports-nfl-football/performer/626?wsUser=717",
-                    "rel": [
-                      "tickets",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "Tickets"
-                  },
-                  {
-                    "href": "https://www.espn.com/nfl/draft/teams/_/name/lv/las-vegas-raiders",
-                    "rel": [
-                      "draftpicks",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "Draft Picks"
-                  },
-                  {
-                    "href": "https://www.espn.com/nfl/team/transactions/_/name/lv",
-                    "rel": [
-                      "transactions",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "Transactions"
-                  },
-                  {
-                    "href": "https://www.espn.com/nfl/team/injuries/_/name/lv",
-                    "rel": [
-                      "injuries",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "Injuries"
-                  },
-                  {
-                    "href": "https://www.espn.com/nfl/team/depth/_/name/lv",
-                    "rel": [
-                      "depthchart",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "Depth Chart"
-                  },
-                  {
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:13&section=depthchart",
-                    "rel": [
-                      "depthchart",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "text": "Depth Chart"
-                  }
-                ],
-                "location": "Las Vegas",
-                "logos": [
-                  {
-                    "alt": "",
-                    "height": 500,
-                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
-                    "rel": [
-                      "full",
-                      "default"
-                    ],
-                    "width": 500
-                  },
-                  {
-                    "alt": "",
-                    "height": 500,
-                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/lv.png",
-                    "rel": [
-                      "full",
-                      "dark"
-                    ],
-                    "width": 500
-                  },
-                  {
-                    "alt": "",
-                    "height": 500,
-                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
-                    "rel": [
-                      "full",
-                      "scoreboard"
-                    ],
-                    "width": 500
-                  },
-                  {
-                    "alt": "",
-                    "height": 500,
-                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/lv.png",
-                    "rel": [
-                      "full",
-                      "scoreboard",
-                      "dark"
-                    ],
-                    "width": 500
-                  },
-                  {
-                    "alt": "",
-                    "height": 500,
-                    "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/grayscale.png",
-                    "rel": [
-                      "full",
-                      "grayscale"
-                    ],
-                    "width": 500
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/primary_logo_on_white_color.png",
-                    "rel": [
-                      "full",
-                      "primary_logo_on_white_color"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/primary_logo_on_black_color.png",
-                    "rel": [
-                      "full",
-                      "primary_logo_on_black_color"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/primary_logo_on_primary_color.png",
-                    "rel": [
-                      "full",
-                      "primary_logo_on_primary_color"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/primary_logo_on_secondary_color.png",
-                    "rel": [
-                      "full",
-                      "primary_logo_on_secondary_color"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/primary_logo_black.png",
-                    "rel": [
-                      "full",
-                      "primary_logo_black"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/primary_logo_white.png",
-                    "rel": [
-                      "full",
-                      "primary_logo_white"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/secondary_logo_on_white_color.png",
-                    "rel": [
-                      "full",
-                      "secondary_logo_on_white_color"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/secondary_logo_on_black_color.png",
-                    "rel": [
-                      "full",
-                      "secondary_logo_on_black_color"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/secondary_logo_on_primary_color.png",
-                    "rel": [
-                      "full",
-                      "secondary_logo_on_primary_color"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/secondary_logo_on_secondary_color.png",
-                    "rel": [
-                      "full",
-                      "secondary_logo_on_secondary_color"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/secondary_logo_black.png",
-                    "rel": [
-                      "full",
-                      "secondary_logo_black"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/b18540eb-6f2b-534c-e7f9-9bd930518da9/logos/secondary_logo_white.png",
-                    "rel": [
-                      "full",
-                      "secondary_logo_white"
-                    ],
-                    "width": 4096
-                  }
-                ],
-                "nickname": "Raiders",
-                "shortDisplayName": "Raiders"
-              },
-              "type": "team",
-              "winner": false
-            },
-            {
-              "curatedRank": {
-                "current": 99
-              },
-              "homeAway": "away",
               "id": "2",
-              "order": 1,
-              "record": [
-                {
-                  "abbreviation": "Game",
-                  "description": "Overall Record",
-                  "displayName": "Record Year To Date",
-                  "displayValue": "5-1",
-                  "id": "369",
-                  "shortDisplayName": "YTD",
-                  "type": "total"
-                },
-                {
-                  "description": "Home Record",
-                  "displayName": "Home",
-                  "displayValue": "2-1",
-                  "id": "13",
-                  "shortDisplayName": "HOME",
-                  "type": "home"
-                },
-                {
-                  "description": "Away Record",
-                  "displayName": "Road",
-                  "displayValue": "3-0",
-                  "id": "14",
-                  "shortDisplayName": "AWAY",
-                  "type": "road"
-                }
-              ],
-              "score": {
-                "displayValue": "33",
-                "value": 33
-              },
+              "order": 0,
               "team": {
                 "abbreviation": "BUF",
                 "displayName": "Buffalo Bills",
@@ -896,30 +511,380 @@
                 "nickname": "Bills",
                 "shortDisplayName": "Bills"
               },
-              "type": "team",
-              "winner": true
+              "type": "team"
+            },
+            {
+              "curatedRank": {
+                "current": 99
+              },
+              "homeAway": "away",
+              "id": "33",
+              "order": 1,
+              "team": {
+                "abbreviation": "BAL",
+                "displayName": "Baltimore Ravens",
+                "id": "33",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nfl/team/_/name/bal/baltimore-ravens",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/roster/_/name/bal/baltimore-ravens",
+                    "rel": [
+                      "roster",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Roster"
+                  },
+                  {
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:33&section=roster",
+                    "rel": [
+                      "roster",
+                      "sportscenter",
+                      "app",
+                      "team"
+                    ],
+                    "text": "Roster"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/stats/_/name/bal/baltimore-ravens",
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Statistics"
+                  },
+                  {
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:33&section=stats",
+                    "rel": [
+                      "stats",
+                      "sportscenter",
+                      "app",
+                      "team"
+                    ],
+                    "text": "Statistics"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/schedule/_/name/bal",
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Schedule"
+                  },
+                  {
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:33&section=scores",
+                    "rel": [
+                      "schedule",
+                      "sportscenter",
+                      "app",
+                      "team"
+                    ],
+                    "text": "Schedule"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/photos/_/name/bal",
+                    "rel": [
+                      "photos",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "photos"
+                  },
+                  {
+                    "href": "https://www.vividseats.com/baltimore-ravens-tickets--sports-nfl-football/performer/60?wsUser=717",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Tickets"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/draft/teams/_/name/bal/baltimore-ravens",
+                    "rel": [
+                      "draftpicks",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Draft Picks"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/transactions/_/name/bal",
+                    "rel": [
+                      "transactions",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Transactions"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/injuries/_/name/bal",
+                    "rel": [
+                      "injuries",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Injuries"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/depth/_/name/bal",
+                    "rel": [
+                      "depthchart",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Depth Chart"
+                  },
+                  {
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:33&section=depthchart",
+                    "rel": [
+                      "depthchart",
+                      "sportscenter",
+                      "app",
+                      "team"
+                    ],
+                    "text": "Depth Chart"
+                  }
+                ],
+                "location": "Baltimore",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/bal.png",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/bal.png",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/grayscale.png",
+                    "rel": [
+                      "full",
+                      "grayscale"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_on_white_color.png",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_on_black_color.png",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_on_primary_color.png",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_on_secondary_color.png",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_black.png",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_white.png",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_on_white_color.png",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_on_black_color.png",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_on_primary_color.png",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_on_secondary_color.png",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_black.png",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_white.png",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "nickname": "Ravens",
+                "shortDisplayName": "Ravens"
+              },
+              "type": "team"
             }
           ],
-          "date": "2026-10-18T20:25Z",
-          "id": "401873005",
+          "date": "2026-11-01T18:00Z",
+          "id": "401873026",
           "neutralSite": false,
           "notes": [],
           "status": {
             "clock": 0,
             "displayClock": "0:00",
             "isTBDFlex": false,
-            "period": 4,
+            "period": 0,
             "type": {
-              "completed": true,
-              "description": "Final",
-              "detail": "Final",
-              "id": "3",
-              "name": "STATUS_FINAL",
-              "shortDetail": "Final",
-              "state": "post"
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Sun, November 1st at 1:00 PM EST",
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "shortDetail": "11/1 - 1:00 PM EST",
+              "state": "pre"
             }
           },
-          "ticketsAvailable": false,
+          "tickets": [
+            {
+              "description": "Baltimore Ravens at Buffalo Bills",
+              "id": "6488380",
+              "links": [
+                {
+                  "href": "https://www.vividseats.com/buffalo-bills-tickets-orchard-park-highmark-stadium-3-8-2026/production/6488380?wsUser=717",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "event"
+                  ]
+                },
+                {
+                  "href": "https://www.vividseats.com/highmark-stadium-tickets/venue/1385?wsUser=717",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "venue"
+                  ]
+                }
+              ],
+              "maxPrice": 15501,
+              "numberAvailable": 4232,
+              "startingPrice": 321,
+              "summary": "Tickets as low as $321",
+              "totalPostings": 1570
+            }
+          ],
+          "ticketsAvailable": true,
           "timeValid": true,
           "type": {
             "abbreviation": "STD",
@@ -930,20 +895,20 @@
           },
           "venue": {
             "address": {
-              "city": "Las Vegas",
+              "city": "Orchard Park",
               "country": "USA",
-              "state": "NV",
-              "zipCode": "89118"
+              "state": "NY",
+              "zipCode": "14127"
             },
-            "fullName": "Allegiant Stadium"
+            "fullName": "Highmark Stadium"
           }
         }
       ],
-      "date": "2026-10-18T20:25Z",
-      "id": "401873005",
+      "date": "2026-11-01T18:00Z",
+      "id": "401873026",
       "links": [
         {
-          "href": "https://www.espn.com/nfl/game/_/gameId/401873005/bills-raiders",
+          "href": "https://www.espn.com/nfl/game/_/gameId/401873026/ravens-bills",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
@@ -956,7 +921,7 @@
           "text": "Gamecast"
         },
         {
-          "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401873005",
+          "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401873026",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
@@ -970,7 +935,7 @@
           "text": "Gamecast"
         },
         {
-          "href": "https://www.espn.com/nfl/game/_/gameId/401873005",
+          "href": "https://www.espn.com/nfl/game/_/gameId/401873026",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
@@ -981,125 +946,6 @@
           ],
           "shortText": "Now",
           "text": "Now"
-        },
-        {
-          "href": "https://www.espn.com/nfl/matchup?gameId=401873005",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "teamstats",
-            "desktop",
-            "event"
-          ],
-          "shortText": "Team Stats",
-          "text": "Team Stats"
-        },
-        {
-          "href": "https://www.espn.com/nfl/boxscore/_/gameId/401873005",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "boxscore",
-            "desktop",
-            "event"
-          ],
-          "shortText": "Box Score",
-          "text": "Box Score"
-        },
-        {
-          "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401873005",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "boxscore",
-            "sportscenter",
-            "app",
-            "event"
-          ],
-          "shortText": "Box Score",
-          "text": "Box Score"
-        },
-        {
-          "href": "https://www.espn.com/nfl/game/_/gameId/401873005",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "gamecast",
-            "desktop",
-            "event"
-          ],
-          "shortText": "Gamecast",
-          "text": "Gamecast"
-        },
-        {
-          "href": "http://m.espn.com/nfl/gamecast?gameId=401873005&action=summary",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "gamecast",
-            "mobile",
-            "event"
-          ],
-          "shortText": "Gamecast",
-          "text": "Gamecast"
-        },
-        {
-          "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401873005",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "gamecast",
-            "sportscenter",
-            "app",
-            "event"
-          ],
-          "shortText": "Gamecast",
-          "text": "Gamecast"
-        },
-        {
-          "href": "https://www.espn.com/nfl/recap?gameId=401873005",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "recap",
-            "desktop",
-            "event"
-          ],
-          "shortText": "Recap",
-          "text": "Recap"
-        },
-        {
-          "href": "https://www.espn.com/nfl/playbyplay/_/gameId/401873005",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "pbp",
-            "desktop",
-            "event"
-          ],
-          "shortText": "Play-by-Play",
-          "text": "Play-by-Play"
-        },
-        {
-          "href": "https://www.espn.com/nfl/video?gameId=401873005",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "videos",
-            "desktop",
-            "event"
-          ],
-          "shortText": "Videos",
-          "text": "Videos"
         },
         {
           "href": "https://fantasy.espn.com/football/welcome?addata=nfl_gamecast_ffl2026",
@@ -1115,7 +961,7 @@
           "text": "Play Fantasy Football"
         },
         {
-          "href": "https://www.espn.com/nfl/odds/_/gameId/401873005",
+          "href": "https://www.espn.com/nfl/odds/_/gameId/401873026",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
@@ -1128,7 +974,7 @@
           "text": "Odds"
         },
         {
-          "href": "https://m.espn.com/nfl/odds/_/gameId/401873005",
+          "href": "https://m.espn.com/nfl/odds/_/gameId/401873026",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
@@ -1141,7 +987,7 @@
           "text": "Odds"
         }
       ],
-      "name": "Buffalo Bills at Las Vegas Raiders",
+      "name": "Baltimore Ravens at Buffalo Bills",
       "season": {
         "displayName": "2026",
         "year": 2026
@@ -1152,11 +998,11 @@
         "name": "Regular Season",
         "type": 2
       },
-      "shortName": "BUF @ LV",
+      "shortName": "BAL @ BUF",
       "timeValid": true,
       "week": {
-        "number": 6,
-        "text": "Week 6"
+        "number": 8,
+        "text": "Week 8"
       }
     }
   ]
