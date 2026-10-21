@@ -4,11 +4,22 @@
       "status": "Suspension",
       "type": "Suspension",
       "detail": "Suspension",
-      "date": "2026-10-21T11:00Z",
+      "date": "2026-10-21T15:59Z",
       "athlete": {
         "name": "C.J. Gardner-Johnson",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
+      }
+    },
+    {
+      "status": "Suspension",
+      "type": "Suspension",
+      "detail": "Suspension",
+      "date": "2026-10-21T14:13Z",
+      "athlete": {
+        "name": "Sam Franklin Jr.",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4044133.png"
       }
     },
     {
@@ -272,16 +283,6 @@
         "name": "Te'Cory Couch",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427348.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-04T07:56Z",
-      "athlete": {
-        "name": "Sam Franklin Jr.",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4044133.png"
       }
     },
     {
