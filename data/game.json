@@ -1,37 +1,5 @@
 {
-  "live": {
-    "id": "401873005",
-    "name": "BUF @ LV",
-    "date": "2026-10-18T20:25Z",
-    "state": "post",
-    "status": {
-      "id": "3",
-      "name": "STATUS_FINAL",
-      "state": "post",
-      "completed": true,
-      "description": "Final",
-      "detail": "Final",
-      "shortDetail": "Final"
-    },
-    "clock": "0:00",
-    "period": 4,
-    "us": {
-      "abbr": "BUF",
-      "score": "33",
-      "homeAway": "away",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
-    },
-    "them": {
-      "abbr": "LV",
-      "name": "Las Vegas Raiders",
-      "score": "30",
-      "homeAway": "home",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png"
-    },
-    "odds": null,
-    "broadcast": "CBS",
-    "winProbability": 100
-  },
+  "live": null,
   "next": {
     "id": "401873026",
     "date": "2026-11-01T18:00Z",
