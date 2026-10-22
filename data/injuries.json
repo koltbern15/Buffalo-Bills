@@ -4,11 +4,31 @@
       "status": "Suspension",
       "type": "Suspension",
       "detail": "Suspension",
-      "date": "2026-10-22T01:01Z",
+      "date": "2026-10-22T06:01Z",
       "athlete": {
         "name": "C.J. Gardner-Johnson",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-22T01:58Z",
+      "athlete": {
+        "name": "Dorian Williams",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568624.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-22T01:37Z",
+      "athlete": {
+        "name": "Davison Igbinosun",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4832035.png"
       }
     },
     {
@@ -227,16 +247,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-10-11T03:11Z",
-      "athlete": {
-        "name": "Davison Igbinosun",
-        "position": "CB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4832035.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-10-10T19:17Z",
       "athlete": {
         "name": "Christian Benford",
@@ -313,16 +323,6 @@
         "name": "Deone Walker",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4831989.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-27T17:28Z",
-      "athlete": {
-        "name": "Dorian Williams",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568624.png"
       }
     },
     {
