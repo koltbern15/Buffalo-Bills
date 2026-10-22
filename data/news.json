@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "headline": "Bills DB Gardner-Johnson's one-game suspension for spitting stands after appeal",
+      "description": "Bills safety C.J. Gardner-Johnson's one-game suspension for spitting at Raiders players in Sunday's game has been upheld by hearing officer Jordy Nelson.",
+      "published": "2026-10-22T15:42:23Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50249466/bills-db-cj-gardner-johnson-suspension-stands-appeal",
+      "image": "https://a.espncdn.com/photo/2026/1018/r1732718_1296x729_16-9.jpg",
+      "type": "HeadlineNews"
+    },
+    {
+      "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
+      "description": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
+      "published": "2026-10-22T14:52:37Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms",
+      "image": "https://a.espncdn.com/photo/2026/1021/16x9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Why the Bills have been historically good, and bad, through six weeks",
       "description": "As Buffalo heads into its Week 7 bye, quarterback Josh Allen and the offense have thrived, while the defense has not.",
       "published": "2026-10-21T16:43:11Z",
@@ -303,22 +319,6 @@
       "url": "http://www.espn.com/nfl/recap?gameId=401872994",
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872994.png?templateId=espn.applewatch.awayhome.1",
       "type": "Recap"
-    },
-    {
-      "headline": "NFL Week 5 arrivals: Ravens trio channels early 2000s style ahead of 'SNF'",
-      "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-10-13T00:14:19Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729458_2_608x342_16-9.png",
-      "type": "Story"
-    },
-    {
-      "headline": "How Dion Dawkins is using his past mistakes to help mentor kids in similar situations",
-      "description": "How Dion Dawkins is using his past mistakes to help mentor kids in similar situations",
-      "published": "2026-10-13T05:20:40Z",
-      "url": "https://www.espn.com/video/clip/_/id/50167803/how-dion-dawkins-using-mistakes-help-mentor-kids-similar-situations",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_Dawkins_Mugshot/dm_261012_Dawkins_Mugshot.jpg",
-      "type": "Media"
     }
   ]
 }
