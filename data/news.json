@@ -1,9 +1,17 @@
 {
   "articles": [
     {
+      "headline": "What are the longest field goals in NFL history?",
+      "description": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
+      "published": "2026-10-23T03:27:16Z",
+      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
+      "image": "https://a.espncdn.com/photo/2025/0810/r1529808_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
       "description": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-      "published": "2026-10-22T22:43:27Z",
+      "published": "2026-10-23T03:24:34Z",
       "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms",
       "image": "https://a.espncdn.com/photo/2026/1021/16x9.jpg",
       "type": "Story"
@@ -143,14 +151,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50213664/bills-cb-gardner-johnson-tossed-apparent-spit-incident",
       "image": "https://a.espncdn.com/photo/2026/1018/r1732718_600x600_1-1.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "What are the longest field goals in NFL history?",
-      "description": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
-      "published": "2026-10-18T20:33:41Z",
-      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
-      "image": "https://a.espncdn.com/photo/2025/0810/r1529808_608x342_16-9.jpg",
-      "type": "Story"
     },
     {
       "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
