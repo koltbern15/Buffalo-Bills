@@ -4,11 +4,21 @@
       "status": "Suspension",
       "type": "Suspension",
       "detail": "Suspension",
-      "date": "2026-10-23T17:15Z",
+      "date": "2026-10-23T20:30Z",
       "athlete": {
         "name": "C.J. Gardner-Johnson",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-23T19:09Z",
+      "athlete": {
+        "name": "Sam Franklin Jr.",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4044133.png"
       }
     },
     {
@@ -29,17 +39,6 @@
         "name": "Davison Igbinosun",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4832035.png"
-      }
-    },
-    {
-      "status": "Suspension",
-      "type": "Suspension",
-      "detail": "Suspension",
-      "date": "2026-10-21T23:09Z",
-      "athlete": {
-        "name": "Sam Franklin Jr.",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4044133.png"
       }
     },
     {
