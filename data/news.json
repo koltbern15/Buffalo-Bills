@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "headline": "Bills' Sam Franklin wins appeal; suspension for spitting reduced to fine",
+      "description": "Bills safety and special teams captain Sam Franklin Jr., has won his appeal to overturn the one-game suspension for supposedly spitting at an opponent in the win over the Raiders.",
+      "published": "2026-10-23T17:01:44Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50258709/bills-franklin-wins-appeal-suspension-spitting-overturned",
+      "image": "https://a.espncdn.com/photo/2026/1021/r1733893_600x400_3-2.jpg",
+      "type": "HeadlineNews"
+    },
+    {
+      "headline": "NFL Week 7 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+      "description": "Cowboys at Eagles? Bengals at Ravens? The Steelers and Saints in Paris? There are 13 more games in Week 7, and we have picks, predictions and more for all of them.",
+      "published": "2026-10-23T16:56:09Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50229521/week-7-picks-predictions-schedule-fantasy-odds-2026",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734277_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "What are the longest field goals in NFL history?",
       "description": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
       "published": "2026-10-23T03:27:16Z",
@@ -303,22 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50171513/bills-josh-allen-earns-first-career-win-vs-rams-mnf",
       "image": "https://a.espncdn.com/photo/2026/1013/r1730022_600x400_3-2.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "Rams' Alaric Jackson punches Bills' Bradley Chubb after MNF",
-      "description": "On the field after the Los Angeles Rams' 37-34 overtime loss to the Buffalo Bills on Monday night, Rams left tackle Alaric Jackson punched Bills outside linebacker Bradley Chubb in a scene captured by ESPN's cameras at SoFi Stadium.",
-      "published": "2026-10-13T06:49:20Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50171415/rams-alaric-jackson-punches-bills-bradley-chubb-mnf",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730013_600x600_1-1.jpg",
-      "type": "HeadlineNews"
-    },
-    {
-      "headline": "Bills, Josh Allen outlast Rams in overtime on MNF",
-      "description": "Using a throwback offense with downhill runs and scrambles from their star QB, the Bills escape with the win.",
-      "published": "2026-10-13T05:49:58Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50170290/buffalo-bills-los-angeles-rams-mnf-week-5-ot-josh-allen",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1729991_2_608x342_16-9.jpg",
-      "type": "Story"
     }
   ]
 }
