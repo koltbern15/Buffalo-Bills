@@ -1,24 +1,24 @@
 {
   "injuries": [
     {
-      "status": "Suspension",
-      "type": "Suspension",
-      "detail": "Suspension",
-      "date": "2026-10-23T23:20Z",
-      "athlete": {
-        "name": "C.J. Gardner-Johnson",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
-      }
-    },
-    {
       "status": "Active",
       "type": "active",
-      "date": "2026-10-23T19:09Z",
+      "date": "2026-10-24T01:44Z",
       "athlete": {
         "name": "Sam Franklin Jr.",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4044133.png"
+      }
+    },
+    {
+      "status": "Suspension",
+      "type": "Suspension",
+      "detail": "Suspension",
+      "date": "2026-10-24T01:32Z",
+      "athlete": {
+        "name": "C.J. Gardner-Johnson",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
       }
     },
     {
