@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Steelers Aaron Rodgers, QB room lead NFL Week 7's best arrivals",
+      "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-10-25T16:34:16Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1735940_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL execs, coaches rank the league's top five MVP candidates entering Week 7",
       "description": "Brock Purdy? Josh Allen? Or maybe even a non-QB? Sixteen execs and coaches voted on the top five contenders for the MVP award through six weeks.",
       "published": "2026-10-25T10:00:01Z",
@@ -46,14 +54,6 @@
       "published": "2026-10-23T03:27:16Z",
       "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
       "image": "https://a.espncdn.com/photo/2025/0810/r1529808_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Bears QB Caleb Williams leads NFL Week 7's best arrivals",
-      "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-10-22T22:13:38Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734769_800x450_16-9.png",
       "type": "Story"
     },
     {
@@ -297,14 +297,6 @@
       "type": "Story"
     },
     {
-      "headline": "Stephen A. to Canty: It's kind of hard not to trust Josh Allen",
-      "description": "Stephen A. to Canty: It's kind of hard not to trust Josh Allen",
-      "published": "2026-10-13T14:56:46Z",
-      "url": "https://www.espn.com/video/clip/_/id/50173928/kind-hard-not-trust-josh-allen",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/ss_20261013_104518041_3695237648/ss_20261013_104518041_3695237648.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "2026 NFL Power Rankings: How all 32 teams stack up for Week 6",
       "description": "How does every NFL team stack up heading into Week 6? We made our 1-32 list and picked the biggest defensive problem for every team.",
       "published": "2026-10-13T19:01:02Z",
@@ -318,6 +310,14 @@
       "published": "2026-10-13T06:49:30Z",
       "url": "https://www.espn.com/nfl/story/_/id/50171556/sean-mcvay-says-rams-evaluate-everything-kicking-unit-ot-loss-bills",
       "image": "https://a.espncdn.com/photo/2026/1013/r1730028_600x400_3-2.jpg",
+      "type": "HeadlineNews"
+    },
+    {
+      "headline": "Bills QB Josh Allen earns first overtime win of career vs. Rams on MNF",
+      "description": "Josh Allen came through with his usual late-game theatrics in leading the Bills to a 37-34 overtime win against the Rams on \"Monday Night Football,\" breaking his careerlong winless streak in OT.",
+      "published": "2026-10-13T13:35:21Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50171513/bills-josh-allen-earns-first-career-win-vs-rams-mnf",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730022_600x400_3-2.jpg",
       "type": "HeadlineNews"
     }
   ]
