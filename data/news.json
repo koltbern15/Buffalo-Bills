@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "NFL execs, coaches rank the league's top five MVP candidates entering Week 7",
+      "description": "Brock Purdy? Josh Allen? Or maybe even a non-QB? Sixteen execs and coaches voted on the top five contenders for the MVP award through six weeks.",
+      "published": "2026-10-25T10:00:01Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50239053/2026-nfl-season-mvp-early-ranking-watch-list-execs-coaches",
+      "image": "https://a.espncdn.com/photo/2026/1021/r1734042_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
       "description": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
       "published": "2026-10-24T17:02:08Z",
@@ -310,14 +318,6 @@
       "published": "2026-10-13T06:49:30Z",
       "url": "https://www.espn.com/nfl/story/_/id/50171556/sean-mcvay-says-rams-evaluate-everything-kicking-unit-ot-loss-bills",
       "image": "https://a.espncdn.com/photo/2026/1013/r1730028_600x400_3-2.jpg",
-      "type": "HeadlineNews"
-    },
-    {
-      "headline": "Bills QB Josh Allen earns first overtime win of career vs. Rams on MNF",
-      "description": "Josh Allen came through with his usual late-game theatrics in leading the Bills to a 37-34 overtime win against the Rams on \"Monday Night Football,\" breaking his careerlong winless streak in OT.",
-      "published": "2026-10-13T13:35:21Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50171513/bills-josh-allen-earns-first-career-win-vs-rams-mnf",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730022_600x400_3-2.jpg",
       "type": "HeadlineNews"
     }
   ]
