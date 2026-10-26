@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-10-26T10:00:11Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Steelers Aaron Rodgers, QB room lead NFL Week 7's best arrivals",
       "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "published": "2026-10-25T23:18:44Z",
@@ -46,14 +54,6 @@
       "published": "2026-10-23T17:32:21Z",
       "url": "https://www.espn.com/nfl/story/_/id/50229521/week-7-picks-predictions-schedule-fantasy-odds-2026",
       "image": "https://a.espncdn.com/photo/2026/1022/r1734277_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "What are the longest field goals in NFL history?",
-      "description": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
-      "published": "2026-10-23T03:27:16Z",
-      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
-      "image": "https://a.espncdn.com/photo/2025/0810/r1529808_608x342_16-9.jpg",
       "type": "Story"
     },
     {
@@ -134,14 +134,6 @@
       "published": "2026-10-19T13:02:00Z",
       "url": "https://www.espn.com/nfl/story/_/id/50216042/josh-allen-bills-fan-alligient-stadium",
       "image": "https://a.espncdn.com/photo/2026/1018/r1732686_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-10-19T10:00:01Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
       "type": "Story"
     },
     {
@@ -318,6 +310,14 @@
       "published": "2026-10-13T13:35:21Z",
       "url": "https://www.espn.com/nfl/story/_/id/50171513/bills-josh-allen-earns-first-career-win-vs-rams-mnf",
       "image": "https://a.espncdn.com/photo/2026/1013/r1730022_600x400_3-2.jpg",
+      "type": "HeadlineNews"
+    },
+    {
+      "headline": "Rams' Alaric Jackson punches Bills' Bradley Chubb after MNF",
+      "description": "On the field after the Los Angeles Rams' 37-34 overtime loss to the Buffalo Bills on Monday night, Rams left tackle Alaric Jackson punched Bills outside linebacker Bradley Chubb in a scene captured by ESPN's cameras at SoFi Stadium.",
+      "published": "2026-10-13T06:49:20Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50171415/rams-alaric-jackson-punches-bills-bradley-chubb-mnf",
+      "image": "https://a.espncdn.com/photo/2026/1013/r1730013_600x600_1-1.jpg",
       "type": "HeadlineNews"
     }
   ]
