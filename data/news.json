@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 8 betting odds: Lines and totals for every game",
+      "description": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
+      "published": "2026-10-26T14:35:24Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals",
+      "image": "https://a.espncdn.com/photo/2026/1026/r1736362_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
       "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
       "published": "2026-10-26T10:00:11Z",
@@ -171,7 +179,7 @@
     {
       "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
       "description": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
-      "published": "2026-10-18T11:16:20Z",
+      "published": "2026-10-26T16:14:24Z",
       "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
       "image": "https://a.espncdn.com/photo/2026/1006/r1726988_608x342_16-9.jpg",
       "type": "Story"
@@ -310,14 +318,6 @@
       "published": "2026-10-13T13:35:21Z",
       "url": "https://www.espn.com/nfl/story/_/id/50171513/bills-josh-allen-earns-first-career-win-vs-rams-mnf",
       "image": "https://a.espncdn.com/photo/2026/1013/r1730022_600x400_3-2.jpg",
-      "type": "HeadlineNews"
-    },
-    {
-      "headline": "Rams' Alaric Jackson punches Bills' Bradley Chubb after MNF",
-      "description": "On the field after the Los Angeles Rams' 37-34 overtime loss to the Buffalo Bills on Monday night, Rams left tackle Alaric Jackson punched Bills outside linebacker Bradley Chubb in a scene captured by ESPN's cameras at SoFi Stadium.",
-      "published": "2026-10-13T06:49:20Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50171415/rams-alaric-jackson-punches-bills-bradley-chubb-mnf",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730013_600x600_1-1.jpg",
       "type": "HeadlineNews"
     }
   ]
