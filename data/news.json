@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "headline": "What are the longest field goals in NFL history?",
+      "description": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
+      "published": "2026-10-26T04:07:12Z",
+      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
+      "image": "https://a.espncdn.com/photo/2025/0810/r1529808_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Jay-Z's road to the Super Bowl: Were the clues there all along?",
+      "description": "With Hov headed to SoFi Stadium's halftime stage in Los Angeles, we revisit the breadcrumbs that might have pointed us there.",
+      "published": "2026-10-27T03:06:13Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50244728/jay-z-super-bowl-half-hints",
+      "image": "https://a.espncdn.com/photo/2026/1026/r1736436_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Steelers Aaron Rodgers, QB room lead NFL Week 7's best arrivals",
       "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "published": "2026-10-26T22:50:32Z",
@@ -303,22 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50166454/nfl-power-rankings-week-6-teams-biggest-issue-defense",
       "image": "https://a.espncdn.com/photo/2026/1012/nfl_power_rankings_v2_608x342.png",
       "type": "Story"
-    },
-    {
-      "headline": "Sean McVay says Rams to 'evaluate everything' about kicking unit after OT loss",
-      "description": "After the Rams missed a field goal attempt and had another blocked in Monday night's 37-34 overtime loss to the Bills, coach Sean McVay said Los Angeles will \"evaluate everything\" about the kicking unit.",
-      "published": "2026-10-13T06:49:30Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50171556/sean-mcvay-says-rams-evaluate-everything-kicking-unit-ot-loss-bills",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730028_600x400_3-2.jpg",
-      "type": "HeadlineNews"
-    },
-    {
-      "headline": "Bills QB Josh Allen earns first overtime win of career vs. Rams on MNF",
-      "description": "Josh Allen came through with his usual late-game theatrics in leading the Bills to a 37-34 overtime win against the Rams on \"Monday Night Football,\" breaking his careerlong winless streak in OT.",
-      "published": "2026-10-13T13:35:21Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50171513/bills-josh-allen-earns-first-career-win-vs-rams-mnf",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730022_600x400_3-2.jpg",
-      "type": "HeadlineNews"
     }
   ]
 }
