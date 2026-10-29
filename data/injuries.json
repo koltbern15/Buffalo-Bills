@@ -4,11 +4,54 @@
       "status": "Suspension",
       "type": "Suspension",
       "detail": "Suspension",
-      "date": "2026-10-29T19:00Z",
+      "date": "2026-10-29T23:22Z",
       "athlete": {
         "name": "C.J. Gardner-Johnson",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Chest",
+      "date": "2026-10-29T21:00Z",
+      "athlete": {
+        "name": "Dalton Kincaid",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Shoulder - AC Joint",
+      "date": "2026-10-29T20:56Z",
+      "athlete": {
+        "name": "DJ Moore",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-29T20:38Z",
+      "athlete": {
+        "name": "T.J. Sanders",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Knee",
+      "date": "2026-10-29T20:37Z",
+      "athlete": {
+        "name": "Joe Andreessen",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4366349.png"
       }
     },
     {
@@ -23,31 +66,8 @@
       }
     },
     {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Chest",
-      "date": "2026-10-29T18:49Z",
-      "athlete": {
-        "name": "Dalton Kincaid",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Shoulder - AC Joint",
-      "date": "2026-10-29T18:42Z",
-      "athlete": {
-        "name": "DJ Moore",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Knee",
+      "status": "Active",
+      "type": "active",
       "date": "2026-10-29T00:27Z",
       "athlete": {
         "name": "Ed Oliver",
@@ -64,17 +84,6 @@
         "name": "Tyrell Shavers",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Shoulder",
-      "date": "2026-10-28T21:22Z",
-      "athlete": {
-        "name": "T.J. Sanders",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
       }
     },
     {
@@ -320,16 +329,6 @@
         "name": "Te'Cory Couch",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427348.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-03T17:41Z",
-      "athlete": {
-        "name": "Joe Andreessen",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4366349.png"
       }
     },
     {

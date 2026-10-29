@@ -878,10 +878,10 @@
                 }
               ],
               "maxPrice": 4076,
-              "numberAvailable": 4037,
-              "startingPrice": 246,
-              "summary": "Tickets as low as $246",
-              "totalPostings": 1511
+              "numberAvailable": 3932,
+              "startingPrice": 250,
+              "summary": "Tickets as low as $250",
+              "totalPostings": 1476
             }
           ],
           "ticketsAvailable": true,
@@ -946,6 +946,19 @@
           ],
           "shortText": "Now",
           "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nfl/preview/_/gameId/401873026",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "preview",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Preview",
+          "text": "Preview"
         },
         {
           "href": "https://fantasy.espn.com/football/welcome?addata=nfl_gamecast_ffl2026",
