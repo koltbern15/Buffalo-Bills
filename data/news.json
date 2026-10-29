@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Bills' Sam Franklin Jr. ready to play this week after suspension reduced to fine",
+      "description": "Bills DB and special teams captain Sam Franklin Jr., doesn't want to fixate on the incident that briefly landed him a suspension that was reduced to a fine upon appeal.",
+      "published": "2026-10-28T21:55:56Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50311224/bills-sam-franklin-ready-play-ban-reduced-fine",
+      "image": "https://a.espncdn.com/photo/2026/1028/r1737711_2_600x400_3-2.jpg",
+      "type": "HeadlineNews"
+    },
+    {
       "headline": "NFL Week 8 betting odds: Lines and totals for every game",
       "description": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
       "published": "2026-10-28T17:12:08Z",
@@ -310,14 +318,6 @@
       "published": "2026-10-13T23:32:42Z",
       "url": "https://www.espn.com/nfl/story/_/id/50177135/bills-brady-warns-rb-cook-consequences-costly-fumbles",
       "image": "https://a.espncdn.com/photo/2026/1013/r1729967_600x400_3-2.jpg",
-      "type": "HeadlineNews"
-    },
-    {
-      "headline": "NFL suspends Rams' Alaric Jackson for two games after punch",
-      "description": "The NFL on Tuesday suspended Rams left tackle Alaric Jackson for two games without pay after he punched Bills outside linebacker Bradley Chubb following Monday night's game in Los Angeles.",
-      "published": "2026-10-14T02:01:58Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50173615/nfl-suspends-rams-lt-jackson-punching-bills-chubb",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730114_1296x729_16-9.jpg",
       "type": "HeadlineNews"
     }
   ]

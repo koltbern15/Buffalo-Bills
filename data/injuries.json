@@ -4,11 +4,33 @@
       "status": "Suspension",
       "type": "Suspension",
       "detail": "Suspension",
-      "date": "2026-10-28T21:45Z",
+      "date": "2026-10-29T01:00Z",
       "athlete": {
         "name": "C.J. Gardner-Johnson",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Knee",
+      "date": "2026-10-29T00:27Z",
+      "athlete": {
+        "name": "Ed Oliver",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Knee - ACL",
+      "date": "2026-10-28T23:45Z",
+      "athlete": {
+        "name": "Tyrell Shavers",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
       }
     },
     {
@@ -126,17 +148,6 @@
         "name": "Dawson Knox",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3930086.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Knee",
-      "date": "2026-10-20T16:10Z",
-      "athlete": {
-        "name": "Ed Oliver",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
       }
     },
     {
@@ -399,17 +410,6 @@
         "name": "Michael Hoecht",
         "position": "DE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4033234.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Knee - ACL",
-      "date": "2026-09-08T20:42Z",
-      "athlete": {
-        "name": "Tyrell Shavers",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
       }
     },
     {
