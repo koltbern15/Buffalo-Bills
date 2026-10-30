@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 8 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+      "description": "Browns vs. Steelers? Battle of L.A.? Caleb Williams vs. the Seahawks' D? There are 13 more games in Week 8, and we have picks, predictions and more for all of them.",
+      "published": "2026-10-30T15:21:11Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50312157/week-8-picks-predictions-schedule-fantasy-odds-2026",
+      "image": "https://a.espncdn.com/photo/2026/1029/r1738320_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-10-30T15:17:41Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 8's best arrivals, led by Panthers' Bryce Young",
       "description": "Here's a look at the best-dressed players around the NFL in Week 8.",
       "published": "2026-10-30T00:01:06Z",
@@ -110,14 +126,6 @@
       "published": "2026-10-26T20:47:06Z",
       "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
       "image": "https://a.espncdn.com/photo/2026/0828/nfl_data_viz_garrett_cr_16x9_608x342.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-10-26T10:00:11Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
       "type": "Story"
     },
     {
@@ -310,14 +318,6 @@
       "published": "2026-10-15T13:59:34Z",
       "url": "https://www.espn.com/nfl/story/_/id/39387513/which-nfl-teams-never-won-super-bowl",
       "image": "https://a.espncdn.com/photo/2011/0526/nfl_a_snorwood_sy_576.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "15 NFL players, coaches on the hot seat entering Week 6: Quinn, McDaniel, others",
-      "description": "What now for Mike McDaniel? Should the Commanders or Eagles consider coaching changes? Could Jacoby Brissett or Brian Thomas Jr. get traded?",
-      "published": "2026-10-15T16:26:37Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50176029/hot-seats-players-coaches-week-6-barnwell",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1730677_2_608x342_16-9.jpg",
       "type": "Story"
     }
   ]

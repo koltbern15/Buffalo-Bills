@@ -1,10 +1,10 @@
 {
   "injuries": [
     {
-      "status": "Suspension",
-      "type": "Suspension",
+      "status": "Active",
+      "type": "active",
       "detail": "Suspension",
-      "date": "2026-10-30T09:01Z",
+      "date": "2026-10-30T16:00Z",
       "athlete": {
         "name": "C.J. Gardner-Johnson",
         "position": "S",
