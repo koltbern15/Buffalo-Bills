@@ -1,14 +1,77 @@
 {
   "injuries": [
     {
-      "status": "Active",
-      "type": "active",
+      "status": "Suspension",
+      "type": "Suspension",
       "detail": "Suspension",
-      "date": "2026-10-30T16:00Z",
+      "date": "2026-10-30T20:32Z",
       "athlete": {
         "name": "C.J. Gardner-Johnson",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-30T19:20Z",
+      "athlete": {
+        "name": "Ray Davis",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Calf",
+      "date": "2026-10-30T19:12Z",
+      "athlete": {
+        "name": "Greg Gaines",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-30T19:12Z",
+      "athlete": {
+        "name": "Bradley Chubb",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3116733.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-10-30T19:12Z",
+      "athlete": {
+        "name": "Joe Andreessen",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4366349.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Chest",
+      "date": "2026-10-30T17:48Z",
+      "athlete": {
+        "name": "Dalton Kincaid",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Shoulder - AC Joint",
+      "date": "2026-10-30T17:46Z",
+      "athlete": {
+        "name": "DJ Moore",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
       }
     },
     {
@@ -22,28 +85,6 @@
       }
     },
     {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Chest",
-      "date": "2026-10-29T21:00Z",
-      "athlete": {
-        "name": "Dalton Kincaid",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Shoulder - AC Joint",
-      "date": "2026-10-29T20:56Z",
-      "athlete": {
-        "name": "DJ Moore",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
-      }
-    },
-    {
       "status": "Active",
       "type": "active",
       "date": "2026-10-29T20:38Z",
@@ -51,28 +92,6 @@
         "name": "T.J. Sanders",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Knee",
-      "date": "2026-10-29T20:37Z",
-      "athlete": {
-        "name": "Joe Andreessen",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4366349.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Illness",
-      "date": "2026-10-29T18:49Z",
-      "athlete": {
-        "name": "Ray Davis",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
       }
     },
     {
@@ -95,17 +114,6 @@
         "name": "TJ Parker",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4870886.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Chest",
-      "date": "2026-10-28T21:22Z",
-      "athlete": {
-        "name": "Bradley Chubb",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3116733.png"
       }
     },
     {
@@ -462,16 +470,6 @@
         "name": "Chase Lundt",
         "position": "OT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427843.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-08-18T23:29Z",
-      "athlete": {
-        "name": "Greg Gaines",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
       }
     },
     {
