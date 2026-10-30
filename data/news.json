@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 8's best arrivals, led by Panthers' Bryce Young",
+      "description": "Here's a look at the best-dressed players around the NFL in Week 8.",
+      "published": "2026-10-30T00:01:06Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
+      "image": "https://a.espncdn.com/photo/2026/1029/r1738357_2_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Ed Oliver fully participates in Thursday's practice",
       "description": "Nick Suss on Ed Oliver's full participation in Thursday's practice and potential return vs. the Ravens.",
       "published": "2026-10-29T22:32:46Z",
@@ -19,7 +27,7 @@
     {
       "headline": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
       "description": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
-      "published": "2026-10-29T19:57:50Z",
+      "published": "2026-10-30T00:30:13Z",
       "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms",
       "image": "https://a.espncdn.com/photo/2026/1028/16x9.jpg",
       "type": "Story"
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50176029/hot-seats-players-coaches-week-6-barnwell",
       "image": "https://a.espncdn.com/photo/2026/1015/r1730677_2_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Rams' Alaric Jackson has suspension cut to 1 game following appeal",
-      "description": "Alaric Jackson's suspension for punching Bradley Chubb after Monday night's game between the Bills and Rams has been reduced from two games to one.",
-      "published": "2026-10-15T12:40:19Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50185418/rams-alaric-jackson-suspension-cut-1-game",
-      "image": "https://a.espncdn.com/photo/2026/0609/r1670240_600x600_1-1.jpg",
-      "type": "HeadlineNews"
     }
   ]
 }
