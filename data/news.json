@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 8 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
+      "description": "Tough day coming for Derrick Henry? Browns pulling an upset over the Steelers? Fantasy potential for Geno Smith? Let's predict 15 things for Week 8.﻿",
+      "published": "2026-10-31T10:57:35Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50319868/week-8-predictions-upsets-fantasy-sleepers-stats-2026",
+      "image": "https://a.espncdn.com/photo/2026/1029/r1738274_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Will the Bills' defense stop them from winning a Super Bowl?",
+      "description": "Buffalo's defense ranks among the worst in several key statistical areas, including the third-most points allowed.",
+      "published": "2026-10-31T10:24:11Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50312381/bill-defense-super-bowl-gardner-johnson-rousseau",
+      "image": "https://a.espncdn.com/photo/2026/1028/r1737569_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
       "description": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
       "published": "2026-10-31T02:02:22Z",
@@ -303,22 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50188997/week-6-picks-predictions-schedule-fantasy-odds-2026",
       "image": "https://a.espncdn.com/photo/2026/1015/r1731221_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
-      "description": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
-      "published": "2026-10-18T19:52:52Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms",
-      "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "The Bills aim to avoid a letdown in Las Vegas as the Raiders seek a rebound",
-      "description": "— Buffalo will come into its game against Las Vegas trying to maintain momentum. The Bills could learn a lesson on what not to do from the Raiders.",
-      "published": "2026-10-15T21:28:28Z",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873005",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873005.png?templateId=espn.applewatch.awayhome.1",
-      "type": "Preview"
     }
   ]
 }
