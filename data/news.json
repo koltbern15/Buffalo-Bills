@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
+      "description": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
+      "published": "2026-10-31T02:02:22Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms",
+      "image": "https://a.espncdn.com/photo/2026/1028/16x9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Bills making contingencies if hurt starters aren't available",
       "description": "The Bills have listed starters DJ Moore (shoulder), right tackle Spencer Brown (back) and nickel Dee Alford (ankle) as questionable vs. the Ravens.",
       "published": "2026-10-30T19:30:57Z",
@@ -58,19 +66,11 @@
     },
     {
       "headline": "Josh Allen looks to renew rivalry with Lamar Jackson as Bills host Ravens",
-      "description": "— Josh Allen can appreciate how heated discussions can get over bar stools, on talk radio and social media over whether he or Lamar Jackson are the better quarterback.",
-      "published": "2026-10-30T18:10:46Z",
+      "description": "— Josh Allen can appreciate how heated discussions can get at bar stools, on talk radio and social media over whether he or Lamar Jackson is the better quarterback.",
+      "published": "2026-10-30T23:52:46Z",
       "url": "http://www.espn.com/nfl/preview?gameId=401873026",
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873026.png?templateId=espn.applewatch.awayhome.1",
       "type": "Preview"
-    },
-    {
-      "headline": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
-      "description": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
-      "published": "2026-10-30T00:30:13Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms",
-      "image": "https://a.espncdn.com/photo/2026/1028/16x9.jpg",
-      "type": "Story"
     },
     {
       "headline": "Tre'Davious White rejoins Bills, lands on practice squad",

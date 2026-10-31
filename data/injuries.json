@@ -4,11 +4,22 @@
       "status": "Suspension",
       "type": "Suspension",
       "detail": "Suspension",
-      "date": "2026-10-31T00:00Z",
+      "date": "2026-10-31T05:00Z",
       "athlete": {
         "name": "C.J. Gardner-Johnson",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Back",
+      "date": "2026-10-31T01:53Z",
+      "athlete": {
+        "name": "Spencer Brown",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
       }
     },
     {
@@ -125,17 +136,6 @@
         "name": "TJ Parker",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4870886.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Back",
-      "date": "2026-10-28T21:20Z",
-      "athlete": {
-        "name": "Spencer Brown",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
       }
     },
     {
