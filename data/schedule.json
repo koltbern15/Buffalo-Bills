@@ -255,13 +255,13 @@
       "week": 8,
       "seasonType": 2,
       "status": {
-        "id": "23",
-        "name": "STATUS_HALFTIME",
-        "state": "in",
-        "completed": false,
-        "description": "Halftime",
-        "detail": "Halftime",
-        "shortDetail": "Halftime"
+        "id": "3",
+        "name": "STATUS_FINAL",
+        "state": "post",
+        "completed": true,
+        "description": "Final",
+        "detail": "Final",
+        "shortDetail": "Final"
       },
       "venue": {
         "name": "Highmark Stadium",
@@ -276,15 +276,15 @@
       },
       "score": {
         "us": {
-          "value": 16,
-          "displayValue": "16"
+          "value": 36,
+          "displayValue": "36"
         },
         "them": {
-          "value": 7,
-          "displayValue": "7"
+          "value": 10,
+          "displayValue": "10"
         }
       },
-      "result": null,
+      "result": "W",
       "homeAbbr": "BUF",
       "awayAbbr": "BAL"
     },

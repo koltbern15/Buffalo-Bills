@@ -4,7 +4,7 @@
       "status": "Suspension",
       "type": "Suspension",
       "detail": "Suspension",
-      "date": "2026-11-01T19:47Z",
+      "date": "2026-11-01T23:04Z",
       "athlete": {
         "name": "C.J. Gardner-Johnson",
         "position": "S",
@@ -12,14 +12,56 @@
       }
     },
     {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-01T22:30Z",
+      "athlete": {
+        "name": "James Cook III",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379399.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-01T22:28Z",
+      "athlete": {
+        "name": "Josh Allen",
+        "position": "QB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Knee",
+      "date": "2026-11-01T22:13Z",
+      "athlete": {
+        "name": "DJ Moore",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
+      }
+    },
+    {
       "status": "Questionable",
       "type": "questionable",
       "detail": "Hamstring",
-      "date": "2026-11-01T19:04Z",
+      "date": "2026-11-01T20:28Z",
       "athlete": {
         "name": "Joshua Palmer",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Ankle",
+      "date": "2026-11-01T19:47Z",
+      "athlete": {
+        "name": "Dee Alford",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4401823.png"
       }
     },
     {
@@ -99,17 +141,6 @@
       }
     },
     {
-      "status": "Out",
-      "type": "out",
-      "detail": "Ankle",
-      "date": "2026-11-01T16:33Z",
-      "athlete": {
-        "name": "Dee Alford",
-        "position": "CB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4401823.png"
-      }
-    },
-    {
       "status": "Active",
       "type": "active",
       "date": "2026-11-01T16:27Z",
@@ -117,16 +148,6 @@
         "name": "Dalton Kincaid",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-01T16:26Z",
-      "athlete": {
-        "name": "DJ Moore",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
       }
     },
     {
@@ -288,26 +309,6 @@
         "name": "Khalil Shakir",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-19T07:45Z",
-      "athlete": {
-        "name": "Josh Allen",
-        "position": "QB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-19T07:39Z",
-      "athlete": {
-        "name": "James Cook III",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379399.png"
       }
     },
     {

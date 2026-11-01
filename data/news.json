@@ -1,19 +1,43 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 8: Big takeaways, questions and fantasy spin from Sunday's games",
+      "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 8.",
+      "published": "2026-11-01T22:50:20Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50349340/week-8-sunday-games-takeaways-questions-2026",
+      "image": "https://a.espncdn.com/photo/2026/1101/r1739681_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Baltimore Ravens vs Buffalo Bills: Game Highlights",
+      "description": "Baltimore Ravens vs Buffalo Bills: Game Highlights",
+      "published": "2026-11-01T21:54:42Z",
+      "url": "https://www.espn.com/video/clip/_/id/50351505/game-highlights",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1101/7f7d8d1f-2300-46d7-8dc0-1c13f4effb1f/7f7d8d1f-2300-46d7-8dc0-1c13f4effb1f.jpg",
+      "type": "Media"
+    },
+    {
+      "headline": "Bills surge in 2nd half in 36-10 win over Baltimore in outing Ravens lose Jackson, Huntley to injury",
+      "description": "— Josh Allen threw two touchdown passes and scored another rushing, and the Buffalo Bills overcame a sloppy first half in a 36-10 win over Baltimore on Sunday in an outing the Ravens lost starting quarterback Lamar Jackson and his backup Tyler Huntley...",
+      "published": "2026-11-01T22:01:47Z",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873026",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873026.png?templateId=espn.applewatch.awayhome.1",
+      "type": "Recap"
+    },
+    {
+      "headline": "NFL Week 8's best arrivals, led by Rams' Quentin Lake",
+      "description": "Here's a look at the best-dressed players around the NFL in Week 8.",
+      "published": "2026-11-01T21:05:01Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
+      "image": "https://a.espncdn.com/photo/2026/1101/r1739714_2_608x342_16-9.png",
+      "type": "Story"
+    },
+    {
       "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
       "description": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
       "published": "2026-11-01T18:46:44Z",
       "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
       "image": "https://a.espncdn.com/photo/2026/1006/r1726988_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Week 8's best arrivals, led by Vikings' Kyler Murray",
-      "description": "Here's a look at the best-dressed players around the NFL in Week 8.",
-      "published": "2026-11-01T17:05:43Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
-      "image": "https://a.espncdn.com/photo/2026/1101/r1739525_608x342_16-9.jpg",
       "type": "Story"
     },
     {
@@ -87,14 +111,6 @@
       "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
       "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Ed Oliver fully participates in Thursday's practice",
-      "description": "Nick Suss on Ed Oliver's full participation in Thursday's practice and potential return vs. the Ravens.",
-      "published": "2026-10-29T22:32:46Z",
-      "url": "https://www.espn.com/video/clip/_/id/50322590/ed-oliver-fully-participates-thursday-practice",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1029/dm_261029_IA_Bills_16x9/dm_261029_IA_Bills_16x9.jpg",
-      "type": "Media"
     },
     {
       "headline": "Josh Allen looks to renew rivalry with Lamar Jackson as Bills host Ravens",
@@ -302,22 +318,6 @@
       "published": "2026-10-16T10:38:23Z",
       "url": "https://www.espn.com/nfl/story/_/id/50181965/2026-nfl-season-ranking-eight-nfl-divisions-best-worst",
       "image": "https://a.espncdn.com/photo/2026/1015/r1731344_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Week 6 preview: Picks, predictions, schedule, betting odds, fantasy tips",
-      "description": "Patrick Mahomes vs. Justin Herbert? C.J. Stroud vs. Trevor Lawrence? There are 13 more games in Week 6, and we have picks, predictions and more for all of them.",
-      "published": "2026-10-18T01:24:06Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50188997/week-6-picks-predictions-schedule-fantasy-odds-2026",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731221_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
-      "description": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
-      "published": "2026-10-18T19:52:52Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms",
-      "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
       "type": "Story"
     }
   ]

@@ -3,35 +3,34 @@
     "id": "401873026",
     "name": "BAL @ BUF",
     "date": "2026-11-01T18:00Z",
-    "state": "in",
+    "state": "post",
     "status": {
-      "id": "23",
-      "name": "STATUS_HALFTIME",
-      "state": "in",
-      "completed": false,
-      "description": "Halftime",
-      "detail": "Halftime",
-      "shortDetail": "Halftime"
+      "id": "3",
+      "name": "STATUS_FINAL",
+      "state": "post",
+      "completed": true,
+      "description": "Final",
+      "detail": "Final",
+      "shortDetail": "Final"
     },
     "clock": "0:00",
-    "period": 2,
+    "period": 4,
     "us": {
       "abbr": "BUF",
-      "score": "16",
+      "score": "36",
       "homeAway": "home",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
     "them": {
       "abbr": "BAL",
       "name": "Baltimore Ravens",
-      "score": "7",
+      "score": "10",
       "homeAway": "away",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png"
     },
     "odds": null,
     "broadcast": "CBS",
-    "winProbability": 83,
-    "lastPlay": "END QUARTER 2"
+    "winProbability": 100
   },
   "next": {
     "id": "401873051",

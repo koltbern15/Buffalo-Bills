@@ -19,15 +19,15 @@
           },
           {
             "name": "avgPointsAgainst",
-            "value": 28.5
+            "value": 25.857143
           },
           {
             "name": "avgPointsFor",
-            "value": 32.833332
+            "value": 33.285713
           },
           {
             "name": "differential",
-            "value": 26
+            "value": 52
           },
           {
             "name": "divisionWinPercent",
@@ -39,11 +39,11 @@
           },
           {
             "name": "gamesPlayed",
-            "value": 6
+            "value": 7
           },
           {
             "name": "leagueWinPercent",
-            "value": 0.75
+            "value": 0.8
           },
           {
             "name": "losses",
@@ -51,27 +51,27 @@
           },
           {
             "name": "playoffSeed",
-            "value": 2
+            "value": 1
           },
           {
             "name": "pointDifferential",
-            "value": 26
+            "value": 52
           },
           {
             "name": "points",
-            "value": 2
+            "value": 2.5
           },
           {
             "name": "pointsAgainst",
-            "value": 171
+            "value": 181
           },
           {
             "name": "pointsFor",
-            "value": 197
+            "value": 233
           },
           {
             "name": "streak",
-            "value": 2
+            "value": 3
           },
           {
             "name": "ties",
@@ -79,11 +79,11 @@
           },
           {
             "name": "winPercent",
-            "value": 0.8333333
+            "value": 0.85714287
           },
           {
             "name": "wins",
-            "value": 5
+            "value": 6
           },
           {
             "name": "divisionLosses",
@@ -106,7 +106,7 @@
             "value": 0
           }
         ],
-        "summary": "5-1",
+        "summary": "6-1",
         "type": "total"
       },
       {
@@ -114,7 +114,7 @@
         "stats": [
           {
             "name": "wins",
-            "value": 2
+            "value": 3
           },
           {
             "name": "losses",
@@ -126,14 +126,14 @@
           },
           {
             "name": "winPercent",
-            "value": 0.6666667
+            "value": 0.75
           },
           {
             "name": "OTLosses",
             "value": 0
           }
         ],
-        "summary": "2-1",
+        "summary": "3-1",
         "type": "home"
       },
       {
@@ -170,7 +170,7 @@
     {
       "competitions": [
         {
-          "attendance": 0,
+          "attendance": 60642,
           "boxscoreAvailable": true,
           "broadcasts": [
             {
@@ -198,9 +198,36 @@
               "homeAway": "home",
               "id": "2",
               "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Game",
+                  "description": "Overall Record",
+                  "displayName": "Record Year To Date",
+                  "displayValue": "6-1",
+                  "id": "369",
+                  "shortDisplayName": "YTD",
+                  "type": "total"
+                },
+                {
+                  "description": "Home Record",
+                  "displayName": "Home",
+                  "displayValue": "3-1",
+                  "id": "13",
+                  "shortDisplayName": "HOME",
+                  "type": "home"
+                },
+                {
+                  "description": "Away Record",
+                  "displayName": "Road",
+                  "displayValue": "3-0",
+                  "id": "14",
+                  "shortDisplayName": "AWAY",
+                  "type": "road"
+                }
+              ],
               "score": {
-                "displayValue": "16",
-                "value": 16
+                "displayValue": "36",
+                "value": 36
               },
               "team": {
                 "abbreviation": "BUF",
@@ -515,7 +542,8 @@
                 "nickname": "Bills",
                 "shortDisplayName": "Bills"
               },
-              "type": "team"
+              "type": "team",
+              "winner": true
             },
             {
               "curatedRank": {
@@ -524,9 +552,36 @@
               "homeAway": "away",
               "id": "33",
               "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Game",
+                  "description": "Overall Record",
+                  "displayName": "Record Year To Date",
+                  "displayValue": "4-4",
+                  "id": "369",
+                  "shortDisplayName": "YTD",
+                  "type": "total"
+                },
+                {
+                  "description": "Home Record",
+                  "displayName": "Home",
+                  "displayValue": "1-2",
+                  "id": "13",
+                  "shortDisplayName": "HOME",
+                  "type": "home"
+                },
+                {
+                  "description": "Away Record",
+                  "displayName": "Road",
+                  "displayValue": "3-2",
+                  "id": "14",
+                  "shortDisplayName": "AWAY",
+                  "type": "road"
+                }
+              ],
               "score": {
-                "displayValue": "7",
-                "value": 7
+                "displayValue": "10",
+                "value": 10
               },
               "team": {
                 "abbreviation": "BAL",
@@ -841,7 +896,8 @@
                 "nickname": "Ravens",
                 "shortDisplayName": "Ravens"
               },
-              "type": "team"
+              "type": "team",
+              "winner": false
             }
           ],
           "date": "2026-11-01T18:00Z",
@@ -849,50 +905,21 @@
           "neutralSite": false,
           "notes": [],
           "status": {
-            "clock": 2,
-            "displayClock": "0:02",
+            "clock": 0,
+            "displayClock": "0:00",
             "isTBDFlex": false,
-            "period": 2,
+            "period": 4,
             "type": {
-              "completed": false,
-              "description": "In Progress",
-              "detail": "0:02 - 2nd Quarter",
-              "id": "2",
-              "name": "STATUS_IN_PROGRESS",
-              "shortDetail": "0:02 - 2nd",
-              "state": "in"
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
             }
           },
-          "tickets": [
-            {
-              "description": "Baltimore Ravens at Buffalo Bills",
-              "id": "6488380",
-              "links": [
-                {
-                  "href": "https://www.vividseats.com/buffalo-bills-tickets-orchard-park-highmark-stadium-3-8-2026/production/6488380?wsUser=717",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "event"
-                  ]
-                },
-                {
-                  "href": "https://www.vividseats.com/highmark-stadium-tickets/venue/1385?wsUser=717",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "venue"
-                  ]
-                }
-              ],
-              "maxPrice": 394,
-              "numberAvailable": 12,
-              "startingPrice": 258,
-              "summary": "Tickets as low as $258",
-              "totalPostings": 5
-            }
-          ],
-          "ticketsAvailable": true,
+          "ticketsAvailable": false,
           "timeValid": true,
           "type": {
             "abbreviation": "STD",
@@ -916,16 +943,16 @@
       "id": "401873026",
       "links": [
         {
-          "href": "https://www.espn.com/nfl/game?gameId=401873026",
+          "href": "https://www.espn.com/nfl/game/_/gameId/401873026/ravens-bills",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
           "rel": [
-            "live",
+            "summary",
             "desktop",
             "event"
           ],
-          "shortText": "Gamecast",
+          "shortText": "Summary",
           "text": "Gamecast"
         },
         {
@@ -934,12 +961,12 @@
           "isPremium": false,
           "language": "en-US",
           "rel": [
-            "live",
+            "summary",
             "sportscenter",
             "app",
             "event"
           ],
-          "shortText": "Gamecast",
+          "shortText": "Summary",
           "text": "Gamecast"
         },
         {
@@ -1034,6 +1061,19 @@
           ],
           "shortText": "Gamecast",
           "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nfl/recap?gameId=401873026",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
         },
         {
           "href": "https://www.espn.com/nfl/playbyplay/_/gameId/401873026",
