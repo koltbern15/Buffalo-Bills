@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "description": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+      "published": "2026-11-01T18:46:44Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726988_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "NFL Week 8's best arrivals, led by Vikings' Kyler Murray",
+      "description": "Here's a look at the best-dressed players around the NFL in Week 8.",
+      "published": "2026-11-01T17:05:43Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
+      "image": "https://a.espncdn.com/photo/2026/1101/r1739525_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Fan therapy: A Bills fan should never leave early",
+      "description": "Fan therapy: A Bills fan should never leave early ",
+      "published": "2026-11-01T17:33:49Z",
+      "url": "https://www.espn.com/video/clip/_/id/50347611/bills-fan-never-leave-early",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/ss_20261101_083635915_3720543544/ss_20261101_083635915_3720543544.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
       "description": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
       "published": "2026-10-31T21:53:28Z",
@@ -62,14 +86,6 @@
       "published": "2026-10-30T15:17:41Z",
       "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
       "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Week 8's best arrivals, led by Panthers' Bryce Young",
-      "description": "Here's a look at the best-dressed players around the NFL in Week 8.",
-      "published": "2026-10-30T00:01:06Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
-      "image": "https://a.espncdn.com/photo/2026/1029/r1738357_2_608x342_16-9.jpg",
       "type": "Story"
     },
     {
@@ -233,14 +249,6 @@
       "type": "HeadlineNews"
     },
     {
-      "headline": "How a rookie saved the day for the Bills",
-      "description": "Nick Suss breaks down a key defensive play from Jalon Kilgore in the fourth quarter that helped seal the Bills' win over the Raiders.",
-      "published": "2026-10-19T13:47:03Z",
-      "url": "https://www.espn.com/video/clip/_/id/50218025/how-rookie-saved-day-bills",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1019/dm_261019_NFL_InstantAnalysis_Bills_IA/dm_261019_NFL_InstantAnalysis_Bills_IA.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "Bills Mafia road fans surprised, confused Josh Allen on Keon Coleman TD",
       "description": "Josh Allen's theatrical touchdown pass to Keon Coleman left him wondering who had the dominant fanbase at Allegiant Stadium.",
       "published": "2026-10-19T13:02:00Z",
@@ -279,14 +287,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50213664/bills-cb-gardner-johnson-tossed-apparent-spit-incident",
       "image": "https://a.espncdn.com/photo/2026/1018/r1732718_600x600_1-1.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-      "description": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
-      "published": "2026-10-26T16:14:24Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
-      "image": "https://a.espncdn.com/photo/2026/1006/r1726988_608x342_16-9.jpg",
-      "type": "Story"
     },
     {
       "headline": "NFL Week 6 betting: Odds, lines and totals for every game",

@@ -4,7 +4,7 @@
       "status": "Suspension",
       "type": "Suspension",
       "detail": "Suspension",
-      "date": "2026-11-01T15:18Z",
+      "date": "2026-11-01T19:47Z",
       "athlete": {
         "name": "C.J. Gardner-Johnson",
         "position": "S",
@@ -14,8 +14,105 @@
     {
       "status": "Questionable",
       "type": "questionable",
-      "detail": "Chest",
-      "date": "2026-11-01T15:00Z",
+      "detail": "Hamstring",
+      "date": "2026-11-01T19:04Z",
+      "athlete": {
+        "name": "Joshua Palmer",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Calf",
+      "date": "2026-11-01T17:33Z",
+      "athlete": {
+        "name": "Greg Gaines",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Back",
+      "date": "2026-11-01T17:20Z",
+      "athlete": {
+        "name": "Spencer Brown",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-11-01T16:33Z",
+      "athlete": {
+        "name": "Ar'maj Reed-Adams",
+        "position": "G",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-11-01T16:33Z",
+      "athlete": {
+        "name": "Jalon Kilgore",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-11-01T16:33Z",
+      "athlete": {
+        "name": "Skyler Bell",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-11-01T16:33Z",
+      "athlete": {
+        "name": "Mike Danna",
+        "position": "DE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915487.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-01T16:33Z",
+      "athlete": {
+        "name": "TJ Parker",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4870886.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Ankle",
+      "date": "2026-11-01T16:33Z",
+      "athlete": {
+        "name": "Dee Alford",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4401823.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-01T16:27Z",
       "athlete": {
         "name": "Dalton Kincaid",
         "position": "TE",
@@ -23,10 +120,9 @@
       }
     },
     {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Shoulder - AC Joint",
-      "date": "2026-11-01T14:44Z",
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-01T16:26Z",
       "athlete": {
         "name": "DJ Moore",
         "position": "WR",
@@ -44,28 +140,6 @@
       }
     },
     {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Back",
-      "date": "2026-10-31T01:53Z",
-      "athlete": {
-        "name": "Spencer Brown",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Ankle",
-      "date": "2026-10-30T21:56Z",
-      "athlete": {
-        "name": "Dee Alford",
-        "position": "CB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4401823.png"
-      }
-    },
-    {
       "status": "Active",
       "type": "active",
       "date": "2026-10-30T19:20Z",
@@ -73,17 +147,6 @@
         "name": "Ray Davis",
         "position": "RB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Calf",
-      "date": "2026-10-30T19:12Z",
-      "athlete": {
-        "name": "Greg Gaines",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
       }
     },
     {
@@ -135,17 +198,6 @@
         "name": "Tyrell Shavers",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Knee",
-      "date": "2026-10-28T21:22Z",
-      "athlete": {
-        "name": "TJ Parker",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4870886.png"
       }
     },
     {
@@ -211,41 +263,11 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-10-20T00:42Z",
-      "athlete": {
-        "name": "Joshua Palmer",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-19T16:23Z",
-      "athlete": {
-        "name": "Mike Danna",
-        "position": "DE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915487.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-10-19T16:23Z",
       "athlete": {
         "name": "Jude Bowry",
         "position": "OT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-19T16:23Z",
-      "athlete": {
-        "name": "Ar'maj Reed-Adams",
-        "position": "G",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
       }
     },
     {
@@ -311,31 +333,11 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-10-10T18:14Z",
-      "athlete": {
-        "name": "Skyler Bell",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-10-08T01:09Z",
       "athlete": {
         "name": "Greg Rousseau",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362506.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-05T18:30Z",
-      "athlete": {
-        "name": "Jalon Kilgore",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
       }
     },
     {
