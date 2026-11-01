@@ -89,14 +89,6 @@
       "type": "Preview"
     },
     {
-      "headline": "Tre'Davious White rejoins Bills, lands on practice squad",
-      "description": "Nick Suss reports on CB Tre'Davious White rejoining the Buffalo Bills.",
-      "published": "2026-10-29T00:49:20Z",
-      "url": "https://www.espn.com/video/clip/_/id/50312581/tredavious-white-rejoins-bills-lands-practice-squad",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1028/dm_261028_SC4U_16x9_Bills_IA_10-28/dm_261028_SC4U_16x9_Bills_IA_10-28.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "Bills' Sam Franklin Jr. ready to play this week after suspension reduced to fine",
       "description": "Bills DB and special teams captain Sam Franklin Jr., doesn't want to fixate on the incident that briefly landed him a suspension that was reduced to a fine upon appeal.",
       "published": "2026-10-28T21:55:56Z",
@@ -318,6 +310,14 @@
       "published": "2026-10-18T01:24:06Z",
       "url": "https://www.espn.com/nfl/story/_/id/50188997/week-6-picks-predictions-schedule-fantasy-odds-2026",
       "image": "https://a.espncdn.com/photo/2026/1015/r1731221_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+      "description": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+      "published": "2026-10-18T19:52:52Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms",
+      "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
       "type": "Story"
     }
   ]
