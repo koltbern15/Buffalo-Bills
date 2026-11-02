@@ -4,11 +4,83 @@
       "status": "Suspension",
       "type": "Suspension",
       "detail": "Suspension",
-      "date": "2026-11-02T09:00Z",
+      "date": "2026-11-02T19:26Z",
       "athlete": {
         "name": "C.J. Gardner-Johnson",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Back",
+      "date": "2026-11-02T18:47Z",
+      "athlete": {
+        "name": "Spencer Brown",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Calf",
+      "date": "2026-11-02T18:47Z",
+      "athlete": {
+        "name": "Greg Gaines",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-02T18:47Z",
+      "athlete": {
+        "name": "Mike Danna",
+        "position": "DE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915487.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-02T18:47Z",
+      "athlete": {
+        "name": "Skyler Bell",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-02T18:47Z",
+      "athlete": {
+        "name": "Jalon Kilgore",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-02T18:47Z",
+      "athlete": {
+        "name": "Ar'maj Reed-Adams",
+        "position": "G",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-02T15:08Z",
+      "athlete": {
+        "name": "Greg Dortch",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4037235.png"
       }
     },
     {
@@ -82,72 +154,6 @@
         "name": "Dee Alford",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4401823.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Calf",
-      "date": "2026-11-01T17:33Z",
-      "athlete": {
-        "name": "Greg Gaines",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Back",
-      "date": "2026-11-01T17:20Z",
-      "athlete": {
-        "name": "Spencer Brown",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Coach's Decision",
-      "date": "2026-11-01T16:33Z",
-      "athlete": {
-        "name": "Ar'maj Reed-Adams",
-        "position": "G",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Coach's Decision",
-      "date": "2026-11-01T16:33Z",
-      "athlete": {
-        "name": "Jalon Kilgore",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Coach's Decision",
-      "date": "2026-11-01T16:33Z",
-      "athlete": {
-        "name": "Skyler Bell",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Coach's Decision",
-      "date": "2026-11-01T16:33Z",
-      "athlete": {
-        "name": "Mike Danna",
-        "position": "DE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915487.png"
       }
     },
     {
@@ -370,16 +376,6 @@
         "name": "Jordan Hancock",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596480.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-26T00:33Z",
-      "athlete": {
-        "name": "Greg Dortch",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4037235.png"
       }
     },
     {
