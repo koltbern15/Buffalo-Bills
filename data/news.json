@@ -3,10 +3,18 @@
     {
       "headline": "NFL Week 8: Big takeaways, questions and fantasy spin from Sunday's games",
       "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 8.",
-      "published": "2026-11-02T02:03:46Z",
+      "published": "2026-11-02T05:21:34Z",
       "url": "https://www.espn.com/nfl/story/_/id/50349340/week-8-sunday-games-takeaways-questions-2026",
-      "image": "https://a.espncdn.com/photo/2026/1102/r1739883_608x342_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/1102/r1739933_608x342_16-9.jpg",
       "type": "Story"
+    },
+    {
+      "headline": "Bills defense overwhelms Ravens",
+      "description": "Nick Suss recaps the Bills' win against the Ravens in Week 8.",
+      "published": "2026-11-02T02:36:32Z",
+      "url": "https://www.espn.com/video/clip/_/id/50354715/bills-defense-overwhelms-ravens",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/dm_261101_16x9_Bills_IA/dm_261101_16x9_Bills_IA.jpg",
+      "type": "Media"
     },
     {
       "headline": "NFL Week 8's best arrivals, led by Rams' Quentin Lake",
@@ -18,8 +26,8 @@
     },
     {
       "headline": "Steelers' multiple dog-themed jabs at Browns headline NFL Week 8 trolls",
-      "description": "NFL team's remained petty in Week 8, led by jabs from the Pittsburgh Steelers aimed at the Cleveland Browns.",
-      "published": "2026-11-02T01:48:47Z",
+      "description": "NFL teams remained petty in Week 8, led by jabs from the Pittsburgh Steelers aimed at the Cleveland Browns.",
+      "published": "2026-11-02T02:28:00Z",
       "url": "https://www.espn.com/nfl/story/_/id/50353702/nfl-week-8-trolls",
       "image": "https://a.espncdn.com/photo/2026/1102/r1739869_608x342_16-9.jpg",
       "type": "Story"
@@ -311,14 +319,6 @@
       "url": "http://www.espn.com/nfl/recap?gameId=401873005",
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873005.png?templateId=espn.applewatch.awayhome.1",
       "type": "Recap"
-    },
-    {
-      "headline": "DB Gardner-Johnson expects fine after spitting incident in Bills' win",
-      "description": "With his team leading 13-10 at the time, Buffalo Bills safety C.J. Gardner-Johnson was ejected from Sunday's 33-30 victory over Las Vegas following an altercation during the final minute of the second quarter when he spit in the direction of the Raiders.",
-      "published": "2026-10-19T05:23:30Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50213664/bills-cb-gardner-johnson-tossed-apparent-spit-incident",
-      "image": "https://a.espncdn.com/photo/2026/1018/r1732718_600x600_1-1.jpg",
-      "type": "HeadlineNews"
     }
   ]
 }
