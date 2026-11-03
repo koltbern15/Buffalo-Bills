@@ -3,6 +3,36 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-11-03T03:28Z",
+      "athlete": {
+        "name": "Dawson Knox",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3930086.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-03T02:33Z",
+      "athlete": {
+        "name": "Ray Davis",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-03T02:13Z",
+      "athlete": {
+        "name": "C.J. Gardner-Johnson",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-11-03T01:37Z",
       "athlete": {
         "name": "Tyler Bass",
@@ -18,16 +48,6 @@
         "name": "Keon Coleman",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-02T22:20Z",
-      "athlete": {
-        "name": "C.J. Gardner-Johnson",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
       }
     },
     {
@@ -198,16 +218,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-10-30T19:20Z",
-      "athlete": {
-        "name": "Ray Davis",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-10-30T19:12Z",
       "athlete": {
         "name": "Bradley Chubb",
@@ -284,16 +294,6 @@
         "name": "Davison Igbinosun",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4832035.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-21T00:48Z",
-      "athlete": {
-        "name": "Dawson Knox",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3930086.png"
       }
     },
     {
