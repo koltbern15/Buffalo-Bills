@@ -1,10 +1,29 @@
 {
   "injuries": [
     {
-      "status": "Suspension",
-      "type": "Suspension",
-      "detail": "Suspension",
-      "date": "2026-11-02T19:26Z",
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-03T01:37Z",
+      "athlete": {
+        "name": "Tyler Bass",
+        "position": "PK",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-03T01:18Z",
+      "athlete": {
+        "name": "Keon Coleman",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-02T22:20Z",
       "athlete": {
         "name": "C.J. Gardner-Johnson",
         "position": "S",
@@ -280,16 +299,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-10-20T02:07Z",
-      "athlete": {
-        "name": "Tyler Bass",
-        "position": "PK",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-10-20T00:47Z",
       "athlete": {
         "name": "Ty Johnson",
@@ -305,16 +314,6 @@
         "name": "Jude Bowry",
         "position": "OT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-19T10:00Z",
-      "athlete": {
-        "name": "Keon Coleman",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
       }
     },
     {

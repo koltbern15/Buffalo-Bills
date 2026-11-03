@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 8's best arrivals, led by Rams' Quentin Lake",
+      "description": "Here's a look at the best-dressed players around the NFL in Week 8.",
+      "published": "2026-11-02T23:57:49Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
+      "image": "https://a.espncdn.com/photo/2026/1101/r1739714_2_608x342_16-9.png",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 9 betting odds: Lines and totals for every game",
       "description": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
       "published": "2026-11-02T16:29:30Z",
@@ -31,14 +39,6 @@
       "url": "https://www.espn.com/video/clip/_/id/50354715/bills-defense-overwhelms-ravens",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/dm_261101_16x9_Bills_IA/dm_261101_16x9_Bills_IA.jpg",
       "type": "Media"
-    },
-    {
-      "headline": "NFL Week 8's best arrivals, led by Rams' Quentin Lake",
-      "description": "Here's a look at the best-dressed players around the NFL in Week 8.",
-      "published": "2026-11-02T01:07:37Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
-      "image": "https://a.espncdn.com/photo/2026/1101/r1739714_2_608x342_16-9.png",
-      "type": "Story"
     },
     {
       "headline": "Steelers' multiple dog-themed jabs at Browns headline NFL Week 8 trolls",
