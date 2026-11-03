@@ -1,6 +1,39 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Calf",
+      "date": "2026-11-03T13:03Z",
+      "athlete": {
+        "name": "Greg Gaines",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Ankle",
+      "date": "2026-11-03T13:03Z",
+      "athlete": {
+        "name": "Dee Alford",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4401823.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Back",
+      "date": "2026-11-03T13:03Z",
+      "athlete": {
+        "name": "Spencer Brown",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-11-03T03:28Z",
@@ -48,28 +81,6 @@
         "name": "Keon Coleman",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Back",
-      "date": "2026-11-02T18:47Z",
-      "athlete": {
-        "name": "Spencer Brown",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Calf",
-      "date": "2026-11-02T18:47Z",
-      "athlete": {
-        "name": "Greg Gaines",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
       }
     },
     {
@@ -182,17 +193,6 @@
         "name": "Joshua Palmer",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Ankle",
-      "date": "2026-11-01T19:47Z",
-      "athlete": {
-        "name": "Dee Alford",
-        "position": "CB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4401823.png"
       }
     },
     {
