@@ -593,18 +593,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428548.png"
         },
         {
-          "id": "4240575",
-          "name": "Geno Stone",
-          "jersey": "25",
-          "position": "S",
-          "age": 27,
-          "height": "5' 11\"",
-          "weight": "210 lbs",
-          "experience": 7,
-          "college": "Iowa",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240575.png"
-        },
-        {
           "id": "4831989",
           "name": "Deone Walker",
           "jersey": "96",
@@ -639,18 +627,6 @@
           "experience": 4,
           "college": "Tulane",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568624.png"
-        },
-        {
-          "id": "4428932",
-          "name": "A.J. Woods",
-          "jersey": "31",
-          "position": "CB",
-          "age": 25,
-          "height": "5' 11\"",
-          "weight": "195 lbs",
-          "experience": 1,
-          "college": "Pittsburgh",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428932.png"
         }
       ]
     },
@@ -874,6 +850,18 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3122168.png"
         },
         {
+          "id": "4240575",
+          "name": "Geno Stone",
+          "jersey": "25",
+          "position": "S",
+          "age": 27,
+          "height": "5' 11\"",
+          "weight": "210 lbs",
+          "experience": 7,
+          "college": "Iowa",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240575.png"
+        },
+        {
           "id": "2978313",
           "name": "Shaq Thompson",
           "jersey": "45",
@@ -896,6 +884,18 @@
           "experience": 9,
           "college": "LSU",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3042717.png"
+        },
+        {
+          "id": "4428932",
+          "name": "A.J. Woods",
+          "jersey": "31",
+          "position": "CB",
+          "age": 25,
+          "height": "5' 11\"",
+          "weight": "195 lbs",
+          "experience": 1,
+          "college": "Pittsburgh",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428932.png"
         }
       ]
     }

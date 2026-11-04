@@ -897,11 +897,11 @@
                   ]
                 }
               ],
-              "maxPrice": 3580,
-              "numberAvailable": 6848,
-              "startingPrice": 187,
-              "summary": "Tickets as low as $187",
-              "totalPostings": 1600
+              "maxPrice": 2983,
+              "numberAvailable": 4682,
+              "startingPrice": 169,
+              "summary": "Tickets as low as $169",
+              "totalPostings": 1065
             }
           ],
           "ticketsAvailable": true,
@@ -992,19 +992,6 @@
           ],
           "shortText": "WatchESPN",
           "text": "WatchESPN"
-        },
-        {
-          "href": "https://fantasy.espn.com/football/welcome?addata=nfl_gamecast_ffl2026",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "fantasy",
-            "desktop",
-            "event"
-          ],
-          "shortText": "Play Fantasy Football",
-          "text": "Play Fantasy Football"
         },
         {
           "href": "https://www.espn.com/nfl/odds/_/gameId/401873051",
