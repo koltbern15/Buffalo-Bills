@@ -170,8 +170,8 @@
     {
       "competitions": [
         {
-          "attendance": 60642,
-          "boxscoreAvailable": true,
+          "attendance": 0,
+          "boxscoreAvailable": false,
           "broadcasts": [
             {
               "lang": "en",
@@ -180,7 +180,27 @@
                 "type": "National"
               },
               "media": {
-                "shortName": "CBS"
+                "darkLogo": "",
+                "logo": "https://a.espncdn.com/guid/335fd2d2-97b9-336b-81ee-573eb6bdcffc/logos/default.png",
+                "shortName": "ESPN"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "darkLogo": "https://a.espncdn.com/guid/2acff74d-269f-36ac-96eb-9c66f8ba52ff/logos/default-dark.png",
+                "logo": "https://a.espncdn.com/guid/2acff74d-269f-36ac-96eb-9c66f8ba52ff/logos/default.png",
+                "shortName": "ABC"
               },
               "partnered": false,
               "region": "us",
@@ -196,39 +216,330 @@
                 "current": 99
               },
               "homeAway": "home",
-              "id": "2",
+              "id": "16",
               "order": 0,
-              "record": [
-                {
-                  "abbreviation": "Game",
-                  "description": "Overall Record",
-                  "displayName": "Record Year To Date",
-                  "displayValue": "6-1",
-                  "id": "369",
-                  "shortDisplayName": "YTD",
-                  "type": "total"
-                },
-                {
-                  "description": "Home Record",
-                  "displayName": "Home",
-                  "displayValue": "3-1",
-                  "id": "13",
-                  "shortDisplayName": "HOME",
-                  "type": "home"
-                },
-                {
-                  "description": "Away Record",
-                  "displayName": "Road",
-                  "displayValue": "3-0",
-                  "id": "14",
-                  "shortDisplayName": "AWAY",
-                  "type": "road"
-                }
-              ],
-              "score": {
-                "displayValue": "36",
-                "value": 36
+              "team": {
+                "abbreviation": "MIN",
+                "displayName": "Minnesota Vikings",
+                "id": "16",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nfl/team/_/name/min/minnesota-vikings",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/roster/_/name/min/minnesota-vikings",
+                    "rel": [
+                      "roster",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Roster"
+                  },
+                  {
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:16&section=roster",
+                    "rel": [
+                      "roster",
+                      "sportscenter",
+                      "app",
+                      "team"
+                    ],
+                    "text": "Roster"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/stats/_/name/min/minnesota-vikings",
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Statistics"
+                  },
+                  {
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:16&section=stats",
+                    "rel": [
+                      "stats",
+                      "sportscenter",
+                      "app",
+                      "team"
+                    ],
+                    "text": "Statistics"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/schedule/_/name/min",
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Schedule"
+                  },
+                  {
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:16&section=scores",
+                    "rel": [
+                      "schedule",
+                      "sportscenter",
+                      "app",
+                      "team"
+                    ],
+                    "text": "Schedule"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/photos/_/name/min",
+                    "rel": [
+                      "photos",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "photos"
+                  },
+                  {
+                    "href": "https://www.vividseats.com/minnesota-vikings-tickets--sports-nfl-football/performer/555?wsUser=717",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Tickets"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/draft/teams/_/name/min/minnesota-vikings",
+                    "rel": [
+                      "draftpicks",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Draft Picks"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/transactions/_/name/min",
+                    "rel": [
+                      "transactions",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Transactions"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/injuries/_/name/min",
+                    "rel": [
+                      "injuries",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Injuries"
+                  },
+                  {
+                    "href": "https://www.espn.com/nfl/team/depth/_/name/min",
+                    "rel": [
+                      "depthchart",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Depth Chart"
+                  },
+                  {
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:16&section=depthchart",
+                    "rel": [
+                      "depthchart",
+                      "sportscenter",
+                      "app",
+                      "team"
+                    ],
+                    "text": "Depth Chart"
+                  }
+                ],
+                "location": "Minnesota",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/min.png",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/min.png",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/guid/3db556c9-ed76-a7a5-4ccb-a92fc6db4334/logos/grayscale.png",
+                    "rel": [
+                      "full",
+                      "grayscale"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/3db556c9-ed76-a7a5-4ccb-a92fc6db4334/logos/primary_logo_on_white_color.png",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/3db556c9-ed76-a7a5-4ccb-a92fc6db4334/logos/primary_logo_on_black_color.png",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/3db556c9-ed76-a7a5-4ccb-a92fc6db4334/logos/primary_logo_on_primary_color.png",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/3db556c9-ed76-a7a5-4ccb-a92fc6db4334/logos/primary_logo_on_secondary_color.png",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/3db556c9-ed76-a7a5-4ccb-a92fc6db4334/logos/primary_logo_black.png",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/3db556c9-ed76-a7a5-4ccb-a92fc6db4334/logos/primary_logo_white.png",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/3db556c9-ed76-a7a5-4ccb-a92fc6db4334/logos/secondary_logo_on_white_color.png",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/3db556c9-ed76-a7a5-4ccb-a92fc6db4334/logos/secondary_logo_on_black_color.png",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/3db556c9-ed76-a7a5-4ccb-a92fc6db4334/logos/secondary_logo_on_primary_color.png",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/3db556c9-ed76-a7a5-4ccb-a92fc6db4334/logos/secondary_logo_on_secondary_color.png",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/3db556c9-ed76-a7a5-4ccb-a92fc6db4334/logos/secondary_logo_black.png",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/3db556c9-ed76-a7a5-4ccb-a92fc6db4334/logos/secondary_logo_white.png",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "nickname": "Vikings",
+                "shortDisplayName": "Vikings"
               },
+              "type": "team"
+            },
+            {
+              "curatedRank": {
+                "current": 99
+              },
+              "homeAway": "away",
+              "id": "2",
+              "order": 1,
               "team": {
                 "abbreviation": "BUF",
                 "displayName": "Buffalo Bills",
@@ -542,384 +853,58 @@
                 "nickname": "Bills",
                 "shortDisplayName": "Bills"
               },
-              "type": "team",
-              "winner": true
-            },
-            {
-              "curatedRank": {
-                "current": 99
-              },
-              "homeAway": "away",
-              "id": "33",
-              "order": 1,
-              "record": [
-                {
-                  "abbreviation": "Game",
-                  "description": "Overall Record",
-                  "displayName": "Record Year To Date",
-                  "displayValue": "4-4",
-                  "id": "369",
-                  "shortDisplayName": "YTD",
-                  "type": "total"
-                },
-                {
-                  "description": "Home Record",
-                  "displayName": "Home",
-                  "displayValue": "1-2",
-                  "id": "13",
-                  "shortDisplayName": "HOME",
-                  "type": "home"
-                },
-                {
-                  "description": "Away Record",
-                  "displayName": "Road",
-                  "displayValue": "3-2",
-                  "id": "14",
-                  "shortDisplayName": "AWAY",
-                  "type": "road"
-                }
-              ],
-              "score": {
-                "displayValue": "10",
-                "value": 10
-              },
-              "team": {
-                "abbreviation": "BAL",
-                "displayName": "Baltimore Ravens",
-                "id": "33",
-                "links": [
-                  {
-                    "href": "https://www.espn.com/nfl/team/_/name/bal/baltimore-ravens",
-                    "rel": [
-                      "clubhouse",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "Clubhouse"
-                  },
-                  {
-                    "href": "https://www.espn.com/nfl/team/roster/_/name/bal/baltimore-ravens",
-                    "rel": [
-                      "roster",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "Roster"
-                  },
-                  {
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:33&section=roster",
-                    "rel": [
-                      "roster",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "text": "Roster"
-                  },
-                  {
-                    "href": "https://www.espn.com/nfl/team/stats/_/name/bal/baltimore-ravens",
-                    "rel": [
-                      "stats",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "Statistics"
-                  },
-                  {
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:33&section=stats",
-                    "rel": [
-                      "stats",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "text": "Statistics"
-                  },
-                  {
-                    "href": "https://www.espn.com/nfl/team/schedule/_/name/bal",
-                    "rel": [
-                      "schedule",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "Schedule"
-                  },
-                  {
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:33&section=scores",
-                    "rel": [
-                      "schedule",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "text": "Schedule"
-                  },
-                  {
-                    "href": "https://www.espn.com/nfl/team/photos/_/name/bal",
-                    "rel": [
-                      "photos",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "photos"
-                  },
-                  {
-                    "href": "https://www.vividseats.com/baltimore-ravens-tickets--sports-nfl-football/performer/60?wsUser=717",
-                    "rel": [
-                      "tickets",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "Tickets"
-                  },
-                  {
-                    "href": "https://www.espn.com/nfl/draft/teams/_/name/bal/baltimore-ravens",
-                    "rel": [
-                      "draftpicks",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "Draft Picks"
-                  },
-                  {
-                    "href": "https://www.espn.com/nfl/team/transactions/_/name/bal",
-                    "rel": [
-                      "transactions",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "Transactions"
-                  },
-                  {
-                    "href": "https://www.espn.com/nfl/team/injuries/_/name/bal",
-                    "rel": [
-                      "injuries",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "Injuries"
-                  },
-                  {
-                    "href": "https://www.espn.com/nfl/team/depth/_/name/bal",
-                    "rel": [
-                      "depthchart",
-                      "desktop",
-                      "team"
-                    ],
-                    "text": "Depth Chart"
-                  },
-                  {
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:33&section=depthchart",
-                    "rel": [
-                      "depthchart",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "text": "Depth Chart"
-                  }
-                ],
-                "location": "Baltimore",
-                "logos": [
-                  {
-                    "alt": "",
-                    "height": 500,
-                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-                    "rel": [
-                      "full",
-                      "default"
-                    ],
-                    "width": 500
-                  },
-                  {
-                    "alt": "",
-                    "height": 500,
-                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/bal.png",
-                    "rel": [
-                      "full",
-                      "dark"
-                    ],
-                    "width": 500
-                  },
-                  {
-                    "alt": "",
-                    "height": 500,
-                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
-                    "rel": [
-                      "full",
-                      "scoreboard"
-                    ],
-                    "width": 500
-                  },
-                  {
-                    "alt": "",
-                    "height": 500,
-                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/bal.png",
-                    "rel": [
-                      "full",
-                      "scoreboard",
-                      "dark"
-                    ],
-                    "width": 500
-                  },
-                  {
-                    "alt": "",
-                    "height": 500,
-                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/grayscale.png",
-                    "rel": [
-                      "full",
-                      "grayscale"
-                    ],
-                    "width": 500
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_on_white_color.png",
-                    "rel": [
-                      "full",
-                      "primary_logo_on_white_color"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_on_black_color.png",
-                    "rel": [
-                      "full",
-                      "primary_logo_on_black_color"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_on_primary_color.png",
-                    "rel": [
-                      "full",
-                      "primary_logo_on_primary_color"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_on_secondary_color.png",
-                    "rel": [
-                      "full",
-                      "primary_logo_on_secondary_color"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_black.png",
-                    "rel": [
-                      "full",
-                      "primary_logo_black"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/primary_logo_white.png",
-                    "rel": [
-                      "full",
-                      "primary_logo_white"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_on_white_color.png",
-                    "rel": [
-                      "full",
-                      "secondary_logo_on_white_color"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_on_black_color.png",
-                    "rel": [
-                      "full",
-                      "secondary_logo_on_black_color"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_on_primary_color.png",
-                    "rel": [
-                      "full",
-                      "secondary_logo_on_primary_color"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_on_secondary_color.png",
-                    "rel": [
-                      "full",
-                      "secondary_logo_on_secondary_color"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_black.png",
-                    "rel": [
-                      "full",
-                      "secondary_logo_black"
-                    ],
-                    "width": 4096
-                  },
-                  {
-                    "alt": "",
-                    "height": 4096,
-                    "href": "https://a.espncdn.com/guid/38248455-3da4-84e4-8090-98b5cc38ffdc/logos/secondary_logo_white.png",
-                    "rel": [
-                      "full",
-                      "secondary_logo_white"
-                    ],
-                    "width": 4096
-                  }
-                ],
-                "nickname": "Ravens",
-                "shortDisplayName": "Ravens"
-              },
-              "type": "team",
-              "winner": false
+              "type": "team"
             }
           ],
-          "date": "2026-11-01T18:00Z",
-          "id": "401873026",
+          "date": "2026-11-10T01:15Z",
+          "id": "401873051",
           "neutralSite": false,
           "notes": [],
           "status": {
             "clock": 0,
             "displayClock": "0:00",
             "isTBDFlex": false,
-            "period": 4,
+            "period": 0,
             "type": {
-              "completed": true,
-              "description": "Final",
-              "detail": "Final",
-              "id": "3",
-              "name": "STATUS_FINAL",
-              "shortDetail": "Final",
-              "state": "post"
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Mon, November 9th at 8:15 PM EST",
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "shortDetail": "11/9 - 8:15 PM EST",
+              "state": "pre"
             }
           },
-          "ticketsAvailable": false,
+          "tickets": [
+            {
+              "description": "Buffalo Bills at Minnesota Vikings (Monday Night Football) (Adrian Peterson Ring of Honor Induction Ceremony)",
+              "id": "6492316",
+              "links": [
+                {
+                  "href": "https://www.vividseats.com/minnesota-vikings-tickets-minneapolis-us-bank-stadium-3-8-2027/production/6492316?wsUser=717",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "event"
+                  ]
+                },
+                {
+                  "href": "https://www.vividseats.com/us-bank-stadium-tickets/venue/14778?wsUser=717",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "venue"
+                  ]
+                }
+              ],
+              "maxPrice": 3580,
+              "numberAvailable": 6903,
+              "startingPrice": 187,
+              "summary": "Tickets as low as $187",
+              "totalPostings": 1608
+            }
+          ],
+          "ticketsAvailable": true,
           "timeValid": true,
           "type": {
             "abbreviation": "STD",
@@ -930,20 +915,20 @@
           },
           "venue": {
             "address": {
-              "city": "Orchard Park",
+              "city": "Minneapolis",
               "country": "USA",
-              "state": "NY",
-              "zipCode": "14127"
+              "state": "MN",
+              "zipCode": "55415"
             },
-            "fullName": "Highmark Stadium"
+            "fullName": "U.S. Bank Stadium"
           }
         }
       ],
-      "date": "2026-11-01T18:00Z",
-      "id": "401873026",
+      "date": "2026-11-10T01:15Z",
+      "id": "401873051",
       "links": [
         {
-          "href": "https://www.espn.com/nfl/game/_/gameId/401873026/ravens-bills",
+          "href": "https://www.espn.com/nfl/game/_/gameId/401873051/bills-vikings",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
@@ -956,7 +941,7 @@
           "text": "Gamecast"
         },
         {
-          "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401873026",
+          "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401873051",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
@@ -970,7 +955,7 @@
           "text": "Gamecast"
         },
         {
-          "href": "https://www.espn.com/nfl/game/_/gameId/401873026",
+          "href": "https://www.espn.com/nfl/game/_/gameId/401873051",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
@@ -983,123 +968,30 @@
           "text": "Now"
         },
         {
-          "href": "https://www.espn.com/nfl/matchup?gameId=401873026",
+          "href": "https://www.espn.com/watchespn/index?gameId=401873051&sourceLang=en",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
           "rel": [
-            "teamstats",
+            "watchespn",
             "desktop",
             "event"
           ],
-          "shortText": "Team Stats",
-          "text": "Team Stats"
+          "shortText": "WatchESPN",
+          "text": "WatchESPN"
         },
         {
-          "href": "https://www.espn.com/nfl/boxscore/_/gameId/401873026",
+          "href": "watchespn://showEvent?gameId=401873051&sourceLang=en",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
           "rel": [
-            "boxscore",
-            "desktop",
-            "event"
-          ],
-          "shortText": "Box Score",
-          "text": "Box Score"
-        },
-        {
-          "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401873026",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "boxscore",
-            "sportscenter",
+            "watchespn",
             "app",
             "event"
           ],
-          "shortText": "Box Score",
-          "text": "Box Score"
-        },
-        {
-          "href": "https://www.espn.com/nfl/game/_/gameId/401873026",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "gamecast",
-            "desktop",
-            "event"
-          ],
-          "shortText": "Gamecast",
-          "text": "Gamecast"
-        },
-        {
-          "href": "http://m.espn.com/nfl/gamecast?gameId=401873026&action=summary",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "gamecast",
-            "mobile",
-            "event"
-          ],
-          "shortText": "Gamecast",
-          "text": "Gamecast"
-        },
-        {
-          "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401873026",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "gamecast",
-            "sportscenter",
-            "app",
-            "event"
-          ],
-          "shortText": "Gamecast",
-          "text": "Gamecast"
-        },
-        {
-          "href": "https://www.espn.com/nfl/recap?gameId=401873026",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "recap",
-            "desktop",
-            "event"
-          ],
-          "shortText": "Recap",
-          "text": "Recap"
-        },
-        {
-          "href": "https://www.espn.com/nfl/playbyplay/_/gameId/401873026",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "pbp",
-            "desktop",
-            "event"
-          ],
-          "shortText": "Play-by-Play",
-          "text": "Play-by-Play"
-        },
-        {
-          "href": "https://www.espn.com/nfl/video?gameId=401873026",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "videos",
-            "desktop",
-            "event"
-          ],
-          "shortText": "Videos",
-          "text": "Videos"
+          "shortText": "WatchESPN",
+          "text": "WatchESPN"
         },
         {
           "href": "https://fantasy.espn.com/football/welcome?addata=nfl_gamecast_ffl2026",
@@ -1115,7 +1007,7 @@
           "text": "Play Fantasy Football"
         },
         {
-          "href": "https://www.espn.com/nfl/odds/_/gameId/401873026",
+          "href": "https://www.espn.com/nfl/odds/_/gameId/401873051",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
@@ -1128,7 +1020,7 @@
           "text": "Odds"
         },
         {
-          "href": "https://m.espn.com/nfl/odds/_/gameId/401873026",
+          "href": "https://m.espn.com/nfl/odds/_/gameId/401873051",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
@@ -1141,7 +1033,7 @@
           "text": "Odds"
         }
       ],
-      "name": "Baltimore Ravens at Buffalo Bills",
+      "name": "Buffalo Bills at Minnesota Vikings",
       "season": {
         "displayName": "2026",
         "year": 2026
@@ -1152,11 +1044,11 @@
         "name": "Regular Season",
         "type": 2
       },
-      "shortName": "BAL @ BUF",
+      "shortName": "BUF @ MIN",
       "timeValid": true,
       "week": {
-        "number": 8,
-        "text": "Week 8"
+        "number": 9,
+        "text": "Week 9"
       }
     }
   ]

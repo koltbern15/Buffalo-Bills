@@ -280,7 +280,7 @@
           "name": "Ar'maj Reed-Adams",
           "jersey": "60",
           "position": "G",
-          "age": 24,
+          "age": 25,
           "height": "6' 5\"",
           "weight": "314 lbs",
           "experience": 0,
@@ -459,18 +459,6 @@
           "experience": 7,
           "college": "Washington",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
-        },
-        {
-          "id": "4034953",
-          "name": "C.J. Gardner-Johnson",
-          "jersey": "22",
-          "position": "S",
-          "age": 28,
-          "height": "5' 11\"",
-          "weight": "208 lbs",
-          "experience": 8,
-          "college": "Florida",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034953.png"
         },
         {
           "id": "4688931",
