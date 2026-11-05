@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
+      "description": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
+      "published": "2026-11-05T14:08:17Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms",
+      "image": "https://a.espncdn.com/photo/2026/1104/nfl-week-9-unis-16x9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "What 18 contenders should do at the NFL trade deadline: Who could get aggressive?",
+      "description": "Should the Giants keep adding? Could the Bills go all-in? Would the Steelers stay conservative? Here's how 18 teams at or above .500 should approach the deadline.",
+      "published": "2026-11-05T16:38:54Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50360077/2026-nfl-trade-deadline-contenders-activity-add-subtract",
+      "image": "https://a.espncdn.com/photo/2026/1104/r1741192_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "What has gone right -- and wrong -- for 10 new NFL head coaches in 2026 season",
+      "description": "There are 10 new head coaches in the NFL this season, which ties the most ever. How are things going for each of them after eight weeks?",
+      "published": "2026-11-05T11:30:27Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50369047/2026-nfl-season-10-new-coaches-midseason-good-bad",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740752_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 9 betting odds: Lines and totals for every game",
       "description": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
       "published": "2026-11-04T23:13:21Z",
@@ -294,30 +318,6 @@
       "published": "2026-10-21T18:17:50Z",
       "url": "https://www.espn.com/nfl/story/_/id/50237503/bills-sam-franklin-suspended-spitting-appeal",
       "image": "https://a.espncdn.com/photo/2026/1021/r1733893_1296x729_16-9.jpg",
-      "type": "HeadlineNews"
-    },
-    {
-      "headline": "NFL Power Rankings: How all 32 teams stack up for Week 7, plus offensive issues",
-      "description": "How does every NFL team stack up heading into Week 7? We made our 1-32 list and picked the biggest offensive problem for every team.",
-      "published": "2026-10-20T14:42:42Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50218886/nfl-power-rankings-week-7-teams-biggest-issue-offense",
-      "image": "https://a.espncdn.com/photo/2026/1019/nfl_power_rankings_16x9_1296x729.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "49ers WR Mike Evans reps Bay Area with Curry jersey, leads NFL Week 6's arrivals",
-      "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-10-19T23:19:59Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals",
-      "image": "https://a.espncdn.com/photo/2026/1019/r1733150_608x342_16-9.png",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL suspends Bills' C.J. Gardner-Johnson for one game for spitting",
-      "description": "The NFL has suspended Bills safety C.J. Gardner-Johnson for one game after cameras captured him spitting toward Raiders players on Sunday.",
-      "published": "2026-10-19T19:50:20Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50220546/nfl-suspends-cj-gardner-johnson-one-game-spitting",
-      "image": "https://a.espncdn.com/photo/2026/1018/r1732718_1296x729_16-9.jpg",
       "type": "HeadlineNews"
     }
   ]
