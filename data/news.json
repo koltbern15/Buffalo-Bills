@@ -89,14 +89,6 @@
       "type": "Story"
     },
     {
-      "headline": "Bills defense overwhelms Ravens",
-      "description": "Nick Suss recaps the Bills' win against the Ravens in Week 8.",
-      "published": "2026-11-02T02:36:32Z",
-      "url": "https://www.espn.com/video/clip/_/id/50354715/bills-defense-overwhelms-ravens",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/dm_261101_16x9_Bills_IA/dm_261101_16x9_Bills_IA.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "Steelers' multiple dog-themed jabs at Browns headline NFL Week 8 trolls",
       "description": "NFL teams remained petty in Week 8, led by jabs from the Pittsburgh Steelers aimed at the Cleveland Browns.",
       "published": "2026-11-02T02:28:00Z",
@@ -319,6 +311,14 @@
       "url": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals",
       "image": "https://a.espncdn.com/photo/2026/1019/r1733150_608x342_16-9.png",
       "type": "Story"
+    },
+    {
+      "headline": "NFL suspends Bills' C.J. Gardner-Johnson for one game for spitting",
+      "description": "The NFL has suspended Bills safety C.J. Gardner-Johnson for one game after cameras captured him spitting toward Raiders players on Sunday.",
+      "published": "2026-10-19T19:50:20Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50220546/nfl-suspends-cj-gardner-johnson-one-game-spitting",
+      "image": "https://a.espncdn.com/photo/2026/1018/r1732718_1296x729_16-9.jpg",
+      "type": "HeadlineNews"
     }
   ]
 }
