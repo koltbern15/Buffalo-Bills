@@ -898,10 +898,10 @@
                 }
               ],
               "maxPrice": 3297,
-              "numberAvailable": 4117,
+              "numberAvailable": 4074,
               "startingPrice": 173,
               "summary": "Tickets as low as $173",
-              "totalPostings": 972
+              "totalPostings": 964
             }
           ],
           "ticketsAvailable": true,
@@ -966,6 +966,19 @@
           ],
           "shortText": "Now",
           "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nfl/preview/_/gameId/401873051",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "preview",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Preview",
+          "text": "Preview"
         },
         {
           "href": "https://www.espn.com/watchespn/index?gameId=401873051&sourceLang=en",
