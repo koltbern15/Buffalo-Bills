@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
+      "description": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
+      "published": "2026-11-07T21:45:52Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms",
+      "image": "https://a.espncdn.com/photo/2026/1104/nfl-week-9-unis-16x9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "2026 NFL trade deadline: Proposing deals for Tony Pollard, Riq Woolen, others",
       "description": "Our NFL experts pitched trade offers they'd love to see get done before Tuesday's deadline, including moves for Tony Pollard, Riq Woolen, Jonathan Taylor and Jessie Bates III.",
       "published": "2026-11-07T11:37:27Z",
@@ -63,14 +71,6 @@
       "url": "https://www.espn.com/video/clip/_/id/50393792/bills-prepare-vikings-blitz-heavy-defense",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/dm_261105_16x9_Bills_IA/dm_261105_16x9_Bills_IA.jpg",
       "type": "Media"
-    },
-    {
-      "headline": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
-      "description": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
-      "published": "2026-11-07T05:57:32Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms",
-      "image": "https://a.espncdn.com/photo/2026/1104/nfl-week-9-unis-16x9.jpg",
-      "type": "Story"
     },
     {
       "headline": "Vikings to start QB Carson Wentz against Bills with Kyler Murray ruled out",

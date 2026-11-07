@@ -1,6 +1,17 @@
 {
   "injuries": [
     {
+      "status": "Out",
+      "type": "out",
+      "detail": "Knee - ACL",
+      "date": "2026-11-07T21:01Z",
+      "athlete": {
+        "name": "Tyrell Shavers",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-11-07T19:39Z",
@@ -293,17 +304,6 @@
         "name": "T.J. Sanders",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Knee - ACL",
-      "date": "2026-10-28T23:45Z",
-      "athlete": {
-        "name": "Tyrell Shavers",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
       }
     },
     {
