@@ -1,6 +1,38 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Ankle",
+      "date": "2026-11-08T02:09Z",
+      "athlete": {
+        "name": "Alec Anderson",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4367203.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-08T02:05Z",
+      "athlete": {
+        "name": "Spencer Brown",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Ribs",
+      "date": "2026-11-08T02:01Z",
+      "athlete": {
+        "name": "Dion Dawkins",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3051324.png"
+      }
+    },
+    {
       "status": "Out",
       "type": "out",
       "detail": "Knee - ACL",
@@ -19,16 +51,6 @@
         "name": "Sam Franklin Jr.",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4044133.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-07T19:39Z",
-      "athlete": {
-        "name": "Spencer Brown",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
       }
     },
     {
@@ -90,28 +112,6 @@
         "name": "Dee Alford",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4401823.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Ribs",
-      "date": "2026-11-05T22:13Z",
-      "athlete": {
-        "name": "Dion Dawkins",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3051324.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Ankle",
-      "date": "2026-11-05T22:12Z",
-      "athlete": {
-        "name": "Alec Anderson",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4367203.png"
       }
     },
     {
