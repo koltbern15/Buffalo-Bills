@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
+      "description": "Check here for Sunday's top moments, TDs and analysis.",
+      "published": "2026-11-08T15:22:54Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1742914_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
       "description": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
       "published": "2026-11-08T02:18:40Z",
@@ -310,14 +318,6 @@
       "published": "2026-10-26T22:50:32Z",
       "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals",
       "image": "https://a.espncdn.com/photo/2026/1025/r1735940_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL execs, coaches rank the league's top five MVP candidates entering Week 7",
-      "description": "Brock Purdy? Josh Allen? Or maybe even a non-QB? Sixteen execs and coaches voted on the top five contenders for the MVP award through six weeks.",
-      "published": "2026-10-25T10:00:01Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50239053/2026-nfl-season-mvp-early-ranking-watch-list-execs-coaches",
-      "image": "https://a.espncdn.com/photo/2026/1021/r1734042_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
