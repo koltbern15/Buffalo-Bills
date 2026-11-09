@@ -401,6 +401,22 @@
       "division": "NFC North"
     },
     {
+      "abbr": "CHI",
+      "name": "Chicago Bears",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+      "wins": "7",
+      "losses": "2",
+      "ties": "0",
+      "pct": ".778",
+      "pf": "241",
+      "pa": "184",
+      "diff": "+57",
+      "streak": "W4",
+      "home": "4-1",
+      "road": "3-1",
+      "division": "NFC North"
+    },
+    {
       "abbr": "DET",
       "name": "Detroit Lions",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
@@ -414,22 +430,6 @@
       "streak": "W4",
       "home": "4-0",
       "road": "2-2",
-      "division": "NFC North"
-    },
-    {
-      "abbr": "CHI",
-      "name": "Chicago Bears",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-      "wins": "6",
-      "losses": "2",
-      "ties": "0",
-      "pct": ".750",
-      "pf": "214",
-      "pa": "160",
-      "diff": "+54",
-      "streak": "W3",
-      "home": "3-1",
-      "road": "3-1",
       "division": "NFC North"
     },
     {
@@ -447,22 +447,6 @@
       "home": "3-1",
       "road": "3-2",
       "division": "NFC North"
-    },
-    {
-      "abbr": "TB",
-      "name": "Tampa Bay Buccaneers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
-      "wins": "3",
-      "losses": "5",
-      "ties": "0",
-      "pct": ".375",
-      "pf": "178",
-      "pa": "151",
-      "diff": "+27",
-      "streak": "W2",
-      "home": "1-4",
-      "road": "2-1",
-      "division": "NFC South"
     },
     {
       "abbr": "CAR",
@@ -494,6 +478,22 @@
       "streak": "W1",
       "home": "1-4",
       "road": "2-1",
+      "division": "NFC South"
+    },
+    {
+      "abbr": "TB",
+      "name": "Tampa Bay Buccaneers",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+      "wins": "3",
+      "losses": "6",
+      "ties": "0",
+      "pct": ".333",
+      "pf": "202",
+      "pa": "178",
+      "diff": "+24",
+      "streak": "L1",
+      "home": "1-4",
+      "road": "2-2",
       "division": "NFC South"
     },
     {

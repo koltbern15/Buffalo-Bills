@@ -1,19 +1,19 @@
 {
   "articles": [
     {
+      "headline": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
+      "description": "Check here for Sunday's top moments, TDs and analysis.",
+      "published": "2026-11-09T05:55:59Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743279_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "How active NFL players continue to redefine all-time sack list",
       "description": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
       "published": "2026-11-09T02:11:35Z",
       "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
       "image": "https://a.espncdn.com/photo/2026/0828/nfl_data_viz_garrett_cr_16x9_608x342.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
-      "description": "Check here for Sunday's top moments, TDs and analysis.",
-      "published": "2026-11-09T00:55:43Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026",
-      "image": "https://a.espncdn.com/photo/2026/1108/r1743279_608x342_16-9.jpg",
       "type": "Story"
     },
     {
@@ -47,14 +47,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50389499/2026-nfl-trade-deadline-offers-experts-taylor-woolen-pollard",
       "image": "https://a.espncdn.com/photo/2026/1027/nfl_trade_split2_608x342.png",
       "type": "Story"
-    },
-    {
-      "headline": "How the Bills are planning with illnesses on the OL",
-      "description": "Nicholas Suss reports on the state of the Bills' offensive line going into Monday Night Football.",
-      "published": "2026-11-06T23:29:55Z",
-      "url": "https://www.espn.com/video/clip/_/id/50402679/how-bills-planning-illnesses-ol",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1106/dm_261106_BILLS_IA_1106/dm_261106_BILLS_IA_1106.jpg",
-      "type": "Media"
     },
     {
       "headline": "NFL Week 9 betting odds: Lines and totals for every game",
@@ -318,6 +310,14 @@
       "published": "2026-10-26T22:50:32Z",
       "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals",
       "image": "https://a.espncdn.com/photo/2026/1025/r1735940_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "NFL execs, coaches rank the league's top five MVP candidates entering Week 7",
+      "description": "Brock Purdy? Josh Allen? Or maybe even a non-QB? Sixteen execs and coaches voted on the top five contenders for the MVP award through six weeks.",
+      "published": "2026-10-25T10:00:01Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50239053/2026-nfl-season-mvp-early-ranking-watch-list-execs-coaches",
+      "image": "https://a.espncdn.com/photo/2026/1021/r1734042_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
