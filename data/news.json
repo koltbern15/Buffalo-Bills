@@ -1,11 +1,27 @@
 {
   "articles": [
     {
+      "headline": "How active NFL players continue to redefine all-time sack list",
+      "description": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "published": "2026-11-09T02:11:35Z",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
+      "image": "https://a.espncdn.com/photo/2026/0828/nfl_data_viz_garrett_cr_16x9_608x342.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
       "description": "Check here for Sunday's top moments, TDs and analysis.",
-      "published": "2026-11-08T22:28:22Z",
+      "published": "2026-11-09T00:55:43Z",
       "url": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026",
       "image": "https://a.espncdn.com/photo/2026/1108/r1743279_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "NFL Week 9 arrivals: Caleb Williams rocks Supreme mascot zip-up before 'SNF'",
+      "description": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
+      "published": "2026-11-09T00:31:42Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals",
+      "image": "https://a.espncdn.com/photo/2026/1109/r1743361_2_608x342_16-9.jpg",
       "type": "Story"
     },
     {
@@ -14,14 +30,6 @@
       "published": "2026-11-08T22:38:11Z",
       "url": "https://www.espn.com/nfl/story/_/id/50380155/countering-peanut-punch-james-cook-skattebo",
       "image": "https://a.espncdn.com/photo/2026/1104/nfl_peanut_punch_cr_16x9_608x342.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Week 9 arrivals: Efton Chism III welcomes back Mack Hollins with 'Mack and Chiz' tee",
-      "description": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-08T20:44:52Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals",
-      "image": "https://a.espncdn.com/photo/2026/1108/r1743170_608x342_16-9.png",
       "type": "Story"
     },
     {
@@ -79,14 +87,6 @@
       "url": "http://www.espn.com/nfl/preview?gameId=401873051",
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873051.png?templateId=espn.applewatch.awayhome.1",
       "type": "Preview"
-    },
-    {
-      "headline": "Bills prepare for Vikings' blitz-heavy defense",
-      "description": "Nick Suss previews the Bills' matchup against the Vikings on Monday Night Football.",
-      "published": "2026-11-06T00:16:28Z",
-      "url": "https://www.espn.com/video/clip/_/id/50393792/bills-prepare-vikings-blitz-heavy-defense",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/dm_261105_16x9_Bills_IA/dm_261105_16x9_Bills_IA.jpg",
-      "type": "Media"
     },
     {
       "headline": "Vikings to start QB Carson Wentz against Bills with Kyler Murray ruled out",
@@ -190,14 +190,6 @@
       "published": "2026-11-02T02:28:00Z",
       "url": "https://www.espn.com/nfl/story/_/id/50353702/nfl-week-8-trolls",
       "image": "https://a.espncdn.com/photo/2026/1102/r1739869_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "How active NFL players continue to redefine all-time sack list",
-      "description": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
-      "published": "2026-11-02T00:19:51Z",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
-      "image": "https://a.espncdn.com/photo/2026/0928/nfl_data_viz_von_miller_cr_608x342.jpg",
       "type": "Story"
     },
     {
@@ -318,6 +310,14 @@
       "published": "2026-10-27T03:06:13Z",
       "url": "https://www.espn.com/nfl/story/_/id/50244728/jay-z-super-bowl-half-hints",
       "image": "https://a.espncdn.com/photo/2026/1026/r1736436_1296x729_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Steelers Aaron Rodgers, QB room lead NFL Week 7's best arrivals",
+      "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-10-26T22:50:32Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1735940_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
