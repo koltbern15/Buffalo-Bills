@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "headline": "Josh Allen and the Bills move to 7-1 with a 23-6 win over the sputtering Vikings",
+      "description": "— The Buffalo Bills knew they weren't bound for many style points or likely to reach their league-leading scoring average against Minnesota's relentlessly...",
+      "published": "2026-11-10T06:12:35Z",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873051",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873051.png?templateId=espn.applewatch.awayhome.1",
+      "type": "Recap"
+    },
+    {
+      "headline": "Josh Allen, Bills outlast Vikings 23-6 on MNF",
+      "description": "Josh Allen, Bills outlast Vikings 23-6 on MNF",
+      "published": "2026-11-10T05:01:02Z",
+      "url": "https://www.espn.com/video/clip/_/id/50439406/josh-allen-bills-outlast-vikings-23-6-mnf",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/5ce99b5aa87e4f47b74b320ecaf4f8e70/5ce99b5aa87e4f47b74b320ecaf4f8e70.jpg",
+      "type": "Media"
+    },
+    {
+      "headline": "Josh Allen leads Bills to win over tough Vikings defense",
+      "description": "The Vikings kept Allen in check for much of the game, but he helped the Bills earn a low-scoring victory.",
+      "published": "2026-11-10T05:09:21Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50435734/bills-vikings-josh-allen-carson-wentz-mnf",
+      "image": "https://a.espncdn.com/photo/2026/1110/r1743848_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 9 arrivals: Justin Jefferson rocks black leather trench coat before 'MNF'",
       "description": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
       "published": "2026-11-10T01:12:56Z",
@@ -295,30 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50311224/bills-sam-franklin-ready-play-ban-reduced-fine",
       "image": "https://a.espncdn.com/photo/2026/1028/r1737711_2_600x400_3-2.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "NFL Power Rankings: How all 32 teams stack up for Week 8, plus offseason adds",
-      "description": "How does every NFL team stack up heading into Week 8? We made our 1-32 list and picked the best offseason addition -- coach or player -- for every team.",
-      "published": "2026-10-27T14:24:33Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50288293/nfl-power-rankings-week-8-teams-best-offseason-additions",
-      "image": "https://a.espncdn.com/photo/2026/1026/nfl_power_rankings_1296x729.png",
-      "type": "Story"
-    },
-    {
-      "headline": "Is Bills' Josh Allen the best goal-line rusher ever?",
-      "description": "Out of the 153 players who've carried from the 1- or 2-yard line at least 30 times since 1977, Allen has done it best.",
-      "published": "2026-10-27T13:22:40Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50288152/bills-josh-allen-greatest-td-rusher",
-      "image": "https://a.espncdn.com/photo/2026/1021/nfl_allen_3x2.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "What are the longest field goals in NFL history?",
-      "description": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
-      "published": "2026-10-26T04:07:12Z",
-      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
-      "image": "https://a.espncdn.com/photo/2025/0810/r1529808_608x342_16-9.jpg",
-      "type": "Story"
     }
   ]
 }
