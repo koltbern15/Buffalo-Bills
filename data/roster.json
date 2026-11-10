@@ -264,18 +264,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
         },
         {
-          "id": "4242433",
-          "name": "Joshua Palmer",
-          "jersey": "5",
-          "position": "WR",
-          "age": 27,
-          "height": "6' 1\"",
-          "weight": "210 lbs",
-          "experience": 6,
-          "college": "Tennessee",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
-        },
-        {
           "id": "4606712",
           "name": "Ar'maj Reed-Adams",
           "jersey": "60",
@@ -298,6 +286,18 @@
           "experience": 5,
           "college": "Boise State",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
+        },
+        {
+          "id": "3122168",
+          "name": "Trent Sherfield",
+          "jersey": "81",
+          "position": "WR",
+          "age": 30,
+          "height": "6' 0\"",
+          "weight": "203 lbs",
+          "experience": 9,
+          "college": "Vanderbilt",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3122168.png"
         },
         {
           "id": "4428696",
@@ -593,6 +593,18 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428548.png"
         },
         {
+          "id": "4240575",
+          "name": "Geno Stone",
+          "jersey": "25",
+          "position": "S",
+          "age": 27,
+          "height": "5' 11\"",
+          "weight": "210 lbs",
+          "experience": 7,
+          "college": "Iowa",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240575.png"
+        },
+        {
           "id": "4831989",
           "name": "Deone Walker",
           "jersey": "96",
@@ -697,6 +709,18 @@
           "experience": 2,
           "college": "Ohio State",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596480.png"
+        },
+        {
+          "id": "4242433",
+          "name": "Joshua Palmer",
+          "jersey": "5",
+          "position": "WR",
+          "age": 27,
+          "height": "6' 1\"",
+          "weight": "210 lbs",
+          "experience": 6,
+          "college": "Tennessee",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
         },
         {
           "id": "4241476",
@@ -847,30 +871,6 @@
           "experience": 5,
           "college": "Alabama",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241468.png"
-        },
-        {
-          "id": "3122168",
-          "name": "Trent Sherfield",
-          "jersey": "81",
-          "position": "WR",
-          "age": 30,
-          "height": "6' 0\"",
-          "weight": "203 lbs",
-          "experience": 9,
-          "college": "Vanderbilt",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3122168.png"
-        },
-        {
-          "id": "4240575",
-          "name": "Geno Stone",
-          "jersey": "25",
-          "position": "S",
-          "age": 27,
-          "height": "5' 11\"",
-          "weight": "210 lbs",
-          "experience": 7,
-          "college": "Iowa",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240575.png"
         },
         {
           "id": "2978313",

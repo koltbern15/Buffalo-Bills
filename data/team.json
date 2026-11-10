@@ -171,7 +171,7 @@
       "competitions": [
         {
           "attendance": 0,
-          "boxscoreAvailable": false,
+          "boxscoreAvailable": true,
           "broadcasts": [
             {
               "lang": "en",
@@ -218,6 +218,10 @@
               "homeAway": "home",
               "id": "16",
               "order": 0,
+              "score": {
+                "displayValue": "6",
+                "value": 6
+              },
               "team": {
                 "abbreviation": "MIN",
                 "displayName": "Minnesota Vikings",
@@ -540,6 +544,10 @@
               "homeAway": "away",
               "id": "2",
               "order": 1,
+              "score": {
+                "displayValue": "10",
+                "value": 10
+              },
               "team": {
                 "abbreviation": "BUF",
                 "displayName": "Buffalo Bills",
@@ -861,18 +869,18 @@
           "neutralSite": false,
           "notes": [],
           "status": {
-            "clock": 0,
-            "displayClock": "0:00",
+            "clock": 371,
+            "displayClock": "6:11",
             "isTBDFlex": false,
-            "period": 0,
+            "period": 3,
             "type": {
               "completed": false,
-              "description": "Scheduled",
-              "detail": "Mon, November 9th at 8:15 PM EST",
-              "id": "1",
-              "name": "STATUS_SCHEDULED",
-              "shortDetail": "11/9 - 8:15 PM EST",
-              "state": "pre"
+              "description": "In Progress",
+              "detail": "6:11 - 3rd Quarter",
+              "id": "2",
+              "name": "STATUS_IN_PROGRESS",
+              "shortDetail": "6:11 - 3rd",
+              "state": "in"
             }
           },
           "tickets": [
@@ -897,11 +905,11 @@
                   ]
                 }
               ],
-              "maxPrice": 1690,
-              "numberAvailable": 1731,
-              "startingPrice": 194,
-              "summary": "Tickets as low as $194",
-              "totalPostings": 399
+              "maxPrice": 8354,
+              "numberAvailable": 151,
+              "startingPrice": 190,
+              "summary": "Tickets as low as $190",
+              "totalPostings": 32
             }
           ],
           "ticketsAvailable": true,
@@ -928,16 +936,16 @@
       "id": "401873051",
       "links": [
         {
-          "href": "https://www.espn.com/nfl/game/_/gameId/401873051/bills-vikings",
+          "href": "https://www.espn.com/nfl/game?gameId=401873051",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
           "rel": [
-            "summary",
+            "live",
             "desktop",
             "event"
           ],
-          "shortText": "Summary",
+          "shortText": "Gamecast",
           "text": "Gamecast"
         },
         {
@@ -946,12 +954,12 @@
           "isPremium": false,
           "language": "en-US",
           "rel": [
-            "summary",
+            "live",
             "sportscenter",
             "app",
             "event"
           ],
-          "shortText": "Summary",
+          "shortText": "Gamecast",
           "text": "Gamecast"
         },
         {
@@ -968,17 +976,110 @@
           "text": "Now"
         },
         {
-          "href": "https://www.espn.com/nfl/preview/_/gameId/401873051",
+          "href": "https://www.espn.com/nfl/matchup?gameId=401873051",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
           "rel": [
-            "preview",
+            "teamstats",
             "desktop",
             "event"
           ],
-          "shortText": "Preview",
-          "text": "Preview"
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nfl/boxscore/_/gameId/401873051",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401873051",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nfl/game/_/gameId/401873051",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nfl/gamecast?gameId=401873051&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401873051",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nfl/playbyplay/_/gameId/401873051",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nfl/video?gameId=401873051",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
         },
         {
           "href": "https://www.espn.com/watchespn/index?gameId=401873051&sourceLang=en",

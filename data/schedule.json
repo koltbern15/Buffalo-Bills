@@ -295,13 +295,13 @@
       "week": 9,
       "seasonType": 2,
       "status": {
-        "id": "1",
-        "name": "STATUS_SCHEDULED",
-        "state": "pre",
+        "id": "2",
+        "name": "STATUS_IN_PROGRESS",
+        "state": "in",
         "completed": false,
-        "description": "Scheduled",
-        "detail": "Mon, November 9th at 8:15 PM EST",
-        "shortDetail": "11/9 - 8:15 PM EST"
+        "description": "In Progress",
+        "detail": "6:03 - 3rd Quarter",
+        "shortDetail": "6:03 - 3rd"
       },
       "venue": {
         "name": "U.S. Bank Stadium",
