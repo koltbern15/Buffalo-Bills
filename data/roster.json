@@ -497,6 +497,18 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4033234.png"
         },
         {
+          "id": "4036134",
+          "name": "Amani Hooker",
+          "jersey": "37",
+          "position": "S",
+          "age": 28,
+          "height": "5' 11\"",
+          "weight": "210 lbs",
+          "experience": 8,
+          "college": "Iowa",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036134.png"
+        },
+        {
           "id": "4832035",
           "name": "Davison Igbinosun",
           "jersey": "21",
