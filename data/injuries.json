@@ -3,6 +3,46 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-11-11T02:14Z",
+      "athlete": {
+        "name": "Keleki Latu",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688552.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-11T02:10Z",
+      "athlete": {
+        "name": "Jackson Hawes",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573699.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-11T01:47Z",
+      "athlete": {
+        "name": "Tyler Bass",
+        "position": "PK",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-11T00:26Z",
+      "athlete": {
+        "name": "Dawson Knox",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3930086.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-11-10T15:44Z",
       "athlete": {
         "name": "Mike Danna",
@@ -188,16 +228,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-11-09T23:43Z",
-      "athlete": {
-        "name": "Trent Sherfield",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3122168.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-11-08T02:05Z",
       "athlete": {
         "name": "Spencer Brown",
@@ -234,26 +264,6 @@
         "name": "Jordan Hancock",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596480.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-03T03:28Z",
-      "athlete": {
-        "name": "Dawson Knox",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3930086.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-03T01:37Z",
-      "athlete": {
-        "name": "Tyler Bass",
-        "position": "PK",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
       }
     },
     {
@@ -419,16 +429,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-09-19T01:05Z",
-      "athlete": {
-        "name": "Jackson Hawes",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573699.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-09-10T00:09Z",
       "athlete": {
         "name": "Michael Hoecht",
@@ -536,16 +536,6 @@
         "name": "Shaq Thompson",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2978313.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-01-19T13:34Z",
-      "athlete": {
-        "name": "Keleki Latu",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688552.png"
       }
     },
     {
