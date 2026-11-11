@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 10 latest intel, buzz questions, fantasy tips, post-trade deadline news",
+      "description": "No deals for Jonathan Taylor, Daniel Jones or Brian Thomas Jr.? Vikings seeking QB answers with their Kirk Cousins trade? Here's the latest intel.",
+      "published": "2026-11-11T15:47:28Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50442934/week-10-buzz-fantasy-predictions-graziano-fowler-2026-trades",
+      "image": "https://a.espncdn.com/photo/2026/1110/r1744235_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL trade deadline grades: Deals for Kirk Cousins, Josh Downs, Ryan Neuzil",
       "description": "Was getting Kirk Cousins a home run for the Vikings? Did the Chiefs make a smart move to pick up Josh Downs?",
       "published": "2026-11-11T02:53:07Z",
@@ -17,11 +25,11 @@
       "type": "Story"
     },
     {
-      "headline": "Fantasy buzz: Malik Willis placed on IR, are there any Dolphins you should start?",
-      "description": "What does the Miami Dolphins' fantasy football outlook show with starting QB Malik Willis placed on IR?",
-      "published": "2026-11-10T21:54:11Z",
+      "headline": "Fantasy buzz: Should you deal for one of the five most traded players in fantasy?",
+      "description": "Meet the most traded players in fantasy football this week, and whether you should hold or trade for them too.",
+      "published": "2026-11-11T16:17:36Z",
       "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1744196_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/1111/r1744429_1296x729_16-9.jpg",
       "type": "Story"
     },
     {
@@ -115,7 +123,7 @@
     {
       "headline": "Josh Allen leads Bills to win over tough Vikings defense",
       "description": "The Vikings kept Allen in check for much of the game, but he helped the Bills earn a low-scoring victory.",
-      "published": "2026-11-10T05:09:21Z",
+      "published": "2026-11-11T16:59:41Z",
       "url": "https://www.espn.com/nfl/story/_/id/50435734/bills-vikings-josh-allen-carson-wentz-mnf",
       "image": "https://a.espncdn.com/photo/2026/1110/r1743848_608x342_16-9.jpg",
       "type": "Story"
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50352713/josh-allen-half-words-fuel-bills-second-half-vs-ravens",
       "image": "https://a.espncdn.com/photo/2026/1101/r1739828_600x400_3-2.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "Bills cruise in 2nd half to 36-10 win over Ravens, who lose QBs Jackson and Huntley to injuries",
-      "description": "— With Josh Allen at quarterback, anything seems possible for the Buffalo Bills — including overcoming a sloppy first half.",
-      "published": "2026-11-02T00:25:46Z",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873026",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873026.png?templateId=espn.applewatch.awayhome.1",
-      "type": "Recap"
     }
   ]
 }
