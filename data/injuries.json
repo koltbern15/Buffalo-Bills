@@ -1,6 +1,37 @@
 {
   "injuries": [
     {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-12T03:43Z",
+      "athlete": {
+        "name": "Terrel Bernard",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259166.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Ribs",
+      "date": "2026-11-12T01:34Z",
+      "athlete": {
+        "name": "Dion Dawkins",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3051324.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "date": "2026-11-12T01:32Z",
+      "athlete": {
+        "name": "Greg Gaines",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
+      }
+    },
+    {
       "status": "Questionable",
       "type": "questionable",
       "detail": "Wrist",
@@ -31,16 +62,6 @@
         "name": "Connor McGovern",
         "position": "C",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4033748.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-11T21:59Z",
-      "athlete": {
-        "name": "Greg Gaines",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
       }
     },
     {
@@ -224,17 +245,6 @@
         "name": "Alec Anderson",
         "position": "OT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4367203.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Ribs",
-      "date": "2026-11-10T00:24Z",
-      "athlete": {
-        "name": "Dion Dawkins",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3051324.png"
       }
     },
     {
@@ -427,16 +437,6 @@
         "name": "Cole Bishop",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4676004.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-19T03:20Z",
-      "athlete": {
-        "name": "Terrel Bernard",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259166.png"
       }
     },
     {

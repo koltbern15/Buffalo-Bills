@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "NFL trade deadline grades: Deals for Kirk Cousins, Josh Downs, Ryan Neuzil",
+      "description": "Was getting Kirk Cousins a home run for the Vikings? Did the Chiefs make a smart move to pick up Josh Downs?",
+      "published": "2026-11-12T07:43:50Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+      "image": "https://a.espncdn.com/photo/2026/1110/r1744131_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Can Amani Hooker be the answer for the Bills in their secondary?",
       "description": "Nick Suss discusses the addition of Amani Hooker and how much of a help he can be for the Bills.",
       "published": "2026-11-11T23:43:36Z",
@@ -30,14 +38,6 @@
       "published": "2026-11-11T15:47:28Z",
       "url": "https://www.espn.com/nfl/story/_/id/50442934/week-10-buzz-fantasy-predictions-graziano-fowler-2026-trades",
       "image": "https://a.espncdn.com/photo/2026/1110/r1744235_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL trade deadline grades: Deals for Kirk Cousins, Josh Downs, Ryan Neuzil",
-      "description": "Was getting Kirk Cousins a home run for the Vikings? Did the Chiefs make a smart move to pick up Josh Downs?",
-      "published": "2026-11-11T02:53:07Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1744131_608x342_16-9.jpg",
       "type": "Story"
     },
     {
@@ -135,14 +135,6 @@
       "url": "http://www.espn.com/nfl/recap?gameId=401873051",
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873051.png?templateId=espn.applewatch.awayhome.1",
       "type": "Recap"
-    },
-    {
-      "headline": "Josh Allen, Bills outlast Vikings 23-6 on MNF",
-      "description": "Josh Allen, Bills outlast Vikings 23-6 on MNF",
-      "published": "2026-11-10T05:01:02Z",
-      "url": "https://www.espn.com/video/clip/_/id/50439406/josh-allen-bills-outlast-vikings-23-6-mnf",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/5ce99b5aa87e4f47b74b320ecaf4f8e70/5ce99b5aa87e4f47b74b320ecaf4f8e70.jpg",
-      "type": "Media"
     },
     {
       "headline": "Josh Allen leads Bills to win over tough Vikings defense",
@@ -318,6 +310,14 @@
       "published": "2026-11-02T23:57:49Z",
       "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
       "image": "https://a.espncdn.com/photo/2026/1101/r1739714_2_608x342_16-9.png",
+      "type": "Story"
+    },
+    {
+      "headline": "NFL Week 8: Big takeaways, questions and fantasy spin from Sunday's games",
+      "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 8.",
+      "published": "2026-11-02T05:21:34Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50349340/week-8-sunday-games-takeaways-questions-2026",
+      "image": "https://a.espncdn.com/photo/2026/1102/r1739933_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
