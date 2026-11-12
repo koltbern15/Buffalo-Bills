@@ -1,6 +1,60 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Wrist",
+      "date": "2026-11-11T23:32Z",
+      "athlete": {
+        "name": "Christian Benford",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379778.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Ankle",
+      "date": "2026-11-11T22:01Z",
+      "athlete": {
+        "name": "Spencer Brown",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Neck",
+      "date": "2026-11-11T22:00Z",
+      "athlete": {
+        "name": "Connor McGovern",
+        "position": "C",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4033748.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-11T21:59Z",
+      "athlete": {
+        "name": "Greg Gaines",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Ankle",
+      "date": "2026-11-11T21:57Z",
+      "athlete": {
+        "name": "Dalton Kincaid",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-11-11T02:14Z",
@@ -113,16 +167,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-11-10T05:05Z",
-      "athlete": {
-        "name": "Dalton Kincaid",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-11-10T04:59Z",
       "athlete": {
         "name": "DJ Moore",
@@ -161,16 +205,6 @@
       }
     },
     {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-10T03:12Z",
-      "athlete": {
-        "name": "Christian Benford",
-        "position": "CB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379778.png"
-      }
-    },
-    {
       "status": "Injured Reserve",
       "type": "Injured Reserve",
       "detail": "Hamstring",
@@ -179,17 +213,6 @@
         "name": "Joshua Palmer",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Calf",
-      "date": "2026-11-10T00:31Z",
-      "athlete": {
-        "name": "Greg Gaines",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
       }
     },
     {
@@ -223,16 +246,6 @@
         "name": "Tyrell Shavers",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-08T02:05Z",
-      "athlete": {
-        "name": "Spencer Brown",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
       }
     },
     {
@@ -461,16 +474,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-09-01T23:57Z",
-      "athlete": {
-        "name": "Connor McGovern",
-        "position": "C",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4033748.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-08-19T12:07Z",
       "athlete": {
         "name": "Chase Lundt",
@@ -536,6 +539,16 @@
         "name": "Shaq Thompson",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2978313.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-01-13T20:40Z",
+      "athlete": {
+        "name": "Nick Broeker",
+        "position": "G",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426498.png"
       }
     },
     {
