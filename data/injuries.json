@@ -44,8 +44,8 @@
       }
     },
     {
-      "status": "Questionable",
-      "type": "questionable",
+      "status": "Active",
+      "type": "active",
       "date": "2026-11-12T01:32Z",
       "athlete": {
         "name": "Greg Gaines",
@@ -237,17 +237,6 @@
       }
     },
     {
-      "status": "Injured Reserve",
-      "type": "Injured Reserve",
-      "detail": "Hamstring",
-      "date": "2026-11-10T01:39Z",
-      "athlete": {
-        "name": "Joshua Palmer",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
-      }
-    },
-    {
       "status": "Questionable",
       "type": "questionable",
       "detail": "Ankle",
@@ -267,6 +256,17 @@
         "name": "Tyrell Shavers",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
+      }
+    },
+    {
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "detail": "Hamstring",
+      "date": "2026-11-09T22:24Z",
+      "athlete": {
+        "name": "Joshua Palmer",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
       }
     },
     {
