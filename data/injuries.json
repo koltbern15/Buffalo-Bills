@@ -3,27 +3,7 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-11-13T22:39Z",
-      "athlete": {
-        "name": "Connor McGovern",
-        "position": "C",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4033748.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-13T22:39Z",
-      "athlete": {
-        "name": "Dion Dawkins",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3051324.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-13T22:38Z",
+      "date": "2026-11-14T02:42Z",
       "athlete": {
         "name": "Alec Anderson",
         "position": "OT",
@@ -31,14 +11,66 @@
       }
     },
     {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-14T02:36Z",
+      "athlete": {
+        "name": "Dion Dawkins",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3051324.png"
+      }
+    },
+    {
       "status": "Doubtful",
       "type": "doubtful",
       "detail": "Ankle",
-      "date": "2026-11-13T22:37Z",
+      "date": "2026-11-14T02:29Z",
       "athlete": {
         "name": "Spencer Brown",
         "position": "OT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Wrist",
+      "date": "2026-11-14T01:04Z",
+      "athlete": {
+        "name": "Christian Benford",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379778.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Knee - ACL",
+      "date": "2026-11-14T00:36Z",
+      "athlete": {
+        "name": "Tyrell Shavers",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-13T23:11Z",
+      "athlete": {
+        "name": "Amani Hooker",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036134.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-13T22:39Z",
+      "athlete": {
+        "name": "Connor McGovern",
+        "position": "C",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4033748.png"
       }
     },
     {
@@ -80,17 +112,6 @@
         "name": "Greg Gaines",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Wrist",
-      "date": "2026-11-11T23:32Z",
-      "athlete": {
-        "name": "Christian Benford",
-        "position": "CB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379778.png"
       }
     },
     {
@@ -241,17 +262,6 @@
         "name": "Damar Hamlin",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036060.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Knee - ACL",
-      "date": "2026-11-10T00:13Z",
-      "athlete": {
-        "name": "Tyrell Shavers",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
       }
     },
     {
