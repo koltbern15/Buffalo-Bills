@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "Week 10 NFL highlights: Best plays, moments, touchdowns, more",
+      "description": "Check here for all of Sunday's top moments, TDs and analysis from our reporters.",
+      "published": "2026-11-15T13:47:43Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50489998/week-10-highlights-sunday-best-plays-touchdowns-2026",
+      "image": "https://a.espncdn.com/photo/2025/1223/r1592987_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 10 betting odds: Lines and totals for every game",
       "description": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
       "published": "2026-11-14T16:55:36Z",
@@ -311,14 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50370431/buffalo-miracle-hbo-trailer-josh-allen",
       "image": "https://a.espncdn.com/photo/2026/1103/r1740741_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Bills release C.J. Gardner-Johnson after one-game spitting suspension",
-      "description": "The Bills have released safety C.J. Gardner-Johnson, the team announced Tuesday.",
-      "published": "2026-11-03T22:45:59Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50372292/bills-release-safety-cj-gardner-johnson",
-      "image": "https://a.espncdn.com/photo/2026/1018/r1732647_1296x729_16-9.jpg",
-      "type": "HeadlineNews"
     }
   ]
 }
