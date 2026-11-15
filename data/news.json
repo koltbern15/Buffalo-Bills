@@ -81,14 +81,6 @@
       "type": "Story"
     },
     {
-      "headline": "Can Amani Hooker be the answer for the Bills in their secondary?",
-      "description": "Nick Suss discusses the addition of Amani Hooker and how much of a help he can be for the Bills.",
-      "published": "2026-11-11T23:43:36Z",
-      "url": "https://www.espn.com/video/clip/_/id/50456173/can-amani-hooker-answer-bills-their-secondary",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1111/dm_261111_Bills_Hooker_IA/dm_261111_Bills_Hooker_IA.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "New Bills safety Amani Hooker will be 'ready to go' vs. Jets",
       "description": "Amani Cooper said he's confident he'll be able to pick up defensive coordinator Jim Leonhard's scheme by kickoff vs. the Jets.",
       "published": "2026-11-11T23:35:57Z",
@@ -319,6 +311,14 @@
       "url": "https://www.espn.com/nfl/story/_/id/50370431/buffalo-miracle-hbo-trailer-josh-allen",
       "image": "https://a.espncdn.com/photo/2026/1103/r1740741_608x342_16-9.jpg",
       "type": "Story"
+    },
+    {
+      "headline": "Bills release C.J. Gardner-Johnson after one-game spitting suspension",
+      "description": "The Bills have released safety C.J. Gardner-Johnson, the team announced Tuesday.",
+      "published": "2026-11-03T22:45:59Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50372292/bills-release-safety-cj-gardner-johnson",
+      "image": "https://a.espncdn.com/photo/2026/1018/r1732647_1296x729_16-9.jpg",
+      "type": "HeadlineNews"
     }
   ]
 }
