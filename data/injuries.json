@@ -1,14 +1,98 @@
 {
   "injuries": [
     {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Hamstring",
-      "date": "2026-11-15T00:29Z",
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-15T17:40Z",
+      "athlete": {
+        "name": "Spencer Brown",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-15T17:00Z",
       "athlete": {
         "name": "Jordan Hancock",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596480.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-15T16:58Z",
+      "athlete": {
+        "name": "Christian Benford",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379778.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-11-15T16:35Z",
+      "athlete": {
+        "name": "Ar'maj Reed-Adams",
+        "position": "G",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-11-15T16:35Z",
+      "athlete": {
+        "name": "Jalon Kilgore",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-11-15T16:35Z",
+      "athlete": {
+        "name": "Jude Bowry",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-11-15T16:35Z",
+      "athlete": {
+        "name": "Mike Danna",
+        "position": "DE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915487.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
+      "date": "2026-11-15T16:35Z",
+      "athlete": {
+        "name": "Greg Gaines",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-15T16:35Z",
+      "athlete": {
+        "name": "Sam Franklin Jr.",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4044133.png"
       }
     },
     {
@@ -23,8 +107,9 @@
       }
     },
     {
-      "status": "Active",
-      "type": "active",
+      "status": "Out",
+      "type": "out",
+      "detail": "Coach's Decision",
       "date": "2026-11-14T21:46Z",
       "athlete": {
         "name": "Shane Buechele",
@@ -50,28 +135,6 @@
         "name": "Dion Dawkins",
         "position": "OT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3051324.png"
-      }
-    },
-    {
-      "status": "Doubtful",
-      "type": "doubtful",
-      "detail": "Ankle",
-      "date": "2026-11-14T02:29Z",
-      "athlete": {
-        "name": "Spencer Brown",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Wrist",
-      "date": "2026-11-14T01:04Z",
-      "athlete": {
-        "name": "Christian Benford",
-        "position": "CB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379778.png"
       }
     },
     {
@@ -105,17 +168,6 @@
       }
     },
     {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Shoulder",
-      "date": "2026-11-12T21:30Z",
-      "athlete": {
-        "name": "Sam Franklin Jr.",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4044133.png"
-      }
-    },
-    {
       "status": "Active",
       "type": "active",
       "date": "2026-11-12T03:43Z",
@@ -123,16 +175,6 @@
         "name": "Terrel Bernard",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259166.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-12T01:32Z",
-      "athlete": {
-        "name": "Greg Gaines",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
       }
     },
     {
@@ -180,29 +222,9 @@
       "type": "active",
       "date": "2026-11-10T15:44Z",
       "athlete": {
-        "name": "Mike Danna",
-        "position": "DE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915487.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-10T15:44Z",
-      "athlete": {
         "name": "Skyler Bell",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-10T15:44Z",
-      "athlete": {
-        "name": "Jalon Kilgore",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
       }
     },
     {
@@ -309,16 +331,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-11-02T18:47Z",
-      "athlete": {
-        "name": "Ar'maj Reed-Adams",
-        "position": "G",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-11-02T15:08Z",
       "athlete": {
         "name": "Greg Dortch",
@@ -394,16 +406,6 @@
         "name": "Davison Igbinosun",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4832035.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-10-19T16:23Z",
-      "athlete": {
-        "name": "Jude Bowry",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
       }
     },
     {

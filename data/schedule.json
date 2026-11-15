@@ -335,13 +335,13 @@
       "week": 10,
       "seasonType": 2,
       "status": {
-        "id": "1",
-        "name": "STATUS_SCHEDULED",
-        "state": "pre",
+        "id": "2",
+        "name": "STATUS_IN_PROGRESS",
+        "state": "in",
         "completed": false,
-        "description": "Scheduled",
-        "detail": "Sun, November 15th at 1:00 PM EST",
-        "shortDetail": "11/15 - 1:00 PM EST"
+        "description": "In Progress",
+        "detail": "10:55 - 3rd Quarter",
+        "shortDetail": "10:55 - 3rd"
       },
       "venue": {
         "name": "MetLife Stadium",
