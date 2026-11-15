@@ -19,19 +19,19 @@
           },
           {
             "name": "avgPointsAgainst",
-            "value": 23.375
+            "value": 22.11111
           },
           {
             "name": "avgPointsFor",
-            "value": 32
+            "value": 31.88889
           },
           {
             "name": "differential",
-            "value": 69
+            "value": 88
           },
           {
             "name": "divisionWinPercent",
-            "value": 0
+            "value": 0.5
           },
           {
             "name": "gamesBehind",
@@ -39,11 +39,11 @@
           },
           {
             "name": "gamesPlayed",
-            "value": 8
+            "value": 9
           },
           {
             "name": "leagueWinPercent",
-            "value": 0.8
+            "value": 0.8333333
           },
           {
             "name": "losses",
@@ -55,23 +55,23 @@
           },
           {
             "name": "pointDifferential",
-            "value": 69
+            "value": 88
           },
           {
             "name": "points",
-            "value": 3
+            "value": 3.5
           },
           {
             "name": "pointsAgainst",
-            "value": 187
+            "value": 199
           },
           {
             "name": "pointsFor",
-            "value": 256
+            "value": 287
           },
           {
             "name": "streak",
-            "value": 4
+            "value": 5
           },
           {
             "name": "ties",
@@ -79,11 +79,11 @@
           },
           {
             "name": "winPercent",
-            "value": 0.875
+            "value": 0.8888889
           },
           {
             "name": "wins",
-            "value": 7
+            "value": 8
           },
           {
             "name": "divisionLosses",
@@ -99,14 +99,14 @@
           },
           {
             "name": "divisionWins",
-            "value": 0
+            "value": 1
           },
           {
             "name": "lockedDivRank",
             "value": 0
           }
         ],
-        "summary": "7-1",
+        "summary": "8-1",
         "type": "total"
       },
       {
@@ -141,7 +141,7 @@
         "stats": [
           {
             "name": "wins",
-            "value": 4
+            "value": 5
           },
           {
             "name": "losses",
@@ -160,7 +160,7 @@
             "value": 0
           }
         ],
-        "summary": "4-0",
+        "summary": "5-0",
         "type": "road"
       }
     ]
@@ -170,7 +170,7 @@
     {
       "competitions": [
         {
-          "attendance": 0,
+          "attendance": 82953,
           "boxscoreAvailable": true,
           "broadcasts": [
             {
@@ -198,9 +198,36 @@
               "homeAway": "home",
               "id": "20",
               "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Game",
+                  "description": "Overall Record",
+                  "displayName": "Record Year To Date",
+                  "displayValue": "2-8",
+                  "id": "369",
+                  "shortDisplayName": "YTD",
+                  "type": "total"
+                },
+                {
+                  "description": "Home Record",
+                  "displayName": "Home",
+                  "displayValue": "1-4",
+                  "id": "13",
+                  "shortDisplayName": "HOME",
+                  "type": "home"
+                },
+                {
+                  "description": "Away Record",
+                  "displayName": "Road",
+                  "displayValue": "1-4",
+                  "id": "14",
+                  "shortDisplayName": "AWAY",
+                  "type": "road"
+                }
+              ],
               "score": {
-                "displayValue": "6",
-                "value": 6
+                "displayValue": "12",
+                "value": 12
               },
               "team": {
                 "abbreviation": "NYJ",
@@ -515,7 +542,8 @@
                 "nickname": "Jets",
                 "shortDisplayName": "Jets"
               },
-              "type": "team"
+              "type": "team",
+              "winner": false
             },
             {
               "curatedRank": {
@@ -524,9 +552,36 @@
               "homeAway": "away",
               "id": "2",
               "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Game",
+                  "description": "Overall Record",
+                  "displayName": "Record Year To Date",
+                  "displayValue": "8-1",
+                  "id": "369",
+                  "shortDisplayName": "YTD",
+                  "type": "total"
+                },
+                {
+                  "description": "Home Record",
+                  "displayName": "Home",
+                  "displayValue": "3-1",
+                  "id": "13",
+                  "shortDisplayName": "HOME",
+                  "type": "home"
+                },
+                {
+                  "description": "Away Record",
+                  "displayName": "Road",
+                  "displayValue": "5-0",
+                  "id": "14",
+                  "shortDisplayName": "AWAY",
+                  "type": "road"
+                }
+              ],
               "score": {
-                "displayValue": "10",
-                "value": 10
+                "displayValue": "31",
+                "value": 31
               },
               "team": {
                 "abbreviation": "BUF",
@@ -841,7 +896,8 @@
                 "nickname": "Bills",
                 "shortDisplayName": "Bills"
               },
-              "type": "team"
+              "type": "team",
+              "winner": true
             }
           ],
           "date": "2026-11-15T18:00Z",
@@ -849,50 +905,21 @@
           "neutralSite": false,
           "notes": [],
           "status": {
-            "clock": 676,
-            "displayClock": "11:16",
+            "clock": 0,
+            "displayClock": "0:00",
             "isTBDFlex": false,
-            "period": 3,
+            "period": 4,
             "type": {
-              "completed": false,
-              "description": "In Progress",
-              "detail": "11:16 - 3rd Quarter",
-              "id": "2",
-              "name": "STATUS_IN_PROGRESS",
-              "shortDetail": "11:16 - 3rd",
-              "state": "in"
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
             }
           },
-          "tickets": [
-            {
-              "description": "Buffalo Bills at New York Jets",
-              "id": "6494612",
-              "links": [
-                {
-                  "href": "https://www.vividseats.com/new-york-jets-tickets-east-rutherford-metlife-stadium-3-6-2027/production/6494612?wsUser=717",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "event"
-                  ]
-                },
-                {
-                  "href": "https://www.vividseats.com/metlife-stadium-tickets/venue/8136?wsUser=717",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "venue"
-                  ]
-                }
-              ],
-              "maxPrice": 11569,
-              "numberAvailable": 17,
-              "startingPrice": 291,
-              "summary": "Tickets as low as $291",
-              "totalPostings": 9
-            }
-          ],
-          "ticketsAvailable": true,
+          "ticketsAvailable": false,
           "timeValid": true,
           "type": {
             "abbreviation": "STD",
@@ -916,16 +943,16 @@
       "id": "401873054",
       "links": [
         {
-          "href": "https://www.espn.com/nfl/game?gameId=401873054",
+          "href": "https://www.espn.com/nfl/game/_/gameId/401873054/bills-jets",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
           "rel": [
-            "live",
+            "summary",
             "desktop",
             "event"
           ],
-          "shortText": "Gamecast",
+          "shortText": "Summary",
           "text": "Gamecast"
         },
         {
@@ -934,12 +961,12 @@
           "isPremium": false,
           "language": "en-US",
           "rel": [
-            "live",
+            "summary",
             "sportscenter",
             "app",
             "event"
           ],
-          "shortText": "Gamecast",
+          "shortText": "Summary",
           "text": "Gamecast"
         },
         {
@@ -1034,6 +1061,19 @@
           ],
           "shortText": "Gamecast",
           "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nfl/recap?gameId=401873054",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
         },
         {
           "href": "https://www.espn.com/nfl/playbyplay/_/gameId/401873054",

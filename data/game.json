@@ -3,35 +3,34 @@
     "id": "401873054",
     "name": "BUF @ NYJ",
     "date": "2026-11-15T18:00Z",
-    "state": "in",
+    "state": "post",
     "status": {
-      "id": "2",
-      "name": "STATUS_IN_PROGRESS",
-      "state": "in",
-      "completed": false,
-      "description": "In Progress",
-      "detail": "10:55 - 3rd Quarter",
-      "shortDetail": "10:55 - 3rd"
+      "id": "3",
+      "name": "STATUS_FINAL",
+      "state": "post",
+      "completed": true,
+      "description": "Final",
+      "detail": "Final",
+      "shortDetail": "Final"
     },
-    "clock": "10:55",
-    "period": 3,
+    "clock": "0:00",
+    "period": 4,
     "us": {
       "abbr": "BUF",
-      "score": "10",
+      "score": "31",
       "homeAway": "away",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
     "them": {
       "abbr": "NYJ",
       "name": "New York Jets",
-      "score": "6",
+      "score": "12",
       "homeAway": "home",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png"
     },
     "odds": null,
     "broadcast": "CBS",
-    "winProbability": 77,
-    "lastPlay": "Official Timeout at 10:55."
+    "winProbability": 100
   },
   "next": {
     "id": "401873070",

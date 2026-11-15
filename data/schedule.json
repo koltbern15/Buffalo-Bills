@@ -335,13 +335,13 @@
       "week": 10,
       "seasonType": 2,
       "status": {
-        "id": "2",
-        "name": "STATUS_IN_PROGRESS",
-        "state": "in",
-        "completed": false,
-        "description": "In Progress",
-        "detail": "10:55 - 3rd Quarter",
-        "shortDetail": "10:55 - 3rd"
+        "id": "3",
+        "name": "STATUS_FINAL",
+        "state": "post",
+        "completed": true,
+        "description": "Final",
+        "detail": "Final",
+        "shortDetail": "Final"
       },
       "venue": {
         "name": "MetLife Stadium",
@@ -355,10 +355,16 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png"
       },
       "score": {
-        "us": null,
-        "them": null
+        "us": {
+          "value": 31,
+          "displayValue": "31"
+        },
+        "them": {
+          "value": 12,
+          "displayValue": "12"
+        }
       },
-      "result": null,
+      "result": "W",
       "homeAbbr": "NYJ",
       "awayAbbr": "BUF"
     },
