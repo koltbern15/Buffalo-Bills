@@ -84,6 +84,18 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
         },
         {
+          "id": "4039034",
+          "name": "Shane Buechele",
+          "jersey": "6",
+          "position": "QB",
+          "age": 28,
+          "height": "6' 0\"",
+          "weight": "210 lbs",
+          "experience": 4,
+          "college": "SMU",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039034.png"
+        },
+        {
           "id": "4635008",
           "name": "Keon Coleman",
           "jersey": "0",
@@ -389,18 +401,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3116733.png"
         },
         {
-          "id": "4427348",
-          "name": "Te'Cory Couch",
-          "jersey": "33",
-          "position": "CB",
-          "age": 27,
-          "height": "5' 10\"",
-          "weight": "185 lbs",
-          "experience": 1,
-          "college": "Miami",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427348.png"
-        },
-        {
           "id": "3915487",
           "name": "Mike Danna",
           "jersey": "51",
@@ -471,6 +471,18 @@
           "experience": 6,
           "college": "Pittsburgh",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036060.png"
+        },
+        {
+          "id": "4596480",
+          "name": "Jordan Hancock",
+          "jersey": "37",
+          "position": "CB",
+          "age": 23,
+          "height": "6' 0\"",
+          "weight": "195 lbs",
+          "experience": 2,
+          "college": "Ohio State",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596480.png"
         },
         {
           "id": "4033234",
@@ -687,18 +699,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685347.png"
         },
         {
-          "id": "4596480",
-          "name": "Jordan Hancock",
-          "jersey": "37",
-          "position": "CB",
-          "age": 23,
-          "height": "6' 0\"",
-          "weight": "195 lbs",
-          "experience": 2,
-          "college": "Ohio State",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596480.png"
-        },
-        {
           "id": "4242433",
           "name": "Joshua Palmer",
           "jersey": "5",
@@ -754,18 +754,6 @@
           "experience": 3,
           "college": "Ole Miss",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426498.png"
-        },
-        {
-          "id": "4039034",
-          "name": "Shane Buechele",
-          "jersey": "6",
-          "position": "QB",
-          "age": 28,
-          "height": "6' 0\"",
-          "weight": "210 lbs",
-          "experience": 4,
-          "college": "SMU",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039034.png"
         },
         {
           "id": "5209587",
