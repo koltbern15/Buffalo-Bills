@@ -3,6 +3,66 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-11-16T18:06Z",
+      "athlete": {
+        "name": "Ar'maj Reed-Adams",
+        "position": "G",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-16T18:06Z",
+      "athlete": {
+        "name": "Mike Danna",
+        "position": "DE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915487.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-16T18:06Z",
+      "athlete": {
+        "name": "Greg Gaines",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-16T18:06Z",
+      "athlete": {
+        "name": "Shane Buechele",
+        "position": "QB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039034.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-16T18:06Z",
+      "athlete": {
+        "name": "Jude Bowry",
+        "position": "OT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-16T18:06Z",
+      "athlete": {
+        "name": "Jalon Kilgore",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-11-16T05:01Z",
       "athlete": {
         "name": "Ray Davis",
@@ -124,61 +184,6 @@
       }
     },
     {
-      "status": "Out",
-      "type": "out",
-      "detail": "Coach's Decision",
-      "date": "2026-11-15T16:35Z",
-      "athlete": {
-        "name": "Ar'maj Reed-Adams",
-        "position": "G",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Coach's Decision",
-      "date": "2026-11-15T16:35Z",
-      "athlete": {
-        "name": "Jalon Kilgore",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5076951.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Coach's Decision",
-      "date": "2026-11-15T16:35Z",
-      "athlete": {
-        "name": "Jude Bowry",
-        "position": "OT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869533.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Coach's Decision",
-      "date": "2026-11-15T16:35Z",
-      "athlete": {
-        "name": "Mike Danna",
-        "position": "DE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915487.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Coach's Decision",
-      "date": "2026-11-15T16:35Z",
-      "athlete": {
-        "name": "Greg Gaines",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127294.png"
-      }
-    },
-    {
       "status": "Active",
       "type": "active",
       "date": "2026-11-15T16:35Z",
@@ -197,17 +202,6 @@
         "name": "Tyrell Shavers",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Coach's Decision",
-      "date": "2026-11-14T21:46Z",
-      "athlete": {
-        "name": "Shane Buechele",
-        "position": "QB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039034.png"
       }
     },
     {
