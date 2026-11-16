@@ -3,6 +3,36 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-11-16T01:06Z",
+      "athlete": {
+        "name": "Khalil Shakir",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-16T00:38Z",
+      "athlete": {
+        "name": "Dalton Kincaid",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-16T00:30Z",
+      "athlete": {
+        "name": "DJ Moore",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-11-15T22:00Z",
       "athlete": {
         "name": "Josh Allen",
@@ -213,16 +243,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-11-13T21:15Z",
-      "athlete": {
-        "name": "Dalton Kincaid",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-11-12T03:43Z",
       "athlete": {
         "name": "Terrel Bernard",
@@ -293,31 +313,11 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-11-10T05:22Z",
-      "athlete": {
-        "name": "Khalil Shakir",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-11-10T05:21Z",
       "athlete": {
         "name": "Ray Davis",
         "position": "RB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-10T04:59Z",
-      "athlete": {
-        "name": "DJ Moore",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
       }
     },
     {

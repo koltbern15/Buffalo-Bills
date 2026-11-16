@@ -3,17 +3,41 @@
     {
       "headline": "Week 10 NFL highlights: Best plays, moments, touchdowns, more",
       "description": "Check here for all of Sunday's top moments, TDs and analysis from ESPN's NFL reporters.",
-      "published": "2026-11-15T23:14:07Z",
+      "published": "2026-11-16T02:05:39Z",
       "url": "https://www.espn.com/nfl/story/_/id/50489998/week-10-highlights-sunday-best-plays-touchdowns-2026",
-      "image": "https://a.espncdn.com/photo/2026/1115/r1746358_576x324_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/1116/r1746290_576x324_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Bills defense hasn't allowed a TD in 33 possessions",
+      "description": "Nick Suss discusses the Bills' recent defensive success against younger quarterbacks.",
+      "published": "2026-11-16T01:49:08Z",
+      "url": "https://www.espn.com/video/clip/_/id/50497302/bills-defense-allowed-td-33-possessions",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1115/dm_261115_IA_Bills_16x9/dm_261115_IA_Bills_16x9.jpg",
+      "type": "Media"
+    },
+    {
+      "headline": "49ers poke fun at Cowboys multiple times to headline NFL Week 10 trolls",
+      "description": "NFL teams kept it petty in Week 10, led by the San Francisco 49ers poking fun at the Dallas Cowboys.",
+      "published": "2026-11-16T01:50:43Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50497055/nfl-week-10-trolls",
+      "image": "https://a.espncdn.com/photo/2026/1116/r1746439_608x342_16-9.jpg",
       "type": "Story"
     },
     {
       "headline": "NFL Week 10: Big takeaways, questions and fantasy spin from Sunday's games",
       "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 10.",
-      "published": "2026-11-15T23:02:01Z",
+      "published": "2026-11-16T01:44:47Z",
       "url": "https://www.espn.com/nfl/story/_/id/50443510/week-10-sunday-games-takeaways-questions-2026",
-      "image": "https://a.espncdn.com/photo/2026/1115/r1746274_608x342_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/1116/r1746429_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Ja'Marr Chase steps into 'SNF'  in style, leads NFL Week 10 arrivals",
+      "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-11-16T00:42:37Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50465223/nfl-week-10-fashionable-arrivals",
+      "image": "https://a.espncdn.com/photo/2026/1116/r1746437_608x342_16-9.png",
       "type": "Story"
     },
     {
@@ -31,14 +55,6 @@
       "url": "https://www.espn.com/video/clip/_/id/50493724/bills-make-easy-work-jets",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1115/c9dca6e9-5e92-4fe2-84a6-88c71d77fa94/c9dca6e9-5e92-4fe2-84a6-88c71d77fa94.jpg",
       "type": "Media"
-    },
-    {
-      "headline": "Fernando Mendoza steps into starting role in style, leads NFL Week 10 arrivals",
-      "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-15T20:17:50Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50465223/nfl-week-10-fashionable-arrivals",
-      "image": "https://a.espncdn.com/photo/2026/1115/r1746220_608x342_16-9.png",
-      "type": "Story"
     },
     {
       "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
@@ -303,22 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50390732/vikings-start-qb-wentz-bills-murray-injured",
       "image": "https://a.espncdn.com/photo/2026/0916/r1717736_1296x729_16-9.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "What 18 contenders should do at the NFL trade deadline: Who could get aggressive?",
-      "description": "Should the Giants keep adding? Could the Bills go all-in? Would the Steelers stay conservative? Here's how 18 teams at or above .500 should approach the deadline.",
-      "published": "2026-11-05T18:32:13Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50360077/2026-nfl-trade-deadline-contenders-activity-add-subtract",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1741192_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "What has gone right -- and wrong -- for 10 new NFL head coaches in 2026 season",
-      "description": "There are 10 new head coaches in the NFL this season, which ties the most ever. How are things going for each of them after eight weeks?",
-      "published": "2026-11-05T20:08:45Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50369047/2026-nfl-season-10-new-coaches-midseason-good-bad",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740752_608x342_16-9.jpg",
-      "type": "Story"
     }
   ]
 }
