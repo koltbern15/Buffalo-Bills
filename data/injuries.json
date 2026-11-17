@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-11-17T03:54Z",
+      "athlete": {
+        "name": "Tyler Bass",
+        "position": "PK",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-11-17T02:41Z",
       "athlete": {
         "name": "Dawson Knox",
@@ -272,16 +282,6 @@
         "name": "Jackson Hawes",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573699.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-11T01:47Z",
-      "athlete": {
-        "name": "Tyler Bass",
-        "position": "PK",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
       }
     },
     {
