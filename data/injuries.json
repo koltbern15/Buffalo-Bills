@@ -3,6 +3,16 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-11-18T18:13Z",
+      "athlete": {
+        "name": "Tyrell Shavers",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-11-18T02:27Z",
       "athlete": {
         "name": "Ty Johnson",
@@ -212,17 +222,6 @@
         "name": "Sam Franklin Jr.",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4044133.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Knee - ACL",
-      "date": "2026-11-14T21:49Z",
-      "athlete": {
-        "name": "Tyrell Shavers",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png"
       }
     },
     {
