@@ -276,18 +276,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
         },
         {
-          "id": "4606712",
-          "name": "Ar'maj Reed-Adams",
-          "jersey": "60",
-          "position": "G",
-          "age": 25,
-          "height": "6' 5\"",
-          "weight": "314 lbs",
-          "experience": 0,
-          "college": "Texas A&M",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
-        },
-        {
           "id": "4373678",
           "name": "Khalil Shakir",
           "jersey": "10",
@@ -711,6 +699,18 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png"
         },
         {
+          "id": "4606712",
+          "name": "Ar'maj Reed-Adams",
+          "jersey": "60",
+          "position": "G",
+          "age": 25,
+          "height": "6' 5\"",
+          "weight": "314 lbs",
+          "experience": 0,
+          "college": "Texas A&M",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
+        },
+        {
           "id": "4241476",
           "name": "Tyrell Shavers",
           "jersey": "14",
@@ -765,6 +765,18 @@
           "weight": "303 lbs",
           "experience": 2,
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5209587.png"
+        },
+        {
+          "id": "4427348",
+          "name": "Te'Cory Couch",
+          "jersey": "33",
+          "position": "CB",
+          "age": 27,
+          "height": "5' 10\"",
+          "weight": "185 lbs",
+          "experience": 1,
+          "college": "Miami",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427348.png"
         },
         {
           "id": "4429805",

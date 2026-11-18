@@ -3,6 +3,27 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-11-18T02:27Z",
+      "athlete": {
+        "name": "Ty Johnson",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
+      }
+    },
+    {
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "detail": "Back",
+      "date": "2026-11-18T01:37Z",
+      "athlete": {
+        "name": "Ar'maj Reed-Adams",
+        "position": "G",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-11-17T03:54Z",
       "athlete": {
         "name": "Tyler Bass",
@@ -28,16 +49,6 @@
         "name": "Keon Coleman",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-16T18:06Z",
-      "athlete": {
-        "name": "Ar'maj Reed-Adams",
-        "position": "G",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
       }
     },
     {
@@ -292,16 +303,6 @@
         "name": "Skyler Bell",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-10T05:31Z",
-      "athlete": {
-        "name": "Ty Johnson",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
       }
     },
     {
