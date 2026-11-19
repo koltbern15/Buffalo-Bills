@@ -1,6 +1,72 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Toe",
+      "date": "2026-11-19T00:13Z",
+      "athlete": {
+        "name": "Damar Hamlin",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036060.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Hamstring",
+      "date": "2026-11-18T22:42Z",
+      "athlete": {
+        "name": "Ray Davis",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Shoulder",
+      "date": "2026-11-18T22:27Z",
+      "athlete": {
+        "name": "Jackson Hawes",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573699.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Knee",
+      "date": "2026-11-18T21:35Z",
+      "athlete": {
+        "name": "Amani Hooker",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036134.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Shoulder",
+      "date": "2026-11-18T21:35Z",
+      "athlete": {
+        "name": "Cole Bishop",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4676004.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Thumb",
+      "date": "2026-11-18T21:29Z",
+      "athlete": {
+        "name": "Dalton Kincaid",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-11-18T18:13Z",
@@ -104,31 +170,11 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-11-16T05:01Z",
-      "athlete": {
-        "name": "Ray Davis",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-11-16T01:06Z",
       "athlete": {
         "name": "Khalil Shakir",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-16T00:38Z",
-      "athlete": {
-        "name": "Dalton Kincaid",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
       }
     },
     {
@@ -247,16 +293,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-11-13T23:11Z",
-      "athlete": {
-        "name": "Amani Hooker",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036134.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-11-13T22:39Z",
       "athlete": {
         "name": "Connor McGovern",
@@ -287,31 +323,11 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-11-11T02:10Z",
-      "athlete": {
-        "name": "Jackson Hawes",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573699.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-11-10T15:44Z",
       "athlete": {
         "name": "Skyler Bell",
         "position": "WR",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683153.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-10T03:44Z",
-      "athlete": {
-        "name": "Damar Hamlin",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036060.png"
       }
     },
     {
@@ -423,16 +439,6 @@
         "name": "Deone Walker",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4831989.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-09-19T03:32Z",
-      "athlete": {
-        "name": "Cole Bishop",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4676004.png"
       }
     },
     {

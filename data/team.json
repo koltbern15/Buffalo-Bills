@@ -877,11 +877,11 @@
                   ]
                 }
               ],
-              "maxPrice": 10423,
-              "numberAvailable": 2392,
-              "startingPrice": 222,
-              "summary": "Tickets as low as $222",
-              "totalPostings": 855
+              "maxPrice": 3525,
+              "numberAvailable": 2325,
+              "startingPrice": 221,
+              "summary": "Tickets as low as $221",
+              "totalPostings": 854
             }
           ],
           "ticketsAvailable": true,
