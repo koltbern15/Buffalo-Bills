@@ -877,11 +877,11 @@
                   ]
                 }
               ],
-              "maxPrice": 3525,
-              "numberAvailable": 2178,
+              "maxPrice": 5802,
+              "numberAvailable": 2006,
               "startingPrice": 211,
               "summary": "Tickets as low as $211",
-              "totalPostings": 811
+              "totalPostings": 769
             }
           ],
           "ticketsAvailable": true,
@@ -946,6 +946,19 @@
           ],
           "shortText": "Now",
           "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nfl/preview/_/gameId/401873070",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "preview",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Preview",
+          "text": "Preview"
         },
         {
           "href": "https://www.espn.com/nfl/odds/_/gameId/401873070",
