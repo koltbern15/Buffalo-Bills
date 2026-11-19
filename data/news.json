@@ -89,14 +89,6 @@
       "type": "Story"
     },
     {
-      "headline": "Bills defense hasn't allowed a TD in 33 possessions",
-      "description": "Nick Suss discusses the Bills' recent defensive success against younger quarterbacks.",
-      "published": "2026-11-16T01:49:08Z",
-      "url": "https://www.espn.com/video/clip/_/id/50497302/bills-defense-allowed-td-33-possessions",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1115/dm_261115_IA_Bills_16x9/dm_261115_IA_Bills_16x9.jpg",
-      "type": "Media"
-    },
-    {
       "headline": "49ers poke fun at Cowboys multiple times to headline NFL Week 10 trolls",
       "description": "NFL teams kept it petty in Week 10, led by the San Francisco 49ers poking fun at the Dallas Cowboys.",
       "published": "2026-11-16T01:50:43Z",
@@ -318,6 +310,14 @@
       "published": "2026-11-09T13:28:46Z",
       "url": "https://www.espn.com/nfl/story/_/id/50389499/2026-nfl-trade-deadline-offers-experts-taylor-woolen-pollard",
       "image": "https://a.espncdn.com/photo/2026/1027/nfl_trade_split2_608x342.png",
+      "type": "Story"
+    },
+    {
+      "headline": "NFL Week 9 betting odds: Lines and totals for every game",
+      "description": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
+      "published": "2026-11-06T15:44:45Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals",
+      "image": "https://a.espncdn.com/photo/2026/1102/r1740078_1296x729_16-9.jpg",
       "type": "Story"
     }
   ]
