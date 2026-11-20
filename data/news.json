@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 11 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+      "description": "Joe Burrow vs. Jayden Daniels? Fernando Mendoza vs. Bo Nix? There are 12 more games in Week 11, and we have picks, predictions and more for all of them.",
+      "published": "2026-11-20T11:41:43Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50522208/week-11-picks-predictions-schedule-fantasy-odds-2026",
+      "image": "https://a.espncdn.com/photo/2025/0819/r1533632_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
       "description": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
       "published": "2026-11-20T01:40:33Z",
@@ -310,14 +318,6 @@
       "published": "2026-11-10T01:12:56Z",
       "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals",
       "image": "https://a.espncdn.com/photo/2026/1110/r1743806_608x342_16-9.png",
-      "type": "Story"
-    },
-    {
-      "headline": "As the 'Peanut Punch' takes over NFL, how do teams counter it?",
-      "description": "After Charles Tillman popularized the punch 14 years ago, it has really taken off this season.",
-      "published": "2026-11-09T16:55:50Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50380155/countering-peanut-punch-james-cook-skattebo",
-      "image": "https://a.espncdn.com/photo/2026/1104/nfl_peanut_punch_cr_16x9_608x342.jpg",
       "type": "Story"
     }
   ]
