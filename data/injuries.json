@@ -1,14 +1,56 @@
 {
   "injuries": [
     {
-      "status": "Questionable",
-      "type": "questionable",
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-20T20:25Z",
+      "athlete": {
+        "name": "Ray Davis",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-20T20:08Z",
+      "athlete": {
+        "name": "Amani Hooker",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036134.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
+      "detail": "Calf",
+      "date": "2026-11-20T19:56Z",
+      "athlete": {
+        "name": "Dorian Williams",
+        "position": "LB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568624.png"
+      }
+    },
+    {
+      "status": "Out",
+      "type": "out",
       "detail": "Groin",
-      "date": "2026-11-20T01:08Z",
+      "date": "2026-11-20T19:46Z",
       "athlete": {
         "name": "Christian Benford",
         "position": "CB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379778.png"
+      }
+    },
+    {
+      "status": "Doubtful",
+      "type": "doubtful",
+      "detail": "Thumb",
+      "date": "2026-11-20T18:16Z",
+      "athlete": {
+        "name": "Dalton Kincaid",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
       }
     },
     {
@@ -35,34 +77,12 @@
     {
       "status": "Questionable",
       "type": "questionable",
-      "detail": "Hamstring",
-      "date": "2026-11-19T23:31Z",
-      "athlete": {
-        "name": "Ray Davis",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
       "detail": "Shoulder",
       "date": "2026-11-19T21:35Z",
       "athlete": {
         "name": "T.J. Sanders",
         "position": "DT",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Thumb",
-      "date": "2026-11-19T19:43Z",
-      "athlete": {
-        "name": "Dalton Kincaid",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
       }
     },
     {
@@ -78,34 +98,12 @@
     {
       "status": "Questionable",
       "type": "questionable",
-      "detail": "Calf",
-      "date": "2026-11-19T01:29Z",
-      "athlete": {
-        "name": "Dorian Williams",
-        "position": "LB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4568624.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
       "detail": "Shoulder",
       "date": "2026-11-19T01:14Z",
       "athlete": {
         "name": "Jackson Hawes",
         "position": "TE",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573699.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Knee",
-      "date": "2026-11-19T00:54Z",
-      "athlete": {
-        "name": "Amani Hooker",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036134.png"
       }
     },
     {
