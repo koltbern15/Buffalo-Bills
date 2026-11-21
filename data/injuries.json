@@ -3,21 +3,63 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-11-20T20:25Z",
+      "date": "2026-11-21T00:51Z",
       "athlete": {
-        "name": "Ray Davis",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
+        "name": "Dee Alford",
+        "position": "CB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4401823.png"
       }
     },
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-11-20T20:08Z",
+      "date": "2026-11-20T23:11Z",
+      "athlete": {
+        "name": "Dawson Knox",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3930086.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-20T22:20Z",
       "athlete": {
         "name": "Amani Hooker",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036134.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Toe",
+      "date": "2026-11-20T22:18Z",
+      "athlete": {
+        "name": "Damar Hamlin",
+        "position": "S",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036060.png"
+      }
+    },
+    {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Shoulder",
+      "date": "2026-11-20T22:16Z",
+      "athlete": {
+        "name": "Jackson Hawes",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573699.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-20T20:25Z",
+      "athlete": {
+        "name": "Ray Davis",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
       }
     },
     {
@@ -66,17 +108,6 @@
     {
       "status": "Questionable",
       "type": "questionable",
-      "detail": "Concussion",
-      "date": "2026-11-20T01:04Z",
-      "athlete": {
-        "name": "Dee Alford",
-        "position": "CB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4401823.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
       "detail": "Shoulder",
       "date": "2026-11-19T21:35Z",
       "athlete": {
@@ -93,28 +124,6 @@
         "name": "TJ Parker",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4870886.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Shoulder",
-      "date": "2026-11-19T01:14Z",
-      "athlete": {
-        "name": "Jackson Hawes",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573699.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Toe",
-      "date": "2026-11-19T00:13Z",
-      "athlete": {
-        "name": "Damar Hamlin",
-        "position": "S",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036060.png"
       }
     },
     {
@@ -156,16 +165,6 @@
         "name": "Tyler Bass",
         "position": "PK",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-17T02:41Z",
-      "athlete": {
-        "name": "Dawson Knox",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3930086.png"
       }
     },
     {

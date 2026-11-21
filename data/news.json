@@ -1,9 +1,17 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
+      "description": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
+      "published": "2026-11-20T22:49:33Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms",
+      "image": "https://a.espncdn.com/photo/2026/1117/commanders-texans-week-11-unis16x9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "Bills TE Dalton Kincaid doubtful to play vs. Dolphins",
       "description": "Bills starting tight end Dalton Kincaid, their leading receiver, is listed as doubtful for Sunday's game against the Dolphins due to thumb and ankle injuries.",
-      "published": "2026-11-20T20:51:35Z",
+      "published": "2026-11-20T21:49:40Z",
       "url": "https://www.espn.com/nfl/story/_/id/50543381/bills-te-dalton-kincaid-doubtful-play-vs-dolphins",
       "image": "https://a.espncdn.com/photo/2024/0722/r1361693_1296x729_16-9.jpg",
       "type": "HeadlineNews"
@@ -22,14 +30,6 @@
       "published": "2026-11-20T18:48:27Z",
       "url": "https://www.espn.com/nfl/story/_/id/50522208/week-11-picks-predictions-schedule-fantasy-odds-2026",
       "image": "https://a.espncdn.com/photo/2025/0819/r1533632_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
-      "description": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
-      "published": "2026-11-20T01:40:33Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms",
-      "image": "https://a.espncdn.com/photo/2026/1117/commanders-texans-week-11-unis16x9.jpg",
       "type": "Story"
     },
     {
