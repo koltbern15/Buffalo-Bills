@@ -391,6 +391,7 @@
     {
       "status": "Active",
       "type": "active",
+      "detail": "Oblique",
       "date": "2026-10-30T00:19Z",
       "athlete": {
         "name": "Ed Oliver",
