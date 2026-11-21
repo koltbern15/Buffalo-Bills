@@ -1,6 +1,17 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Oblique",
+      "date": "2026-11-21T18:54Z",
+      "athlete": {
+        "name": "Ed Oliver",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-11-21T00:51Z",
@@ -386,17 +397,6 @@
         "name": "Joe Andreessen",
         "position": "LB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4366349.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "detail": "Oblique",
-      "date": "2026-10-30T00:19Z",
-      "athlete": {
-        "name": "Ed Oliver",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039303.png"
       }
     },
     {
