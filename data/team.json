@@ -19,19 +19,19 @@
           },
           {
             "name": "avgPointsAgainst",
-            "value": 22.11111
+            "value": 20.8
           },
           {
             "name": "avgPointsFor",
-            "value": 31.88889
+            "value": 31.3
           },
           {
             "name": "differential",
-            "value": 88
+            "value": 105
           },
           {
             "name": "divisionWinPercent",
-            "value": 0.5
+            "value": 0.6666667
           },
           {
             "name": "gamesBehind",
@@ -39,11 +39,11 @@
           },
           {
             "name": "gamesPlayed",
-            "value": 9
+            "value": 10
           },
           {
             "name": "leagueWinPercent",
-            "value": 0.8333333
+            "value": 0.85714287
           },
           {
             "name": "losses",
@@ -55,23 +55,23 @@
           },
           {
             "name": "pointDifferential",
-            "value": 88
+            "value": 105
           },
           {
             "name": "points",
-            "value": 3.5
+            "value": 4
           },
           {
             "name": "pointsAgainst",
-            "value": 199
+            "value": 208
           },
           {
             "name": "pointsFor",
-            "value": 287
+            "value": 313
           },
           {
             "name": "streak",
-            "value": 5
+            "value": 6
           },
           {
             "name": "ties",
@@ -79,11 +79,11 @@
           },
           {
             "name": "winPercent",
-            "value": 0.8888889
+            "value": 0.9
           },
           {
             "name": "wins",
-            "value": 8
+            "value": 9
           },
           {
             "name": "divisionLosses",
@@ -99,14 +99,14 @@
           },
           {
             "name": "divisionWins",
-            "value": 1
+            "value": 2
           },
           {
             "name": "lockedDivRank",
             "value": 0
           }
         ],
-        "summary": "8-1",
+        "summary": "9-1",
         "type": "total"
       },
       {
@@ -114,7 +114,7 @@
         "stats": [
           {
             "name": "wins",
-            "value": 3
+            "value": 4
           },
           {
             "name": "losses",
@@ -126,14 +126,14 @@
           },
           {
             "name": "winPercent",
-            "value": 0.75
+            "value": 0.8
           },
           {
             "name": "OTLosses",
             "value": 0
           }
         ],
-        "summary": "3-1",
+        "summary": "4-1",
         "type": "home"
       },
       {
@@ -170,8 +170,8 @@
     {
       "competitions": [
         {
-          "attendance": 0,
-          "boxscoreAvailable": false,
+          "attendance": 60590,
+          "boxscoreAvailable": true,
           "broadcasts": [
             {
               "lang": "en",
@@ -198,6 +198,37 @@
               "homeAway": "home",
               "id": "2",
               "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Game",
+                  "description": "Overall Record",
+                  "displayName": "Record Year To Date",
+                  "displayValue": "9-1",
+                  "id": "369",
+                  "shortDisplayName": "YTD",
+                  "type": "total"
+                },
+                {
+                  "description": "Home Record",
+                  "displayName": "Home",
+                  "displayValue": "4-1",
+                  "id": "13",
+                  "shortDisplayName": "HOME",
+                  "type": "home"
+                },
+                {
+                  "description": "Away Record",
+                  "displayName": "Road",
+                  "displayValue": "5-0",
+                  "id": "14",
+                  "shortDisplayName": "AWAY",
+                  "type": "road"
+                }
+              ],
+              "score": {
+                "displayValue": "26",
+                "value": 26
+              },
               "team": {
                 "abbreviation": "BUF",
                 "displayName": "Buffalo Bills",
@@ -511,7 +542,8 @@
                 "nickname": "Bills",
                 "shortDisplayName": "Bills"
               },
-              "type": "team"
+              "type": "team",
+              "winner": true
             },
             {
               "curatedRank": {
@@ -520,6 +552,37 @@
               "homeAway": "away",
               "id": "15",
               "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Game",
+                  "description": "Overall Record",
+                  "displayName": "Record Year To Date",
+                  "displayValue": "1-9",
+                  "id": "369",
+                  "shortDisplayName": "YTD",
+                  "type": "total"
+                },
+                {
+                  "description": "Home Record",
+                  "displayName": "Home",
+                  "displayValue": "0-4",
+                  "id": "13",
+                  "shortDisplayName": "HOME",
+                  "type": "home"
+                },
+                {
+                  "description": "Away Record",
+                  "displayName": "Road",
+                  "displayValue": "1-5",
+                  "id": "14",
+                  "shortDisplayName": "AWAY",
+                  "type": "road"
+                }
+              ],
+              "score": {
+                "displayValue": "9",
+                "value": 9
+              },
               "team": {
                 "abbreviation": "MIA",
                 "displayName": "Miami Dolphins",
@@ -833,7 +896,8 @@
                 "nickname": "Dolphins",
                 "shortDisplayName": "Dolphins"
               },
-              "type": "team"
+              "type": "team",
+              "winner": false
             }
           ],
           "date": "2026-11-22T18:00Z",
@@ -844,47 +908,18 @@
             "clock": 0,
             "displayClock": "0:00",
             "isTBDFlex": false,
-            "period": 0,
+            "period": 4,
             "type": {
-              "completed": false,
-              "description": "Scheduled",
-              "detail": "Sun, November 22nd at 1:00 PM EST",
-              "id": "1",
-              "name": "STATUS_SCHEDULED",
-              "shortDetail": "11/22 - 1:00 PM EST",
-              "state": "pre"
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
             }
           },
-          "tickets": [
-            {
-              "description": "Miami Dolphins at Buffalo Bills",
-              "id": "6488199",
-              "links": [
-                {
-                  "href": "https://www.vividseats.com/buffalo-bills-tickets-orchard-park-highmark-stadium-3-1-2026/production/6488199?wsUser=717",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "event"
-                  ]
-                },
-                {
-                  "href": "https://www.vividseats.com/highmark-stadium-tickets/venue/1385?wsUser=717",
-                  "rel": [
-                    "tickets",
-                    "desktop",
-                    "venue"
-                  ]
-                }
-              ],
-              "maxPrice": 3071,
-              "numberAvailable": 385,
-              "startingPrice": 204,
-              "summary": "Tickets as low as $204",
-              "totalPostings": 179
-            }
-          ],
-          "ticketsAvailable": true,
+          "ticketsAvailable": false,
           "timeValid": true,
           "type": {
             "abbreviation": "STD",
@@ -948,17 +983,123 @@
           "text": "Now"
         },
         {
-          "href": "https://www.espn.com/nfl/preview/_/gameId/401873070",
+          "href": "https://www.espn.com/nfl/matchup?gameId=401873070",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
           "rel": [
-            "preview",
+            "teamstats",
             "desktop",
             "event"
           ],
-          "shortText": "Preview",
-          "text": "Preview"
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nfl/boxscore/_/gameId/401873070",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401873070",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nfl/game/_/gameId/401873070",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nfl/gamecast?gameId=401873070&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401873070",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nfl/recap?gameId=401873070",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nfl/playbyplay/_/gameId/401873070",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nfl/video?gameId=401873070",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
         },
         {
           "href": "https://www.espn.com/nfl/odds/_/gameId/401873070",

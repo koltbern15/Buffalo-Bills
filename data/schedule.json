@@ -375,13 +375,13 @@
       "week": 11,
       "seasonType": 2,
       "status": {
-        "id": "1",
-        "name": "STATUS_SCHEDULED",
-        "state": "pre",
-        "completed": false,
-        "description": "Scheduled",
-        "detail": "Sun, November 22nd at 1:00 PM EST",
-        "shortDetail": "11/22 - 1:00 PM EST"
+        "id": "3",
+        "name": "STATUS_FINAL",
+        "state": "post",
+        "completed": true,
+        "description": "Final",
+        "detail": "Final",
+        "shortDetail": "Final"
       },
       "venue": {
         "name": "Highmark Stadium",
@@ -395,10 +395,16 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png"
       },
       "score": {
-        "us": null,
-        "them": null
+        "us": {
+          "value": 26,
+          "displayValue": "26"
+        },
+        "them": {
+          "value": 9,
+          "displayValue": "9"
+        }
       },
-      "result": null,
+      "result": "W",
       "homeAbbr": "BUF",
       "awayAbbr": "MIA"
     },

@@ -3,42 +3,40 @@
     "id": "401873070",
     "name": "MIA @ BUF",
     "date": "2026-11-22T18:00Z",
-    "state": "pre",
+    "state": "post",
     "status": {
-      "id": "1",
-      "name": "STATUS_SCHEDULED",
-      "state": "pre",
-      "completed": false,
-      "description": "Scheduled",
-      "detail": "Sun, November 22nd at 1:00 PM EST",
-      "shortDetail": "11/22 - 1:00 PM EST"
+      "id": "3",
+      "name": "STATUS_FINAL",
+      "state": "post",
+      "completed": true,
+      "description": "Final",
+      "detail": "Final",
+      "shortDetail": "Final"
     },
     "clock": "0:00",
-    "period": 0,
+    "period": 4,
     "us": {
       "abbr": "BUF",
-      "score": "0",
+      "score": "26",
       "homeAway": "home",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
     "them": {
       "abbr": "MIA",
       "name": "Miami Dolphins",
-      "score": "0",
+      "score": "9",
       "homeAway": "away",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png"
     },
-    "odds": {
-      "details": "BUF -16.5",
-      "overUnder": 45.5
-    },
-    "broadcast": "CBS"
+    "odds": null,
+    "broadcast": "CBS",
+    "winProbability": 100
   },
   "next": {
-    "id": "401873070",
-    "date": "2026-11-22T18:00Z",
-    "name": "MIA @ BUF",
-    "week": 11,
+    "id": "401873082",
+    "date": "2026-11-27T01:20Z",
+    "name": "KC @ BUF",
+    "week": 12,
     "seasonType": 2,
     "status": {
       "id": "1",
@@ -46,8 +44,8 @@
       "state": "pre",
       "completed": false,
       "description": "Scheduled",
-      "detail": "Sun, November 22nd at 1:00 PM EST",
-      "shortDetail": "11/22 - 1:00 PM EST"
+      "detail": "Thu, November 26th at 8:20 PM EST",
+      "shortDetail": "11/26 - 8:20 PM EST"
     },
     "venue": {
       "name": "Highmark Stadium",
@@ -56,9 +54,9 @@
     },
     "isHome": true,
     "opponent": {
-      "abbr": "MIA",
-      "name": "Miami Dolphins",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png"
+      "abbr": "KC",
+      "name": "Kansas City Chiefs",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png"
     },
     "score": {
       "us": null,
@@ -66,6 +64,6 @@
     },
     "result": null,
     "homeAbbr": "BUF",
-    "awayAbbr": "MIA"
+    "awayAbbr": "KC"
   }
 }

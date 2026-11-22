@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 11: Big takeaways, questions and fantasy spin from Sunday's games",
+      "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 11.",
+      "published": "2026-11-22T21:47:20Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50563342/week-11-sunday-games-takeaways-questions-2026",
+      "image": "https://a.espncdn.com/photo/2026/1122/r1749779_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Bills' defense feasts in 26-9 win over injury-depleted Dolphins",
+      "description": "— Greg Rousseau had two sacks, including his team-leading 10th this season, and Buffalo's defense bailed out the Bills' sputtering Josh Allen-led offense in a 26-9 win over the injury-depleted division rival Miami Dolphins on Sunday.",
+      "published": "2026-11-22T21:22:33Z",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873070",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873070.png?templateId=espn.applewatch.awayhome.1",
+      "type": "Recap"
+    },
+    {
+      "headline": "Week 11 NFL highlights: Best plays, moments, touchdowns, more",
+      "description": "Check here for all of the top moments, TDs and analysis from games at the Cowboys, Chiefs, Eagles, Panthers and more.",
+      "published": "2026-11-22T21:20:56Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50562956/week-11-highlights-sunday-best-plays-touchdowns-2026",
+      "image": "https://a.espncdn.com/photo/2026/1122/r1749754_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "NFL Week 11 arrivals: Broncos LB Alex Singleton honors Tom Jackson with jersey",
+      "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-11-22T21:03:04Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals",
+      "image": "https://a.espncdn.com/photo/2026/1122/r1749785_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
       "description": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
       "published": "2026-11-20T22:49:33Z",
@@ -30,14 +62,6 @@
       "published": "2026-11-20T18:48:27Z",
       "url": "https://www.espn.com/nfl/story/_/id/50522208/week-11-picks-predictions-schedule-fantasy-odds-2026",
       "image": "https://a.espncdn.com/photo/2025/0819/r1533632_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Week 11 arrivals: C.J. Stroud leads the way ahead of Colts-Texans",
-      "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-20T01:01:16Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals",
-      "image": "https://a.espncdn.com/photo/2026/1119/r1748333_608x342_16-9.png",
       "type": "Story"
     },
     {
@@ -295,30 +319,6 @@
       "url": "https://www.espn.com/espn/betting/story/_/id/50443081/sportsbook-liability-burrow-overtakes-allen-mvp-favorite",
       "image": "https://a.espncdn.com/photo/2026/1110/r1743989_600x400_3-2.jpg",
       "type": "HeadlineNews"
-    },
-    {
-      "headline": "NFL Power Rankings: Stacking all 32 teams for Week 10, plus important games left",
-      "description": "How does every NFL team stack up as we hit midseason? We made our 1-32 list and picked key games in the second half of the season.",
-      "published": "2026-11-10T15:35:36Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50435694/nfl-power-rankings-week-10-most-important-games-remaining",
-      "image": "https://a.espncdn.com/photo/2026/1109/nfl_power_rankings_608x342.png",
-      "type": "Story"
-    },
-    {
-      "headline": "Josh Allen and the Bills move to 7-1 with a 23-6 win over the sputtering Vikings",
-      "description": "- The Buffalo Bills knew they weren't bound for many style points or likely to reach their league-leading scoring average against Minnesota's relentlessly...",
-      "published": "2026-11-12T00:04:18Z",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873051",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873051.png?templateId=espn.applewatch.awayhome.1",
-      "type": "Recap"
-    },
-    {
-      "headline": "Josh Allen leads Bills to win over tough Vikings defense",
-      "description": "The Vikings kept Allen in check for much of the game, but he helped the Bills earn a low-scoring victory.",
-      "published": "2026-11-11T16:59:41Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50435734/bills-vikings-josh-allen-carson-wentz-mnf",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1743848_608x342_16-9.jpg",
-      "type": "Story"
     }
   ]
 }
