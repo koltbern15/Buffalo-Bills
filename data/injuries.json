@@ -3,6 +3,36 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-11-23T05:10Z",
+      "athlete": {
+        "name": "Tyler Bass",
+        "position": "PK",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-23T04:49Z",
+      "athlete": {
+        "name": "Keon Coleman",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-23T03:48Z",
+      "athlete": {
+        "name": "Ray Davis",
+        "position": "RB",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-11-23T01:58Z",
       "athlete": {
         "name": "Dawson Knox",
@@ -190,16 +220,6 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-11-20T20:25Z",
-      "athlete": {
-        "name": "Ray Davis",
-        "position": "RB",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-11-20T01:06Z",
       "athlete": {
         "name": "Cole Bishop",
@@ -236,26 +256,6 @@
         "name": "Ar'maj Reed-Adams",
         "position": "G",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606712.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-17T03:54Z",
-      "athlete": {
-        "name": "Tyler Bass",
-        "position": "PK",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917232.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-17T00:27Z",
-      "athlete": {
-        "name": "Keon Coleman",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
       }
     },
     {
