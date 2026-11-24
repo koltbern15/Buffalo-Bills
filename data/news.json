@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 11 arrivals: Tee Higgins pays homage to Fiona the Hippo ahead of 'MNF'",
+      "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-11-24T00:12:35Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals",
+      "image": "https://a.espncdn.com/photo/2026/1124/r1750424_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "NFL Week 12 betting odds: Lines and totals for every game",
+      "description": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
+      "published": "2026-11-23T16:54:28Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals",
+      "image": "https://a.espncdn.com/photo/2026/1123/r1750061_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
       "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
       "published": "2026-11-23T11:00:02Z",
@@ -27,7 +43,7 @@
     {
       "headline": "How active NFL players continue to redefine all-time sack list",
       "description": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
-      "published": "2026-11-23T01:49:27Z",
+      "published": "2026-11-23T15:26:24Z",
       "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
       "image": "https://a.espncdn.com/photo/2026/0828/nfl_data_viz_garrett_cr_16x9_608x342.jpg",
       "type": "Story"
@@ -49,14 +65,6 @@
       "type": "Story"
     },
     {
-      "headline": "NFL Week 11 arrivals: George Kittle rocks luchador mask ahead of SNF in Mexico",
-      "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-23T01:00:32Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1749927_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
       "headline": "Is the Bills defense historically good?",
       "description": "Nick Suss reports on how the Bills defense compares to the 2008 Ravens after their recent hot streak.",
       "published": "2026-11-23T00:36:02Z",
@@ -67,7 +75,7 @@
     {
       "headline": "Joe Brady not satisfied with 9-1 Bills, says team wasn't looking ahead to Chiefs",
       "description": "Joe Brady said he isn't close to satisfied despite his Bills beating the Dolphins to move to 9-1.",
-      "published": "2026-11-23T01:12:45Z",
+      "published": "2026-11-23T17:55:38Z",
       "url": "https://www.espn.com/nfl/story/_/id/50566642/joe-brady-better-bills-win-vs-dolphins",
       "image": "https://a.espncdn.com/photo/2026/1122/r1749876_600x600_1-1.jpg",
       "type": "HeadlineNews"
@@ -310,14 +318,6 @@
       "published": "2026-11-11T21:19:32Z",
       "url": "https://www.espn.com/fantasy/football/story/_/id/50454187/nfl-survivor-week-10-survivor-pool-strategy-advice-picks",
       "image": "https://a.espncdn.com/photo/2026/1111/r1744487_1296x729_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Week 10 latest intel, buzz questions, fantasy tips, post-trade deadline news",
-      "description": "No deals for Jonathan Taylor, Daniel Jones or Brian Thomas Jr.? Vikings seeking QB answers with their Kirk Cousins trade? Here's the latest intel.",
-      "published": "2026-11-11T15:47:28Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50442934/week-10-buzz-fantasy-predictions-graziano-fowler-2026-trades",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1744235_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
