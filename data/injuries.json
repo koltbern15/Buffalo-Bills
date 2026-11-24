@@ -1,6 +1,17 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Shoulder",
+      "date": "2026-11-24T12:39Z",
+      "athlete": {
+        "name": "T.J. Sanders",
+        "position": "DT",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-11-24T03:39Z",
@@ -41,8 +52,8 @@
       }
     },
     {
-      "status": "Out",
-      "type": "out",
+      "status": "Questionable",
+      "type": "questionable",
       "detail": "Calf",
       "date": "2026-11-24T00:42Z",
       "athlete": {
@@ -63,8 +74,8 @@
       }
     },
     {
-      "status": "Out",
-      "type": "out",
+      "status": "Questionable",
+      "type": "questionable",
       "detail": "Groin",
       "date": "2026-11-24T00:34Z",
       "athlete": {
@@ -107,8 +118,8 @@
       }
     },
     {
-      "status": "Out",
-      "type": "out",
+      "status": "Questionable",
+      "type": "questionable",
       "detail": "Thumb",
       "date": "2026-11-23T22:53Z",
       "athlete": {
@@ -225,17 +236,6 @@
         "name": "Josh Allen",
         "position": "QB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png"
-      }
-    },
-    {
-      "status": "Out",
-      "type": "out",
-      "detail": "Shoulder",
-      "date": "2026-11-22T17:08Z",
-      "athlete": {
-        "name": "T.J. Sanders",
-        "position": "DT",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4684527.png"
       }
     },
     {
