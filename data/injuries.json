@@ -1,6 +1,17 @@
 {
   "injuries": [
     {
+      "status": "Questionable",
+      "type": "questionable",
+      "detail": "Thumb",
+      "date": "2026-11-25T18:53Z",
+      "athlete": {
+        "name": "Dalton Kincaid",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
+      }
+    },
+    {
       "status": "Active",
       "type": "active",
       "date": "2026-11-25T00:57Z",
@@ -39,17 +50,6 @@
         "name": "Damar Hamlin",
         "position": "S",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036060.png"
-      }
-    },
-    {
-      "status": "Questionable",
-      "type": "questionable",
-      "detail": "Thumb",
-      "date": "2026-11-24T22:25Z",
-      "athlete": {
-        "name": "Dalton Kincaid",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png"
       }
     },
     {
