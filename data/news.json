@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "How are Bills prepping for Chiefs?",
+      "description": "Nick Suss explains how Joe Brady and the Bills are cramming for the Chiefs.",
+      "published": "2026-11-25T00:19:25Z",
+      "url": "https://www.espn.com/video/clip/_/id/50587457/how-bills-prepping-chiefs",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1124/dm_261124_NFL_BILLS_IA_THANKSGIVING/dm_261124_NFL_BILLS_IA_THANKSGIVING.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
       "description": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
       "published": "2026-11-24T17:36:17Z",
@@ -111,14 +119,6 @@
       "url": "http://www.espn.com/nfl/recap?gameId=401873070",
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873070.png?templateId=espn.applewatch.awayhome.1",
       "type": "Recap"
-    },
-    {
-      "headline": "Miami Dolphins vs. Buffalo Bills Game Highlights",
-      "description": "Miami Dolphins vs. Buffalo Bills Game Highlights",
-      "published": "2026-11-22T22:58:23Z",
-      "url": "https://www.espn.com/video/clip/_/id/50565047/miami-dolphins-vs-buffalo-bills-game-highlights",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1122/5f96096cd71d45e8aac119c197cf86901076/5f96096cd71d45e8aac119c197cf86901076.jpg",
-      "type": "Media"
     },
     {
       "headline": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",

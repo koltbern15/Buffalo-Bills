@@ -84,18 +84,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4030899.png"
         },
         {
-          "id": "4039034",
-          "name": "Shane Buechele",
-          "jersey": "6",
-          "position": "QB",
-          "age": 28,
-          "height": "6' 0\"",
-          "weight": "210 lbs",
-          "experience": 4,
-          "college": "SMU",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039034.png"
-        },
-        {
           "id": "4635008",
           "name": "Keon Coleman",
           "jersey": "0",
@@ -859,18 +847,6 @@
           "experience": 1,
           "college": "Northern Illinois",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4875767.png"
-        },
-        {
-          "id": "4427843",
-          "name": "Chase Lundt",
-          "jersey": "77",
-          "position": "OT",
-          "age": 26,
-          "height": "6' 7\"",
-          "weight": "304 lbs",
-          "experience": 2,
-          "college": "UConn",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427843.png"
         },
         {
           "id": "4430270",
