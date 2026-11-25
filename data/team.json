@@ -170,8 +170,8 @@
     {
       "competitions": [
         {
-          "attendance": 60590,
-          "boxscoreAvailable": true,
+          "attendance": 0,
+          "boxscoreAvailable": false,
           "broadcasts": [
             {
               "lang": "en",
@@ -180,7 +180,7 @@
                 "type": "National"
               },
               "media": {
-                "shortName": "CBS"
+                "shortName": "NBC"
               },
               "partnered": false,
               "region": "us",
@@ -198,37 +198,6 @@
               "homeAway": "home",
               "id": "2",
               "order": 0,
-              "record": [
-                {
-                  "abbreviation": "Game",
-                  "description": "Overall Record",
-                  "displayName": "Record Year To Date",
-                  "displayValue": "9-1",
-                  "id": "369",
-                  "shortDisplayName": "YTD",
-                  "type": "total"
-                },
-                {
-                  "description": "Home Record",
-                  "displayName": "Home",
-                  "displayValue": "4-1",
-                  "id": "13",
-                  "shortDisplayName": "HOME",
-                  "type": "home"
-                },
-                {
-                  "description": "Away Record",
-                  "displayName": "Road",
-                  "displayValue": "5-0",
-                  "id": "14",
-                  "shortDisplayName": "AWAY",
-                  "type": "road"
-                }
-              ],
-              "score": {
-                "displayValue": "26",
-                "value": 26
-              },
               "team": {
                 "abbreviation": "BUF",
                 "displayName": "Buffalo Bills",
@@ -542,54 +511,22 @@
                 "nickname": "Bills",
                 "shortDisplayName": "Bills"
               },
-              "type": "team",
-              "winner": true
+              "type": "team"
             },
             {
               "curatedRank": {
                 "current": 99
               },
               "homeAway": "away",
-              "id": "15",
+              "id": "12",
               "order": 1,
-              "record": [
-                {
-                  "abbreviation": "Game",
-                  "description": "Overall Record",
-                  "displayName": "Record Year To Date",
-                  "displayValue": "1-9",
-                  "id": "369",
-                  "shortDisplayName": "YTD",
-                  "type": "total"
-                },
-                {
-                  "description": "Home Record",
-                  "displayName": "Home",
-                  "displayValue": "0-4",
-                  "id": "13",
-                  "shortDisplayName": "HOME",
-                  "type": "home"
-                },
-                {
-                  "description": "Away Record",
-                  "displayName": "Road",
-                  "displayValue": "1-5",
-                  "id": "14",
-                  "shortDisplayName": "AWAY",
-                  "type": "road"
-                }
-              ],
-              "score": {
-                "displayValue": "9",
-                "value": 9
-              },
               "team": {
-                "abbreviation": "MIA",
-                "displayName": "Miami Dolphins",
-                "id": "15",
+                "abbreviation": "KC",
+                "displayName": "Kansas City Chiefs",
+                "id": "12",
                 "links": [
                   {
-                    "href": "https://www.espn.com/nfl/team/_/name/mia/miami-dolphins",
+                    "href": "https://www.espn.com/nfl/team/_/name/kc/kansas-city-chiefs",
                     "rel": [
                       "clubhouse",
                       "desktop",
@@ -598,7 +535,7 @@
                     "text": "Clubhouse"
                   },
                   {
-                    "href": "https://www.espn.com/nfl/team/roster/_/name/mia/miami-dolphins",
+                    "href": "https://www.espn.com/nfl/team/roster/_/name/kc/kansas-city-chiefs",
                     "rel": [
                       "roster",
                       "desktop",
@@ -607,7 +544,7 @@
                     "text": "Roster"
                   },
                   {
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:15&section=roster",
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:12&section=roster",
                     "rel": [
                       "roster",
                       "sportscenter",
@@ -617,7 +554,7 @@
                     "text": "Roster"
                   },
                   {
-                    "href": "https://www.espn.com/nfl/team/stats/_/name/mia/miami-dolphins",
+                    "href": "https://www.espn.com/nfl/team/stats/_/name/kc/kansas-city-chiefs",
                     "rel": [
                       "stats",
                       "desktop",
@@ -626,7 +563,7 @@
                     "text": "Statistics"
                   },
                   {
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:15&section=stats",
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:12&section=stats",
                     "rel": [
                       "stats",
                       "sportscenter",
@@ -636,7 +573,7 @@
                     "text": "Statistics"
                   },
                   {
-                    "href": "https://www.espn.com/nfl/team/schedule/_/name/mia",
+                    "href": "https://www.espn.com/nfl/team/schedule/_/name/kc",
                     "rel": [
                       "schedule",
                       "desktop",
@@ -645,7 +582,7 @@
                     "text": "Schedule"
                   },
                   {
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:15&section=scores",
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:12&section=scores",
                     "rel": [
                       "schedule",
                       "sportscenter",
@@ -655,7 +592,7 @@
                     "text": "Schedule"
                   },
                   {
-                    "href": "https://www.espn.com/nfl/team/photos/_/name/mia",
+                    "href": "https://www.espn.com/nfl/team/photos/_/name/kc",
                     "rel": [
                       "photos",
                       "desktop",
@@ -664,7 +601,7 @@
                     "text": "photos"
                   },
                   {
-                    "href": "https://www.vividseats.com/miami-dolphins-tickets--sports-nfl-football/performer/532?wsUser=717",
+                    "href": "https://www.vividseats.com/kansas-city-chiefs-tickets--sports-nfl-football/performer/427?wsUser=717",
                     "rel": [
                       "tickets",
                       "desktop",
@@ -673,7 +610,7 @@
                     "text": "Tickets"
                   },
                   {
-                    "href": "https://www.espn.com/nfl/draft/teams/_/name/mia/miami-dolphins",
+                    "href": "https://www.espn.com/nfl/draft/teams/_/name/kc/kansas-city-chiefs",
                     "rel": [
                       "draftpicks",
                       "desktop",
@@ -682,7 +619,7 @@
                     "text": "Draft Picks"
                   },
                   {
-                    "href": "https://www.espn.com/nfl/team/transactions/_/name/mia",
+                    "href": "https://www.espn.com/nfl/team/transactions/_/name/kc",
                     "rel": [
                       "transactions",
                       "desktop",
@@ -691,7 +628,7 @@
                     "text": "Transactions"
                   },
                   {
-                    "href": "https://www.espn.com/nfl/team/injuries/_/name/mia",
+                    "href": "https://www.espn.com/nfl/team/injuries/_/name/kc",
                     "rel": [
                       "injuries",
                       "desktop",
@@ -700,7 +637,7 @@
                     "text": "Injuries"
                   },
                   {
-                    "href": "https://www.espn.com/nfl/team/depth/_/name/mia",
+                    "href": "https://www.espn.com/nfl/team/depth/_/name/kc",
                     "rel": [
                       "depthchart",
                       "desktop",
@@ -709,7 +646,7 @@
                     "text": "Depth Chart"
                   },
                   {
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:15&section=depthchart",
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:12&section=depthchart",
                     "rel": [
                       "depthchart",
                       "sportscenter",
@@ -719,12 +656,12 @@
                     "text": "Depth Chart"
                   }
                 ],
-                "location": "Miami",
+                "location": "Kansas City",
                 "logos": [
                   {
                     "alt": "",
                     "height": 500,
-                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
                     "rel": [
                       "full",
                       "default"
@@ -734,7 +671,7 @@
                   {
                     "alt": "",
                     "height": 500,
-                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/mia.png",
+                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/kc.png",
                     "rel": [
                       "full",
                       "dark"
@@ -744,7 +681,7 @@
                   {
                     "alt": "",
                     "height": 500,
-                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png",
+                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png",
                     "rel": [
                       "full",
                       "scoreboard"
@@ -754,7 +691,7 @@
                   {
                     "alt": "",
                     "height": 500,
-                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/mia.png",
+                    "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/kc.png",
                     "rel": [
                       "full",
                       "scoreboard",
@@ -765,7 +702,7 @@
                   {
                     "alt": "",
                     "height": 500,
-                    "href": "https://a.espncdn.com/guid/af33088b-1e19-d27d-dbc0-354fd7151703/logos/grayscale.png",
+                    "href": "https://a.espncdn.com/guid/f68f2343-8ceb-7a02-740d-af6338be21d2/logos/grayscale.png",
                     "rel": [
                       "full",
                       "grayscale"
@@ -775,7 +712,7 @@
                   {
                     "alt": "",
                     "height": 4096,
-                    "href": "https://a.espncdn.com/guid/af33088b-1e19-d27d-dbc0-354fd7151703/logos/primary_logo_on_white_color.png",
+                    "href": "https://a.espncdn.com/guid/f68f2343-8ceb-7a02-740d-af6338be21d2/logos/primary_logo_on_white_color.png",
                     "rel": [
                       "full",
                       "primary_logo_on_white_color"
@@ -785,7 +722,7 @@
                   {
                     "alt": "",
                     "height": 4096,
-                    "href": "https://a.espncdn.com/guid/af33088b-1e19-d27d-dbc0-354fd7151703/logos/primary_logo_on_black_color.png",
+                    "href": "https://a.espncdn.com/guid/f68f2343-8ceb-7a02-740d-af6338be21d2/logos/primary_logo_on_black_color.png",
                     "rel": [
                       "full",
                       "primary_logo_on_black_color"
@@ -795,7 +732,7 @@
                   {
                     "alt": "",
                     "height": 4096,
-                    "href": "https://a.espncdn.com/guid/af33088b-1e19-d27d-dbc0-354fd7151703/logos/primary_logo_on_primary_color.png",
+                    "href": "https://a.espncdn.com/guid/f68f2343-8ceb-7a02-740d-af6338be21d2/logos/primary_logo_on_primary_color.png",
                     "rel": [
                       "full",
                       "primary_logo_on_primary_color"
@@ -805,7 +742,7 @@
                   {
                     "alt": "",
                     "height": 4096,
-                    "href": "https://a.espncdn.com/guid/af33088b-1e19-d27d-dbc0-354fd7151703/logos/primary_logo_on_secondary_color.png",
+                    "href": "https://a.espncdn.com/guid/f68f2343-8ceb-7a02-740d-af6338be21d2/logos/primary_logo_on_secondary_color.png",
                     "rel": [
                       "full",
                       "primary_logo_on_secondary_color"
@@ -815,7 +752,7 @@
                   {
                     "alt": "",
                     "height": 4096,
-                    "href": "https://a.espncdn.com/guid/af33088b-1e19-d27d-dbc0-354fd7151703/logos/primary_logo_black.png",
+                    "href": "https://a.espncdn.com/guid/f68f2343-8ceb-7a02-740d-af6338be21d2/logos/primary_logo_black.png",
                     "rel": [
                       "full",
                       "primary_logo_black"
@@ -825,7 +762,7 @@
                   {
                     "alt": "",
                     "height": 4096,
-                    "href": "https://a.espncdn.com/guid/af33088b-1e19-d27d-dbc0-354fd7151703/logos/primary_logo_white.png",
+                    "href": "https://a.espncdn.com/guid/f68f2343-8ceb-7a02-740d-af6338be21d2/logos/primary_logo_white.png",
                     "rel": [
                       "full",
                       "primary_logo_white"
@@ -835,7 +772,7 @@
                   {
                     "alt": "",
                     "height": 4096,
-                    "href": "https://a.espncdn.com/guid/af33088b-1e19-d27d-dbc0-354fd7151703/logos/secondary_logo_on_white_color.png",
+                    "href": "https://a.espncdn.com/guid/f68f2343-8ceb-7a02-740d-af6338be21d2/logos/secondary_logo_on_white_color.png",
                     "rel": [
                       "full",
                       "secondary_logo_on_white_color"
@@ -845,7 +782,7 @@
                   {
                     "alt": "",
                     "height": 4096,
-                    "href": "https://a.espncdn.com/guid/af33088b-1e19-d27d-dbc0-354fd7151703/logos/secondary_logo_on_black_color.png",
+                    "href": "https://a.espncdn.com/guid/f68f2343-8ceb-7a02-740d-af6338be21d2/logos/secondary_logo_on_black_color.png",
                     "rel": [
                       "full",
                       "secondary_logo_on_black_color"
@@ -855,7 +792,7 @@
                   {
                     "alt": "",
                     "height": 4096,
-                    "href": "https://a.espncdn.com/guid/af33088b-1e19-d27d-dbc0-354fd7151703/logos/secondary_logo_on_primary_color.png",
+                    "href": "https://a.espncdn.com/guid/f68f2343-8ceb-7a02-740d-af6338be21d2/logos/secondary_logo_on_primary_color.png",
                     "rel": [
                       "full",
                       "secondary_logo_on_primary_color"
@@ -865,7 +802,7 @@
                   {
                     "alt": "",
                     "height": 4096,
-                    "href": "https://a.espncdn.com/guid/af33088b-1e19-d27d-dbc0-354fd7151703/logos/secondary_logo_on_secondary_color.png",
+                    "href": "https://a.espncdn.com/guid/f68f2343-8ceb-7a02-740d-af6338be21d2/logos/secondary_logo_on_secondary_color.png",
                     "rel": [
                       "full",
                       "secondary_logo_on_secondary_color"
@@ -875,7 +812,7 @@
                   {
                     "alt": "",
                     "height": 4096,
-                    "href": "https://a.espncdn.com/guid/af33088b-1e19-d27d-dbc0-354fd7151703/logos/secondary_logo_black.png",
+                    "href": "https://a.espncdn.com/guid/f68f2343-8ceb-7a02-740d-af6338be21d2/logos/secondary_logo_black.png",
                     "rel": [
                       "full",
                       "secondary_logo_black"
@@ -885,7 +822,7 @@
                   {
                     "alt": "",
                     "height": 4096,
-                    "href": "https://a.espncdn.com/guid/af33088b-1e19-d27d-dbc0-354fd7151703/logos/secondary_logo_white.png",
+                    "href": "https://a.espncdn.com/guid/f68f2343-8ceb-7a02-740d-af6338be21d2/logos/secondary_logo_white.png",
                     "rel": [
                       "full",
                       "secondary_logo_white"
@@ -893,33 +830,61 @@
                     "width": 4096
                   }
                 ],
-                "nickname": "Dolphins",
-                "shortDisplayName": "Dolphins"
+                "nickname": "Chiefs",
+                "shortDisplayName": "Chiefs"
               },
-              "type": "team",
-              "winner": false
+              "type": "team"
             }
           ],
-          "date": "2026-11-22T18:00Z",
-          "id": "401873070",
+          "date": "2026-11-27T01:20Z",
+          "id": "401873082",
           "neutralSite": false,
           "notes": [],
           "status": {
             "clock": 0,
             "displayClock": "0:00",
             "isTBDFlex": false,
-            "period": 4,
+            "period": 0,
             "type": {
-              "completed": true,
-              "description": "Final",
-              "detail": "Final",
-              "id": "3",
-              "name": "STATUS_FINAL",
-              "shortDetail": "Final",
-              "state": "post"
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Thu, November 26th at 8:20 PM EST",
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "shortDetail": "11/26 - 8:20 PM EST",
+              "state": "pre"
             }
           },
-          "ticketsAvailable": false,
+          "tickets": [
+            {
+              "description": "Kansas City Chiefs at Buffalo Bills (Thursday Night Football)",
+              "id": "6488364",
+              "links": [
+                {
+                  "href": "https://www.vividseats.com/buffalo-bills-tickets-orchard-park-highmark-stadium-3-6-2026/production/6488364?wsUser=717",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "event"
+                  ]
+                },
+                {
+                  "href": "https://www.vividseats.com/highmark-stadium-tickets/venue/1385?wsUser=717",
+                  "rel": [
+                    "tickets",
+                    "desktop",
+                    "venue"
+                  ]
+                }
+              ],
+              "maxPrice": 3525,
+              "numberAvailable": 2473,
+              "startingPrice": 232,
+              "summary": "Tickets as low as $232",
+              "totalPostings": 841
+            }
+          ],
+          "ticketsAvailable": true,
           "timeValid": true,
           "type": {
             "abbreviation": "STD",
@@ -939,11 +904,11 @@
           }
         }
       ],
-      "date": "2026-11-22T18:00Z",
-      "id": "401873070",
+      "date": "2026-11-27T01:20Z",
+      "id": "401873082",
       "links": [
         {
-          "href": "https://www.espn.com/nfl/game/_/gameId/401873070/dolphins-bills",
+          "href": "https://www.espn.com/nfl/game/_/gameId/401873082/chiefs-bills",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
@@ -956,7 +921,7 @@
           "text": "Gamecast"
         },
         {
-          "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401873070",
+          "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401873082",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
@@ -970,7 +935,7 @@
           "text": "Gamecast"
         },
         {
-          "href": "https://www.espn.com/nfl/game/_/gameId/401873070",
+          "href": "https://www.espn.com/nfl/game/_/gameId/401873082",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
@@ -983,126 +948,7 @@
           "text": "Now"
         },
         {
-          "href": "https://www.espn.com/nfl/matchup?gameId=401873070",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "teamstats",
-            "desktop",
-            "event"
-          ],
-          "shortText": "Team Stats",
-          "text": "Team Stats"
-        },
-        {
-          "href": "https://www.espn.com/nfl/boxscore/_/gameId/401873070",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "boxscore",
-            "desktop",
-            "event"
-          ],
-          "shortText": "Box Score",
-          "text": "Box Score"
-        },
-        {
-          "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401873070",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "boxscore",
-            "sportscenter",
-            "app",
-            "event"
-          ],
-          "shortText": "Box Score",
-          "text": "Box Score"
-        },
-        {
-          "href": "https://www.espn.com/nfl/game/_/gameId/401873070",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "gamecast",
-            "desktop",
-            "event"
-          ],
-          "shortText": "Gamecast",
-          "text": "Gamecast"
-        },
-        {
-          "href": "http://m.espn.com/nfl/gamecast?gameId=401873070&action=summary",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "gamecast",
-            "mobile",
-            "event"
-          ],
-          "shortText": "Gamecast",
-          "text": "Gamecast"
-        },
-        {
-          "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401873070",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "gamecast",
-            "sportscenter",
-            "app",
-            "event"
-          ],
-          "shortText": "Gamecast",
-          "text": "Gamecast"
-        },
-        {
-          "href": "https://www.espn.com/nfl/recap?gameId=401873070",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "recap",
-            "desktop",
-            "event"
-          ],
-          "shortText": "Recap",
-          "text": "Recap"
-        },
-        {
-          "href": "https://www.espn.com/nfl/playbyplay/_/gameId/401873070",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "pbp",
-            "desktop",
-            "event"
-          ],
-          "shortText": "Play-by-Play",
-          "text": "Play-by-Play"
-        },
-        {
-          "href": "https://www.espn.com/nfl/video?gameId=401873070",
-          "isExternal": false,
-          "isPremium": false,
-          "language": "en-US",
-          "rel": [
-            "videos",
-            "desktop",
-            "event"
-          ],
-          "shortText": "Videos",
-          "text": "Videos"
-        },
-        {
-          "href": "https://www.espn.com/nfl/odds/_/gameId/401873070",
+          "href": "https://www.espn.com/nfl/odds/_/gameId/401873082",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
@@ -1115,7 +961,7 @@
           "text": "Odds"
         },
         {
-          "href": "https://m.espn.com/nfl/odds/_/gameId/401873070",
+          "href": "https://m.espn.com/nfl/odds/_/gameId/401873082",
           "isExternal": false,
           "isPremium": false,
           "language": "en-US",
@@ -1128,7 +974,7 @@
           "text": "Odds"
         }
       ],
-      "name": "Miami Dolphins at Buffalo Bills",
+      "name": "Kansas City Chiefs at Buffalo Bills",
       "season": {
         "displayName": "2026",
         "year": 2026
@@ -1139,11 +985,11 @@
         "name": "Regular Season",
         "type": 2
       },
-      "shortName": "MIA @ BUF",
+      "shortName": "KC @ BUF",
       "timeValid": true,
       "week": {
-        "number": 11,
-        "text": "Week 11"
+        "number": 12,
+        "text": "Week 12"
       }
     }
   ]

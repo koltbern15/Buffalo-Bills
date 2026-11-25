@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL Thanksgiving preview: Picks, predictions, schedule, odds, fantasy tips",
+      "description": "We have the top storylines, bold predictions, stats to know, fantasy/betting nuggets and more for four Wednesday and Thursday games in Week 12.",
+      "published": "2026-11-25T11:20:49Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50582822/thanksgiving-games-picks-schedule-fantasy-odds-2026",
+      "image": "https://a.espncdn.com/photo/2026/1124/r1750599_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "How are Bills prepping for Chiefs?",
       "description": "Nick Suss explains how Joe Brady and the Bills are cramming for the Chiefs.",
       "published": "2026-11-25T00:19:25Z",
@@ -43,7 +51,7 @@
     {
       "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
       "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-11-24T15:50:33Z",
+      "published": "2026-11-25T11:20:15Z",
       "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
       "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
       "type": "Story"
@@ -310,14 +318,6 @@
       "published": "2026-11-15T20:46:47Z",
       "url": "https://www.espn.com/nfl/story/_/id/50448976/2026-nfl-midseason-report-questions-stats-fantasy",
       "image": "https://a.espncdn.com/photo/2026/1110/nfl_2026_mid_season_report_1296x729.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL trade deadline grades: Deals for Kirk Cousins, Josh Downs, Ryan Neuzil",
-      "description": "Was getting Kirk Cousins a home run for the Vikings? Did the Chiefs make a smart move to pick up Josh Downs?",
-      "published": "2026-11-12T12:20:15Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1744131_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
