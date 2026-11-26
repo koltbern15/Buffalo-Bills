@@ -1,11 +1,35 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 12 arrivals: Aaron Donald leads arrivals ahead of Rams-Packers",
+      "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-11-25T23:58:11Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1751392_608x342_16-9.png",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
       "description": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
-      "published": "2026-11-25T21:51:14Z",
+      "published": "2026-11-26T03:44:06Z",
       "url": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms",
       "image": "https://a.espncdn.com/photo/2026/1117/16x9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Allen and Mahomes renew their thrilling rivalry as the Bills host the Chiefs on Thanksgiving night",
+      "description": "— Sorry, Steve Spagnuolo. Josh Allen has no plans of going anywhere, any time soon.",
+      "published": "2026-11-25T23:03:41Z",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873082",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873082.png?templateId=espn.applewatch.awayhome.1",
+      "type": "Preview"
+    },
+    {
+      "headline": "Best bets and top prop plays for Bears-Lions, Eagles-Cowboys and Chiefs-Bills",
+      "description": "Odds, analysis and picks to help you bet Bears-Lions, Eagles-Cowboys and Chiefs-Bills on Thanksgiving.",
+      "published": "2026-11-26T01:02:11Z",
+      "url": "https://www.espn.com/espn/betting/story/_/id/50415106/nfl-week-12-odds-thanksgiving-betting-preview-props",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1742790_1296x729_16-9.jpg",
       "type": "Story"
     },
     {
@@ -127,14 +151,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50563318/week-11-overreactions-2026-graziano-bills-eagles-nfc-east",
       "image": "https://a.espncdn.com/photo/2026/1122/r1749873_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "Is the Bills defense historically good?",
-      "description": "Nick Suss reports on how the Bills defense compares to the 2008 Ravens after their recent hot streak.",
-      "published": "2026-11-23T00:36:02Z",
-      "url": "https://www.espn.com/video/clip/_/id/50567421/is-bills-defense-historically-good",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1122/dm_261122_Is_the_Bills_defense_historically_good/dm_261122_Is_the_Bills_defense_historically_good.jpg",
-      "type": "Media"
     },
     {
       "headline": "Joe Brady not satisfied with 9-1 Bills, says team wasn't looking ahead to Chiefs",
@@ -303,22 +319,6 @@
       "url": "https://www.espn.com/nfl/story/_/id/50453290/week-10-predictions-upsets-fantasy-sleepers-stats-2026",
       "image": "https://a.espncdn.com/photo/2026/1112/r1744993_2_608x342_16-9.jpg",
       "type": "Story"
-    },
-    {
-      "headline": "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
-      "description": "Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.",
-      "published": "2026-11-15T20:40:00Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms",
-      "image": "https://a.espncdn.com/photo/2026/1111/16x9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Minter: Lamar Jackson 'doing everything' to return; QB had surgery, sources say",
-      "description": "Ravens coach Jesse Minter's update on Lamar Jackson's recovery process calls such timelines \"challenging to predict.\"",
-      "published": "2026-11-14T13:56:35Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50472222/ravens-lamar-jackson-injury-typical-line-6-10-weeks",
-      "image": "https://a.espncdn.com/photo/2026/1101/r1739589_1296x729_16-9.jpg",
-      "type": "HeadlineNews"
     }
   ]
 }
