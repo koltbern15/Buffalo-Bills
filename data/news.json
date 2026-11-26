@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "headline": "2026 NFL Thanksgiving preview: Picks, predictions, schedule, odds, fantasy tips",
+      "description": "We have the top storylines, bold predictions, stats to know, fantasy/betting nuggets and more for three Thursday games in Week 12.",
+      "published": "2026-11-26T12:17:47Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50582822/thanksgiving-games-picks-schedule-fantasy-odds-2026",
+      "image": "https://a.espncdn.com/photo/2026/1124/r1750629_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-11-26T13:08:57Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Why the Chiefs and Bills can give thanks to 2017 trade that landed Mahomes in KC",
+      "description": "Kansas City traded up for Patrick Mahomes, while Buffalo got a franchise left tackle and several Pro Bowlers.",
+      "published": "2026-11-26T11:00:03Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50511931/bills-chiefs-2017-trade-no-10-pat-mahomes",
+      "image": "https://a.espncdn.com/photo/2026/1116/nfl_chiefs-bills-trades_16x9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 12 arrivals: Aaron Donald leads arrivals ahead of Rams-Packers",
       "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "published": "2026-11-25T23:58:11Z",
@@ -57,14 +81,6 @@
       "type": "Story"
     },
     {
-      "headline": "2026 NFL Thanksgiving preview: Picks, predictions, schedule, odds, fantasy tips",
-      "description": "We have the top storylines, bold predictions, stats to know, fantasy/betting nuggets and more for four Wednesday and Thursday games in Week 12.",
-      "published": "2026-11-25T11:20:49Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50582822/thanksgiving-games-picks-schedule-fantasy-odds-2026",
-      "image": "https://a.espncdn.com/photo/2026/1124/r1750599_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
       "headline": "How are Bills prepping for Chiefs?",
       "description": "Nick Suss explains how Joe Brady and the Bills are cramming for the Chiefs.",
       "published": "2026-11-25T00:19:25Z",
@@ -94,14 +110,6 @@
       "published": "2026-11-24T17:03:20Z",
       "url": "https://www.espn.com/nfl/story/_/id/50563522/week-12-seven-things-solak-thinks-chiefs-bills-giants",
       "image": "https://a.espncdn.com/photo/2026/1124/r1750486_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-11-25T11:20:15Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
       "type": "Story"
     },
     {
@@ -310,14 +318,6 @@
       "published": "2026-11-14T16:55:36Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals",
       "image": "https://a.espncdn.com/photo/2026/1109/r1743451_2_1296x729_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-      "description": "Touchdown for Chuba Hubbard? Fantasy upside for Aaron Rodgers? Trick play from the Raiders? Let's predict 15 things for Week 10.",
-      "published": "2026-11-14T11:53:16Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50453290/week-10-predictions-upsets-fantasy-sleepers-stats-2026",
-      "image": "https://a.espncdn.com/photo/2026/1112/r1744993_2_608x342_16-9.jpg",
       "type": "Story"
     }
   ]
