@@ -1,9 +1,41 @@
 {
   "articles": [
     {
+      "headline": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
+      "description": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
+      "published": "2026-11-27T21:58:32Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms",
+      "image": "https://a.espncdn.com/photo/2026/1117/16x9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "NFL Week 12: Highlights of Thanksgiving weekend games",
+      "description": "Our team reporters are set to keep you updated on all the biggest plays and highlights.",
+      "published": "2026-11-27T20:49:40Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1752168_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "NFL Week 12 arrivals: Cameron Heyward leads arrivals ahead of Steelers-Broncos",
+      "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-11-27T18:59:58Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1752123_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Bills beat Chiefs with clutch Thanksgiving FG",
+      "description": "Nick Suss breaks down the Bills' dramatic game-winning field goal that sealed a Thanksgiving victory vs. the Chiefs.",
+      "published": "2026-11-27T18:28:31Z",
+      "url": "https://www.espn.com/video/clip/_/id/50612922/bills-beat-chiefs-clutch-thanksgiving-fg",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1127/dm_261127_Bills_beat_Chiefs_with_clutch_Thanksgiving_FG/dm_261127_Bills_beat_Chiefs_with_clutch_Thanksgiving_FG.jpg",
+      "type": "Media"
+    },
+    {
       "headline": "Thanksgiving NFL football had it all: Comebacks, walk-offs and plenty of points",
       "description": "Three go-ahead scores in the final minute? Two comebacks from double-digit deficits? And 174 combined points across the three games? Yeah, Thursday was awesome.",
-      "published": "2026-11-27T13:47:13Z",
+      "published": "2026-11-27T15:23:37Z",
       "url": "https://www.espn.com/nfl/story/_/id/50609153/thanksgiving-games-bears-lions-eagles-cowboys-bills-chiefs",
       "image": "https://a.espncdn.com/photo/2026/1127/r1751950_608x342_16-9.jpg",
       "type": "Story"
@@ -54,30 +86,6 @@
       "published": "2026-11-27T05:59:59Z",
       "url": "https://www.espn.com/nfl/story/_/id/50582828/2026-nfl-buffalo-bills-kansas-city-chiefs-thanksgiving",
       "image": "https://a.espncdn.com/photo/2026/1127/r1751944_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Week 12 arrivals: Chris Jones leads arrivals ahead of Chiefs-Bills",
-      "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-27T00:25:19Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals",
-      "image": "https://a.espncdn.com/photo/2026/1127/r1751859_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
-      "description": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
-      "published": "2026-11-27T00:24:39Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms",
-      "image": "https://a.espncdn.com/photo/2026/1117/16x9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Week 12: Highlights of Thanksgiving games",
-      "description": "Our team reporters are set to keep you updated on all the biggest plays and highlights.",
-      "published": "2026-11-27T05:25:04Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
-      "image": "https://a.espncdn.com/photo/2026/1127/r1751905_608x342_16-9.jpg",
       "type": "Story"
     },
     {
@@ -310,14 +318,6 @@
       "published": "2026-11-16T23:53:27Z",
       "url": "https://www.espn.com/nfl/story/_/id/50465223/nfl-week-10-fashionable-arrivals",
       "image": "https://a.espncdn.com/photo/2026/1116/r1746900_545x307_16-9.png",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Week 10: Big takeaways, questions and fantasy spin from Sunday's games",
-      "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 10.",
-      "published": "2026-11-16T06:53:37Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50443510/week-10-sunday-games-takeaways-questions-2026",
-      "image": "https://a.espncdn.com/photo/2026/1116/r1746498_608x342_16-9.jpg",
       "type": "Story"
     }
   ]

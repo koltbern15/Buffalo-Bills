@@ -3,6 +3,26 @@
     {
       "status": "Active",
       "type": "active",
+      "date": "2026-11-27T15:15Z",
+      "athlete": {
+        "name": "Keon Coleman",
+        "position": "WR",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
+      "date": "2026-11-27T15:12Z",
+      "athlete": {
+        "name": "Dawson Knox",
+        "position": "TE",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3930086.png"
+      }
+    },
+    {
+      "status": "Active",
+      "type": "active",
       "date": "2026-11-27T05:43Z",
       "athlete": {
         "name": "Khalil Shakir",
@@ -239,31 +259,11 @@
     {
       "status": "Active",
       "type": "active",
-      "date": "2026-11-23T04:49Z",
-      "athlete": {
-        "name": "Keon Coleman",
-        "position": "WR",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
       "date": "2026-11-23T03:48Z",
       "athlete": {
         "name": "Ray Davis",
         "position": "RB",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png"
-      }
-    },
-    {
-      "status": "Active",
-      "type": "active",
-      "date": "2026-11-23T01:58Z",
-      "athlete": {
-        "name": "Dawson Knox",
-        "position": "TE",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3930086.png"
       }
     },
     {
