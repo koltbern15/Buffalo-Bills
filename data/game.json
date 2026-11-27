@@ -3,42 +3,40 @@
     "id": "401873082",
     "name": "KC @ BUF",
     "date": "2026-11-27T01:20Z",
-    "state": "pre",
+    "state": "post",
     "status": {
-      "id": "1",
-      "name": "STATUS_SCHEDULED",
-      "state": "pre",
-      "completed": false,
-      "description": "Scheduled",
-      "detail": "Thu, November 26th at 8:20 PM EST",
-      "shortDetail": "11/26 - 8:20 PM EST"
+      "id": "3",
+      "name": "STATUS_FINAL",
+      "state": "post",
+      "completed": true,
+      "description": "Final",
+      "detail": "Final",
+      "shortDetail": "Final"
     },
     "clock": "0:00",
-    "period": 0,
+    "period": 4,
     "us": {
       "abbr": "BUF",
-      "score": "0",
+      "score": "13",
       "homeAway": "home",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
     "them": {
       "abbr": "KC",
       "name": "Kansas City Chiefs",
-      "score": "0",
+      "score": "10",
       "homeAway": "away",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png"
     },
-    "odds": {
-      "details": "BUF -3",
-      "overUnder": 45.5
-    },
-    "broadcast": "NBC"
+    "odds": null,
+    "broadcast": "NBC",
+    "winProbability": 100
   },
   "next": {
-    "id": "401873082",
-    "date": "2026-11-27T01:20Z",
-    "name": "KC @ BUF",
-    "week": 12,
+    "id": "401873105",
+    "date": "2026-12-06T21:25Z",
+    "name": "BUF @ NE",
+    "week": 13,
     "seasonType": 2,
     "status": {
       "id": "1",
@@ -46,26 +44,26 @@
       "state": "pre",
       "completed": false,
       "description": "Scheduled",
-      "detail": "Thu, November 26th at 8:20 PM EST",
-      "shortDetail": "11/26 - 8:20 PM EST"
+      "detail": "Sun, December 6th at 4:25 PM EST",
+      "shortDetail": "12/6 - 4:25 PM EST"
     },
     "venue": {
-      "name": "Highmark Stadium",
-      "city": "Orchard Park",
-      "state": "NY"
+      "name": "Gillette Stadium",
+      "city": "Foxborough",
+      "state": "MA"
     },
-    "isHome": true,
+    "isHome": false,
     "opponent": {
-      "abbr": "KC",
-      "name": "Kansas City Chiefs",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png"
+      "abbr": "NE",
+      "name": "New England Patriots",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png"
     },
     "score": {
       "us": null,
       "them": null
     },
     "result": null,
-    "homeAbbr": "BUF",
-    "awayAbbr": "KC"
+    "homeAbbr": "NE",
+    "awayAbbr": "BUF"
   }
 }
