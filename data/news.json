@@ -1,6 +1,62 @@
 {
   "articles": [
     {
+      "headline": "Thanksgiving NFL football had it all: Comebacks, walk-offs and plenty of points",
+      "description": "Three go-ahead scores in the final minute? Two comebacks from double-digit deficits? And 174 combined points across the three games? Yeah, Thursday was awesome.",
+      "published": "2026-11-27T13:47:13Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50609153/thanksgiving-games-bears-lions-eagles-cowboys-bills-chiefs",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1751950_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-11-27T11:00:02Z",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "NFL Week 12 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+      "description": "Seahawks vs. 49ers? Kirk Cousins against Atlanta? There are 12 more games in Week 12, and we have picks, predictions and more for all of them.",
+      "published": "2026-11-27T11:48:57Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50587851/week-12-picks-predictions-schedule-fantasy-odds-2026",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1751058_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
+      "headline": "Bills QB Josh Allen struggles vs. Chiefs in 'grossest' conditions",
+      "description": "The Bills won their 10th game of the season Thursday vs. the Chiefs, but QB Josh Allen struggled in the weather, passing for only 81 yards.",
+      "published": "2026-11-27T07:57:30Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50609813/bills-qb-josh-allen-struggles-vs-chiefs-grossest-conditions",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1751963_600x400_3-2.jpg",
+      "type": "HeadlineNews"
+    },
+    {
+      "headline": "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
+      "description": "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
+      "published": "2026-11-27T06:19:18Z",
+      "url": "https://www.espn.com/video/clip/_/id/50609218/game-highlight",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1127/998419b4a7f943d7be5201414d164d2279/998419b4a7f943d7be5201414d164d2279.jpg",
+      "type": "Media"
+    },
+    {
+      "headline": "Tyler Bass hits 57-yard field goal as time expires to lift Bills past Chiefs, 13-10",
+      "description": "— After sharing top billing, Buffalo’s Josh Allen and Kansas City’s Patrick Mahomes proved no match for the elements in the latest showdown of...",
+      "published": "2026-11-27T07:25:32Z",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873082",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873082.png?templateId=espn.applewatch.awayhome.1",
+      "type": "Recap"
+    },
+    {
+      "headline": "Bills edge Chiefs with last-second FG in low-scoring battle",
+      "description": "The Bills won their seventh straight, snapping the Chiefs' win streak at three in a sloppy, low-scoring thriller.",
+      "published": "2026-11-27T05:59:59Z",
+      "url": "https://www.espn.com/nfl/story/_/id/50582828/2026-nfl-buffalo-bills-kansas-city-chiefs-thanksgiving",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1751944_608x342_16-9.jpg",
+      "type": "Story"
+    },
+    {
       "headline": "NFL Week 12 arrivals: Chris Jones leads arrivals ahead of Chiefs-Bills",
       "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "published": "2026-11-27T00:25:19Z",
@@ -19,7 +75,7 @@
     {
       "headline": "NFL Week 12: Highlights of Thanksgiving games",
       "description": "Our team reporters are set to keep you updated on all the biggest plays and highlights.",
-      "published": "2026-11-27T03:10:16Z",
+      "published": "2026-11-27T05:25:04Z",
       "url": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
       "image": "https://a.espncdn.com/photo/2026/1127/r1751905_608x342_16-9.jpg",
       "type": "Story"
@@ -38,14 +94,6 @@
       "published": "2026-11-26T14:29:00Z",
       "url": "https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals",
       "image": "https://a.espncdn.com/photo/2026/1123/r1750061_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-11-26T13:08:57Z",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
       "type": "Story"
     },
     {
@@ -270,54 +318,6 @@
       "published": "2026-11-16T06:53:37Z",
       "url": "https://www.espn.com/nfl/story/_/id/50443510/week-10-sunday-games-takeaways-questions-2026",
       "image": "https://a.espncdn.com/photo/2026/1116/r1746498_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Week 10 NFL highlights: Best plays, moments, touchdowns, more",
-      "description": "Check here for all of Sunday's top moments, TDs and analysis from ESPN's NFL reporters.",
-      "published": "2026-11-16T05:24:51Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50489998/week-10-highlights-sunday-best-plays-touchdowns-2026",
-      "image": "https://a.espncdn.com/photo/2026/1116/r1746290_576x324_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL playoff chance tiers: Where all 32 teams fit in 2026 postseason picture",
-      "description": "We placed all 32 NFL teams into tiers based on their likelihood of making the playoffs, from Super Bowl favorites to the top-draft-pick candidates.",
-      "published": "2026-11-16T16:21:08Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50463347/2026-nfl-playoffs-chances-odds-tiers-32-teams-nfc-afc",
-      "image": "https://a.espncdn.com/photo/2026/1113/2026_midseason_playoff_tiers_608x342.png",
-      "type": "Story"
-    },
-    {
-      "headline": "49ers poke fun at Cowboys multiple times to headline NFL Week 10 trolls",
-      "description": "NFL teams kept it petty in Week 10, led by the San Francisco 49ers poking fun at the Dallas Cowboys.",
-      "published": "2026-11-16T01:50:43Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50497055/nfl-week-10-trolls",
-      "image": "https://a.espncdn.com/photo/2026/1116/r1746439_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "Josh Allen powers Bills past Jets 31-12 for best start in 35 years. New York loses Geno Smith twice",
-      "description": "— Josh Allen and the Buffalo Bills are off to the franchise's best start in 35 years.",
-      "published": "2026-11-15T22:44:35Z",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873054",
-      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873054.png?templateId=espn.applewatch.awayhome.1",
-      "type": "Recap"
-    },
-    {
-      "headline": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-      "description": "The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.",
-      "published": "2026-11-15T18:52:06Z",
-      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
-      "image": "https://a.espncdn.com/photo/2026/1106/r1741948_608x342_16-9.jpg",
-      "type": "Story"
-    },
-    {
-      "headline": "NFL Week 10 betting odds: Lines and totals for every game",
-      "description": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
-      "published": "2026-11-14T16:55:36Z",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals",
-      "image": "https://a.espncdn.com/photo/2026/1109/r1743451_2_1296x729_16-9.jpg",
       "type": "Story"
     }
   ]
